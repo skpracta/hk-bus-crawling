@@ -260929,7 +260929,7 @@
         },
         "76A+2+Kwong Tin+United Christian Hospital(Circular)": {
             "bound": {
-                "gmb": "I"
+                "gmb": "O"
             },
             "co": [
                 "gmb"
@@ -260938,7 +260938,7 @@
                 "en": "United Christian Hospital(Circular)",
                 "zh": "基督教聯合醫院(循環線)"
             },
-            "fares": [],
+            "fares": null,
             "faresHoliday": null,
             "freq": {
                 "127": {
@@ -260952,7 +260952,7 @@
                     ]
                 }
             },
-            "gtfsId": "2006969",
+            "gtfsId": "2010335",
             "jt": null,
             "nlbId": null,
             "orig": {
@@ -260960,10 +260960,34 @@
                 "zh": "廣田"
             },
             "route": "76A",
-            "seq": 0,
+            "seq": 23,
             "serviceType": "2",
             "stops": {
-                "gmb": []
+                "gmb": [
+                    "20013061",
+                    "20016634",
+                    "20015048",
+                    "20015049",
+                    "20015050",
+                    "20015051",
+                    "20015052",
+                    "20015053",
+                    "20002551",
+                    "20015055",
+                    "20015056",
+                    "20019204",
+                    "20015058",
+                    "20015059",
+                    "20015060",
+                    "20015061",
+                    "20015062",
+                    "20015063",
+                    "20015065",
+                    "20015066",
+                    "20015067",
+                    "20015068",
+                    "20013061"
+                ]
             }
         },
         "76B+1+United Christian Hospital+Yau Tong Public Transport Interchange": {
@@ -396948,8 +396972,9 @@
                 ]
             }
         },
-        "N307+1+CENTRAL (MACAU FERRY)+TAI WO": {
+        "N307+1+MACAU FERRY+TAI PO CENTRAL BUS TERMINUS": {
             "bound": {
+                "ctb": "O",
                 "kmb": "I"
             },
             "co": [
@@ -396957,8 +396982,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "TAI WO",
-                "zh": "太和"
+                "en": "TAI PO CENTRAL BUS TERMINUS",
+                "zh": "大埔中心總站"
             },
             "fares": [
                 "40.5",
@@ -396989,77 +397014,8 @@
             "jt": "80",
             "nlbId": null,
             "orig": {
-                "en": "CENTRAL (MACAU FERRY)",
-                "zh": "中環(港澳碼頭)"
-            },
-            "route": "N307",
-            "seq": 17,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "CE1BEC7176C47D52",
-                    "BD9D7DAC7CD2F537",
-                    "AD2AE1E443FB8908",
-                    "59073C1C6D8BB1F7",
-                    "A9069A17B1474D76",
-                    "3007D34FB91FB27E",
-                    "1AB934EFE0E1470A",
-                    "E74202351AF7F37D",
-                    "9DA98A5E3914E2E3",
-                    "E1F7BDC43A19F5AC",
-                    "991E47DBD416B908",
-                    "9274EF6791CA3ED8",
-                    "CDB292D507E4302D",
-                    "05485C36CA334A81",
-                    "530F970BB56D778D",
-                    "6716018C3EE42733",
-                    "09DFD305F09C558E"
-                ]
-            }
-        },
-        "N307+1+Macau Ferry, Connaught Road Central+Tai Po Centre": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "kmb",
-                "ctb"
-            ],
-            "dest": {
-                "en": "Tai Po Centre",
-                "zh": "大埔中心"
-            },
-            "fares": [
-                "40.5",
-                "40.5",
-                "40.5",
-                "40.5",
-                "40.5",
-                "40.5",
-                "40.5",
-                "40.5",
-                "40.5",
-                "40.5",
-                "24.2",
-                "24.2",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0030": null,
-                    "0100": null
-                }
-            },
-            "gtfsId": "1000338",
-            "jt": "80",
-            "nlbId": null,
-            "orig": {
-                "en": "Macau Ferry, Connaught Road Central",
-                "zh": "港澳碼頭, 干諾道中"
+                "en": "MACAU FERRY",
+                "zh": "港澳碼頭"
             },
             "route": "N307",
             "seq": 17,
@@ -397083,10 +397039,29 @@
                     "002019",
                     "002020",
                     "002021"
+                ],
+                "kmb": [
+                    "CE1BEC7176C47D52",
+                    "BD9D7DAC7CD2F537",
+                    "AD2AE1E443FB8908",
+                    "59073C1C6D8BB1F7",
+                    "A9069A17B1474D76",
+                    "3007D34FB91FB27E",
+                    "1AB934EFE0E1470A",
+                    "E74202351AF7F37D",
+                    "9DA98A5E3914E2E3",
+                    "36904A9AD2C13B32",
+                    "991E47DBD416B908",
+                    "9274EF6791CA3ED8",
+                    "CDB292D507E4302D",
+                    "05485C36CA334A81",
+                    "530F970BB56D778D",
+                    "6716018C3EE42733",
+                    "09DFD305F09C558E"
                 ]
             }
         },
-        "N307+1+TAI WO+SHEUNG WAN": {
+        "N307+1+TAI PO CENTRAL BUS TERMINUS+WING KUT STREET": {
             "bound": {
                 "ctb": "I",
                 "kmb": "O"
@@ -397096,8 +397071,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "SHEUNG WAN",
-                "zh": "上環"
+                "en": "WING KUT STREET",
+                "zh": "永吉街"
             },
             "fares": [
                 "40.5",
@@ -397125,8 +397100,8 @@
             "jt": "63",
             "nlbId": null,
             "orig": {
-                "en": "TAI WO",
-                "zh": "太和"
+                "en": "TAI PO CENTRAL BUS TERMINUS",
+                "zh": "大埔中心總站"
             },
             "route": "N307",
             "seq": 14,
@@ -397140,8 +397115,8 @@
                     "002025",
                     "001986",
                     "001463",
-                    "002417",
-                    "002419",
+                    "002444",
+                    "002446",
                     "002448",
                     "001141",
                     "001053",
@@ -397156,8 +397131,8 @@
                     "12E4BAFA2B73435B",
                     "FFBEBD7068E01EA4",
                     "DBF0C952CAA654B5",
-                    "182976403F291FE0",
-                    "82F385AE99820D83",
+                    "B65DB5330193E38E",
+                    "A0424645102B1D9C",
                     "B4BC12D061EC853E",
                     "6ACA5143BB7C496B",
                     "DD5CDB226E98FD0B",
@@ -453471,8 +453446,8 @@
         },
         "20000307": {
             "location": {
-                "lat": 22.277723541721667,
-                "lng": 114.16771463002164
+                "lat": 22.277577912798176,
+                "lng": 114.16793972253801
             },
             "name": {
                 "en": "Queen's Road East Junction With Queensway",
@@ -474865,8 +474840,8 @@
                 "lng": 114.11264839290511
             },
             "name": {
-                "en": "FAN KAM ROAD, near HONG KONG GOLF CLUB",
-                "zh": "粉錦公路, 近香港高爾夫球會"
+                "en": "FAN KAM ROAD, near The Green",
+                "zh": "粉錦公路, 近歌賦嶺"
             }
         },
         "20012287": {
@@ -485125,7 +485100,7 @@
                 "lng": 114.23895031186477
             },
             "name": {
-                "en": "PIK WAN ROAD, near Tak Tin Car Park, TAK TIN ESTATE",
+                "en": "Pik Wan Road, Near Tak Tin Car Park, Tak Tin Estate",
                 "zh": "碧雲道, 近德田邨德田停車場"
             }
         },
@@ -485169,6 +485144,26 @@
                 "zh": "秀茂坪道, 近秀茂坪邨秀暉樓"
             }
         },
+        "20015055": {
+            "location": {
+                "lat": 22.319512523823313,
+                "lng": 114.23377454280853
+            },
+            "name": {
+                "en": "Sau Mau Ping Road, near Sau Ching House, Sau Mau Ping Estate",
+                "zh": "秀茂坪道, 近秀茂坪邨秀程樓"
+            }
+        },
+        "20015056": {
+            "location": {
+                "lat": 22.322843574398107,
+                "lng": 114.23069939017296
+            },
+            "name": {
+                "en": "Sau Mau Ping Road, near Sau Yee House, Sau Mau Ping Estate",
+                "zh": "秀茂坪道, 近秀茂坪邨秀義樓"
+            }
+        },
         "20015057": {
             "location": {
                 "lat": 22.322953987748427,
@@ -485207,6 +485202,36 @@
             "name": {
                 "en": "Shun On Road, near Shun On Bus Terminus",
                 "zh": "順安道, 近順天巴士總站"
+            }
+        },
+        "20015061": {
+            "location": {
+                "lat": 22.322926694568835,
+                "lng": 114.23081606626513
+            },
+            "name": {
+                "en": "Sau Mau Ping Road, near Sau Yee House, Sau Mau Ping Estate",
+                "zh": "秀茂坪道, 近秀茂坪邨秀義樓"
+            }
+        },
+        "20015062": {
+            "location": {
+                "lat": 22.31973583696278,
+                "lng": 114.2337664961815
+            },
+            "name": {
+                "en": "Sau Mau Ping Road, near Sau Ching House, Sau Mau Ping Estate",
+                "zh": "秀茂坪道, 近秀茂坪邨秀程樓"
+            }
+        },
+        "20015063": {
+            "location": {
+                "lat": 22.31720245249319,
+                "lng": 114.2358183860779
+            },
+            "name": {
+                "en": "Sau Mau Ping Road, near Po Tat Shopping Centre",
+                "zh": "秀茂坪道, 近寶達商場"
             }
         },
         "20015065": {
@@ -568811,6 +568836,10 @@
             [
                 "kmb",
                 "C55F50E43F6108EB"
+            ],
+            [
+                "kmb",
+                "05485C36CA334A81"
             ]
         ],
         "002019": [
@@ -572827,6 +572856,12 @@
             [
                 "ctb",
                 "001642"
+            ]
+        ],
+        "05485C36CA334A81": [
+            [
+                "ctb",
+                "002018"
             ]
         ],
         "05AB3A2B3816CD41": [
