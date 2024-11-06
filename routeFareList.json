@@ -108977,6 +108977,11 @@
                 "11.5",
                 "11.5",
                 "11.5",
+                "11.5",
+                "11.5",
+                "11.5",
+                "11.5",
+                "11.5",
                 "11.5"
             ],
             "faresHoliday": null,
@@ -108996,7 +109001,7 @@
                 "zh": "碧瑤灣(上)"
             },
             "route": "28",
-            "seq": 21,
+            "seq": 26,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -109006,6 +109011,7 @@
                     "20000174",
                     "20000012",
                     "20014527",
+                    "20020293",
                     "20014537",
                     "20000017",
                     "20000018",
@@ -109017,9 +109023,13 @@
                     "20014530",
                     "20014531",
                     "20014532",
+                    "20020297",
                     "20014533",
                     "20014534",
                     "20014535",
+                    "20020294",
+                    "20020295",
+                    "20020296",
                     "20014536"
                 ]
             }
@@ -142926,7 +142936,7 @@
                     "20012386",
                     "20012387",
                     "20012388",
-                    "20012389"
+                    "20000831"
                 ]
             }
         },
@@ -144277,7 +144287,7 @@
                     "20012386",
                     "20012387",
                     "20012388",
-                    "20012389"
+                    "20000831"
                 ]
             }
         },
@@ -455620,8 +455630,8 @@
                 "lng": 114.18816387617886
             },
             "name": {
-                "en": "Lok Fu MTR Station Minibus Terminus",
-                "zh": "港鐵樂富站小巴總站\t"
+                "en": "'Lok Fu MTR Station Minibus Terminus ",
+                "zh": "港鐵樂富站小巴總站"
             }
         },
         "20000859": {
@@ -458000,8 +458010,8 @@
                 "lng": 114.1240157978919
             },
             "name": {
-                "en": "Castle Peak Road-Kwai Chung outside Tai Wo Hau MTR Station",
-                "zh": "青山公路-葵涌段港鐵大窩口站外"
+                "en": "Castle Peak Road-Tsuen Wan outside Tai Wo Hau MTR Station",
+                "zh": "青山公路-荃灣段港鐵大窩口站外"
             }
         },
         "20001453": {
@@ -464500,7 +464510,7 @@
                 "lng": 114.15860247581459
             },
             "name": {
-                "en": "MAN CHEUNG STREET, near Two International Finance Centre",
+                "en": "Man Cheung Street, near Two International Finance Centre Shopping Mall",
                 "zh": "民祥街, 近國際金融中心二期"
             }
         },
@@ -466230,7 +466240,7 @@
                 "lng": 114.17304058563231
             },
             "name": {
-                "en": "Kwong Wah Street, near Yin Chong Street",
+                "en": "Kwong Wah Street near Yin Chong Street",
                 "zh": "廣華街, 近煙廠街"
             }
         },
@@ -475344,16 +475354,6 @@
                 "zh": "橫頭磡中道, 近橫頭磡邨宏顯樓"
             }
         },
-        "20012389": {
-            "location": {
-                "lat": 22.33766592088783,
-                "lng": 114.18823513065071
-            },
-            "name": {
-                "en": "Lok Fu MTR Station Minibus Terminus",
-                "zh": "港鐵樂富站小巴總站"
-            }
-        },
         "20012390": {
             "location": {
                 "lat": 22.334431504067283,
@@ -482610,7 +482610,7 @@
                 "lng": 114.16292393923615
             },
             "name": {
-                "en": "PEAK ROAD, near 56 Peak Road B",
+                "en": "Peak Road, near 56 Peak Road B",
                 "zh": "山頂道, 近山頂道五十六號Ｂ"
             }
         },
@@ -482770,7 +482770,7 @@
                 "lng": 114.16048507439683
             },
             "name": {
-                "en": "CHATER ROAD, near THE CENOTAPH",
+                "en": "Chater Road, near The Cenotaph",
                 "zh": "遮打道, 近和平紀念碑"
             }
         },
@@ -482780,7 +482780,7 @@
                 "lng": 114.16139490375349
             },
             "name": {
-                "en": "CHATER ROAD, near CCB Tower",
+                "en": "Chater Road, near CCB Tower",
                 "zh": "遮打道, 近中國建設銀行大廈"
             }
         },
@@ -498002,6 +498002,56 @@
             "name": {
                 "en": "Tsing Yi Heung Sze Wui Road at the bus layby south of its junction with Chung Mei Road",
                 "zh": "青衣鄉事會路與涌美路交界以南青衣鄉事會路巴士避車處"
+            }
+        },
+        "20020293": {
+            "location": {
+                "lat": 22.284866127484474,
+                "lng": 114.14578735828401
+            },
+            "name": {
+                "en": "Bonham Road, near David Trench Rehabilitation Centre",
+                "zh": "般咸道，近戴麟趾康復中心"
+            }
+        },
+        "20020294": {
+            "location": {
+                "lat": 22.27368607645161,
+                "lng": 114.17252361774446
+            },
+            "name": {
+                "en": "Kennedy Road, near Phoenix Court",
+                "zh": "堅尼地道, 近鳳凰閣"
+            }
+        },
+        "20020295": {
+            "location": {
+                "lat": 22.27265477131175,
+                "lng": 114.17369842529298
+            },
+            "name": {
+                "en": "Kennedy Road, layby opposite to St. Jame's Primary School",
+                "zh": "堅尼地道, 聖公會聖雅各小學"
+            }
+        },
+        "20020296": {
+            "location": {
+                "lat": 22.27496557923963,
+                "lng": 114.17858675122262
+            },
+            "name": {
+                "en": "Queen's Road East, near Queen Elizabeth Stadium",
+                "zh": "皇后大道東, 近伊利沙伯體育館"
+            }
+        },
+        "20020297": {
+            "location": {
+                "lat": 22.274485301679633,
+                "lng": 114.16556596755983
+            },
+            "name": {
+                "en": "Kennedy Road, near The Hongkong Electric Centre",
+                "zh": "堅尼地道，近港燈中心"
             }
         },
         "201": {
