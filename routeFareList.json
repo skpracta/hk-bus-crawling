@@ -407568,6 +407568,42 @@
                 ]
             }
         },
+        "PB5+1+SHA TIN TOWN HALL+SAI KUNG (From Sha Tin) (Circular)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SAI KUNG (From Sha Tin) (Circular)",
+                "zh": "西貢 (由沙田出發 循環行走)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHA TIN TOWN HALL",
+                "zh": "沙田大會堂"
+            },
+            "route": "PB5",
+            "seq": 7,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "8C90768E30E981C6",
+                    "3C6231BF9A77F8B4",
+                    "8B9E121BB71771F4",
+                    "FFB9E8929671D06E",
+                    "8B9E121BB71771F4",
+                    "3C6231BF9A77F8B4",
+                    "8C90768E30E981C6"
+                ]
+            }
+        },
         "R11+1+Disneyland+North Point Ferry Pier": {
             "bound": {
                 "ctb": "O"
@@ -506647,6 +506683,16 @@
                 "zh": "錦英苑"
             }
         },
+        "3C6231BF9A77F8B4": {
+            "location": {
+                "lat": 22.425017,
+                "lng": 114.231436
+            },
+            "name": {
+                "en": "BAYSHORE TOWERS",
+                "zh": "海栢花園"
+            }
+        },
         "3C624F6CB2D5BBEA": {
             "location": {
                 "lat": 22.386783,
@@ -527735,6 +527781,16 @@
             "name": {
                 "en": "KWUN TONG (YUE MAN SQUARE) BUS TERMINUS",
                 "zh": "觀塘(裕民坊)總站"
+            }
+        },
+        "8B9E121BB71771F4": {
+            "location": {
+                "lat": 22.427029,
+                "lng": 114.265792
+            },
+            "name": {
+                "en": "GO PARK SAI SHA",
+                "zh": "西沙 GO PARK"
             }
         },
         "8BAB6AA783EE0508": {
@@ -557765,6 +557821,16 @@
             "name": {
                 "en": "CENTRAL MARKET",
                 "zh": "中環街市"
+            }
+        },
+        "FFB9E8929671D06E": {
+            "location": {
+                "lat": 22.384029,
+                "lng": 114.272477
+            },
+            "name": {
+                "en": "SAI KUNG NORTH (SAI KUNG POLICE STATION)",
+                "zh": "西貢北(西貢警署)"
             }
         },
         "FFBEBD7068E01EA4": {
