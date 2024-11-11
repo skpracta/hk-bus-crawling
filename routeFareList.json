@@ -111521,90 +111521,6 @@
                 ]
             }
         },
-        "286M+1+MA ON SHAN TOWN CENTRE+DIAMOND HILL STATION (CIRCULAR)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "DIAMOND HILL STATION (CIRCULAR)",
-                "zh": "鑽石山站(循環線)"
-            },
-            "fares": [
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.9",
-                "7.1",
-                "7.1",
-                "7.1",
-                "4.8",
-                "4.8",
-                "4.8",
-                "4.8",
-                "4.8",
-                "4.8",
-                "4.8",
-                "4.8"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0630": null,
-                    "0700": null,
-                    "1800": null,
-                    "1830": null
-                }
-            },
-            "gtfsId": "1153",
-            "jt": "36",
-            "nlbId": null,
-            "orig": {
-                "en": "MA ON SHAN TOWN CENTRE",
-                "zh": "馬鞍山市中心"
-            },
-            "route": "286M",
-            "seq": 24,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "1D99BD02B9B45429",
-                    "0CAB5EE71EF19B76",
-                    "76A5F0AF87C0AA2C",
-                    "96B7D7C8DF39E707",
-                    "D9328F386A03DC36",
-                    "6E89147F6697E490",
-                    "2CC81AE9D0A0E668",
-                    "4A3D71FFAB41B756",
-                    "A78292AA77A277A7",
-                    "3114213F8975F536",
-                    "E89B2315750AB2FD",
-                    "0A22872F65392B48",
-                    "C57C924EEB5463E5",
-                    "16A7F2C343AA6DE6",
-                    "4B0E21EDF07F9C83",
-                    "1CF4AE2F7045B848",
-                    "0C44F4B0A1D12636",
-                    "1BD5318E1C647F83",
-                    "651489E8C0A626A1",
-                    "F489213E82621D3F",
-                    "31DA09E74ABD87CD",
-                    "B31E6B9D8E5B4493",
-                    "0D0D7E774E1C1575",
-                    "7005EE5654387B8A"
-                ]
-            }
-        },
         "286P+1+MEI CHUNG COURT+CHEUNG SHA WAN": {
             "bound": {
                 "kmb": "O"
@@ -445721,16 +445637,6 @@
             "name": {
                 "en": "HONG NING ROAD PARK",
                 "zh": "康寧道公園"
-            }
-        },
-        "0CAB5EE71EF19B76": {
-            "location": {
-                "lat": 22.422219,
-                "lng": 114.22658
-            },
-            "name": {
-                "en": "CHUNG ON BUS TERMINUS",
-                "zh": "頌安巴士總站"
             }
         },
         "0CB1F7979192FBB2": {
