@@ -405688,12 +405688,13 @@
                 "zh": "葵涌邨"
             },
             "route": "NA32",
-            "seq": 17,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "DC825DF01C49316F",
                     "9772AFC24E427660",
+                    "AF837BAF1DA794EF",
                     "C21ACD53A97A40BC",
                     "569C5AADDD0F3A28",
                     "22913B501D24F569",
