@@ -28319,7 +28319,7 @@
                     "1F109678B4866926",
                     "C564EDC91AFD7D04",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -29237,7 +29237,7 @@
                     "1F109678B4866926",
                     "C564EDC91AFD7D04",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -29429,7 +29429,7 @@
                 "kmb": [
                     "C564EDC91AFD7D04",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -118391,6 +118391,7 @@
                 "5.7",
                 "5.7",
                 "5.7",
+                "5.7",
                 "5.7"
             ],
             "faresHoliday": null,
@@ -118440,11 +118441,12 @@
                 "zh": "九龍塘(沙福道)公共交通交匯處"
             },
             "route": "29A",
-            "seq": 9,
+            "seq": 10,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20003363",
+                    "20008192",
                     "20000735",
                     "20000736",
                     "20000737",
@@ -134373,7 +134375,7 @@
                     "20000219",
                     "20011569",
                     "20000136",
-                    "20011570",
+                    "20020359",
                     "20011571",
                     "20011572",
                     "20011573",
@@ -135109,7 +135111,7 @@
                 "gmb": [
                     "20015409",
                     "20001281",
-                    "20001282",
+                    "20002436",
                     "20001283",
                     "20015411",
                     "20016803",
@@ -137360,7 +137362,7 @@
                 "gmb": [
                     "20015409",
                     "20001281",
-                    "20001282",
+                    "20002436",
                     "20001283",
                     "20015411",
                     "20016829",
@@ -141311,7 +141313,7 @@
                 "gmb": [
                     "20015409",
                     "20001281",
-                    "20001282",
+                    "20002436",
                     "20001283",
                     "20015411",
                     "20016829",
@@ -207936,7 +207938,7 @@
                     "092A3C151699DEC0",
                     "249030228FF24B3F",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -208483,7 +208485,7 @@
                     "092A3C151699DEC0",
                     "249030228FF24B3F",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -208994,7 +208996,7 @@
                     "9535298A652873DB",
                     "A1D5C0FDCC39AFF8",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -209268,7 +209270,7 @@
                     "9535298A652873DB",
                     "A1D5C0FDCC39AFF8",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -209378,7 +209380,7 @@
                     "9535298A652873DB",
                     "A1D5C0FDCC39AFF8",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -254337,6 +254339,7 @@
                 "7",
                 "7",
                 "7",
+                "7",
                 "7"
             ],
             "faresHoliday": null,
@@ -254360,11 +254363,12 @@
                 "zh": "九龍站"
             },
             "route": "74",
-            "seq": 30,
+            "seq": 31,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20000691",
+                    "20020361",
                     "20016267",
                     "20000694",
                     "20013231",
@@ -256696,6 +256700,8 @@
                 "7",
                 "7",
                 "7",
+                "7",
+                "7",
                 "7"
             ],
             "faresHoliday": null,
@@ -256759,15 +256765,17 @@
                 "zh": "九龍站"
             },
             "route": "74S",
-            "seq": 30,
+            "seq": 32,
             "serviceType": 2,
             "stops": {
                 "gmb": [
                     "20000691",
+                    "20020361",
                     "20016267",
                     "20000694",
                     "20013231",
                     "20013199",
+                    "20020066",
                     "20013200",
                     "20013201",
                     "20006085",
@@ -282784,6 +282792,7 @@
                 "4.5",
                 "4.5",
                 "4.5",
+                "4.5",
                 "4.5"
             ],
             "faresHoliday": null,
@@ -282807,7 +282816,7 @@
                 "zh": "明愛樂恩學校"
             },
             "route": "82",
-            "seq": 7,
+            "seq": 8,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -282815,6 +282824,7 @@
                     "20008525",
                     "20008526",
                     "20008527",
+                    "20020360",
                     "20002010",
                     "20008521",
                     "20019303"
@@ -390383,7 +390393,7 @@
                     "97610D724858CEC0",
                     "ECFB77BC2B593335",
                     "72F07CA66230A1BE",
-                    "C19CD7CCA03DBEBA",
+                    "3C20E46D2F60DA28",
                     "EC157EA93B3DD279",
                     "FACE7DC841CEF78F",
                     "41E537666558ED07",
@@ -453471,7 +453481,7 @@
             },
             "name": {
                 "en": "Victoria Road, outside English School Foundation West Island School",
-                "zh": "域多利道, 英基學校協會西港島中學外"
+                "zh": "域多利道, 英基學校協會西島中學外"
             }
         },
         "20000334": {
@@ -453481,7 +453491,7 @@
             },
             "name": {
                 "en": "Victoria Road, opposite English School Foundation West Island School",
-                "zh": "域多利道, 英基學校協會西港島中學對面"
+                "zh": "域多利道, 英基學校協會西島中學對面"
             }
         },
         "20000335": {
@@ -453561,7 +453571,7 @@
             },
             "name": {
                 "en": "Sandy Bay Road, near English School Foundation West Island School",
-                "zh": "大口環道, 近英基學校協會西港島中學"
+                "zh": "大口環道, 近英基學校協會西島中學"
             }
         },
         "20000348": {
@@ -454270,8 +454280,8 @@
                 "lng": 114.21478968112734
             },
             "name": {
-                "en": "Clear Water Bay Road, outside Choi Wan Commercial Complex Phase Iib",
-                "zh": "清水灣道, 彩雲商場2期B外"
+                "en": "Choi Wan Commercial Complex, Clear Water Bay Road\t",
+                "zh": "清水灣道, 彩雲商場\t"
             }
         },
         "20000568": {
@@ -454280,7 +454290,7 @@
                 "lng": 114.2150421353843
             },
             "name": {
-                "en": "Clear Water Bay Road, outside Choi Wan Commercial Complex",
+                "en": "Choi Wan Commercial Complex, Clear Water Bay Road\t",
                 "zh": "清水灣道, 彩雲商場"
             }
         },
@@ -472692,16 +472702,6 @@
             "name": {
                 "en": "Queen's Road East, opposite Queen Elizabeth Stadium",
                 "zh": "皇后大道東, 伊利沙伯體育館對面"
-            }
-        },
-        "20011570": {
-            "location": {
-                "lat": 22.274348145017218,
-                "lng": 114.17474606904327
-            },
-            "name": {
-                "en": "Queen's Road East, outside Lui Kee Education Services Centre",
-                "zh": "皇后大道東, 呂祺教育服務中心外"
             }
         },
         "20011571": {
@@ -498042,6 +498042,36 @@
             "name": {
                 "en": "Hin Keng Street, Hin Pui House Hin Keng Estate",
                 "zh": "顯徑街, 顯徑邨顯沛樓"
+            }
+        },
+        "20020359": {
+            "location": {
+                "lat": 22.27432148570061,
+                "lng": 114.17501002550127
+            },
+            "name": {
+                "en": "Queen's Road East, near Methodist Church",
+                "zh": "皇后大道東, 近循道衛理聯合教會"
+            }
+        },
+        "20020360": {
+            "location": {
+                "lat": 22.334054425555898,
+                "lng": 114.20918405056001
+            },
+            "name": {
+                "en": "Clear Water Bay Road outside Tsuen Shek House, Ping Shek Estate",
+                "zh": "清水灣道, 坪石邨鑽石樓外"
+            }
+        },
+        "20020361": {
+            "location": {
+                "lat": 22.30351244835075,
+                "lng": 114.15976703166962
+            },
+            "name": {
+                "en": "Nga Cheung Road, near International Commerce Centre",
+                "zh": "雅翔道, 近環球貿易廣場"
             }
         },
         "201": {
@@ -541684,16 +541714,6 @@
                 "zh": "石排站"
             }
         },
-        "C19CD7CCA03DBEBA": {
-            "location": {
-                "lat": 22.273972,
-                "lng": 114.231542
-            },
-            "name": {
-                "en": "LEI YUE MUN PARK",
-                "zh": "鯉魚門公園"
-            }
-        },
         "C1A148BD237E4438": {
             "location": {
                 "lat": 22.289943,
@@ -566002,10 +566022,6 @@
             [
                 "kmb",
                 "3C20E46D2F60DA28"
-            ],
-            [
-                "kmb",
-                "C19CD7CCA03DBEBA"
             ]
         ],
         "001218": [
@@ -579974,12 +579990,6 @@
             [
                 "ctb",
                 "001702"
-            ]
-        ],
-        "C19CD7CCA03DBEBA": [
-            [
-                "ctb",
-                "001217"
             ]
         ],
         "C1AFF00AC64F457A": [
