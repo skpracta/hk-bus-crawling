@@ -54839,7 +54839,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "25BD7B50919AA221",
+                    "5E2EC7476D55E0BA",
                     "AB057A63C24E990E",
                     "68106C827BF891AB",
                     "20D0C9CBE2BC9451",
@@ -65832,6 +65832,96 @@
                 ]
             }
         },
+        "224X+1+KAI YIP BUS TERMINUS+KAI YIP BUS TERMINUS": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "KAI YIP BUS TERMINUS",
+                "zh": "啟業總站"
+            },
+            "fares": [
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3",
+                "8.3"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "287": {
+                    "0745": [
+                        "0825",
+                        "1200"
+                    ],
+                    "1815": [
+                        "1840",
+                        "1500"
+                    ]
+                },
+                "288": {
+                    "0800": [
+                        "0830",
+                        "1800"
+                    ],
+                    "1800": [
+                        "1830",
+                        "1800"
+                    ]
+                }
+            },
+            "gtfsId": "1000142",
+            "jt": "33",
+            "nlbId": null,
+            "orig": {
+                "en": "KAI YIP BUS TERMINUS",
+                "zh": "啟業總站"
+            },
+            "route": "224X",
+            "seq": 20,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "64D3081966987039",
+                    "D2B43459063F53DB",
+                    "7995F69FE44D0DB3",
+                    "F90ED764C7A95649",
+                    "558599642E78BB9B",
+                    "BEEBDDB542A7E709",
+                    "48184733EFE9D3E3",
+                    "243A28F74F73A045",
+                    "1F2E60EDB4254D30",
+                    "D066F149BE3A1D28",
+                    "1B9CA570385CC6F2",
+                    "E5E7111594073DE2",
+                    "B0668BFF6178BA0B",
+                    "AA97FFC49AE957A5",
+                    "416B7606A9A5FEEB",
+                    "D4707218581C0F72",
+                    "B68FB7076BB07A22",
+                    "553D370FA21F7DA4",
+                    "72999453ECAC4693",
+                    "64D3081966987039"
+                ]
+            }
+        },
         "224X+1+KAI YIP+TSIM SHA TSUI EAST (CIRCULAR)": {
             "bound": {
                 "kmb": "O"
@@ -65977,33 +66067,15 @@
                 "8.3",
                 "8.3",
                 "8.3",
-                "8.3",
                 "8.3"
             ],
             "faresHoliday": null,
             "freq": {
                 "287": {
-                    "0745": [
-                        "0825",
-                        "1200"
-                    ],
-                    "1815": [
-                        "1840",
-                        "1500"
-                    ]
-                },
-                "288": {
-                    "0800": [
-                        "0830",
-                        "1800"
-                    ],
-                    "1800": [
-                        "1830",
-                        "1800"
-                    ]
+                    "0815": null
                 }
             },
-            "gtfsId": "1000142",
+            "gtfsId": "8482",
             "jt": "33",
             "nlbId": null,
             "orig": {
@@ -66038,7 +66110,7 @@
                 ]
             }
         },
-        "224X+3+KAI TAK (KAI CHING ESTATE)+KAI YIP": {
+        "224X+3+KAI TAK BUS TERMINUS+TSIM SHA TSUI EAST (CIRCULAR)": {
             "bound": {
                 "kmb": "O"
             },
@@ -66046,49 +66118,29 @@
                 "kmb"
             ],
             "dest": {
-                "en": "KAI YIP",
-                "zh": "啟業"
+                "en": "TSIM SHA TSUI EAST (CIRCULAR)",
+                "zh": "尖沙咀東(循環線)"
             },
-            "fares": [
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3",
-                "8.3"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0815": null
-                }
-            },
-            "gtfsId": "8482",
-            "jt": "33",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "KAI TAK (KAI CHING ESTATE)",
-                "zh": "啟德(啟晴邨)"
+                "en": "KAI TAK BUS TERMINUS",
+                "zh": "啟德巴士總站"
             },
             "route": "224X",
-            "seq": 19,
+            "seq": 22,
             "serviceType": "3",
             "stops": {
                 "kmb": [
+                    "A297D0A75996B49B",
+                    "C44684E01A99DE4F",
                     "D7D5103D53D4ED90",
-                    "7995F69FE44D0DB3",
+                    "42ED08E8B1829CED",
+                    "0A4AB87891ABB16A",
                     "F90ED764C7A95649",
                     "558599642E78BB9B",
                     "BEEBDDB542A7E709",
@@ -66101,11 +66153,11 @@
                     "B0668BFF6178BA0B",
                     "AA97FFC49AE957A5",
                     "416B7606A9A5FEEB",
-                    "D4707218581C0F72",
-                    "B68FB7076BB07A22",
-                    "553D370FA21F7DA4",
-                    "72999453ECAC4693",
-                    "64D3081966987039"
+                    "C1C31D615DAA97F4",
+                    "BC932662BA367CD0",
+                    "E207DBF95EA7DE26",
+                    "C71093B5185DF735",
+                    "A297D0A75996B49B"
                 ]
             }
         },
@@ -209970,7 +210022,59 @@
                 ]
             }
         },
-        "608P+1+Siu Sai Wan (Island Resort)+Kowloon City (Shing Tak Street)": {
+        "608P+1+Kai Tak+Siu Sai Wan (Island Resort)": {
+            "bound": {
+                "ctb": "I"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Siu Sai Wan (Island Resort)",
+                "zh": "小西灣 (藍灣半島)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Kai Tak",
+                "zh": "啟德"
+            },
+            "route": "608P",
+            "seq": 23,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003835",
+                    "003709",
+                    "003795",
+                    "003370",
+                    "001610",
+                    "001611",
+                    "001773",
+                    "001655",
+                    "001657",
+                    "001463",
+                    "001316",
+                    "001297",
+                    "001298",
+                    "002694",
+                    "003305",
+                    "001377",
+                    "002624",
+                    "001308",
+                    "001343",
+                    "001225",
+                    "001362",
+                    "001383",
+                    "001382"
+                ]
+            }
+        },
+        "608P+1+Siu Sai Wan (Island Resort)+Kai Tak": {
             "bound": {
                 "ctb": "O"
             },
@@ -209978,55 +210082,21 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Kowloon City (Shing Tak Street)",
-                "zh": "九龍城 (盛德街)"
+                "en": "Kai Tak",
+                "zh": "啟德"
             },
-            "fares": [
-                "15",
-                "15",
-                "15",
-                "15",
-                "15",
-                "15",
-                "15",
-                "15",
-                "15",
-                "15",
-                "15",
-                "15",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0730": null,
-                    "0745": null
-                }
-            },
-            "gtfsId": "1000089",
-            "jt": "84",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "Siu Sai Wan (Island Resort)",
                 "zh": "小西灣 (藍灣半島)"
             },
             "route": "608P",
-            "seq": 29,
+            "seq": 20,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -210045,20 +210115,11 @@
                     "001464",
                     "001649",
                     "001607",
-                    "001608",
-                    "001645",
-                    "001609",
-                    "003537",
-                    "003705",
-                    "003611",
-                    "001811",
-                    "001812",
-                    "001813",
-                    "003538",
-                    "001534",
-                    "001535",
-                    "001536",
-                    "003536"
+                    "003706",
+                    "003369",
+                    "003505",
+                    "003808",
+                    "003835"
                 ]
             }
         },
@@ -228693,18 +228754,17 @@
                 ]
             }
         },
-        "680+3+LEE ON+ADMIRALTY STATION (EAST)": {
+        "680+1+Lee On Estate+Admiralty Station - Exit D": {
             "bound": {
-                "ctb": "I",
-                "kmb": "O"
+                "ctb": "I"
             },
             "co": [
                 "kmb",
                 "ctb"
             ],
             "dest": {
-                "en": "ADMIRALTY STATION (EAST)",
-                "zh": "金鐘站(東)"
+                "en": "Admiralty Station - Exit D",
+                "zh": "金鐘站 - D 出口"
             },
             "fares": [
                 "22.9",
@@ -228748,12 +228808,12 @@
             "jt": "91",
             "nlbId": null,
             "orig": {
-                "en": "LEE ON",
-                "zh": "利安"
+                "en": "Lee On Estate",
+                "zh": "利安邨"
             },
             "route": "680",
             "seq": 30,
-            "serviceType": "3",
+            "serviceType": "1",
             "stops": {
                 "ctb": [
                     "003075",
@@ -228786,38 +228846,6 @@
                     "002459",
                     "001074",
                     "001138"
-                ],
-                "kmb": [
-                    "0C81107C4ABFCD56",
-                    "3C61E9226688CA79",
-                    "8507CD56EB29D1CF",
-                    "15FF958BE6921BAA",
-                    "8D41766A525C128D",
-                    "1D6A8B8C58C268FF",
-                    "F86BDB236D6ACDC3",
-                    "664BAA2EA12B80B1",
-                    "30553FA19D045D25",
-                    "4A3D71FFAB41B756",
-                    "A78292AA77A277A7",
-                    "578C11F0F4197509",
-                    "A295FD27A4E5A7C5",
-                    "C43782B93826F4CD",
-                    "2223D64E9ED2E1A7",
-                    "FFBEBD7068E01EA4",
-                    "9535298A652873DB",
-                    "B71025EB663E736F",
-                    "8D05916401FE8BCB",
-                    "3F3DBD185AC10BBE",
-                    "29BF740504C5EEB6",
-                    "1C36A07970C8909A",
-                    "9F72AC7E3C3CE65C",
-                    "85342AE6060B2214",
-                    "265B143AC892EE78",
-                    "B65DB5330193E38E",
-                    "D15281453EE5E0B4",
-                    "A0934516C3FE8D29",
-                    "D2F2B3C5436007C2",
-                    "8F5D8F5379BAD19C"
                 ]
             }
         },
@@ -240477,7 +240505,7 @@
                     "EAE9158BE729E917",
                     "11A1269F9B78F269",
                     "E507F6160447C129",
-                    "5E2EC7476D55E0BA"
+                    "25BD7B50919AA221"
                 ]
             }
         },
@@ -240603,7 +240631,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "5E2EC7476D55E0BA",
+                    "25BD7B50919AA221",
                     "AB057A63C24E990E",
                     "B0028A481BF4ACC7",
                     "5419928D472EAD8D",
@@ -249424,6 +249452,7 @@
                 "4.2",
                 "4.2",
                 "4.2",
+                "2.3",
                 "2.3"
             ],
             "faresHoliday": null,
@@ -249515,10 +249544,11 @@
                 "zh": "富蝶總站"
             },
             "route": "72K",
-            "seq": 14,
+            "seq": 15,
             "serviceType": "1",
             "stops": {
                 "kmb": [
+                    "6E1178D0DC723069",
                     "2D2F0A476CB1FEF5",
                     "81293E4174C24FD5",
                     "378DA3C43904CFF9",
@@ -274011,7 +274041,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "25BD7B50919AA221",
+                    "5E2EC7476D55E0BA",
                     "5D75A800F823B45D",
                     "C175ACB534E8C15C",
                     "F656A38D2A40F77D",
@@ -506616,8 +506646,8 @@
         },
         "3C20E46D2F60DA28": {
             "location": {
-                "lat": 22.274053,
-                "lng": 114.231433
+                "lat": 22.273106,
+                "lng": 114.232537
             },
             "name": {
                 "en": "LEI YUE MUN PARK",
@@ -520514,6 +520544,16 @@
                 "zh": "順天總站"
             }
         },
+        "6E1178D0DC723069": {
+            "location": {
+                "lat": 22.462699,
+                "lng": 114.176025
+            },
+            "name": {
+                "en": "FU TIP BUS TERMINUS",
+                "zh": "富蝶總站"
+            }
+        },
         "6E1E84A8BAF508AC": {
             "location": {
                 "lat": 22.456277,
@@ -526182,16 +526222,6 @@
             "name": {
                 "en": "DIAMOND HILL STATION",
                 "zh": "鑽石山站"
-            }
-        },
-        "84DDCFEAF4ECDFD2": {
-            "location": {
-                "lat": 22.462699,
-                "lng": 114.176025
-            },
-            "name": {
-                "en": "FU TIP BUS TERMINUS",
-                "zh": "富蝶總站"
             }
         },
         "84ECCB274C4677E8": {
@@ -533722,6 +533752,16 @@
             "name": {
                 "en": "S.L.Y. BOWLING GREENS",
                 "zh": "小瀝源草地滾球場"
+            }
+        },
+        "A297D0A75996B49B": {
+            "location": {
+                "lat": 22.330851,
+                "lng": 114.197597
+            },
+            "name": {
+                "en": "KAI TAK BUS TERMINUS",
+                "zh": "啟德巴士總站"
             }
         },
         "A2BB1A240289038A": {
@@ -547906,8 +547946,8 @@
         },
         "D9C6E05CF96CEEAE": {
             "location": {
-                "lat": 22.273972,
-                "lng": 114.231542
+                "lat": 22.273075,
+                "lng": 114.232557
             },
             "name": {
                 "en": "LEI YUE MUN PARK",
@@ -572332,12 +572372,6 @@
                 "C8A9DAB5E9051324"
             ]
         ],
-        "003107": [
-            [
-                "kmb",
-                "8D41766A525C128D"
-            ]
-        ],
         "003108": [
             [
                 "kmb",
@@ -578160,12 +578194,6 @@
             [
                 "ctb",
                 "001281"
-            ]
-        ],
-        "8D41766A525C128D": [
-            [
-                "ctb",
-                "003107"
             ]
         ],
         "8D7CB6C3D48258D6": [
