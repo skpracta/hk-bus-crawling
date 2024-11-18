@@ -9792,6 +9792,7 @@
                 "9.9",
                 "9.9",
                 "9.9",
+                "9.9",
                 "9.9"
             ],
             "faresHoliday": null,
@@ -9831,7 +9832,7 @@
                 "zh": "將軍澳站公共運輸交匯處"
             },
             "route": "103M",
-            "seq": 6,
+            "seq": 7,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -9840,6 +9841,7 @@
                     "20015236",
                     "20002605",
                     "20015222",
+                    "20015223",
                     "20014731"
                 ]
             }
@@ -9856,6 +9858,7 @@
                 "zh": "觀塘(循環線)"
             },
             "fares": [
+                "8.8",
                 "8.8",
                 "8.8",
                 "8.8",
@@ -9914,7 +9917,7 @@
                 "zh": "香港科技大學(南站)"
             },
             "route": "104",
-            "seq": 23,
+            "seq": 24,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -9930,6 +9933,7 @@
                     "20012439",
                     "20012440",
                     "20000814",
+                    "20016736",
                     "20000633",
                     "20015229",
                     "20000946",
@@ -43852,6 +43856,8 @@
                 "10.4",
                 "10.4",
                 "10.4",
+                "10.4",
+                "10.4",
                 "10.4"
             ],
             "faresHoliday": null,
@@ -43937,11 +43943,13 @@
                 "zh": "寶琳"
             },
             "route": "16",
-            "seq": 24,
+            "seq": 26,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20001149",
+                    "20020394",
+                    "20014683",
                     "20001162",
                     "20001163",
                     "20001140",
@@ -43980,6 +43988,8 @@
                 "zh": "寶琳"
             },
             "fares": [
+                "10.4",
+                "10.4",
                 "10.4",
                 "10.4",
                 "10.4",
@@ -44082,7 +44092,7 @@
                 "zh": "布袋澳"
             },
             "route": "16",
-            "seq": 23,
+            "seq": 25,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -44108,6 +44118,8 @@
                     "20001162",
                     "20001163",
                     "20001164",
+                    "20014673",
+                    "20001166",
                     "20001149"
                 ]
             }
@@ -109003,6 +109015,8 @@
                 "11.5",
                 "11.5",
                 "11.5",
+                "11.5",
+                "11.5",
                 "11.5"
             ],
             "faresHoliday": null,
@@ -109028,16 +109042,18 @@
                 "zh": "銅鑼灣(新會道)"
             },
             "route": "28",
-            "seq": 15,
+            "seq": 17,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20014536",
+                    "20011569",
                     "20000136",
+                    "20020392",
+                    "20020393",
                     "20014538",
                     "20014539",
                     "20014540",
-                    "20003405",
                     "20003404",
                     "20014541",
                     "20004544",
@@ -114095,6 +114111,11 @@
                 "11.5",
                 "11.5",
                 "11.5",
+                "11.5",
+                "11.5",
+                "11.5",
+                "11.5",
+                "11.5",
                 "11.5"
             ],
             "faresHoliday": null,
@@ -114120,7 +114141,7 @@
                 "zh": "碧瑤灣(上)"
             },
             "route": "28S",
-            "seq": 17,
+            "seq": 22,
             "serviceType": 2,
             "stops": {
                 "gmb": [
@@ -114130,6 +114151,7 @@
                     "20000174",
                     "20000012",
                     "20014527",
+                    "20020293",
                     "20014537",
                     "20000017",
                     "20000018",
@@ -114137,9 +114159,13 @@
                     "20014530",
                     "20014531",
                     "20014532",
+                    "20020297",
                     "20014533",
                     "20014534",
                     "20014535",
+                    "20020294",
+                    "20020295",
+                    "20020296",
                     "20014536"
                 ]
             }
@@ -172663,6 +172689,94 @@
                 ]
             }
         },
+        "49A+1+CHING FU COURT+TSUEN WAN WEST STATION": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSUEN WAN WEST STATION",
+                "zh": "荃灣西站"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "CHING FU COURT",
+                "zh": "青富苑"
+            },
+            "route": "49A",
+            "seq": 14,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "E3342E2125B7B6EE",
+                    "196A1E44C305C174",
+                    "BDE0F1679E1C8ABF",
+                    "13458794A52910B0",
+                    "67DFAB691BECE339",
+                    "6D016EBFA090D535",
+                    "04D3244DD2B38746",
+                    "21A1859E80CD542A",
+                    "DE99B27530D1A3C4",
+                    "A25160BA84EE09F7",
+                    "B7039F29C48A3CC2",
+                    "E5F3EF7B050DA88F",
+                    "E8B842CC3AB62056",
+                    "716D84D1B7EA256E"
+                ]
+            }
+        },
+        "49A+1+TSUEN WAN WEST STATION+CHING FU COURT": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "CHING FU COURT",
+                "zh": "青富苑"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSUEN WAN WEST STATION",
+                "zh": "荃灣西站"
+            },
+            "route": "49A",
+            "seq": 16,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "80EEE299A75B7F1B",
+                    "CDEB07C7C0841D5B",
+                    "F9F75324B8F1D7E3",
+                    "FE90421D0B82E691",
+                    "D52D3F3FB66EF61A",
+                    "3D01A5479C31FB05",
+                    "AB87BD2749FFEACA",
+                    "43398296F1D1BD48",
+                    "65D1B50CC2E45985",
+                    "67F3E54FF145BA65",
+                    "F93448A5F1168FB1",
+                    "DFB7FD5832A4BA4E",
+                    "0F60AAE48C3B22EE",
+                    "1A37A52F97A04C81",
+                    "5B5107DB7CE969DE",
+                    "56579F66F45EDD3F"
+                ]
+            }
+        },
         "49M+1+Tin Hau Station+Breamer Hill (Circular)": {
             "bound": {
                 "gmb": "O"
@@ -228754,17 +228868,18 @@
                 ]
             }
         },
-        "680+1+Lee On Estate+Admiralty Station - Exit D": {
+        "680+3+LEE ON+ADMIRALTY STATION (EAST)": {
             "bound": {
-                "ctb": "I"
+                "ctb": "I",
+                "kmb": "O"
             },
             "co": [
                 "kmb",
                 "ctb"
             ],
             "dest": {
-                "en": "Admiralty Station - Exit D",
-                "zh": "金鐘站 - D 出口"
+                "en": "ADMIRALTY STATION (EAST)",
+                "zh": "金鐘站(東)"
             },
             "fares": [
                 "22.9",
@@ -228808,12 +228923,12 @@
             "jt": "91",
             "nlbId": null,
             "orig": {
-                "en": "Lee On Estate",
-                "zh": "利安邨"
+                "en": "LEE ON",
+                "zh": "利安"
             },
             "route": "680",
             "seq": 30,
-            "serviceType": "1",
+            "serviceType": "3",
             "stops": {
                 "ctb": [
                     "003075",
@@ -228846,6 +228961,38 @@
                     "002459",
                     "001074",
                     "001138"
+                ],
+                "kmb": [
+                    "0C81107C4ABFCD56",
+                    "3C61E9226688CA79",
+                    "8507CD56EB29D1CF",
+                    "15FF958BE6921BAA",
+                    "0CAB5EE71EF19B76",
+                    "1D6A8B8C58C268FF",
+                    "F86BDB236D6ACDC3",
+                    "664BAA2EA12B80B1",
+                    "30553FA19D045D25",
+                    "4A3D71FFAB41B756",
+                    "A78292AA77A277A7",
+                    "578C11F0F4197509",
+                    "A295FD27A4E5A7C5",
+                    "C43782B93826F4CD",
+                    "2223D64E9ED2E1A7",
+                    "FFBEBD7068E01EA4",
+                    "9535298A652873DB",
+                    "B71025EB663E736F",
+                    "8D05916401FE8BCB",
+                    "3F3DBD185AC10BBE",
+                    "29BF740504C5EEB6",
+                    "1C36A07970C8909A",
+                    "9F72AC7E3C3CE65C",
+                    "85342AE6060B2214",
+                    "265B143AC892EE78",
+                    "B65DB5330193E38E",
+                    "D15281453EE5E0B4",
+                    "A0934516C3FE8D29",
+                    "D2F2B3C5436007C2",
+                    "8F5D8F5379BAD19C"
                 ]
             }
         },
@@ -445594,6 +445741,16 @@
                 "zh": "康寧道公園"
             }
         },
+        "0CAB5EE71EF19B76": {
+            "location": {
+                "lat": 22.422219,
+                "lng": 114.22658
+            },
+            "name": {
+                "en": "CHUNG ON BUS TERMINUS",
+                "zh": "頌安巴士總站"
+            }
+        },
         "0CB1F7979192FBB2": {
             "location": {
                 "lat": 22.428373,
@@ -451960,7 +452117,7 @@
                 "lng": 114.13357716043275
             },
             "name": {
-                "en": "POK FU LAM ROAD, near Lady Ho Tung Hall, THE UNIVERSITY OF HONG KONG JOCKEY CLUB STUDENT VILLAGE 1",
+                "en": "Pok Fu Lam Road, near Lady Ho Tung Hall, The University of Hong Kong Jockey Club Student Village 1",
                 "zh": "薄扶林道, 近香港大學賽馬會第一舍堂村何東夫人紀念堂"
             }
         },
@@ -461370,8 +461527,8 @@
                 "lng": 114.13900154194079
             },
             "name": {
-                "en": "Pok Fu Lam Road, East Gate of The University of Hong Kong",
-                "zh": "薄扶林道, 香港大學東閘"
+                "en": "Bonham Road, near East Gate of The University of Hong Kong",
+                "zh": "般咸道, 近香港大學東閘"
             }
         },
         "20002413": {
@@ -482650,7 +482807,7 @@
                 "lng": 114.12865319469665
             },
             "name": {
-                "en": "SASSOON ROAD, near Pauline Chan Building, THE UNIVERSITY OF HONG KONG",
+                "en": "Sassoon Road, near Pauline Chan Building, The University of Hong Kong ",
                 "zh": "沙宣道, 近香港大學陳蕉琴樓"
             }
         },
@@ -482660,7 +482817,7 @@
                 "lng": 114.13000020445604
             },
             "name": {
-                "en": "SASSOON ROAD, near The University of Hong Kong R.C. Lee Hall",
+                "en": "Sassoon Road, near The University of Hong Kong R.C. Lee Hall",
                 "zh": "沙宣道, 近香港大學利銘澤堂"
             }
         },
@@ -482700,7 +482857,7 @@
                 "lng": 114.15819070975616
             },
             "name": {
-                "en": "KENNEDY ROAD, near The Royal Court",
+                "en": "Kennedy Road, near The Royal Court",
                 "zh": "堅尼地道, 近帝景閣"
             }
         },
@@ -482710,7 +482867,7 @@
                 "lng": 114.15951150496244
             },
             "name": {
-                "en": "KENNEDY ROAD, near Hong Kong Visual Arts Centre, HONG KONG PARK",
+                "en": "Kennedy Road near Hong Kong Visual Arts Centre",
                 "zh": "堅尼地道, 近香港公園香港視覺藝術中心"
             }
         },
@@ -482720,7 +482877,7 @@
                 "lng": 114.16338110525862
             },
             "name": {
-                "en": "KENNEDY ROAD, near HONG KONG PARK",
+                "en": "Kennedy Road, near Hong Kong Park",
                 "zh": "堅尼地道, 近香港公園"
             }
         },
@@ -482730,7 +482887,7 @@
                 "lng": 114.16689289008801
             },
             "name": {
-                "en": "KENNEDY ROAD, near MONMOUTH PARK",
+                "en": "Kennedy Road, near Monmouth Park",
                 "zh": "堅尼地道, 近萬茂公園"
             }
         },
@@ -482740,7 +482897,7 @@
                 "lng": 114.16893564283949
             },
             "name": {
-                "en": "KENNEDY ROAD, near St. Francis Canossian College",
+                "en": "Kennedy Road, near St. Francis Canossian College",
                 "zh": "堅尼地道, 近嘉諾撒聖方濟各書院"
             }
         },
@@ -482750,8 +482907,8 @@
                 "lng": 114.17113471252298
             },
             "name": {
-                "en": "KENNEDY ROAD, near Camelot Heights",
-                "zh": "堅尼地道, 近金鑾閣"
+                "en": "Kennedy Road, outside Hopewell Centre",
+                "zh": "堅尼地道, 近合和中心"
             }
         },
         "20014536": {
@@ -482760,7 +482917,7 @@
                 "lng": 114.18467811918791
             },
             "name": {
-                "en": "SUN WUI ROAD, near Capital Building",
+                "en": "Sun Wui Road, near Capital Building",
                 "zh": "新會道, 近京城大廈"
             }
         },
@@ -482770,7 +482927,7 @@
                 "lng": 114.14747363044441
             },
             "name": {
-                "en": "Bonham Road, Hospital Road",
+                "en": "Bonham Road near Hospital Road",
                 "zh": "般咸道, 醫院道"
             }
         },
@@ -482780,7 +482937,7 @@
                 "lng": 114.17106639453183
             },
             "name": {
-                "en": "KENNEDY ROAD, near Camelot Heights",
+                "en": "Kennedy Road, near Camelot Heights",
                 "zh": "堅尼地道, 近金鑾閣"
             }
         },
@@ -482790,8 +482947,8 @@
                 "lng": 114.1684036335808
             },
             "name": {
-                "en": "KENNEDY ROAD, near St. Francis Canossian College",
-                "zh": "堅尼地道, 近嘉諾撒聖方濟各書院"
+                "en": "Kennedy Road, oppposite to St. Francis Canossian College",
+                "zh": "堅尼地道, 嘉諾撒聖方濟各書院對面"
             }
         },
         "20014540": {
@@ -482800,8 +482957,8 @@
                 "lng": 114.16564762464829
             },
             "name": {
-                "en": "KENNEDY ROAD, near Hongkong Electric Centre, Kennedy Road Zone Substation",
-                "zh": "堅尼地道, 近堅尼地道分區電力站港燈中心"
+                "en": "Kennedy Road, near The Hongkong Electric Centre",
+                "zh": "堅尼地道, 近港燈中心"
             }
         },
         "20014541": {
@@ -482810,7 +482967,7 @@
                 "lng": 114.15949792576714
             },
             "name": {
-                "en": "KENNEDY ROAD, near Kenville",
+                "en": "Kennedy Road, near Kenville",
                 "zh": "堅尼地道, 近甘苑"
             }
         },
@@ -491700,8 +491857,8 @@
                 "lng": 114.22014892101288
             },
             "name": {
-                "en": "Ngau Tau Kok Road, Near Lotus Tower Block 2",
-                "zh": "牛頭角道, 近玉蓮臺第二座"
+                "en": "Ngau Tau Kok Road, outside Lotus Tower",
+                "zh": "牛頭角道, 玉蓮臺外"
             }
         },
         "20016737": {
@@ -498102,6 +498259,36 @@
             "name": {
                 "en": "Nga Cheung Road, near International Commerce Centre",
                 "zh": "雅翔道, 近環球貿易廣場"
+            }
+        },
+        "20020392": {
+            "location": {
+                "lat": 22.27395910421694,
+                "lng": 114.17522594332698
+            },
+            "name": {
+                "en": "Kennedy Road, near Queen's Road East",
+                "zh": "堅尼地道, 近皇后大道東"
+            }
+        },
+        "20020393": {
+            "location": {
+                "lat": 22.272680833268126,
+                "lng": 114.17422950267793
+            },
+            "name": {
+                "en": "Kennedy Road, outside Grandview Tower",
+                "zh": "堅尼地道, 慧景臺"
+            }
+        },
+        "20020394": {
+            "location": {
+                "lat": 22.32509276394882,
+                "lng": 114.25921261310579
+            },
+            "name": {
+                "en": "Po Lam Road North, near Tseung Kwan O Jockey Club Clinic",
+                "zh": "寶琳北路, 將軍澳賽馬會診所外"
             }
         },
         "201": {
@@ -528214,16 +528401,6 @@
                 "zh": "石硤尾街"
             }
         },
-        "8D41766A525C128D": {
-            "location": {
-                "lat": 22.422331,
-                "lng": 114.226573
-            },
-            "name": {
-                "en": "CHUNG ON BUS TERMINUS",
-                "zh": "頌安巴士總站"
-            }
-        },
         "8D47F8C7AA27FCB8": {
             "location": {
                 "lat": 22.431918,
@@ -550142,6 +550319,16 @@
             "name": {
                 "en": "HUNG SHUI KIU (HUNG FUK ESTATE) BUS TERMINUS",
                 "zh": "洪水橋(洪福邨)總站"
+            }
+        },
+        "E3342E2125B7B6EE": {
+            "location": {
+                "lat": 22.342153,
+                "lng": 114.107162
+            },
+            "name": {
+                "en": "CHING FU COURT",
+                "zh": "青富苑"
             }
         },
         "E346E933481C3D83": {
@@ -572372,6 +572559,12 @@
                 "C8A9DAB5E9051324"
             ]
         ],
+        "003107": [
+            [
+                "kmb",
+                "0CAB5EE71EF19B76"
+            ]
+        ],
         "003108": [
             [
                 "kmb",
@@ -573756,6 +573949,12 @@
             [
                 "ctb",
                 "001756"
+            ]
+        ],
+        "0CAB5EE71EF19B76": [
+            [
+                "ctb",
+                "003107"
             ]
         ],
         "0CDE4C9C2E382656": [
