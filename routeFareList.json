@@ -64821,13 +64821,17 @@
             "faresHoliday": null,
             "freq": {
                 "127": {
-                    "0610": [
-                        "1410",
+                    "0612": [
+                        "1400",
                         "720"
                     ],
-                    "1410": [
-                        "2130",
-                        "1200"
+                    "1400": [
+                        "1415",
+                        "900"
+                    ],
+                    "1415": [
+                        "2145",
+                        "1800"
                     ]
                 }
             },
@@ -64877,8 +64881,8 @@
                         "720"
                     ],
                     "1400": [
-                        "2140",
-                        "1200"
+                        "2130",
+                        "1800"
                     ]
                 }
             },
@@ -113043,6 +113047,121 @@
                     "548DAB3A4F71EB68",
                     "D242CDB564D5CCA2",
                     "84BAF05C529889BB"
+                ]
+            }
+        },
+        "28A+2+Tai Po Market Station+Yau King Lane": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Yau King Lane",
+                "zh": "優景里"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "127": {
+                    "0700": [
+                        "1130",
+                        "1800"
+                    ],
+                    "1130": [
+                        "1330",
+                        "2400"
+                    ],
+                    "1330": [
+                        "2000",
+                        "1800"
+                    ],
+                    "2000": [
+                        "2200",
+                        "2400"
+                    ]
+                }
+            },
+            "gtfsId": "2010401",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tai Po Market Station",
+                "zh": "大埔墟站"
+            },
+            "route": "28A",
+            "seq": 11,
+            "serviceType": 2,
+            "stops": {
+                "gmb": [
+                    "20001193",
+                    "20007228",
+                    "20003029",
+                    "20001200",
+                    "20020492",
+                    "20001222",
+                    "20001224",
+                    "20001225",
+                    "20003192",
+                    "20007576",
+                    "20020493"
+                ]
+            }
+        },
+        "28A+3+Yau King Lane+Tai Po Market Station": {
+            "bound": {
+                "gmb": "I"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Tai Po Market Station",
+                "zh": "大埔墟站"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "127": {
+                    "0700": [
+                        "1130",
+                        "1800"
+                    ],
+                    "1130": [
+                        "1330",
+                        "2400"
+                    ],
+                    "1330": [
+                        "2000",
+                        "1800"
+                    ],
+                    "2000": [
+                        "2200",
+                        "2400"
+                    ]
+                }
+            },
+            "gtfsId": "2010401",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Yau King Lane",
+                "zh": "優景里"
+            },
+            "route": "28A",
+            "seq": 8,
+            "serviceType": 3,
+            "stops": {
+                "gmb": [
+                    "20020493",
+                    "20007577",
+                    "20003193",
+                    "20008783",
+                    "20008787",
+                    "20003030",
+                    "20003031",
+                    "20001193"
                 ]
             }
         },
@@ -267078,6 +267197,7 @@
                 "4.8",
                 "4.8",
                 "4.8",
+                "4.8",
                 "4.8"
             ],
             "faresHoliday": null,
@@ -267117,13 +267237,14 @@
                 "zh": "上水(太平)"
             },
             "route": "78K",
-            "seq": 34,
+            "seq": 36,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "3C450B715D06675A",
                     "396DD38F2E41E117",
                     "60AEF6D3AA7AAC41",
+                    "C4DBA77DDE73976A",
                     "F19EA5A24A38C94C",
                     "FC63E0A36323E494",
                     "EFEE1D1E1BF3140C",
@@ -267154,7 +267275,8 @@
                     "552DA8FCE732ABF0",
                     "ADB789C140CFBE00",
                     "37AEC610CEBCEA48",
-                    "8EA1F6CDA69E539C"
+                    "8EA1F6CDA69E539C",
+                    "AC1FD9BDD09D1DD6"
                 ]
             }
         },
@@ -267185,6 +267307,7 @@
                 "6.4",
                 "6.4",
                 "6.4",
+                "4.8",
                 "4.8",
                 "4.8",
                 "4.8",
@@ -267259,11 +267382,12 @@
                 "zh": "上水"
             },
             "route": "78K",
-            "seq": 32,
+            "seq": 34,
             "serviceType": "2",
             "stops": {
                 "kmb": [
                     "60AEF6D3AA7AAC41",
+                    "C4DBA77DDE73976A",
                     "F19EA5A24A38C94C",
                     "FC63E0A36323E494",
                     "EFEE1D1E1BF3140C",
@@ -267294,7 +267418,8 @@
                     "552DA8FCE732ABF0",
                     "ADB789C140CFBE00",
                     "37AEC610CEBCEA48",
-                    "8EA1F6CDA69E539C"
+                    "8EA1F6CDA69E539C",
+                    "AC1FD9BDD09D1DD6"
                 ]
             }
         },
@@ -267559,6 +267684,7 @@
                 "10.4",
                 "10.4",
                 "10.4",
+                "10.4",
                 "10.4"
             ],
             "faresHoliday": null,
@@ -267581,11 +267707,12 @@
                 "zh": "上水"
             },
             "route": "78S",
-            "seq": 16,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "60AEF6D3AA7AAC41",
+                    "C4DBA77DDE73976A",
                     "07EEE519D04FFE28",
                     "E6022594DB48E35B",
                     "F8619A3F780D4072",
@@ -267600,7 +267727,8 @@
                     "552DA8FCE732ABF0",
                     "ADB789C140CFBE00",
                     "37AEC610CEBCEA48",
-                    "8EA1F6CDA69E539C"
+                    "8EA1F6CDA69E539C",
+                    "8EC63D8C071F72C4"
                 ]
             }
         },
@@ -405913,35 +406041,11 @@
                 "en": "KWAI CHUNG ESTATE",
                 "zh": "葵涌邨"
             },
-            "fares": [
-                "34.6",
-                "34.6",
-                "34.6",
-                "34.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6",
-                "22.6"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0035": null,
-                    "0110": null
-                }
-            },
-            "gtfsId": "8639",
-            "jt": "60",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "HZMB Hong Kong Port",
@@ -405962,15 +406066,15 @@
                     "45FCFADAC74DCFFE",
                     "D693BB486419666B",
                     "330FCB2E8E28D4CF",
-                    "C9BF57C6B2F9BB92",
-                    "3D126591E55E8FA1",
-                    "73DBA4ECE93BB290",
-                    "5693912DEE916C4D",
-                    "7DCD729826DDB645",
-                    "C0E90AAAA204D927",
-                    "AF837BAF1DA794EF",
-                    "45D5520FF3329255",
-                    "DC825DF01C49316F"
+                    "4206E3523A2C11D5",
+                    "B0D304F9542AE3BF",
+                    "6129FAE857E1D5F0",
+                    "143D7489C808BD46",
+                    "CFB33B4D4B0EA4BA",
+                    "C763E328B97F0D03",
+                    "F0AE2D3C2589FC4F",
+                    "B9DFF2C142DCE309",
+                    "56E8E92250BBEE74"
                 ]
             }
         },
@@ -421594,8 +421698,8 @@
                 "lng": 114.16811772053
             },
             "name": {
-                "en": "Austin Road, Canton Road",
-                "zh": "柯士甸道, 廣東道"
+                "en": "Xiqu Centre, Canton Road",
+                "zh": "戲曲中心, 廣東道"
             }
         },
         "001405": {
@@ -422334,8 +422438,8 @@
                 "lng": 114.16990756053
             },
             "name": {
-                "en": "Woosung Street, Jordan Road",
-                "zh": "吳松街, 佐敦道"
+                "en": "Temple Street, Jordan Road",
+                "zh": "廟街, 佐敦道"
             }
         },
         "001482": {
@@ -433684,8 +433788,8 @@
                 "lng": 114.14764043053
             },
             "name": {
-                "en": "Po Yan Street, Hollywood Road",
-                "zh": "普仁街, 荷李活道"
+                "en": "Hollywood Road Park, Hollywood Road",
+                "zh": "荷李活道公園, 荷李活道"
             }
         },
         "002742": {
@@ -440244,8 +440348,8 @@
                 "lng": 114.15977876053
             },
             "name": {
-                "en": "Nga Cheung Road",
-                "zh": "雅翔道"
+                "en": "International Commerce Centre, Nga Cheung Road",
+                "zh": "環球貿易廣場, 雅翔道"
             }
         },
         "003534": {
@@ -442674,8 +442778,8 @@
                 "lng": 114.16397210053
             },
             "name": {
-                "en": "Lung Wo Road",
-                "zh": "龍和道"
+                "en": "Central Harbourfront Event Space, Lung Wo Road",
+                "zh": "中環海濱活動空間, 龍和道"
             }
         },
         "003810": {
@@ -498598,6 +498702,26 @@
                 "zh": "屯順街, 屯門市廣場第4座外"
             }
         },
+        "20020492": {
+            "location": {
+                "lat": 22.448721203393212,
+                "lng": 114.16712030768397
+            },
+            "name": {
+                "en": "Kwong Fuk Road eastbound bus lay-by outside House No. 73",
+                "zh": "廣福道東行門牌73號外的巴士停車灣"
+            }
+        },
+        "20020493": {
+            "location": {
+                "lat": 22.427913768109793,
+                "lng": 114.20079946517944
+            },
+            "name": {
+                "en": "Yau King Lane, near Pok Yin Road",
+                "zh": "優景里, 近博研路"
+            }
+        },
         "20020494": {
             "location": {
                 "lat": 22.371569546572637,
@@ -543266,6 +543390,16 @@
             "name": {
                 "en": "TSING YI FERRY",
                 "zh": "青衣碼頭"
+            }
+        },
+        "C4DBA77DDE73976A": {
+            "location": {
+                "lat": 22.502744,
+                "lng": 114.128222
+            },
+            "name": {
+                "en": "SHEUNG SHUI BBI - SHEUNG SHUI TERMINUS (A1)",
+                "zh": "上水轉車站 - 上水總站(A1)"
             }
         },
         "C4DC1D050CDF793D": {
