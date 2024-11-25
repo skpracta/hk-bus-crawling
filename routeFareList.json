@@ -93605,6 +93605,7 @@
                 "3.8",
                 "3.8",
                 "3.8",
+                "3.8",
                 "3.8"
             ],
             "faresHoliday": null,
@@ -93628,12 +93629,13 @@
                 "zh": "鴨脷洲 (惠風街)"
             },
             "route": "27",
-            "seq": 5,
+            "seq": 6,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20015508",
                     "20015509",
+                    "20020557",
                     "20012881",
                     "20015510",
                     "20015511"
@@ -114272,6 +114274,7 @@
                 "3.9",
                 "3.9",
                 "3.9",
+                "3.9",
                 "3.9"
             ],
             "faresHoliday": null,
@@ -114299,12 +114302,13 @@
                 "zh": "鴨脷洲邨"
             },
             "route": "29",
-            "seq": 7,
+            "seq": 8,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20012948",
                     "20012869",
+                    "20020558",
                     "20015515",
                     "20015516",
                     "20000160",
@@ -118503,6 +118507,7 @@
                 "5.5",
                 "5.5",
                 "5.5",
+                "5.5",
                 "5.5"
             ],
             "faresHoliday": null,
@@ -118522,13 +118527,14 @@
                 "zh": "鴨脷洲邨"
             },
             "route": "29A",
-            "seq": 6,
+            "seq": 7,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20012948",
                     "20012949",
                     "20015541",
+                    "20020557",
                     "20012869",
                     "20015516",
                     "20011727"
@@ -118634,6 +118640,8 @@
             },
             "fares": [
                 "5.5",
+                "5.5",
+                "5.5",
                 "5.5"
             ],
             "faresHoliday": null,
@@ -118653,12 +118661,14 @@
                 "zh": "海洋公園 (水上樂園)"
             },
             "route": "29A",
-            "seq": 3,
+            "seq": 5,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20011727",
                     "20015542",
+                    "20012949",
+                    "20020557",
                     "20012948"
                 ]
             }
@@ -136395,6 +136405,7 @@
                 "10",
                 "10",
                 "10",
+                "10",
                 "10"
             ],
             "faresHoliday": null,
@@ -136488,12 +136499,13 @@
                 "zh": "鴨脷洲 (平瀾街)"
             },
             "route": "36X",
-            "seq": 14,
+            "seq": 15,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20012944",
                     "20012945",
+                    "20020557",
                     "20012946",
                     "20000157",
                     "20012951",
@@ -136856,6 +136868,7 @@
                 "5.8",
                 "5.8",
                 "5.8",
+                "5.8",
                 "5.8"
             ],
             "faresHoliday": null,
@@ -136885,12 +136898,13 @@
                 "zh": "鴨脷洲 (平瀾街)"
             },
             "route": "37",
-            "seq": 10,
+            "seq": 11,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20012944",
                     "20012945",
+                    "20020557",
                     "20012946",
                     "20000234",
                     "20004567",
@@ -185401,6 +185415,70 @@
                     "20014465",
                     "20014456",
                     "20014457"
+                ]
+            }
+        },
+        "52P+1+SO KWUN WAT+MONG KOK (PARK AVENUE)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MONG KOK (PARK AVENUE)",
+                "zh": "旺角(柏景灣)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SO KWUN WAT",
+                "zh": "掃管笏"
+            },
+            "route": "52P",
+            "seq": 35,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "42FA8BD1F55BACEC",
+                    "130015EE1C05A484",
+                    "0F9DE5E3F13FBABA",
+                    "FCE8D0E0D2A89B8B",
+                    "D77779E531F14725",
+                    "4F64DA53415F3128",
+                    "BF7FD3BC4994EBE5",
+                    "9DC117C78DBDB1A7",
+                    "BD52FF1BA0AC99BE",
+                    "1F2376A52800A2CA",
+                    "0B72FFAB7F7230E4",
+                    "620557B9486BE4BF",
+                    "E3E5521CAFDD5DCE",
+                    "D3CA3780D3E342FC",
+                    "6FBEA411A4940B6C",
+                    "1064E673770C38BC",
+                    "2DFE2D85D53C1114",
+                    "C4E03BB27317AF35",
+                    "30DD3451F8D64883",
+                    "8AFF8B43EC3E547F",
+                    "EEC0C32452B6ABA3",
+                    "ED9E5ACF98190E5C",
+                    "50E78EB09845863E",
+                    "8BCB786E1F1A2457",
+                    "5CF51F3B971D4D56",
+                    "AAB25066B96C6588",
+                    "8CE4B83B45F22F1F",
+                    "812E72C257C94B73",
+                    "18C138014DF5B0C8",
+                    "0FDE3A87457539BC",
+                    "30B08A7B2B2B623F",
+                    "7ADC6D521E6BECE6",
+                    "E02E10C9135624F9",
+                    "145515B1D2C60CAF",
+                    "835DE31CDA7EBEC9"
                 ]
             }
         },
@@ -349303,7 +349381,7 @@
                     "330FCB2E8E28D4CF",
                     "4206E3523A2C11D5",
                     "B0D304F9542AE3BF",
-                    "6129FAE857E1D5F0",
+                    "C4BFD3A76F6CDCED",
                     "143D7489C808BD46",
                     "CFB33B4D4B0EA4BA",
                     "C763E328B97F0D03",
@@ -349436,7 +349514,6 @@
                 "11.3",
                 "11.3",
                 "11.3",
-                "11.3",
                 "11.3"
             ],
             "faresHoliday": null,
@@ -349454,7 +349531,7 @@
                 "zh": "機場(地面運輸中心)"
             },
             "route": "A32",
-            "seq": 22,
+            "seq": 21,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -349472,7 +349549,6 @@
                     "330FCB2E8E28D4CF",
                     "4206E3523A2C11D5",
                     "B0D304F9542AE3BF",
-                    "6129FAE857E1D5F0",
                     "143D7489C808BD46",
                     "CFB33B4D4B0EA4BA",
                     "C763E328B97F0D03",
@@ -390240,6 +390316,72 @@
                 ]
             }
         },
+        "LB1+1+HA PAK NAI+TUEN MUN ROAD BBI (KOWLOON BOUND)": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TUEN MUN ROAD BBI (KOWLOON BOUND)",
+                "zh": "屯門公路轉車站(九龍方向)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "HA PAK NAI",
+                "zh": "下白泥"
+            },
+            "route": "LB1",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "497320292297256C",
+                    "E107486C465320C4",
+                    "3359572AE1765132",
+                    "66BAE0730AA9044A"
+                ]
+            }
+        },
+        "LB1+1+TUEN MUN ROAD BBI (TUEN MUN BOUND)+HA PAK NAI": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "HA PAK NAI",
+                "zh": "下白泥"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
+                "zh": "屯門公路轉車站(屯門方向)"
+            },
+            "route": "LB1",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "A33D2929C5F3B7E0",
+                    "3359572AE1765132",
+                    "80CE46D61881DC6A",
+                    "497320292297256C"
+                ]
+            }
+        },
         "N1+3+Mui Wo Ferry Pier+Tai O": {
             "bound": {
                 "nlb": "O"
@@ -395079,6 +395221,7 @@
                 "6",
                 "6",
                 "6",
+                "6",
                 "6"
             ],
             "faresHoliday": null,
@@ -395098,7 +395241,7 @@
                 "zh": "香港仔 (西安街)"
             },
             "route": "N27",
-            "seq": 9,
+            "seq": 10,
             "serviceType": 2,
             "stops": {
                 "gmb": [
@@ -395107,6 +395250,7 @@
                     "20012949",
                     "20015508",
                     "20015509",
+                    "20020557",
                     "20012948",
                     "20012881",
                     "20015510",
@@ -405714,6 +405858,105 @@
                 ]
             }
         },
+        "NA30+1+HZMB Hong Kong Port+LEI MUK SHUE": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LEI MUK SHUE",
+                "zh": "梨木樹"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "HZMB Hong Kong Port",
+                "zh": "港珠澳大橋香港口岸"
+            },
+            "route": "NA30",
+            "seq": 23,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "9F9D5E46754C52D4",
+                    "23F3D6C7BDAD87EB",
+                    "86201D4BB45ED201",
+                    "28E722A4FDD9ABB9",
+                    "2A8231CC433F6B22",
+                    "C9BF57C6B2F9BB92",
+                    "3D126591E55E8FA1",
+                    "73DBA4ECE93BB290",
+                    "5693912DEE916C4D",
+                    "7DCD729826DDB645",
+                    "C0E90AAAA204D927",
+                    "2658CCFAB79763B6",
+                    "26EB1A3C1E17889A",
+                    "32EF27636D4BEAEB",
+                    "77CEEF0D8191410C",
+                    "C84CAD6CCD18F87F",
+                    "478ACE8A8C9A2705",
+                    "A13C2C1D5D3EE0D7",
+                    "EF7EC605C6C6859A",
+                    "C5294C92C5C6E334",
+                    "2A70ADF9A6812DD6",
+                    "28A57C043C111604",
+                    "419036314897BEEE"
+                ]
+            }
+        },
+        "NA30+1+LEI MUK SHUE+HZMB Hong Kong Port": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "HZMB Hong Kong Port",
+                "zh": "港珠澳大橋香港口岸"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "LEI MUK SHUE",
+                "zh": "梨木樹"
+            },
+            "route": "NA30",
+            "seq": 18,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "419036314897BEEE",
+                    "5F319D33896DDC93",
+                    "7F0BE137AD68837A",
+                    "82FE339DDE27C953",
+                    "BEA270261C1E0D73",
+                    "E86E0FC9A40CBA3A",
+                    "A80621785DE588DB",
+                    "F52BC3F26081C9D7",
+                    "E66F7AC1E7D86A10",
+                    "27A897D5E2FAC7B9",
+                    "569C5AADDD0F3A28",
+                    "22913B501D24F569",
+                    "073EAEA8EDD7265C",
+                    "412DEEF534E127AF",
+                    "AAC64BCDD5B55A86",
+                    "C552CE565E1F0C85",
+                    "0D5759F7A4B185FE",
+                    "9F9D5E46754C52D4"
+                ]
+            }
+        },
         "NA31+1+HZMB Hong Kong Port+TSUEN WAN (NINA TOWER)": {
             "bound": {
                 "kmb": "I"
@@ -405885,7 +406128,7 @@
                     "330FCB2E8E28D4CF",
                     "4206E3523A2C11D5",
                     "B0D304F9542AE3BF",
-                    "6129FAE857E1D5F0",
+                    "C4BFD3A76F6CDCED",
                     "143D7489C808BD46",
                     "CFB33B4D4B0EA4BA",
                     "C763E328B97F0D03",
@@ -464456,7 +464699,7 @@
                 "lng": 114.18469428280828
             },
             "name": {
-                "en": "Stubbs Road, near Aia Building Access Road",
+                "en": "\tNear Hong Kong Adventist Hospital, Stubbs Road",
                 "zh": "司徒拔道, 近港安醫院"
             }
         },
@@ -498740,6 +498983,26 @@
                 "zh": "廣福道, 近廣福球場"
             }
         },
+        "20020557": {
+            "location": {
+                "lat": 22.24340150927804,
+                "lng": 114.15364623069765
+            },
+            "name": {
+                "en": "Near Ap Lei Chau Clinic, Main Street, Ap Lei Chau",
+                "zh": "鴨脷洲大街, 近鴨脷洲診所"
+            }
+        },
+        "20020558": {
+            "location": {
+                "lat": 22.24939688420193,
+                "lng": 114.16781902313234
+            },
+            "name": {
+                "en": "49 Wong Chuk Hang Road",
+                "zh": "黃竹坑道49號"
+            }
+        },
         "201": {
             "location": {
                 "lat": 22.429587,
@@ -505180,6 +505443,16 @@
                 "zh": "荃灣聯仁街"
             }
         },
+        "3359572AE1765132": {
+            "location": {
+                "lat": 22.467285,
+                "lng": 113.983965
+            },
+            "name": {
+                "en": "LAU FAU SHAN MAIN STREET ROUNDABOUT",
+                "zh": "流浮山正大街"
+            }
+        },
         "3366C1DC458401B3": {
             "location": {
                 "lat": 22.323122,
@@ -511208,6 +511481,16 @@
             "name": {
                 "en": "TUEN MUN PIER HEAD",
                 "zh": "屯門碼頭"
+            }
+        },
+        "497320292297256C": {
+            "location": {
+                "lat": 22.426797,
+                "lng": 113.94299
+            },
+            "name": {
+                "en": "HA PAK NAI",
+                "zh": "下白泥"
             }
         },
         "497D02F258D3A30E": {
@@ -519380,6 +519663,16 @@
                 "zh": "博康巴士總站"
             }
         },
+        "66BAE0730AA9044A": {
+            "location": {
+                "lat": 22.362716,
+                "lng": 114.015918
+            },
+            "name": {
+                "en": "TUEN MUN ROAD BBI (KOWLOON BOUND)",
+                "zh": "屯門公路轉車站(九龍方向)"
+            }
+        },
         "66BF94751BD28BAD": {
             "location": {
                 "lat": 22.384644,
@@ -525728,6 +526021,16 @@
             "name": {
                 "en": "LAM TIN (NORTH)",
                 "zh": "藍田(北)"
+            }
+        },
+        "80CE46D61881DC6A": {
+            "location": {
+                "lat": 22.438641,
+                "lng": 113.949096
+            },
+            "name": {
+                "en": "AP TSAI HANG",
+                "zh": "鴨仔坑"
             }
         },
         "80D6E715DA51CA02": {
@@ -534538,6 +534841,16 @@
             "name": {
                 "en": "PAK SHEK KOK SUBSTATION (N8)",
                 "zh": "白石角變電站 (N8)"
+            }
+        },
+        "A33D2929C5F3B7E0": {
+            "location": {
+                "lat": 22.358492,
+                "lng": 114.019106
+            },
+            "name": {
+                "en": "TUEN MUN ROAD BBI",
+                "zh": "屯門公路轉車站"
             }
         },
         "A33E576A3F6DDCA9": {
@@ -550288,6 +550601,16 @@
             "name": {
                 "en": "MOUSE ISLAND CHILDREN'S PLAYGROUND",
                 "zh": "老鼠洲兒童遊樂場"
+            }
+        },
+        "E107486C465320C4": {
+            "location": {
+                "lat": 22.438684,
+                "lng": 113.949043
+            },
+            "name": {
+                "en": "AP TSAI HANG",
+                "zh": "鴨仔坑"
             }
         },
         "E10A0960D4E103B1": {
