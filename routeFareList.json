@@ -20799,120 +20799,6 @@
                 ]
             }
         },
-        "110+1+Tiu Keng Leng Station Public Transport Interchange+Kowloon City(Circular)": {
-            "bound": {
-                "gmb": "O"
-            },
-            "co": [
-                "gmb"
-            ],
-            "dest": {
-                "en": "Kowloon City(Circular)",
-                "zh": "九龍城(循環線)"
-            },
-            "fares": [
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4",
-                "11.4"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "127": {
-                    "0630": [
-                        "1730",
-                        "1800"
-                    ],
-                    "1730": [
-                        "1930",
-                        "900"
-                    ],
-                    "1930": [
-                        "2230",
-                        "1800"
-                    ]
-                }
-            },
-            "gtfsId": "2007631",
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tiu Keng Leng Station Public Transport Interchange",
-                "zh": "調景嶺站公共運輸交匯處"
-            },
-            "route": "110",
-            "seq": 35,
-            "serviceType": 1,
-            "stops": {
-                "gmb": [
-                    "20015599",
-                    "20003049",
-                    "20015600",
-                    "20015601",
-                    "20015602",
-                    "20015603",
-                    "20007017",
-                    "20015604",
-                    "20015605",
-                    "20015606",
-                    "20015607",
-                    "20015608",
-                    "20012110",
-                    "20015616",
-                    "20015617",
-                    "20015618",
-                    "20015619",
-                    "20015259",
-                    "20015260",
-                    "20004512",
-                    "20015620",
-                    "20014204",
-                    "20014205",
-                    "20015288",
-                    "20015289",
-                    "20015621",
-                    "20012820",
-                    "20015622",
-                    "20003045",
-                    "20015623",
-                    "20015624",
-                    "20015625",
-                    "20015626",
-                    "20015627",
-                    "20015599"
-                ]
-            }
-        },
         "110+1+Tsim Sha Tsui (Mody Road)+Shau Kei Wan": {
             "bound": {
                 "ctb": "I"
@@ -69763,6 +69649,48 @@
                     "FBC1C97A0A3D671C",
                     "26EF34679134953C",
                     "0C4F5FC61E73367C"
+                ]
+            }
+        },
+        "234A+2+TSING LUNG TAU TSUEN+TSUEN WAN WEST STATION": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSUEN WAN WEST STATION",
+                "zh": "荃灣西站"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSING LUNG TAU TSUEN",
+                "zh": "青龍頭村"
+            },
+            "route": "234A",
+            "seq": 13,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "2DFE2D85D53C1114",
+                    "C4E03BB27317AF35",
+                    "0C4F5FC61E73367C",
+                    "4A68B87D533BA937",
+                    "F4FF1AAF9A7EB07A",
+                    "8AFF8B43EC3E547F",
+                    "6B2A3162063E2B8D",
+                    "ED9E5ACF98190E5C",
+                    "9E970734315233A2",
+                    "40A0B70767CA3F13",
+                    "4BDF62F2A7C32429",
+                    "92A8281D80524F78",
+                    "716D84D1B7EA256E"
                 ]
             }
         },
@@ -163361,37 +163289,6 @@
                     "F808AF482CCA028E",
                     "9C6800DD6E0CD683",
                     "6E821768CA09E8C9"
-                ]
-            }
-        },
-        "43R+1+Kennedy Town Station+Kennedy Town": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Kennedy Town",
-                "zh": "堅尼地城"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Kennedy Town Station",
-                "zh": "堅尼地城站"
-            },
-            "route": "43R",
-            "seq": 2,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003407",
-                    "001152"
                 ]
             }
         },
@@ -488133,56 +488030,6 @@
                 "zh": "唐明街公園"
             }
         },
-        "20015604": {
-            "location": {
-                "lat": 22.32143079933623,
-                "lng": 114.20694219325925
-            },
-            "name": {
-                "en": "Sheung Yuet Road, near Hong Leong Industrial Complex",
-                "zh": "常悅道, 近豐隆工業中心"
-            }
-        },
-        "20015605": {
-            "location": {
-                "lat": 22.32380035082803,
-                "lng": 114.20420761945618
-            },
-            "name": {
-                "en": "Trademart Drive, outside ITEC",
-                "zh": "展貿徑, 國際展貿中心外"
-            }
-        },
-        "20015606": {
-            "location": {
-                "lat": 22.32549595312472,
-                "lng": 114.20745356871572
-            },
-            "name": {
-                "en": "Kai Cheung Road outside Hong Kong Auxiliary Police Headquarters",
-                "zh": "啟祥道, 香港輔助警察總部外"
-            }
-        },
-        "20015607": {
-            "location": {
-                "lat": 22.335043241033276,
-                "lng": 114.20236439726867
-            },
-            "name": {
-                "en": "Prince Edward Road East, opposite Rhythm Garden",
-                "zh": "太子道東, 彩頤花園對面"
-            }
-        },
-        "20015608": {
-            "location": {
-                "lat": 22.332719898393545,
-                "lng": 114.19727234356515
-            },
-            "name": {
-                "en": "Prince Edward Road East, opposite The Latitude",
-                "zh": "太子道東, 譽.港灣對面"
-            }
-        },
         "20015609": {
             "location": {
                 "lat": 22.44438048409823,
@@ -488263,46 +488110,6 @@
                 "zh": "太子道西, 蘭苑外"
             }
         },
-        "20015617": {
-            "location": {
-                "lat": 22.326623188101173,
-                "lng": 114.18400356506527
-            },
-            "name": {
-                "en": "Prince Edward Road West outside Spring House near St. Teresa’s Hospital",
-                "zh": "太子道西, 春苑外, 近聖德肋撤醫院"
-            }
-        },
-        "20015618": {
-            "location": {
-                "lat": 22.323038013978056,
-                "lng": 114.17838300699245
-            },
-            "name": {
-                "en": "Waterloo Road outside Regal Court near Kowloon Hospital",
-                "zh": "窩打老道, 麗豪閣外, 近九龍醫院"
-            }
-        },
-        "20015619": {
-            "location": {
-                "lat": 22.322648946697633,
-                "lng": 114.18022207174548
-            },
-            "name": {
-                "en": "Argyle Street, near Kowloon Hospital",
-                "zh": "亞皆老街, 近九龍醫院"
-            }
-        },
-        "20015620": {
-            "location": {
-                "lat": 22.327718857869787,
-                "lng": 114.1888765952479
-            },
-            "name": {
-                "en": "Prince Edward Road West near Nga Tsin Long Road",
-                "zh": "太子道西, 近衙前塱道"
-            }
-        },
         "20015621": {
             "location": {
                 "lat": 22.320797802007544,
@@ -488351,16 +488158,6 @@
             "name": {
                 "en": "Tong Chun Street, near The Wings II",
                 "zh": "唐俊街, 近天晉II"
-            }
-        },
-        "20015626": {
-            "location": {
-                "lat": 22.308407264443908,
-                "lng": 114.25896391389361
-            },
-            "name": {
-                "en": "Tong Tak Street, near PopCorn",
-                "zh": "唐德街, 近 PopCorn"
             }
         },
         "20015627": {
