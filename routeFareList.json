@@ -86525,6 +86525,7 @@
                 "6.6",
                 "6.6",
                 "6.6",
+                "6.6",
                 "6.6"
             ],
             "faresHoliday": null,
@@ -86544,7 +86545,7 @@
                 "zh": "大埔墟站"
             },
             "route": "264R",
-            "seq": 23,
+            "seq": 24,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -86565,6 +86566,7 @@
                     "6D4E7B9D5F9584E7",
                     "47AB1894215AECEE",
                     "42AEF6365E78DA56",
+                    "BA9166F11C8D446E",
                     "8D56DB404D264D5A",
                     "A00D00FC2F4F8400",
                     "C052B4D46E1F48EA",
@@ -102604,6 +102606,7 @@
                 "4.8",
                 "4.8",
                 "4.8",
+                "4.8",
                 "4.8"
             ],
             "faresHoliday": null,
@@ -102691,7 +102694,7 @@
                 "zh": "上水(彩園)"
             },
             "route": "276B",
-            "seq": 13,
+            "seq": 14,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -102706,6 +102709,7 @@
                     "6D4E7B9D5F9584E7",
                     "47AB1894215AECEE",
                     "42AEF6365E78DA56",
+                    "BA9166F11C8D446E",
                     "8D56DB404D264D5A",
                     "430C6E88A93B42DE"
                 ]
@@ -234437,7 +234441,8 @@
                 "4.2",
                 "4.2",
                 "4.2",
-                "4.2"
+                "4.2",
+                "3.7"
             ],
             "faresHoliday": null,
             "freq": {
@@ -234470,7 +234475,7 @@
                 "zh": "元朗(德業街)"
             },
             "route": "69",
-            "seq": 18,
+            "seq": 19,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -234489,6 +234494,7 @@
                     "C480A2E59BC05FB0",
                     "71D916F7E97D18A3",
                     "42AEF6365E78DA56",
+                    "BA9166F11C8D446E",
                     "8D56DB404D264D5A",
                     "63DF37D89C356A04",
                     "1A52AD7D8F64311F"
@@ -395842,18 +395848,68 @@
                 "en": "MEI FOO",
                 "zh": "美孚"
             },
-            "fares": null,
+            "fares": [
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7",
+                "13.7"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "511": {
+                    "0000": [
+                        "0320",
+                        "1500"
+                    ],
+                    "0320": [
+                        "0500",
+                        "1200"
+                    ]
+                }
+            },
+            "gtfsId": "1439",
+            "jt": "89",
             "nlbId": null,
             "orig": {
                 "en": "TIN TSZ",
                 "zh": "天慈"
             },
             "route": "N269",
-            "seq": 38,
+            "seq": 39,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -395863,6 +395919,7 @@
                     "6D4E7B9D5F9584E7",
                     "47AB1894215AECEE",
                     "42AEF6365E78DA56",
+                    "BA9166F11C8D446E",
                     "8D56DB404D264D5A",
                     "67D80F37744E1277",
                     "080EF1BEA737A5D3",
@@ -408719,7 +408776,7 @@
                 "zh": "大埔超級城(太和路)"
             },
             "route": "PB3",
-            "seq": 7,
+            "seq": 6,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -408728,8 +408785,7 @@
                     "8C90768E30E981C6",
                     "321060BAE1447BEE",
                     "8C90768E30E981C6",
-                    "B1882202E2B36620",
-                    "AFFD0E0C6077741D"
+                    "B1882202E2B36620"
                 ]
             }
         },
@@ -454914,7 +454970,7 @@
                 "lng": 114.12547885247488
             },
             "name": {
-                "en": "Victoria Road, outside English School Foundation West Island School",
+                "en": "Victoria Road, outside English Schools Foundation West Island School",
                 "zh": "域多利道, 英基學校協會西島中學外"
             }
         },
@@ -454924,7 +454980,7 @@
                 "lng": 114.12643929878426
             },
             "name": {
-                "en": "Victoria Road, opposite English School Foundation West Island School",
+                "en": "Victoria Road, opposite English Schools Foundation West Island School",
                 "zh": "域多利道, 英基學校協會西島中學對面"
             }
         },
@@ -462664,8 +462720,8 @@
                 "lng": 114.22624465486318
             },
             "name": {
-                "en": "Sai Sha Road bus lay-by near Kam On Court",
-                "zh": "西沙路近錦鞍苑的巴士停車灣"
+                "en": "Sai Sha Road, outside Kam On Court",
+                "zh": "西沙路, 錦鞍苑外"
             }
         },
         "20002321": {
@@ -541738,6 +541794,16 @@
                 "zh": "新都城大廈"
             }
         },
+        "BA9166F11C8D446E": {
+            "location": {
+                "lat": 22.468468,
+                "lng": 113.999554
+            },
+            "name": {
+                "en": "YAT TAM HOUSE TIN YAT ESTATE",
+                "zh": "天逸邨逸潭樓"
+            }
+        },
         "BA95025DE2FB9878": {
             "location": {
                 "lat": 22.320944,
@@ -541914,7 +541980,7 @@
                 "lng": 114.147718
             },
             "name": {
-                "en": "BANYAN GARDENS",
+                "en": "BANYAN GARDEN",
                 "zh": "泓景臺"
             }
         },
