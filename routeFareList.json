@@ -116150,6 +116150,7 @@
                 "5.6",
                 "5.6",
                 "5.6",
+                "5.6",
                 "5.6"
             ],
             "faresHoliday": null,
@@ -116277,12 +116278,13 @@
                 "zh": "長沙灣(海盈邨)"
             },
             "route": "296C",
-            "seq": 28,
+            "seq": 30,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "6571D5C2A2184B8D",
                     "F8A31970F2A8E25C",
+                    "2FE12E7B84CB20D4",
                     "1BD82E4312536F0C",
                     "1E88575F644EF7D4",
                     "ADA4B4F4B604885B",
@@ -116308,7 +116310,8 @@
                     "2A5B424322D35B0A",
                     "ED8812E232F6958A",
                     "9ACC26CD04287102",
-                    "4E62491AA640A5EB"
+                    "4E62491AA640A5EB",
+                    "5527FF8CC85CF139"
                 ]
             }
         },
@@ -214418,7 +214421,7 @@
                 ]
             }
         },
-        "618+2+Tin Shui Wai (Tin Yan Estate)+Shenzhen Bay Port": {
+        "618A+2+Tin Shui Wai (Tin Yan Estate)+Shenzhen Bay Port": {
             "bound": {
                 "gmb": "O"
             },
@@ -214459,7 +214462,7 @@
                 "en": "Tin Shui Wai (Tin Yan Estate)",
                 "zh": "天水圍(天恩邨)"
             },
-            "route": "618",
+            "route": "618A",
             "seq": 3,
             "serviceType": 2,
             "stops": {
@@ -214467,6 +214470,59 @@
                     "20015445",
                     "20015446",
                     "20015453"
+                ]
+            }
+        },
+        "618B+2+Tin Shui Wai (Wetland Park Road)+Shenzhen Bay Port": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Shenzhen Bay Port",
+                "zh": "深圳灣口岸"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "31": {
+                    "0620": [
+                        "1000",
+                        "1200"
+                    ],
+                    "1600": [
+                        "1900",
+                        "1200"
+                    ]
+                },
+                "96": {
+                    "0600": [
+                        "2220",
+                        "1200"
+                    ]
+                }
+            },
+            "gtfsId": "2010434",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tin Shui Wai (Wetland Park Road)",
+                "zh": "天水圍(濕地公園路)"
+            },
+            "route": "618B",
+            "seq": 7,
+            "serviceType": 2,
+            "stops": {
+                "gmb": [
+                    "20015447",
+                    "20020623",
+                    "20015448",
+                    "20015449",
+                    "20015451",
+                    "20015452",
+                    "20020624"
                 ]
             }
         },
@@ -408706,14 +408762,16 @@
                 "zh": "馬灣"
             },
             "route": "PB2",
-            "seq": 7,
+            "seq": 9,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "02FBFA6B14F230C6",
                     "321060BAE1447BEE",
+                    "860671A5FA383DA3",
                     "0524415976F284A4",
                     "90F0F685E42CC10D",
+                    "860671A5FA383DA3",
                     "0524415976F284A4",
                     "321060BAE1447BEE",
                     "02FBFA6B14F230C6"
@@ -420735,8 +420793,8 @@
         },
         "001217": {
             "location": {
-                "lat": 22.273682822091,
-                "lng": 114.23182613053
+                "lat": 22.273215372091,
+                "lng": 114.23242216053
             },
             "name": {
                 "en": "Lei Yue Mun Park, Chai Wan Road",
@@ -499683,6 +499741,26 @@
                 "zh": "天葵路, 慧景軒對面"
             }
         },
+        "20020623": {
+            "location": {
+                "lat": 22.466883321790284,
+                "lng": 114.00456368923189
+            },
+            "name": {
+                "en": "Tin Kwai Road, opposite to Vianni Cove",
+                "zh": "天葵路, 慧景軒對面"
+            }
+        },
+        "20020624": {
+            "location": {
+                "lat": 22.494874149931675,
+                "lng": 113.946590423584
+            },
+            "name": {
+                "en": "Shenzhen Bay Port",
+                "zh": "深圳灣口岸"
+            }
+        },
         "20020656": {
             "location": {
                 "lat": 22.249734504308275,
@@ -504601,6 +504679,16 @@
             "name": {
                 "en": "TUNG CHUNG CABLE CAR TERMINAL",
                 "zh": "東涌纜車站"
+            }
+        },
+        "2FE12E7B84CB20D4": {
+            "location": {
+                "lat": 22.32979,
+                "lng": 114.145041
+            },
+            "name": {
+                "en": "HING WAH STREET WEST (BUS DEPOT)",
+                "zh": "興華街西(巴士廠)"
             }
         },
         "2FE9CA5CC344B5A3": {
@@ -528221,6 +528309,16 @@
             "name": {
                 "en": "ST. ROSE OF LIMA'S COLLEGE",
                 "zh": "聖羅撒書院"
+            }
+        },
+        "860671A5FA383DA3": {
+            "location": {
+                "lat": 22.335146,
+                "lng": 114.147718
+            },
+            "name": {
+                "en": "BANYAN GARDEN",
+                "zh": "泓景臺"
             }
         },
         "8611CE1D516C6A6F": {
@@ -557809,8 +557907,8 @@
                 "lng": 114.145445
             },
             "name": {
-                "en": "HOI YING ESTATE",
-                "zh": "海盈邨"
+                "en": "HING WAH STREET WEST (HOI YING ESTATE)",
+                "zh": "興華街西(海盈邨)"
             }
         },
         "F8B3A5C8D0D3CED7": {
