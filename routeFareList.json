@@ -59550,7 +59550,7 @@
                 ]
             }
         },
-        "20R+1+Kai Tak Cruise Terminal+Tsim Sha Tsui": {
+        "20R+1+Kai Tak Cruise Terminal+Tsim Sha Tsui ／ HSR West Kowloon Station": {
             "bound": {
                 "ctb": "O"
             },
@@ -59558,8 +59558,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Tsim Sha Tsui",
-                "zh": "尖沙咀"
+                "en": "Tsim Sha Tsui ／ HSR West Kowloon Station",
+                "zh": "尖沙咀 ／ 高鐵西九龍站"
             },
             "fares": null,
             "faresHoliday": null,
@@ -59581,7 +59581,7 @@
                 ]
             }
         },
-        "20R+1+Tsim Sha Tsui+Kai Tak Cruise Terminal": {
+        "20R+1+Tsim Sha Tsui ／ HSR West Kowloon Station+Kai Tak Cruise Terminal": {
             "bound": {
                 "ctb": "I"
             },
@@ -59599,8 +59599,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tsim Sha Tsui",
-                "zh": "尖沙咀"
+                "en": "Tsim Sha Tsui ／ HSR West Kowloon Station",
+                "zh": "尖沙咀 ／ 高鐵西九龍站"
             },
             "route": "20R",
             "seq": 2,
@@ -95950,7 +95950,7 @@
                 "zh": "尖沙咀東(麼地道)"
             },
             "route": "270S",
-            "seq": 28,
+            "seq": 29,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -95963,8 +95963,9 @@
                     "088B858E4B54D8AC",
                     "E173F2DA030C6AAB",
                     "221A18C37331E6FD",
-                    "5CA7841E84D52C8A",
-                    "22138E6C8051FDBD",
+                    "14DDE929D10FE4B7",
+                    "DE27CD3EB0AF43D8",
+                    "68A3AF80BADFDE9F",
                     "14BDB94A8F3ED3EC",
                     "D0FB28B8EED62431",
                     "C7120BD9A94B4F6A",
@@ -182030,6 +182031,7 @@
                 "7",
                 "7",
                 "7",
+                "7",
                 "7"
             ],
             "faresHoliday": null,
@@ -182053,7 +182055,7 @@
                 "zh": "古洞(南)"
             },
             "route": "50A",
-            "seq": 7,
+            "seq": 8,
             "serviceType": 3,
             "stops": {
                 "gmb": [
@@ -182062,6 +182064,7 @@
                     "20013005",
                     "20013009",
                     "20012281",
+                    "20020722",
                     "20007525",
                     "20001384"
                 ]
@@ -182435,6 +182438,7 @@
                 "zh": "上水站"
             },
             "fares": [
+                "7",
                 "7",
                 "7",
                 "7",
@@ -182927,7 +182931,7 @@
                 "zh": "坑頭"
             },
             "route": "50K",
-            "seq": 7,
+            "seq": 8,
             "serviceType": 3,
             "stops": {
                 "gmb": [
@@ -182936,6 +182940,7 @@
                     "20013005",
                     "20013009",
                     "20012281",
+                    "20020722",
                     "20007525",
                     "20001384"
                 ]
@@ -196274,6 +196279,7 @@
                 "5.6",
                 "5.6",
                 "5.6",
+                "5.6",
                 "5.6"
             ],
             "faresHoliday": null,
@@ -196311,7 +196317,7 @@
                 "zh": "上水鄉"
             },
             "route": "59A",
-            "seq": 5,
+            "seq": 6,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -196319,7 +196325,8 @@
                     "20017983",
                     "20001384",
                     "20003205",
-                    "20017984"
+                    "20017984",
+                    "20003205"
                 ]
             }
         },
@@ -196708,6 +196715,8 @@
                 "9.9",
                 "9.9",
                 "9.9",
+                "9.9",
+                "9.9",
                 "9.9"
             ],
             "faresHoliday": null,
@@ -196731,7 +196740,7 @@
                 "zh": "上水站"
             },
             "route": "59K",
-            "seq": 7,
+            "seq": 9,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -196740,6 +196749,8 @@
                     "20014295",
                     "20014296",
                     "20014297",
+                    "20020723",
+                    "20020724",
                     "20014298",
                     "20014299"
                 ]
@@ -408885,8 +408896,8 @@
                     "860671A5FA383DA3",
                     "0524415976F284A4",
                     "90F0F685E42CC10D",
-                    "860671A5FA383DA3",
                     "0524415976F284A4",
+                    "860671A5FA383DA3",
                     "321060BAE1447BEE",
                     "02FBFA6B14F230C6"
                 ]
@@ -499913,6 +499924,36 @@
             "name": {
                 "en": "No. 60 Johnston Road",
                 "zh": "莊士敦道60號"
+            }
+        },
+        "20020722": {
+            "location": {
+                "lat": 22.502620566893228,
+                "lng": 114.12493586540224
+            },
+            "name": {
+                "en": "Choi Yuen Road near Choi Pik House",
+                "zh": "彩園路,近彩蒲苑彩碧閣"
+            }
+        },
+        "20020723": {
+            "location": {
+                "lat": 22.54978851049475,
+                "lng": 114.15481567382814
+            },
+            "name": {
+                "en": "Lin Ma Hang Road near HK Customs Inspection Station",
+                "zh": "蓮麻坑路, 近海關檢查站"
+            }
+        },
+        "20020724": {
+            "location": {
+                "lat": 22.552285450191572,
+                "lng": 114.15526360273363
+            },
+            "name": {
+                "en": "Lin Ma Hang Road near Heung Yuen Wai Fire Station",
+                "zh": "蓮麻坑路, 近香園圍消防局"
             }
         },
         "201": {
