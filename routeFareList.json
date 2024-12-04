@@ -59559,7 +59559,7 @@
             ],
             "dest": {
                 "en": "Tsim Sha Tsui ／ HSR West Kowloon Station",
-                "zh": "尖沙咀 ／ 高鐵西九龍站"
+                "zh": "尖沙咀／高鐵西九龍站"
             },
             "fares": null,
             "faresHoliday": null,
@@ -59572,43 +59572,13 @@
                 "zh": "啟德郵輪碼頭"
             },
             "route": "20R",
-            "seq": 2,
+            "seq": 3,
             "serviceType": 1,
             "stops": {
                 "ctb": [
                     "003519",
-                    "001588"
-                ]
-            }
-        },
-        "20R+1+Tsim Sha Tsui ／ HSR West Kowloon Station+Kai Tak Cruise Terminal": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Kai Tak Cruise Terminal",
-                "zh": "啟德郵輪碼頭"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tsim Sha Tsui ／ HSR West Kowloon Station",
-                "zh": "尖沙咀 ／ 高鐵西九龍站"
-            },
-            "route": "20R",
-            "seq": 2,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001588",
-                    "003519"
+                    "002630",
+                    "003549"
                 ]
             }
         },
@@ -151391,6 +151361,8 @@
                 "5.9",
                 "5.9",
                 "5.9",
+                "5.9",
+                "5.9",
                 "5.9"
             ],
             "faresHoliday": null,
@@ -151428,27 +151400,29 @@
                 "zh": "葵芳站"
             },
             "route": "404M",
-            "seq": 19,
+            "seq": 21,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20002127",
-                    "20001815",
                     "20001816",
                     "20001696",
                     "20009117",
                     "20004208",
+                    "20020755",
                     "20004210",
+                    "20020756",
                     "20004211",
                     "20002131",
                     "20004212",
+                    "20020757",
                     "20004213",
                     "20010327",
                     "20009114",
+                    "20020758",
                     "20009119",
                     "20001690",
                     "20001817",
-                    "20001818",
                     "20001819",
                     "20002127"
                 ]
@@ -151514,19 +151488,19 @@
             "stops": {
                 "gmb": [
                     "20002127",
-                    "20001815",
                     "20001816",
                     "20001696",
                     "20009117",
                     "20004208",
+                    "20020755",
                     "20004210",
                     "20013628",
                     "20010327",
                     "20009114",
+                    "20020758",
                     "20009119",
                     "20001690",
                     "20001817",
-                    "20001818",
                     "20009128",
                     "20002127"
                 ]
@@ -256469,96 +256443,6 @@
                     "F9C14690633CE7E0",
                     "7BCFD79F22F60457",
                     "ACDCC9E65172243D",
-                    "30D564180B68ECA8",
-                    "D80313EC29620E1D",
-                    "D9B53E4B3A192940",
-                    "060699911C9E300F",
-                    "9E256D7EE9FE68BC",
-                    "DF942A6B97EABDC4",
-                    "136E2FF5A3A98495",
-                    "80B56E2C7719DAF4",
-                    "71E3EB7E709522C7",
-                    "8D0555A78A132018",
-                    "6F666C5235BD859B"
-                ]
-            }
-        },
-        "74C+2+KAU LUNG HANG+KWUN TONG FERRY": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "KWUN TONG FERRY",
-                "zh": "觀塘碼頭"
-            },
-            "fares": [
-                "16.2",
-                "16.2",
-                "16.2",
-                "16.2",
-                "16.2",
-                "16.2",
-                "16.2",
-                "11.1",
-                "11.1",
-                "11.1",
-                "11.1",
-                "11.1",
-                "11.1",
-                "11.1",
-                "11.1",
-                "11.1",
-                "11.1",
-                "11.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0700": null,
-                    "0800": null
-                }
-            },
-            "gtfsId": "8392",
-            "jt": "85",
-            "nlbId": null,
-            "orig": {
-                "en": "KAU LUNG HANG",
-                "zh": "九龍坑"
-            },
-            "route": "74C",
-            "seq": 28,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "37E653F1DC727EB2",
-                    "CB295B56D3762A1F",
-                    "F8B3E5A11921AD1B",
-                    "C66CDE62B5AEB8DA",
-                    "832EFD8F5165814E",
-                    "F7670D87C1847D31",
-                    "BE5E07865E13374E",
-                    "94236C65C84D8C17",
-                    "4C82D99D0721ADE9",
-                    "399EF919E10C7F33",
-                    "56F79FB1FC157E22",
-                    "95B249916F323BD4",
-                    "68B90B4CF89B98B9",
-                    "F9C14690633CE7E0",
-                    "7BCFD79F22F60457",
-                    "ACDCC9E65172243D",
-                    "12E4BAFA2B73435B",
                     "30D564180B68ECA8",
                     "D80313EC29620E1D",
                     "D9B53E4B3A192940",
@@ -466582,7 +466466,7 @@
                 "lng": 114.11499916437609
             },
             "name": {
-                "en": "Wing Shun Street, outside Tsuen Wan Abattoir",
+                "en": "Wing Shun Street, outside Tsuen Wan Slaughterhouse",
                 "zh": "永順街, 荃灣屠場外"
             }
         },
@@ -466592,7 +466476,7 @@
                 "lng": 114.11487412902912
             },
             "name": {
-                "en": "Wing Shun Street, opposite Tsuen Wan Abattoir",
+                "en": "Wing Shun Street opposite to Tsuen Wan Slaughterhouse",
                 "zh": "永順街, 荃灣屠場對面"
             }
         },
@@ -471798,8 +471682,8 @@
         },
         "20009117": {
             "location": {
-                "lat": 22.36183725661698,
-                "lng": 114.11945611238481
+                "lat": 22.36188103043589,
+                "lng": 114.1194185614586
             },
             "name": {
                 "en": "Wing Kei Road, opposite Kerry Warehouse (Tsuen Wan)",
@@ -499954,6 +499838,46 @@
             "name": {
                 "en": "Lin Ma Hang Road near Heung Yuen Wai Fire Station",
                 "zh": "蓮麻坑路, 近香園圍消防局"
+            }
+        },
+        "20020755": {
+            "location": {
+                "lat": 22.357763330989147,
+                "lng": 114.11873996257783
+            },
+            "name": {
+                "en": "Wing Kei Road, outside Hopewell Logistics Centre",
+                "zh": "永基路, 合和建材中心外"
+            }
+        },
+        "20020756": {
+            "location": {
+                "lat": 22.35562009467812,
+                "lng": 114.11595314741137
+            },
+            "name": {
+                "en": "Wing Shun Street, outside Marine Department Rambler Channel Public Cargo Working Area",
+                "zh": "永順街, 海事處藍巴勒海峽公眾貨物裝卸區外"
+            }
+        },
+        "20020757": {
+            "location": {
+                "lat": 22.355622575294774,
+                "lng": 114.11607787013054
+            },
+            "name": {
+                "en": "Wing Shun Street, opposite to Marine Department Rambler Channel Public Cargo Working Area",
+                "zh": "永順街, 海事處藍巴勒海峽公眾貨物裝卸區對面"
+            }
+        },
+        "20020758": {
+            "location": {
+                "lat": 22.35947367936485,
+                "lng": 114.11845698952676
+            },
+            "name": {
+                "en": "Wing Kei Road, outside Kerry TC Warehouse 2",
+                "zh": "永基路, 嘉里溫控貨倉2外"
             }
         },
         "201": {
@@ -540098,8 +540022,8 @@
         },
         "B337148DB333E5C4": {
             "location": {
-                "lat": 22.342864,
-                "lng": 114.207963
+                "lat": 22.342384,
+                "lng": 114.208108
             },
             "name": {
                 "en": "FU SHAN ESTATE",
@@ -543108,8 +543032,8 @@
         },
         "BF3D6019C5CA6D35": {
             "location": {
-                "lat": 22.342011,
-                "lng": 114.208247
+                "lat": 22.341903,
+                "lng": 114.208316
             },
             "name": {
                 "en": "FU SHAN ESTATE",
@@ -547108,8 +547032,8 @@
         },
         "CF89BD775D2ABDC9": {
             "location": {
-                "lat": 22.342713,
-                "lng": 114.208029
+                "lat": 22.341572,
+                "lng": 114.208418
             },
             "name": {
                 "en": "FU SHAN ESTATE",
