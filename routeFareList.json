@@ -409753,6 +409753,98 @@
                 ]
             }
         },
+        "R934+1+TSUEN WAN (BAYVIEW GARDEN)+CAUSEWAY BAY (VICTORIA PARK)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "CAUSEWAY BAY (VICTORIA PARK)",
+                "zh": "銅鑼灣(維多利亞公園)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSUEN WAN (BAYVIEW GARDEN)",
+                "zh": "荃灣(灣景花園)"
+            },
+            "route": "R934",
+            "seq": 15,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "88F78BDD9BDD7636",
+                    "3DD784D9B2C30AFC",
+                    "9B664F8FD4E76E48",
+                    "5FD70A34C55CE590",
+                    "A6DCDE5BE439B179",
+                    "38C7D227DA221E77",
+                    "1FBE6A92A88835D3",
+                    "CF2B9E9382183398",
+                    "C5C940CF1281B923",
+                    "5941DC3E9FA7BE8B",
+                    "ACCABC765E3F0961",
+                    "CAF9395414DBD090",
+                    "06C9926B2E2B304F",
+                    "76B4054F2E1F00B0",
+                    "17B98BD1165A7B92"
+                ]
+            }
+        },
+        "R948+1+TSING YI (CHEUNG WANG ESTATE)+CAUSEWAY BAY (VICTORIA PARK)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "CAUSEWAY BAY (VICTORIA PARK)",
+                "zh": "銅鑼灣(維多利亞公園)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSING YI (CHEUNG WANG ESTATE)",
+                "zh": "青衣(長宏邨)"
+            },
+            "route": "R948",
+            "seq": 19,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "79842A7E2FC0844F",
+                    "FF5CF18C5510B901",
+                    "7E50BA0974C3B983",
+                    "00EC5193F83C6F76",
+                    "4E870B220826BEE0",
+                    "5AD2A4D21C226335",
+                    "A454170B2B59B587",
+                    "973EBE6A3543C701",
+                    "AB87BD2749FFEACA",
+                    "D0BE5E470FE2AD0B",
+                    "67F3E54FF145BA65",
+                    "F02CE37AD01DF17E",
+                    "3A9EE9221AB3E27C",
+                    "7192051038B36F08",
+                    "1A37A52F97A04C81",
+                    "CA60760D2303E6D0",
+                    "06C9926B2E2B304F",
+                    "76B4054F2E1F00B0",
+                    "17B98BD1165A7B92"
+                ]
+            }
+        },
         "S1+1+TUNG CHUNG STATION+Airport (Circular)": {
             "bound": {
                 "ctb": "O",
