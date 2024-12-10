@@ -59558,7 +59558,7 @@
                 ]
             }
         },
-        "20R+1+Kai Tak Cruise Terminal+High Speed Rail West Kowloon Station (via: Tsim Sha Tsui)": {
+        "20R+1+Kai Tak Cruise Terminal+Tsim Sha Tsui ／ High Speed Rail West Kowloon Station": {
             "bound": {
                 "ctb": "O"
             },
@@ -59566,8 +59566,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "High Speed Rail West Kowloon Station (via: Tsim Sha Tsui)",
-                "zh": "高鐵西九龍站 (經:尖沙咀)"
+                "en": "Tsim Sha Tsui ／ High Speed Rail West Kowloon Station",
+                "zh": "尖沙咀／高鐵西九龍站"
             },
             "fares": null,
             "faresHoliday": null,
@@ -59580,13 +59580,45 @@
                 "zh": "啟德郵輪碼頭"
             },
             "route": "20R",
-            "seq": 3,
+            "seq": 4,
             "serviceType": 1,
             "stops": {
                 "ctb": [
                     "003519",
                     "002630",
-                    "003549"
+                    "003549",
+                    "001588"
+                ]
+            }
+        },
+        "20R+1+Tsim Sha Tsui ／ High Speed Rail West Kowloon Station+Kai Tak Cruise Terminal": {
+            "bound": {
+                "ctb": "I"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Kai Tak Cruise Terminal",
+                "zh": "啟德郵輪碼頭"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tsim Sha Tsui ／ High Speed Rail West Kowloon Station",
+                "zh": "尖沙咀／高鐵西九龍站"
+            },
+            "route": "20R",
+            "seq": 2,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "001588",
+                    "003519"
                 ]
             }
         },
@@ -125101,7 +125133,7 @@
                 ]
             }
         },
-        "307P+1+Tin Hau Station+Tai Po (Ting Tai Road／ Fu Tip)": {
+        "307P+1+Tin Hau Station+Tai Po (Ting Tai Road ／ Fu Tip)": {
             "bound": {
                 "ctb": "O"
             },
@@ -125110,8 +125142,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Tai Po (Ting Tai Road／ Fu Tip)",
-                "zh": "大埔 (汀太路／ 富蝶)"
+                "en": "Tai Po (Ting Tai Road ／ Fu Tip)",
+                "zh": "大埔 (汀太路／富蝶)"
             },
             "fares": [
                 "25.7",
@@ -500069,8 +500101,8 @@
         },
         "20020791": {
             "location": {
-                "lat": 22.503691054888932,
-                "lng": 114.12555813789369
+                "lat": 22.503656363278253,
+                "lng": 114.1255044937134
             },
             "name": {
                 "en": "San Wan Road eastbound (near Former Shek Wu Hui Bus Depot)",
@@ -500079,8 +500111,8 @@
         },
         "20020792": {
             "location": {
-                "lat": 22.501906903626274,
-                "lng": 114.12832617759706
+                "lat": 22.501931683662544,
+                "lng": 114.12828594446184
             },
             "name": {
                 "en": "Sheung Shui Station GMB Terminus",
