@@ -32183,7 +32183,7 @@
                 ]
             }
         },
-        "11X+1+HUNG HOM STATION+ON TAI (NORTH)": {
+        "11X+1+HUNG HOM STATION BUS TERMINUS+ON TAI (NORTH) (CHI TAI HOUSE)": {
             "bound": {
                 "kmb": "I"
             },
@@ -32191,8 +32191,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "ON TAI (NORTH)",
-                "zh": "安泰(北)"
+                "en": "ON TAI (NORTH) (CHI TAI HOUSE)",
+                "zh": "安泰(北)(智泰樓)"
             },
             "fares": [
                 "8.3",
@@ -32299,8 +32299,8 @@
             "jt": "53",
             "nlbId": null,
             "orig": {
-                "en": "HUNG HOM STATION",
-                "zh": "紅磡站"
+                "en": "HUNG HOM STATION BUS TERMINUS",
+                "zh": "紅磡站總站"
             },
             "route": "11X",
             "seq": 31,
@@ -32323,7 +32323,6 @@
                     "0AB522DFFCD4CD4F",
                     "7210357910C44570",
                     "C8FD960431F7210C",
-                    "CB341BEEABF66D6E",
                     "6530130BE25E909C",
                     "3093477EA64DDA89",
                     "E61F9EA5AEE1EFE0",
@@ -32337,7 +32336,8 @@
                     "466BC4C1908A1A06",
                     "AA52228890817D12",
                     "D9563FD5B8CB0CEF",
-                    "FF68304E8C1FF0B1"
+                    "A6A1C99BF11EE56C",
+                    "C12548B7D13D566A"
                 ]
             }
         },
@@ -62746,7 +62746,7 @@
                 "zh": "安泰"
             },
             "route": "213M",
-            "seq": 12,
+            "seq": 13,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -62761,7 +62761,8 @@
                     "466BC4C1908A1A06",
                     "AA52228890817D12",
                     "389B25932AD10BA3",
-                    "FF68304E8C1FF0B1"
+                    "FF68304E8C1FF0B1",
+                    "716E5DBD24DCE28B"
                 ]
             }
         },
@@ -163328,6 +163329,57 @@
                     "F808AF482CCA028E",
                     "9C6800DD6E0CD683",
                     "6E821768CA09E8C9"
+                ]
+            }
+        },
+        "43S+1+HONG KONG SCIENCE PARK+SHEK YAM": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SHEK YAM",
+                "zh": "石蔭"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "HONG KONG SCIENCE PARK",
+                "zh": "香港科學園"
+            },
+            "route": "43S",
+            "seq": 22,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "6E821768CA09E8C9",
+                    "9C6800DD6E0CD683",
+                    "A0D379E172F5BC93",
+                    "853CD1316EB5227B",
+                    "BE6EC9708F5FB613",
+                    "823E3EE2413E40E2",
+                    "45AB0EC4F195CA7A",
+                    "620E14F31DA31490",
+                    "26D2833891C00F40",
+                    "0A1DAEAFFDFF0B66",
+                    "9FD6AAFA1318E3D9",
+                    "066AA1A504714A20",
+                    "D2ACD052AFD5900A",
+                    "6334F84E7B0B49E6",
+                    "A91E6B3E8A9A7B34",
+                    "26C0B01357752657",
+                    "C84CAD6CCD18F87F",
+                    "478ACE8A8C9A2705",
+                    "A13C2C1D5D3EE0D7",
+                    "AE7C79C814E6BD95",
+                    "C5294C92C5C6E334",
+                    "F718BAC64885E69E"
                 ]
             }
         },
@@ -308904,7 +308956,13 @@
             ],
             "faresHoliday": null,
             "freq": {
-                "127": {
+                "63": {
+                    "0630": [
+                        "1930",
+                        "1200"
+                    ]
+                },
+                "64": {
                     "0630": [
                         "1930",
                         "1800"
