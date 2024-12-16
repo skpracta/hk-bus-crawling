@@ -87905,7 +87905,7 @@
                 ]
             }
         },
-        "265S+1+TIN SHUI WAI TOWN CENTRE+EDUCATION UNIVERSITY OF HONG KONG": {
+        "265S+1+TIN SHUI WAI TOWN CENTRE+THE EDUCATION UNIVERSITY OF HK": {
             "bound": {
                 "kmb": "O"
             },
@@ -87913,7 +87913,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "EDUCATION UNIVERSITY OF HONG KONG",
+                "en": "THE EDUCATION UNIVERSITY OF HK",
                 "zh": "香港教育大學"
             },
             "fares": [
@@ -87987,15 +87987,15 @@
                     "F9C14690633CE7E0",
                     "7BCFD79F22F60457",
                     "32C1F605CAAD7861",
-                    "DAC33107054B9FED",
-                    "4705F639E370A9AD",
                     "CAB927254C5D8892",
                     "ADF5445FF5059D45",
-                    "BB33B8049C297ADD"
+                    "BB33B8049C297ADD",
+                    "5998A11C63EAB82E",
+                    "22B76E4C5793EFB9"
                 ]
             }
         },
-        "265S+2+TIN SHUI WAI TOWN CENTRE+EDUCATION UNIVERSITY OF HONG KONG": {
+        "265S+2+TIN SHUI WAI TOWN CENTRE+THE EDUCATION UNIVERSITY OF HK": {
             "bound": {
                 "kmb": "O"
             },
@@ -88003,7 +88003,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "EDUCATION UNIVERSITY OF HONG KONG",
+                "en": "THE EDUCATION UNIVERSITY OF HK",
                 "zh": "香港教育大學"
             },
             "fares": [
@@ -88090,11 +88090,11 @@
                     "F9C14690633CE7E0",
                     "7BCFD79F22F60457",
                     "32C1F605CAAD7861",
-                    "DAC33107054B9FED",
-                    "4705F639E370A9AD",
                     "CAB927254C5D8892",
                     "ADF5445FF5059D45",
-                    "BB33B8049C297ADD"
+                    "BB33B8049C297ADD",
+                    "5998A11C63EAB82E",
+                    "22B76E4C5793EFB9"
                 ]
             }
         },
@@ -163358,8 +163358,8 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "6E821768CA09E8C9",
                     "9C6800DD6E0CD683",
+                    "6E821768CA09E8C9",
                     "A0D379E172F5BC93",
                     "853CD1316EB5227B",
                     "BE6EC9708F5FB613",
@@ -356339,89 +356339,6 @@
                 ]
             }
         },
-        "A47X+3+AIRPORT (GROUND TRANSPORTATION CENTRE)+TAI PO (TAI WO)": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TAI PO (TAI WO)",
-                "zh": "大埔(太和)"
-            },
-            "fares": [
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "11.5",
-                "11.5",
-                "11.5",
-                "11.5",
-                "11.5",
-                "11.5",
-                "11.5",
-                "11.5",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1805": null
-                }
-            },
-            "gtfsId": "1000555",
-            "jt": "100",
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "機場(地面運輸中心)"
-            },
-            "route": "A47X",
-            "seq": 25,
-            "serviceType": "3",
-            "stops": {
-                "kmb": [
-                    "86218AD69549D7B2",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "E48E4C46F64FFB0E",
-                    "86201D4BB45ED201",
-                    "09836E367F4BA3E2",
-                    "558ED5EDA9A0C43C",
-                    "897B26110ECE76B3",
-                    "9F5D9D454274AF91",
-                    "47B5143937DB578C",
-                    "17BDB3D563DF2BA6",
-                    "E1128E909284D1D7",
-                    "098439701CF42A44",
-                    "42E95A3F058750C1",
-                    "1B1D9A9077A0827F",
-                    "08BEE6A022FBBE53",
-                    "FC1FCC3EF8D5C544",
-                    "9ACF8C3736E6ABA4",
-                    "EB3F22350E8A93A7",
-                    "9063A69A1F2B1410",
-                    "437924EA663F3DF6",
-                    "0962265A8720C38C",
-                    "BE6BE96955254B48",
-                    "F9AB54847EF884BB",
-                    "5B5C877D02DF4C31"
-                ]
-            }
-        },
         "A47X+3+TAI PO (TAI WO)+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
@@ -411286,91 +411203,6 @@
                 ]
             }
         },
-        "S64X+1+MUN TUNG ESTATE+YAT TUNG ESTATE BUS TERMINUS": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "YAT TUNG ESTATE BUS TERMINUS",
-                "zh": "逸東邨巴士總站"
-            },
-            "fares": [
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.3",
-                "3.3",
-                "3.3",
-                "3.3",
-                "3.3",
-                "3.3",
-                "3.3"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0655": null
-                }
-            },
-            "gtfsId": "8322",
-            "jt": "30",
-            "nlbId": null,
-            "orig": {
-                "en": "MUN TUNG ESTATE",
-                "zh": "滿東邨"
-            },
-            "route": "S64X",
-            "seq": 26,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "90551F12E553D27E",
-                    "728473DC37894BC6",
-                    "88D65C5F0985F8D9",
-                    "E57DD4F0FE9A1E61",
-                    "05FE00A97E0CF001",
-                    "AC0BDA78C106FF7A",
-                    "277DD90A63454F48",
-                    "77D21A8395AAC001",
-                    "86201D4BB45ED201",
-                    "7EF6409F758445C9",
-                    "E2DCF1384581ED07",
-                    "AAC64BCDD5B55A86",
-                    "A99B6BB7F1628A08",
-                    "C05A618A6C13350B",
-                    "7BEEBCE35DFFAB7C",
-                    "9DCBD34740D95B23",
-                    "79C1BD3A3E91091D",
-                    "7EF6409F758445C9",
-                    "E2DCF1384581ED07",
-                    "18CA599721E67265",
-                    "57DB1124DEF92894",
-                    "2253B10FD05B01AB",
-                    "FF47BD49B38911D4",
-                    "FAC118A395652466",
-                    "1A74AE460E7BEA16",
-                    "FA265A8238AD5E8D"
-                ]
-            }
-        },
         "S64X+1+Tung Chung (Mun Tung)+Airport(Circular)": {
             "bound": {
                 "kmb": "O"
@@ -411601,7 +411433,6 @@
                     "C05A618A6C13350B",
                     "7BEEBCE35DFFAB7C",
                     "9DCBD34740D95B23",
-                    "79C1BD3A3E91091D",
                     "31418DC3F19236BF",
                     "7EF6409F758445C9",
                     "E2DCF1384581ED07",
@@ -411611,7 +411442,94 @@
                     "FF47BD49B38911D4",
                     "FAC118A395652466",
                     "1A74AE460E7BEA16",
-                    "FA265A8238AD5E8D"
+                    "FA265A8238AD5E8D",
+                    "90551F12E553D27E"
+                ]
+            }
+        },
+        "S64X+3+Tung Chung (Mun Tung)+Airport(Circular)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "Airport(Circular)",
+                "zh": "機場(循環線)"
+            },
+            "fares": [
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.3",
+                "3.3",
+                "3.3",
+                "3.3",
+                "3.3",
+                "3.3",
+                "3.3"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "511": {
+                    "0655": null
+                }
+            },
+            "gtfsId": "8322",
+            "jt": "30",
+            "nlbId": null,
+            "orig": {
+                "en": "Tung Chung (Mun Tung)",
+                "zh": "東涌(滿東)"
+            },
+            "route": "S64X",
+            "seq": 27,
+            "serviceType": "3",
+            "stops": {
+                "kmb": [
+                    "90551F12E553D27E",
+                    "728473DC37894BC6",
+                    "88D65C5F0985F8D9",
+                    "E57DD4F0FE9A1E61",
+                    "05FE00A97E0CF001",
+                    "AC0BDA78C106FF7A",
+                    "277DD90A63454F48",
+                    "77D21A8395AAC001",
+                    "86201D4BB45ED201",
+                    "7EF6409F758445C9",
+                    "E2DCF1384581ED07",
+                    "AAC64BCDD5B55A86",
+                    "A99B6BB7F1628A08",
+                    "C05A618A6C13350B",
+                    "7BEEBCE35DFFAB7C",
+                    "9DCBD34740D95B23",
+                    "9C9F817064169CE7",
+                    "61C957321A4DE4A9",
+                    "31418DC3F19236BF",
+                    "18CA599721E67265",
+                    "57DB1124DEF92894",
+                    "2253B10FD05B01AB",
+                    "FF47BD49B38911D4",
+                    "FAC118A395652466",
+                    "1A74AE460E7BEA16",
+                    "FA265A8238AD5E8D",
+                    "90551F12E553D27E"
                 ]
             }
         },
@@ -464181,8 +464099,8 @@
                 "lng": 114.21769069302738
             },
             "name": {
-                "en": "Tai Tam Road, outside The American Club",
-                "zh": "大潭道, 美國會外"
+                "en": "Tai Tam Road, outside The Manhattan",
+                "zh": "大潭道, 曼克頓花園外"
             }
         },
         "20003070": {
@@ -465461,7 +465379,7 @@
                 "lng": 114.22145772658918
             },
             "name": {
-                "en": "Tai Tam Road, near \\Tai Tam Reservoir Road",
+                "en": "Tai Tam Road, near Tai Tam Reservoir Road",
                 "zh": "大潭道, 近大潭水塘道"
             }
         },
@@ -465497,8 +465415,8 @@
         },
         "20003443": {
             "location": {
-                "lat": 22.267635317660808,
-                "lng": 114.23461328863554
+                "lat": 22.267917619837103,
+                "lng": 114.23483401536944
             },
             "name": {
                 "en": "Tai Man Street, outside Greenwood Terrace",
