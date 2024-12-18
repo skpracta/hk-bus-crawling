@@ -38798,7 +38798,7 @@
                     "20012321",
                     "20001369",
                     "20001370",
-                    "20012322",
+                    "20020888",
                     "20001352",
                     "20002053",
                     "20001353",
@@ -161073,10 +161073,6 @@
                 "8.5",
                 "8.5",
                 "8.5",
-                "8.5",
-                "8.5",
-                "8.5",
-                "8.5",
                 "8.5"
             ],
             "faresHoliday": null,
@@ -161108,18 +161104,16 @@
                 "zh": "屯門市中心"
             },
             "route": "43",
-            "seq": 35,
+            "seq": 31,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20001344",
-                    "20001413",
                     "20001312",
                     "20001313",
                     "20001314",
                     "20001346",
                     "20008644",
-                    "20001348",
                     "20002430",
                     "20001349",
                     "20002034",
@@ -161128,7 +161122,6 @@
                     "20002037",
                     "20009273",
                     "20009312",
-                    "20009313",
                     "20001351",
                     "20009314",
                     "20009315",
@@ -161142,7 +161135,6 @@
                     "20001355",
                     "20001356",
                     "20001357",
-                    "20001358",
                     "20001359",
                     "20001319",
                     "20011812",
@@ -161698,7 +161690,6 @@
                 "6.2",
                 "6.2",
                 "6.2",
-                "6.2",
                 "6.2"
             ],
             "faresHoliday": null,
@@ -161734,12 +161725,11 @@
                 "zh": "屯門市中心"
             },
             "route": "43A",
-            "seq": 12,
+            "seq": 11,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20001344",
-                    "20001413",
                     "20001312",
                     "20001313",
                     "20001314",
@@ -162091,7 +162081,6 @@
                 "9.3",
                 "9.3",
                 "9.3",
-                "9.3",
                 "9.3"
             ],
             "faresHoliday": null,
@@ -162123,12 +162112,11 @@
                 "zh": "屯門市中心"
             },
             "route": "43B",
-            "seq": 43,
+            "seq": 42,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20001344",
-                    "20001413",
                     "20001312",
                     "20001313",
                     "20001314",
@@ -162147,15 +162135,15 @@
                     "20002043",
                     "20005041",
                     "20001363",
-                    "20005042",
                     "20001365",
+                    "20020887",
                     "20007079",
                     "20005041",
                     "20001363",
                     "20001368",
                     "20001369",
                     "20001370",
-                    "20001371",
+                    "20020888",
                     "20001352",
                     "20002053",
                     "20001353",
@@ -162414,7 +162402,6 @@
                 "5.8",
                 "5.8",
                 "5.8",
-                "5.8",
                 "5.8"
             ],
             "faresHoliday": null,
@@ -162434,12 +162421,11 @@
                 "zh": "屯門市中心"
             },
             "route": "43C",
-            "seq": 10,
+            "seq": 9,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20001344",
-                    "20001413",
                     "20001312",
                     "20001313",
                     "20001314",
@@ -163756,7 +163742,6 @@
                 "8.5",
                 "8.5",
                 "8.5",
-                "8.5",
                 "8.5"
             ],
             "faresHoliday": null,
@@ -163776,24 +163761,23 @@
                 "zh": "屯門市中心"
             },
             "route": "43S",
-            "seq": 29,
+            "seq": 28,
             "serviceType": 2,
             "stops": {
                 "gmb": [
                     "20001344",
-                    "20001413",
+                    "20001312",
                     "20001313",
                     "20001314",
                     "20001346",
                     "20001347",
-                    "20001348",
                     "20002430",
                     "20001349",
                     "20002034",
                     "20008711",
                     "20002036",
                     "20002037",
-                    "20006914",
+                    "20009273",
                     "20004504",
                     "20001352",
                     "20002053",
@@ -404287,7 +404271,7 @@
                 ]
             }
         },
-        "N796+1+Lohas Park+Mongkok (via Tsim Sha Tsui)": {
+        "N796+1+LOHAS Park+Mongkok (via Tsim Sha Tsui)": {
             "bound": {
                 "ctb": "O"
             },
@@ -404305,7 +404289,7 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Lohas Park",
+                "en": "LOHAS Park",
                 "zh": "日出康城"
             },
             "route": "N796",
@@ -404351,7 +404335,7 @@
                 ]
             }
         },
-        "N796+1+Mongkok (via Tsim Sha Tsui)+Lohas Park": {
+        "N796+1+Mongkok (via Tsim Sha Tsui)+LOHAS Park": {
             "bound": {
                 "ctb": "I"
             },
@@ -404359,7 +404343,7 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Lohas Park",
+                "en": "LOHAS Park",
                 "zh": "日出康城"
             },
             "fares": [
@@ -459559,8 +459543,8 @@
         },
         "20001314": {
             "location": {
-                "lat": 22.391699640566145,
-                "lng": 113.97535246011543
+                "lat": 22.391284313674667,
+                "lng": 113.9753356575966
             },
             "name": {
                 "en": "Tuen Mun Heung Sze Wui Road, outside Tuen Mun Central Bus Terminus",
@@ -459579,8 +459563,8 @@
         },
         "20001319": {
             "location": {
-                "lat": 22.39197023953737,
-                "lng": 113.97509958549436
+                "lat": 22.392717735396594,
+                "lng": 113.97509425878526
             },
             "name": {
                 "en": "Tuen Mun Heung Sze Wui Road, outside Town Centre Light Rail Station",
@@ -459803,28 +459787,28 @@
                 "lng": 113.99382987259548
             },
             "name": {
-                "en": "Castle Peak Road- So Kwun Wat, outside HK Gold Coast Marina Magic Shopping Mall",
+                "en": "Castle Peak Road- So Kwun Wat, outside Hong Kong Gold Coast Piazza",
                 "zh": "青山公路掃管笏段, 黃金海岸商場外"
             }
         },
         "20001353": {
             "location": {
-                "lat": 22.375836567328687,
-                "lng": 113.98566772836257
+                "lat": 22.37426316168946,
+                "lng": 113.98724198341371
             },
             "name": {
-                "en": "Castle Peak Road-Castle Peak Bay, outside Cafeteria Old Beach Car Park",
-                "zh": "青山公路青山灣段, 舊咖啡灣泳灘停車場外"
+                "en": "Castle Peak Road-Castle Peak Bay, opposite Chu Hai College",
+                "zh": "青山公路青山灣段, 珠海學院對面"
             }
         },
         "20001354": {
             "location": {
-                "lat": 22.37916255742851,
-                "lng": 113.98043916889095
+                "lat": 22.379050028608024,
+                "lng": 113.98050159215929
             },
             "name": {
-                "en": "Castle Peak Road-Castle Peak Bay, opposite Castle Peak Bay Garden",
-                "zh": "青山公路青山灣段, 青山灣花園對面"
+                "en": "Castle Peak Road-Castle Peak Bay, outside Castle Peak Beach",
+                "zh": "青山公路青山灣段, 青山灣泳灘外"
             }
         },
         "20001355": {
@@ -459833,14 +459817,14 @@
                 "lng": 113.97974315412411
             },
             "name": {
-                "en": "Castle Peak Road - Castle Peak Bay, outside CSBS Mrs. Aw Boon Haw Secondary School",
-                "zh": "青山公路青山灣段, 鐘聲慈善社胡陳金枝中學外"
+                "en": "Castle Peak Road - Castle Peak Bay, outside Tuen Mun Siu Lun Government Complex",
+                "zh": "青山公路青山灣段, 屯門兆麟政府綜合大樓外"
             }
         },
         "20001356": {
             "location": {
-                "lat": 22.384987658649358,
-                "lng": 113.98079999077655
+                "lat": 22.3848349731478,
+                "lng": 113.98075103759767
             },
             "name": {
                 "en": "Castle Peak Road - Castle Peak Bay, outside Tsing Sin Playground",
@@ -459879,12 +459863,12 @@
         },
         "20001360": {
             "location": {
-                "lat": 22.379978368101437,
-                "lng": 113.9829820764713
+                "lat": 22.380109069666645,
+                "lng": 113.9831167459488
             },
             "name": {
-                "en": "Tsing Yung Street, outside Block 1, Tsing Yung Terrace",
-                "zh": "青榕街, 青榕臺第1座外"
+                "en": "Tsing Yung Street, Tsing Yung Terrace",
+                "zh": "青榕街, 青榕臺外"
             }
         },
         "20001363": {
@@ -459899,8 +459883,8 @@
         },
         "20001365": {
             "location": {
-                "lat": 22.369274494792077,
-                "lng": 114.02240731173438
+                "lat": 22.369101593782617,
+                "lng": 114.02228370308877
             },
             "name": {
                 "en": "Tai Lam Chung Road, near Tai Tam Chung",
@@ -459935,16 +459919,6 @@
             "name": {
                 "en": "Castle Peak Road-Tai Lam, outside Peridot Court",
                 "zh": "青山公路大欖段, 瑜翠園外"
-            }
-        },
-        "20001371": {
-            "location": {
-                "lat": 22.369273398026948,
-                "lng": 113.99525014395691
-            },
-            "name": {
-                "en": "Castle Peak Road-So Kwun Wat, outside Tower 6, Hong Kong Gold Coast",
-                "zh": "青山公路掃管芴段, 黃金海岸第6座外"
             }
         },
         "20001372": {
@@ -462109,8 +462083,8 @@
         },
         "20002035": {
             "location": {
-                "lat": 22.378274896782532,
-                "lng": 113.98480941798985
+                "lat": 22.378320848111958,
+                "lng": 113.98479714989664
             },
             "name": {
                 "en": "Tsing Yung Street, outside Tuen Mun Court",
@@ -462119,22 +462093,22 @@
         },
         "20002036": {
             "location": {
-                "lat": 22.375430962901003,
-                "lng": 113.9863188396
+                "lat": 22.375198225835263,
+                "lng": 113.9866626262665
             },
             "name": {
-                "en": "Castle Peak Road-Castle Peak Bay, Cafeteria Beach",
-                "zh": "青山公路青山灣段, 咖啡灣"
+                "en": "Castle Peak Road-Castle Peak Bay, outside Hong Kong Chu Hai College",
+                "zh": "青山公路青山灣段, 香港珠海學院外"
             }
         },
         "20002037": {
             "location": {
-                "lat": 22.373801574977666,
-                "lng": 113.99072926021987
+                "lat": 22.37372245860074,
+                "lng": 113.9913806319237
             },
             "name": {
-                "en": "Castle Peak Road-Castle Peak Bay, Golden Beach",
-                "zh": "青山公路青山灣段, 黃金泳灘"
+                "en": "Castle Peak Road-Castle Peak Bay, opposite Golden Beach",
+                "zh": "青山公路青山灣段, 黃金泳灘對面"
             }
         },
         "20002040": {
@@ -462189,8 +462163,8 @@
         },
         "20002050": {
             "location": {
-                "lat": 22.347962200120975,
-                "lng": 114.09698770579205
+                "lat": 22.348122229076715,
+                "lng": 114.09700334072114
             },
             "name": {
                 "en": "Tsing Yi Road West outside Tsing Wah Garden",
@@ -462199,22 +462173,22 @@
         },
         "20002053": {
             "location": {
-                "lat": 22.37363882515883,
-                "lng": 113.99055470220893
+                "lat": 22.37359348324179,
+                "lng": 113.99098366498949
             },
             "name": {
-                "en": "Castle Peak Road-Castle Peak Bay, outside Hong Kong Gold Coast Phase 1",
-                "zh": "青山公路青山灣段, 黃金海岸第1期外"
+                "en": "Castle Peak Road-Castle Peak Bay, outside Golden Beach",
+                "zh": "青山公路青山灣段, 黃金泳灘外"
             }
         },
         "20002054": {
             "location": {
-                "lat": 22.37794640637165,
-                "lng": 113.98289750120311
+                "lat": 22.37789301083822,
+                "lng": 113.983151614666
             },
             "name": {
-                "en": "Castle Peak Road-Castle Peak Bay, opposite Seaview Garden",
-                "zh": "青山公路青山灣段, 海景花園對面"
+                "en": "Castle Peak Road-Castle Peak Bay, outside Bayview Terrace",
+                "zh": "青山公路青山灣段, 碧翠花園外"
             }
         },
         "20002057": {
@@ -462223,8 +462197,8 @@
                 "lng": 113.99534693334816
             },
             "name": {
-                "en": "Castle Peak Road- So Kwun Wat, outside Kar Wo Seaview Garden",
-                "zh": "青山公路-掃管笏段, 嘉和海景別墅外"
+                "en": "Castle Peak Road- So Kwun Wat, outside Kar Wo Lei Tsuen",
+                "zh": "青山公路掃管笏段, 嘉和里村外"
             }
         },
         "20002058": {
@@ -463839,8 +463813,8 @@
         },
         "20002430": {
             "location": {
-                "lat": 22.385448600501228,
-                "lng": 113.98111979151335
+                "lat": 22.385104063319933,
+                "lng": 113.98103535175325
             },
             "name": {
                 "en": "Castle Peak Road-Castle Peak Bay, outside Harvest Garden",
@@ -468177,16 +468151,6 @@
                 "zh": "小欖路, 帝濤灣"
             }
         },
-        "20005042": {
-            "location": {
-                "lat": 22.3637913652344,
-                "lng": 114.02073369841149
-            },
-            "name": {
-                "en": "Tai Lam Chung Road, near Luen Hong Lane",
-                "zh": "大欖涌道, 近聯康里"
-            }
-        },
         "20005044": {
             "location": {
                 "lat": 22.401876497054694,
@@ -468833,8 +468797,8 @@
                 "lng": 113.99356668722356
             },
             "name": {
-                "en": "Castle Peak Road- So Kwun Wat, HK Gold Coast Marina Magic Shopping Mall",
-                "zh": "青山公路-掃管笏段, 黃金海岸商場"
+                "en": "Castle Peak Road- So Kwun Wat, opposite Hong Kong Gold Coast Piazza",
+                "zh": "青山公路掃管笏段, 黃金海岸商場對面"
             }
         },
         "20006915": {
@@ -469259,8 +469223,8 @@
         },
         "20007079": {
             "location": {
-                "lat": 22.362495460953674,
-                "lng": 114.01609427641841
+                "lat": 22.362383331826766,
+                "lng": 114.01620715856555
             },
             "name": {
                 "en": "Tuen Mun Road Interchange (Kowloon Bound)",
@@ -471329,8 +471293,8 @@
         },
         "20008023": {
             "location": {
-                "lat": 22.35955458520574,
-                "lng": 114.10627841949464
+                "lat": 22.359474919638863,
+                "lng": 114.10624623298646
             },
             "name": {
                 "en": "Tsing Yi Station GMB Terminus",
@@ -472439,8 +472403,8 @@
         },
         "20008711": {
             "location": {
-                "lat": 22.37783128641379,
-                "lng": 113.98360530871417
+                "lat": 22.3779661773058,
+                "lng": 113.98348957300188
             },
             "name": {
                 "en": "Castle Peak Road-Castle Peak Bay, outside Seaview Garden",
@@ -472749,12 +472713,12 @@
         },
         "20009273": {
             "location": {
-                "lat": 22.371567066240047,
-                "lng": 113.99307310581209
+                "lat": 22.371547223577668,
+                "lng": 113.99319112300874
             },
             "name": {
-                "en": "Castle Peak Road- So Kwun Wat, HK Gold Coast Marina Magic Shopping Mall",
-                "zh": "青山公路-掃管笏段, 黃金海岸商場"
+                "en": "Castle Peak Road- So Kwun Wat, Hong Kong Gold Coast Piazza",
+                "zh": "青山公路掃管笏段, 黃金海岸商場"
             }
         },
         "20009274": {
@@ -472775,16 +472739,6 @@
             "name": {
                 "en": "So Kwun Wat Road,outside Aeagan Coast ",
                 "zh": "掃管笏路,愛琴海岸外"
-            }
-        },
-        "20009313": {
-            "location": {
-                "lat": 22.375776757156267,
-                "lng": 114.00030970573427
-            },
-            "name": {
-                "en": "So Kwun Wat Road, opposite Avignon",
-                "zh": "掃管笏路,星堤對面"
             }
         },
         "20009314": {
@@ -472939,8 +472893,8 @@
         },
         "20009503": {
             "location": {
-                "lat": 22.37736596311307,
-                "lng": 113.98405015468599
+                "lat": 22.377886810288345,
+                "lng": 113.9834198355675
             },
             "name": {
                 "en": "Castle Peak Road-Castle Peak Bay, outside Seaview Garden",
@@ -477225,16 +477179,6 @@
             "name": {
                 "en": "Castle Peak Road - Tai Lam, near Fiona Garden Block D1-5",
                 "zh": "青山公路－大欖段, 近富安居Ｄ１－５座"
-            }
-        },
-        "20012322": {
-            "location": {
-                "lat": 22.36844677283402,
-                "lng": 113.99581968784334
-            },
-            "name": {
-                "en": "Castle Peak Road - So Kwun Wat, near Hong Kong Gold Coast Phase Ii Tower 10",
-                "zh": "青山公路－掃管笏段, 近香港黃金海岸二期第１０座"
             }
         },
         "20012340": {
@@ -500835,6 +500779,26 @@
             "name": {
                 "en": "Hong Ning Road, near United Christian Hospital",
                 "zh": "康寧道, 近聯合醫院"
+            }
+        },
+        "20020887": {
+            "location": {
+                "lat": 22.362104275722153,
+                "lng": 114.01911199092866
+            },
+            "name": {
+                "en": "Castle Peak Road-Tai Lam Tai Lam Chung",
+                "zh": "青山公路大欖段, 大欖涌"
+            }
+        },
+        "20020888": {
+            "location": {
+                "lat": 22.367911007948948,
+                "lng": 113.99636149406435
+            },
+            "name": {
+                "en": "Castle Peak Road-So Kwun Wat, near Tsing Lung Road",
+                "zh": "青山公路掃管芴段, 近青龍路"
             }
         },
         "201": {
