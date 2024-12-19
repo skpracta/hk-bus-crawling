@@ -161032,7 +161032,7 @@
                 ]
             }
         },
-        "43+1+Tuen Mun Town Centre+So Kwun Wat": {
+        "43+1+Tuen Mun Town Centre (Ho Pong Street) +So Kwun Wat": {
             "bound": {
                 "gmb": "O"
             },
@@ -161100,8 +161100,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tuen Mun Town Centre",
-                "zh": "屯門市中心"
+                "en": "Tuen Mun Town Centre (Ho Pong Street) ",
+                "zh": "屯門市中心(河傍街) "
             },
             "route": "43",
             "seq": 31,
@@ -161187,7 +161187,7 @@
                 ]
             }
         },
-        "43+2+Tuen Mun Town Centre+So Kwun Wat (Circular)": {
+        "43+2+Tuen Mun Town Centre (Ho Pong Street) +So Kwun Wat (Circular)": {
             "bound": {
                 "gmb": "O"
             },
@@ -161246,8 +161246,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tuen Mun Town Centre",
-                "zh": "屯門市中心"
+                "en": "Tuen Mun Town Centre (Ho Pong Street) ",
+                "zh": "屯門市中心(河傍街) "
             },
             "route": "43",
             "seq": 30,
@@ -161593,7 +161593,7 @@
                 ]
             }
         },
-        "43A+1+Tsing Yung Street+Tuen Mun Town Centre": {
+        "43A+1+Tsing Yung Street+Tuen Mun Town Centre (Ho Pong Street) ": {
             "bound": {
                 "gmb": "I"
             },
@@ -161601,8 +161601,8 @@
                 "gmb"
             ],
             "dest": {
-                "en": "Tuen Mun Town Centre",
-                "zh": "屯門市中心"
+                "en": "Tuen Mun Town Centre (Ho Pong Street) ",
+                "zh": "屯門市中心(河傍街) "
             },
             "fares": [
                 "6.2",
@@ -161669,7 +161669,7 @@
                 ]
             }
         },
-        "43A+1+Tuen Mun Town Centre+Tsing Yung Street": {
+        "43A+1+Tuen Mun Town Centre (Ho Pong Street) +Tsing Yung Street": {
             "bound": {
                 "gmb": "O"
             },
@@ -161721,8 +161721,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tuen Mun Town Centre",
-                "zh": "屯門市中心"
+                "en": "Tuen Mun Town Centre (Ho Pong Street) ",
+                "zh": "屯門市中心(河傍街) "
             },
             "route": "43A",
             "seq": 11,
@@ -162029,7 +162029,7 @@
                 ]
             }
         },
-        "43B+1+Tuen Mun Town Centre+Tai Lam Chung (Circular)": {
+        "43B+1+Tuen Mun Town Centre (Ho Pong Street) +Tai Lam Chung (Circular)": {
             "bound": {
                 "gmb": "O"
             },
@@ -162108,8 +162108,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tuen Mun Town Centre",
-                "zh": "屯門市中心"
+                "en": "Tuen Mun Town Centre (Ho Pong Street) ",
+                "zh": "屯門市中心(河傍街) "
             },
             "route": "43B",
             "seq": 42,
@@ -162249,7 +162249,7 @@
                 ]
             }
         },
-        "43C+1+Siu Lun Court+Tuen Mun Town Centre": {
+        "43C+1+Siu Lun Court+Tuen Mun Town Centre (Ho Pong Street) ": {
             "bound": {
                 "gmb": "I"
             },
@@ -162257,8 +162257,8 @@
                 "gmb"
             ],
             "dest": {
-                "en": "Tuen Mun Town Centre",
-                "zh": "屯門市中心"
+                "en": "Tuen Mun Town Centre (Ho Pong Street) ",
+                "zh": "屯門市中心(河傍街) "
             },
             "fares": [
                 "5.8",
@@ -162383,7 +162383,7 @@
                 ]
             }
         },
-        "43C+1+Tuen Mun Town Centre+Siu Lun Court": {
+        "43C+1+Tuen Mun Town Centre (Ho Pong Street) +Siu Lun Court": {
             "bound": {
                 "gmb": "O"
             },
@@ -162417,8 +162417,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tuen Mun Town Centre",
-                "zh": "屯門市中心"
+                "en": "Tuen Mun Town Centre (Ho Pong Street) ",
+                "zh": "屯門市中心(河傍街) "
             },
             "route": "43C",
             "seq": 9,
@@ -163704,7 +163704,7 @@
                 ]
             }
         },
-        "43S+2+Tuen Mun Town Centre+So Kwun Wat (Circular)": {
+        "43S+2+Tuen Mun Town Centre (Ho Pong Street) +So Kwun Wat (Circular)": {
             "bound": {
                 "gmb": "O"
             },
@@ -163757,8 +163757,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "Tuen Mun Town Centre",
-                "zh": "屯門市中心"
+                "en": "Tuen Mun Town Centre (Ho Pong Street) ",
+                "zh": "屯門市中心(河傍街) "
             },
             "route": "43S",
             "seq": 28,
@@ -491193,8 +491193,8 @@
         },
         "20015941": {
             "location": {
-                "lat": 22.36577408095625,
-                "lng": 114.12319696665685
+                "lat": 22.36595147993092,
+                "lng": 114.12303149700166
             },
             "name": {
                 "en": "Shek Tau Street, near Fu Tai House, Tai Wo Hau Estate",
