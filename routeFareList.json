@@ -192079,77 +192079,7 @@
                 ]
             }
         },
-        "581+1+Ma On Shan Town Centre (Via Wu Kai Sha Station)+Sai Sha and Shap Sze Heung": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Sai Sha and Shap Sze Heung",
-                "zh": "西沙及十四鄉"
-            },
-            "fares": [
-                "4.8",
-                "4.8",
-                "4.8",
-                "4.8",
-                "4.8",
-                "4.6",
-                "4.6",
-                "4.6",
-                "4.6"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0610": [
-                        "2140",
-                        "1800"
-                    ]
-                },
-                "480": {
-                    "0610": [
-                        "1310",
-                        "1800"
-                    ],
-                    "1310": [
-                        "2010",
-                        "1200"
-                    ],
-                    "2010": [
-                        "2140",
-                        "1800"
-                    ]
-                }
-            },
-            "gtfsId": "1000499",
-            "jt": "12",
-            "nlbId": null,
-            "orig": {
-                "en": "Ma On Shan Town Centre (Via Wu Kai Sha Station)",
-                "zh": "馬鞍山市中心 (經烏溪沙站)"
-            },
-            "route": "581",
-            "seq": 10,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001950",
-                    "001944",
-                    "003094",
-                    "003344",
-                    "003345",
-                    "003455",
-                    "003828",
-                    "003829",
-                    "003830",
-                    "003831"
-                ]
-            }
-        },
-        "581+1+Sai Sha and Shap Sze Heung+Ma On Shan Town Centre (Via Wu Kai Sha Station)": {
+        "581+1+GO PARK Sai Sha, Hoi Ying Road+Ma On Shan Town Centre": {
             "bound": {
                 "ctb": "O"
             },
@@ -192157,8 +192087,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Ma On Shan Town Centre (Via Wu Kai Sha Station)",
-                "zh": "馬鞍山市中心 (經烏溪沙站)"
+                "en": "Ma On Shan Town Centre",
+                "zh": "馬鞍山市中心"
             },
             "fares": [
                 "4.8",
@@ -192198,12 +192128,12 @@
             "jt": "12",
             "nlbId": null,
             "orig": {
-                "en": "Sai Sha and Shap Sze Heung",
-                "zh": "西沙及十四鄉"
+                "en": "GO PARK Sai Sha, Hoi Ying Road",
+                "zh": "西沙GO PARK, 海映路"
             },
             "route": "581",
             "seq": 10,
-            "serviceType": 1,
+            "serviceType": "1",
             "stops": {
                 "ctb": [
                     "003831",
@@ -192216,6 +192146,76 @@
                     "003847",
                     "003092",
                     "001950"
+                ]
+            }
+        },
+        "581+1+Ma On Shan Town Centre+GO PARK Sai Sha, Hoi Ying Road": {
+            "bound": {
+                "ctb": "I"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "GO PARK Sai Sha, Hoi Ying Road",
+                "zh": "西沙GO PARK, 海映路"
+            },
+            "fares": [
+                "4.8",
+                "4.8",
+                "4.8",
+                "4.8",
+                "4.8",
+                "4.6",
+                "4.6",
+                "4.6",
+                "4.6"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "287": {
+                    "0610": [
+                        "2140",
+                        "1800"
+                    ]
+                },
+                "480": {
+                    "0610": [
+                        "1310",
+                        "1800"
+                    ],
+                    "1310": [
+                        "2010",
+                        "1200"
+                    ],
+                    "2010": [
+                        "2140",
+                        "1800"
+                    ]
+                }
+            },
+            "gtfsId": "1000499",
+            "jt": "12",
+            "nlbId": null,
+            "orig": {
+                "en": "Ma On Shan Town Centre",
+                "zh": "馬鞍山市中心"
+            },
+            "route": "581",
+            "seq": 10,
+            "serviceType": "1",
+            "stops": {
+                "ctb": [
+                    "001950",
+                    "001944",
+                    "003094",
+                    "003344",
+                    "003345",
+                    "003455",
+                    "003828",
+                    "003829",
+                    "003830",
+                    "003831"
                 ]
             }
         },
@@ -302798,7 +302798,7 @@
                 ]
             }
         },
-        "89S+1+YUEN CHAU KOK+WU KAI SHA STATION (CIRCULAR)": {
+        "89S+1+SHUI CHUEN O BUS TERMINUS+WU KAI SHA STATION": {
             "bound": {
                 "kmb": "O"
             },
@@ -302806,22 +302806,10 @@
                 "kmb"
             ],
             "dest": {
-                "en": "WU KAI SHA STATION (CIRCULAR)",
-                "zh": "烏溪沙站(循環線)"
+                "en": "WU KAI SHA STATION",
+                "zh": "烏溪沙站"
             },
             "fares": [
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
                 "7.1",
                 "7.1",
                 "7.1",
@@ -302845,41 +302833,28 @@
             ],
             "faresHoliday": null,
             "freq": {
-                "319": {
-                    "0945": [
-                        "1545",
-                        "1200"
-                    ],
-                    "1545": [
-                        "2245",
-                        "1800"
-                    ]
-                },
-                "448": {
-                    "0945": [
-                        "1545",
-                        "1200"
-                    ],
-                    "1545": [
-                        "1745",
-                        "1800"
-                    ]
+                "31": {
+                    "0635": null,
+                    "0655": null,
+                    "0710": null,
+                    "0725": null,
+                    "0740": null
                 }
             },
-            "gtfsId": "8518",
+            "gtfsId": "8519",
             "jt": "46",
             "nlbId": null,
             "orig": {
-                "en": "YUEN CHAU KOK",
-                "zh": "圓洲角"
+                "en": "SHUI CHUEN O BUS TERMINUS",
+                "zh": "水泉澳總站"
             },
             "route": "89S",
-            "seq": 33,
+            "seq": 21,
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "1C9A67AF93C79806",
-                    "779954C17EAF3B95",
+                    "3229F37E6637B0ED",
+                    "808CA5FECCC6646D",
                     "F8BB84BC801E4C85",
                     "BC39BFC3C7BC3009",
                     "2FABE52A66DF7482",
@@ -302898,7 +302873,47 @@
                     "4B5F39DBC6671C81",
                     "4CC126E0B1E42F14",
                     "A90443FD0C19C4B1",
+                    "7D54FE486D057070"
+                ]
+            }
+        },
+        "89S+1+WU KAI SHA STATION+SHUI CHUEN O": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SHUI CHUEN O",
+                "zh": "水泉澳"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "WU KAI SHA STATION",
+                "zh": "烏溪沙站"
+            },
+            "route": "89S",
+            "seq": 26,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
                     "7D54FE486D057070",
+                    "1E471172708B5C5D",
+                    "2479788748627B65",
+                    "8337F935242C5CC3",
+                    "0D4E07F475845DB3",
+                    "B071B60F5566934B",
+                    "7333653B0F4B71BD",
+                    "7E2611CD03F9450A",
+                    "2F163186FB995E0B",
+                    "7FD05121B0A4A750",
+                    "664BAA2EA12B80B1",
                     "763D73BAB7E2A1AE",
                     "4A3D71FFAB41B756",
                     "A78292AA77A277A7",
@@ -302910,7 +302925,10 @@
                     "3F01C915E856B018",
                     "6282A73360ACEBEA",
                     "8F78659628BA6795",
-                    "1C9A67AF93C79806"
+                    "24E16716BBB7F2D0",
+                    "0333C7A4008A8DE3",
+                    "ECB8FB3328B3E1F5",
+                    "3229F37E6637B0ED"
                 ]
             }
         },
@@ -302977,85 +302995,6 @@
                     "20020265",
                     "20014857",
                     "20015985"
-                ]
-            }
-        },
-        "89S+2+SHUI CHUEN O+WU KAI SHA STATION": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "WU KAI SHA STATION",
-                "zh": "烏溪沙站"
-            },
-            "fares": [
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "31": {
-                    "0635": null,
-                    "0655": null,
-                    "0710": null,
-                    "0725": null,
-                    "0740": null
-                }
-            },
-            "gtfsId": "8519",
-            "jt": "46",
-            "nlbId": null,
-            "orig": {
-                "en": "SHUI CHUEN O",
-                "zh": "水泉澳"
-            },
-            "route": "89S",
-            "seq": 21,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "3229F37E6637B0ED",
-                    "808CA5FECCC6646D",
-                    "F8BB84BC801E4C85",
-                    "BC39BFC3C7BC3009",
-                    "2FABE52A66DF7482",
-                    "ED0A8F0BF375EA10",
-                    "7E3C2CA5ABEC8416",
-                    "51D13DDB8EBA98AF",
-                    "16A7F2C343AA6DE6",
-                    "4B0E21EDF07F9C83",
-                    "1CF4AE2F7045B848",
-                    "E27820FF0AF73D52",
-                    "880BE8598CB0CCE7",
-                    "CB667DC000F66D40",
-                    "857F6F958A96DCDB",
-                    "180DC2E520E7A4D0",
-                    "1E04D9D97DE148C2",
-                    "4B5F39DBC6671C81",
-                    "4CC126E0B1E42F14",
-                    "A90443FD0C19C4B1",
-                    "7D54FE486D057070"
                 ]
             }
         },
@@ -411953,92 +411892,7 @@
                 ]
             }
         },
-        "S64X+1+MUN TUNG ESTATE+MUN TUNG ESTATE": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "MUN TUNG ESTATE",
-                "zh": "滿東邨"
-            },
-            "fares": [
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.8",
-                "3.3",
-                "3.3",
-                "3.3",
-                "3.3",
-                "3.3",
-                "3.3",
-                "3.3"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0655": null
-                }
-            },
-            "gtfsId": "8322",
-            "jt": "30",
-            "nlbId": null,
-            "orig": {
-                "en": "MUN TUNG ESTATE",
-                "zh": "滿東邨"
-            },
-            "route": "S64X",
-            "seq": 26,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "90551F12E553D27E",
-                    "728473DC37894BC6",
-                    "88D65C5F0985F8D9",
-                    "E57DD4F0FE9A1E61",
-                    "05FE00A97E0CF001",
-                    "AC0BDA78C106FF7A",
-                    "277DD90A63454F48",
-                    "77D21A8395AAC001",
-                    "86201D4BB45ED201",
-                    "7EF6409F758445C9",
-                    "E2DCF1384581ED07",
-                    "AAC64BCDD5B55A86",
-                    "A99B6BB7F1628A08",
-                    "C05A618A6C13350B",
-                    "7BEEBCE35DFFAB7C",
-                    "9DCBD34740D95B23",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "31418DC3F19236BF",
-                    "57DB1124DEF92894",
-                    "2253B10FD05B01AB",
-                    "FF47BD49B38911D4",
-                    "FAC118A395652466",
-                    "1A74AE460E7BEA16",
-                    "FA265A8238AD5E8D",
-                    "90551F12E553D27E"
-                ]
-            }
-        },
-        "S64X+3+Tung Chung (Mun Tung)+Airport(Circular)": {
+        "S64X+1+Tung Chung (Mun Tung)+Airport(Circular)": {
             "bound": {
                 "kmb": "O"
             },
@@ -412242,6 +412096,93 @@
             },
             "gtfsId": "8321",
             "jt": "26",
+            "nlbId": null,
+            "orig": {
+                "en": "Tung Chung (Mun Tung)",
+                "zh": "東涌(滿東)"
+            },
+            "route": "S64X",
+            "seq": 28,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "90551F12E553D27E",
+                    "728473DC37894BC6",
+                    "88D65C5F0985F8D9",
+                    "E57DD4F0FE9A1E61",
+                    "05FE00A97E0CF001",
+                    "AC0BDA78C106FF7A",
+                    "277DD90A63454F48",
+                    "77D21A8395AAC001",
+                    "86201D4BB45ED201",
+                    "7EF6409F758445C9",
+                    "E2DCF1384581ED07",
+                    "AAC64BCDD5B55A86",
+                    "A99B6BB7F1628A08",
+                    "C05A618A6C13350B",
+                    "7BEEBCE35DFFAB7C",
+                    "9DCBD34740D95B23",
+                    "79C1BD3A3E91091D",
+                    "31418DC3F19236BF",
+                    "7EF6409F758445C9",
+                    "E2DCF1384581ED07",
+                    "18CA599721E67265",
+                    "57DB1124DEF92894",
+                    "2253B10FD05B01AB",
+                    "FF47BD49B38911D4",
+                    "FAC118A395652466",
+                    "1A74AE460E7BEA16",
+                    "FA265A8238AD5E8D",
+                    "90551F12E553D27E"
+                ]
+            }
+        },
+        "S64X+3+Tung Chung (Mun Tung)+Airport(Circular)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "Airport(Circular)",
+                "zh": "機場(循環線)"
+            },
+            "fares": [
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.8",
+                "3.3",
+                "3.3",
+                "3.3",
+                "3.3",
+                "3.3",
+                "3.3",
+                "3.3"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "511": {
+                    "0655": null
+                }
+            },
+            "gtfsId": "8322",
+            "jt": "30",
             "nlbId": null,
             "orig": {
                 "en": "Tung Chung (Mun Tung)",
