@@ -43195,6 +43195,10 @@
                         "0125",
                         "300"
                     ],
+                    "0126": [
+                        "0230",
+                        "900"
+                    ],
                     "0530": [
                         "0600",
                         "300"
@@ -44444,6 +44448,10 @@
                     "0100": [
                         "0125",
                         "720"
+                    ],
+                    "0126": [
+                        "0230",
+                        "900"
                     ],
                     "0545": [
                         "0600",
@@ -260976,8 +260984,8 @@
             "stops": {
                 "kmb": [
                     "9AB9D810103D8382",
-                    "46604706EE6CC765",
-                    "94A3E9298FD887C6"
+                    "9F481C8D1469C29C",
+                    "46604706EE6CC765"
                 ]
             }
         },
@@ -261008,7 +261016,7 @@
             "stops": {
                 "kmb": [
                     "94A3E9298FD887C6",
-                    "45AAE55CB6B5699F"
+                    "BBFADA4889A61FCC"
                 ]
             }
         },
@@ -302798,85 +302806,6 @@
                 ]
             }
         },
-        "89S+1+SHUI CHUEN O BUS TERMINUS+WU KAI SHA STATION": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "WU KAI SHA STATION",
-                "zh": "烏溪沙站"
-            },
-            "fares": [
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1",
-                "7.1"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "31": {
-                    "0635": null,
-                    "0655": null,
-                    "0710": null,
-                    "0725": null,
-                    "0740": null
-                }
-            },
-            "gtfsId": "8519",
-            "jt": "46",
-            "nlbId": null,
-            "orig": {
-                "en": "SHUI CHUEN O BUS TERMINUS",
-                "zh": "水泉澳總站"
-            },
-            "route": "89S",
-            "seq": 21,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "3229F37E6637B0ED",
-                    "808CA5FECCC6646D",
-                    "F8BB84BC801E4C85",
-                    "BC39BFC3C7BC3009",
-                    "2FABE52A66DF7482",
-                    "ED0A8F0BF375EA10",
-                    "7E3C2CA5ABEC8416",
-                    "51D13DDB8EBA98AF",
-                    "16A7F2C343AA6DE6",
-                    "4B0E21EDF07F9C83",
-                    "1CF4AE2F7045B848",
-                    "E27820FF0AF73D52",
-                    "880BE8598CB0CCE7",
-                    "CB667DC000F66D40",
-                    "857F6F958A96DCDB",
-                    "180DC2E520E7A4D0",
-                    "1E04D9D97DE148C2",
-                    "4B5F39DBC6671C81",
-                    "4CC126E0B1E42F14",
-                    "A90443FD0C19C4B1",
-                    "7D54FE486D057070"
-                ]
-            }
-        },
         "89S+1+WU KAI SHA STATION+SHUI CHUEN O": {
             "bound": {
                 "kmb": "I"
@@ -302995,6 +302924,85 @@
                     "20020265",
                     "20014857",
                     "20015985"
+                ]
+            }
+        },
+        "89S+2+SHUI CHUEN O+WU KAI SHA STATION": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WU KAI SHA STATION",
+                "zh": "烏溪沙站"
+            },
+            "fares": [
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1",
+                "7.1"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "31": {
+                    "0635": null,
+                    "0655": null,
+                    "0710": null,
+                    "0725": null,
+                    "0740": null
+                }
+            },
+            "gtfsId": "8519",
+            "jt": "46",
+            "nlbId": null,
+            "orig": {
+                "en": "SHUI CHUEN O",
+                "zh": "水泉澳"
+            },
+            "route": "89S",
+            "seq": 21,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "3229F37E6637B0ED",
+                    "808CA5FECCC6646D",
+                    "F8BB84BC801E4C85",
+                    "BC39BFC3C7BC3009",
+                    "2FABE52A66DF7482",
+                    "ED0A8F0BF375EA10",
+                    "7E3C2CA5ABEC8416",
+                    "51D13DDB8EBA98AF",
+                    "16A7F2C343AA6DE6",
+                    "4B0E21EDF07F9C83",
+                    "1CF4AE2F7045B848",
+                    "E27820FF0AF73D52",
+                    "880BE8598CB0CCE7",
+                    "CB667DC000F66D40",
+                    "857F6F958A96DCDB",
+                    "180DC2E520E7A4D0",
+                    "1E04D9D97DE148C2",
+                    "4B5F39DBC6671C81",
+                    "4CC126E0B1E42F14",
+                    "A90443FD0C19C4B1",
+                    "7D54FE486D057070"
                 ]
             }
         },
@@ -372256,15 +372264,15 @@
             ],
             "faresHoliday": null,
             "freq": {
-                "448": {
+                "319": {
                     "1100": [
                         "1800",
                         "3600"
                     ]
                 }
             },
-            "gtfsId": "8220",
-            "jt": "63",
+            "gtfsId": "1475",
+            "jt": "64",
             "nlbId": null,
             "orig": {
                 "en": "Central (Star Ferry)",
@@ -372283,7 +372291,7 @@
                     "002745",
                     "001075",
                     "002707",
-                    "001051",
+                    "001025",
                     "001136",
                     "002481",
                     "002469",
@@ -372300,7 +372308,7 @@
                 ]
             }
         },
-        "H1+1+Central (Star Ferry)+Tsim Sha Tsui": {
+        "H1+2+Central (Star Ferry)+The Peninsula": {
             "bound": {
                 "ctb": "O"
             },
@@ -372308,8 +372316,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Tsim Sha Tsui",
-                "zh": "尖沙咀"
+                "en": "The Peninsula",
+                "zh": "半島酒店"
             },
             "fares": [
                 "41.8",
@@ -372336,23 +372344,23 @@
             ],
             "faresHoliday": null,
             "freq": {
-                "319": {
+                "448": {
                     "1100": [
                         "1800",
                         "3600"
                     ]
                 }
             },
-            "gtfsId": "1475",
-            "jt": "64",
+            "gtfsId": "8220",
+            "jt": "63",
             "nlbId": null,
             "orig": {
                 "en": "Central (Star Ferry)",
                 "zh": "中環 (天星碼頭)"
             },
             "route": "H1",
-            "seq": 23,
-            "serviceType": 1,
+            "seq": 22,
+            "serviceType": "2",
             "stops": {
                 "ctb": [
                     "001171",
@@ -372364,7 +372372,6 @@
                     "001075",
                     "002707",
                     "001051",
-                    "001025",
                     "001136",
                     "002481",
                     "002469",
@@ -372381,7 +372388,7 @@
                 ]
             }
         },
-        "H2+1+Tsim Sha Tsui+Central (Star Ferry)": {
+        "H2+1+The Peninsula+Central (Star Ferry)": {
             "bound": {
                 "ctb": "I"
             },
@@ -372417,12 +372424,12 @@
             "jt": "63",
             "nlbId": null,
             "orig": {
-                "en": "Tsim Sha Tsui",
-                "zh": "尖沙咀"
+                "en": "The Peninsula",
+                "zh": "半島酒店"
             },
             "route": "H2",
             "seq": 11,
-            "serviceType": 1,
+            "serviceType": "1",
             "stops": {
                 "ctb": [
                     "003445",
@@ -372531,7 +372538,7 @@
                 "zh": "中環(天星碼頭)"
             },
             "route": "H2K",
-            "seq": 11,
+            "seq": 13,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -372540,6 +372547,8 @@
                     "002559",
                     "003789",
                     "001475",
+                    "003548",
+                    "001483",
                     "001481",
                     "003533",
                     "003772",
@@ -372571,10 +372580,12 @@
                 "zh": "西九文化區"
             },
             "route": "H2K",
-            "seq": 10,
+            "seq": 12,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "003548",
+                    "001483",
                     "001481",
                     "003533",
                     "003772",
@@ -391709,72 +391720,6 @@
                     "LAT",
                     "YAT",
                     "TIK"
-                ]
-            }
-        },
-        "LB1+1+HA PAK NAI+TUEN MUN ROAD BBI (KOWLOON BOUND)": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TUEN MUN ROAD BBI (KOWLOON BOUND)",
-                "zh": "屯門公路轉車站(九龍方向)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "HA PAK NAI",
-                "zh": "下白泥"
-            },
-            "route": "LB1",
-            "seq": 4,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "497320292297256C",
-                    "E107486C465320C4",
-                    "3359572AE1765132",
-                    "66BAE0730AA9044A"
-                ]
-            }
-        },
-        "LB1+1+TUEN MUN ROAD BBI (TUEN MUN BOUND)+HA PAK NAI": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "HA PAK NAI",
-                "zh": "下白泥"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN ROAD BBI (TUEN MUN BOUND)",
-                "zh": "屯門公路轉車站(屯門方向)"
-            },
-            "route": "LB1",
-            "seq": 4,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "A33D2929C5F3B7E0",
-                    "3359572AE1765132",
-                    "80CE46D61881DC6A",
-                    "497320292297256C"
                 ]
             }
         },
@@ -442371,6 +442316,16 @@
             "name": {
                 "en": "Citybus West Kowloon Depot, Hing Wah Street West",
                 "zh": "城巴西九龍車廠, 興華街西"
+            }
+        },
+        "003548": {
+            "location": {
+                "lat": 22.303788662091,
+                "lng": 114.16657432053
+            },
+            "name": {
+                "en": "HSR West Kowloon Station Boarding and Alighting Area",
+                "zh": "高鐵西九龍站上落客區"
             }
         },
         "003549": {
@@ -507343,16 +507298,6 @@
                 "zh": "荃灣聯仁街"
             }
         },
-        "3359572AE1765132": {
-            "location": {
-                "lat": 22.467285,
-                "lng": 113.983965
-            },
-            "name": {
-                "en": "LAU FAU SHAN MAIN STREET ROUNDABOUT",
-                "zh": "流浮山正大街"
-            }
-        },
         "3366C1DC458401B3": {
             "location": {
                 "lat": 22.323122,
@@ -513381,16 +513326,6 @@
             "name": {
                 "en": "TUEN MUN PIER HEAD",
                 "zh": "屯門碼頭"
-            }
-        },
-        "497320292297256C": {
-            "location": {
-                "lat": 22.426797,
-                "lng": 113.94299
-            },
-            "name": {
-                "en": "HA PAK NAI",
-                "zh": "下白泥"
             }
         },
         "497D02F258D3A30E": {
@@ -521553,16 +521488,6 @@
                 "zh": "博康巴士總站"
             }
         },
-        "66BAE0730AA9044A": {
-            "location": {
-                "lat": 22.362716,
-                "lng": 114.015918
-            },
-            "name": {
-                "en": "TUEN MUN ROAD BBI (KOWLOON BOUND)",
-                "zh": "屯門公路轉車站(九龍方向)"
-            }
-        },
         "66BF94751BD28BAD": {
             "location": {
                 "lat": 22.384644,
@@ -527931,16 +527856,6 @@
             "name": {
                 "en": "LAM TIN (NORTH)",
                 "zh": "藍田(北)"
-            }
-        },
-        "80CE46D61881DC6A": {
-            "location": {
-                "lat": 22.438641,
-                "lng": 113.949096
-            },
-            "name": {
-                "en": "AP TSAI HANG",
-                "zh": "鴨仔坑"
             }
         },
         "80D6E715DA51CA02": {
@@ -536791,16 +536706,6 @@
             "name": {
                 "en": "PAK SHEK KOK SUBSTATION (N8)",
                 "zh": "白石角變電站 (N8)"
-            }
-        },
-        "A33D2929C5F3B7E0": {
-            "location": {
-                "lat": 22.358492,
-                "lng": 114.019106
-            },
-            "name": {
-                "en": "TUEN MUN ROAD BBI",
-                "zh": "屯門公路轉車站"
             }
         },
         "A33E576A3F6DDCA9": {
@@ -552581,16 +552486,6 @@
             "name": {
                 "en": "MOUSE ISLAND CHILDREN'S PLAYGROUND",
                 "zh": "老鼠洲兒童遊樂場"
-            }
-        },
-        "E107486C465320C4": {
-            "location": {
-                "lat": 22.438684,
-                "lng": 113.949043
-            },
-            "name": {
-                "en": "AP TSAI HANG",
-                "zh": "鴨仔坑"
             }
         },
         "E10A0960D4E103B1": {
