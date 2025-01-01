@@ -5833,10 +5833,6 @@
                         "0055",
                         "1800"
                     ],
-                    "0055": [
-                        "0215",
-                        "900"
-                    ],
                     "0530": [
                         "0630",
                         "240"
@@ -5908,10 +5904,6 @@
                 "127": {
                     "0000": [
                         "0115",
-                        "900"
-                    ],
-                    "0115": [
-                        "0215",
                         "900"
                     ],
                     "0530": [
@@ -27033,6 +27025,53 @@
                 ]
             }
         },
+        "116+2+Pak Shing Kok+Tseung Kwan O Station (Circular)": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Tseung Kwan O Station (Circular)",
+                "zh": "將軍澳站 (循環線)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "63": {
+                    "0700": [
+                        "0900",
+                        "600"
+                    ],
+                    "1630": [
+                        "1830",
+                        "600"
+                    ]
+                }
+            },
+            "gtfsId": "2010467",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Pak Shing Kok",
+                "zh": "百勝角"
+            },
+            "route": "116",
+            "seq": 7,
+            "serviceType": 2,
+            "stops": {
+                "gmb": [
+                    "20018775",
+                    "20002650",
+                    "20002652",
+                    "20015238",
+                    "20018776",
+                    "20002648",
+                    "20018775"
+                ]
+            }
+        },
         "117+1+HAPPY VALLEY (LOWER)+SHAM SHUI PO (YEN CHOW ST)": {
             "bound": {
                 "ctb": "O",
@@ -43203,10 +43242,6 @@
                         "0125",
                         "300"
                     ],
-                    "0126": [
-                        "0230",
-                        "900"
-                    ],
                     "0530": [
                         "0600",
                         "300"
@@ -44456,10 +44491,6 @@
                     "0100": [
                         "0125",
                         "720"
-                    ],
-                    "0126": [
-                        "0230",
-                        "900"
                     ],
                     "0545": [
                         "0600",
@@ -51183,71 +51214,6 @@
                 ]
             }
         },
-        "18R+1+Central (Star Ferry)+Heng Fa Chuen": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Heng Fa Chuen",
-                "zh": "杏花邨"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Central (Star Ferry)",
-                "zh": "中環 (天星碼頭)"
-            },
-            "route": "18R",
-            "seq": 36,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001032",
-                    "001030",
-                    "001031",
-                    "001256",
-                    "001257",
-                    "001265",
-                    "002677",
-                    "001267",
-                    "001268",
-                    "001269",
-                    "001270",
-                    "001296",
-                    "001297",
-                    "001298",
-                    "001299",
-                    "001216",
-                    "001217",
-                    "001218",
-                    "001219",
-                    "001220",
-                    "001221",
-                    "001336",
-                    "001337",
-                    "001338",
-                    "001223",
-                    "001224",
-                    "001225",
-                    "001362",
-                    "001369",
-                    "001370",
-                    "001382",
-                    "002790",
-                    "002591",
-                    "001344",
-                    "001309",
-                    "001306"
-                ]
-            }
-        },
         "18X+1+Kennedy Town (Belcher Bay)+Shau Kei Wan": {
             "bound": {
                 "ctb": "I"
@@ -51799,10 +51765,6 @@
             "faresHoliday": null,
             "freq": {
                 "127": {
-                    "0031": [
-                        "0300",
-                        "1500"
-                    ],
                     "0700": [
                         "1000",
                         "240"
@@ -51867,10 +51829,6 @@
             "faresHoliday": null,
             "freq": {
                 "127": {
-                    "0015": [
-                        "0300",
-                        "1500"
-                    ],
                     "0645": [
                         "0945",
                         "240"
@@ -139811,10 +139769,6 @@
                         "0130",
                         "300"
                     ],
-                    "0131": [
-                        "0230",
-                        "1200"
-                    ],
                     "0500": [
                         "0700",
                         "360"
@@ -142711,56 +142665,6 @@
                     "6E9E3D64C5F18B8D",
                     "556068A8E995DBE4",
                     "1CD2EB6ADBA627EE"
-                ]
-            }
-        },
-        "38S+1+Causeway Bay (Central Library)+Chi Fu Fa Yuen": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Chi Fu Fa Yuen",
-                "zh": "置富花園"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Causeway Bay (Central Library)",
-                "zh": "銅鑼灣 (中央圖書館)"
-            },
-            "route": "38S",
-            "seq": 21,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001215",
-                    "002439",
-                    "002404",
-                    "002470",
-                    "002348",
-                    "002355",
-                    "002357",
-                    "002358",
-                    "002160",
-                    "002161",
-                    "002162",
-                    "002163",
-                    "002333",
-                    "002334",
-                    "002335",
-                    "002336",
-                    "002338",
-                    "002226",
-                    "002183",
-                    "002184",
-                    "002186"
                 ]
             }
         },
@@ -175163,10 +175067,6 @@
                     "1950": [
                         "2350",
                         "900"
-                    ],
-                    "2350": [
-                        "0140",
-                        "600"
                     ]
                 }
             },
@@ -175318,10 +175218,6 @@
                     ]
                 },
                 "64": {
-                    "0000": [
-                        "0140",
-                        "600"
-                    ],
                     "0610": [
                         "0710",
                         "1200"
@@ -175366,59 +175262,6 @@
                     "20011480",
                     "20011599",
                     "20011318"
-                ]
-            }
-        },
-        "4S+1+Central (Exchange Square)+Wong Chuk Hang": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Wong Chuk Hang",
-                "zh": "黃竹坑"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Central (Exchange Square)",
-                "zh": "中環 (交易廣場)"
-            },
-            "route": "4S",
-            "seq": 24,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001032",
-                    "001034",
-                    "001191",
-                    "001119",
-                    "001116",
-                    "001120",
-                    "002236",
-                    "002237",
-                    "002239",
-                    "002240",
-                    "002188",
-                    "002189",
-                    "002190",
-                    "002333",
-                    "002334",
-                    "002341",
-                    "002342",
-                    "003287",
-                    "002157",
-                    "002158",
-                    "002159",
-                    "002344",
-                    "002224",
-                    "002223"
                 ]
             }
         },
@@ -203284,6 +203127,77 @@
                 ]
             }
         },
+        "5R+4+NGAU TAU KOK STATION+SHING FUNG ROAD": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SHING FUNG ROAD",
+                "zh": "承豐道"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "NGAU TAU KOK STATION",
+                "zh": "牛頭角站"
+            },
+            "route": "5R",
+            "seq": 7,
+            "serviceType": "4",
+            "stops": {
+                "kmb": [
+                    "C057639478BE0168",
+                    "1E3A342DF7D5B8B5",
+                    "83BB162ED5F1355F",
+                    "D39533060940818A",
+                    "14894C859FDFE8C3",
+                    "36A5F6842C55126E",
+                    "1094B993AA8409D0"
+                ]
+            }
+        },
+        "5R+5+KAI TAK (SHENG KING STREET)+KWUN TONG (apm)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "KWUN TONG (apm)",
+                "zh": "觀塘 (apm)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "KAI TAK (SHENG KING STREET)",
+                "zh": "啟德(承景街)"
+            },
+            "route": "5R",
+            "seq": 6,
+            "serviceType": "5",
+            "stops": {
+                "kmb": [
+                    "AA28557D2EE2F8D0",
+                    "F573BDBB62023031",
+                    "600158E293C9354E",
+                    "BA0B05CA62C32007",
+                    "C057639478BE0168",
+                    "1E3A342DF7D5B8B5"
+                ]
+            }
+        },
         "5X+1+Causeway Bay (Whitfield Road)+Kennedy Town": {
             "bound": {
                 "ctb": "I"
@@ -214903,17 +214817,9 @@
             "faresHoliday": null,
             "freq": {
                 "127": {
-                    "0005": [
-                        "0020",
-                        "900"
-                    ],
-                    "0020": [
-                        "0200",
-                        "1200"
-                    ],
                     "0645": [
-                        "0005",
-                        "1200"
+                        "0020",
+                        "480"
                     ]
                 }
             },
@@ -214968,8 +214874,8 @@
             "freq": {
                 "127": {
                     "0600": [
-                        "0120",
-                        "1200"
+                        "2230",
+                        "480"
                     ]
                 }
             },
@@ -330785,58 +330691,6 @@
                 ]
             }
         },
-        "967N+1+Causeway Bay (Moreton Terrace)+Tin Shui Wai (Tin Yan Estate)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Tin Shui Wai (Tin Yan Estate)",
-                "zh": "天水圍 (天恩邨)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Causeway Bay (Moreton Terrace)",
-                "zh": "銅鑼灣 (摩頓台)"
-            },
-            "route": "967N",
-            "seq": 23,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002536",
-                    "002554",
-                    "002440",
-                    "002441",
-                    "002443",
-                    "002445",
-                    "002447",
-                    "001140",
-                    "001053",
-                    "001057",
-                    "001193",
-                    "001628",
-                    "001972",
-                    "002620",
-                    "001988",
-                    "002076",
-                    "002650",
-                    "002623",
-                    "002077",
-                    "002669",
-                    "003481",
-                    "002062",
-                    "002666"
-                ]
-            }
-        },
         "967X+1+Causeway Bay (Moreton Terrace)+Tin Yan Estate": {
             "bound": {
                 "ctb": "I"
@@ -338331,58 +338185,6 @@
                     "001277",
                     "001279",
                     "001033",
-                    "001034",
-                    "001036",
-                    "001038",
-                    "001628",
-                    "001972",
-                    "003614",
-                    "003615",
-                    "003616",
-                    "003617",
-                    "003618",
-                    "003619",
-                    "003620",
-                    "003621",
-                    "003622",
-                    "003623"
-                ]
-            }
-        },
-        "976S+1+Causeway Bay (Moreton Terrace)+Lok Ma Chau (San Tin)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Lok Ma Chau (San Tin)",
-                "zh": "落馬洲 (新田)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Causeway Bay (Moreton Terrace)",
-                "zh": "銅鑼灣 (摩頓台)"
-            },
-            "route": "976S",
-            "seq": 23,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002536",
-                    "002554",
-                    "002440",
-                    "002443",
-                    "002445",
-                    "002447",
-                    "001140",
-                    "001122",
                     "001034",
                     "001036",
                     "001038",
@@ -372903,78 +372705,6 @@
                 ]
             }
         },
-        "H2S+1+Causeway Bay+HSR West Kowloon Station": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "HSR West Kowloon Station",
-                "zh": "高鐵西九龍站"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Causeway Bay",
-                "zh": "銅鑼灣"
-            },
-            "route": "H2S",
-            "seq": 9,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001031",
-                    "002423",
-                    "002536",
-                    "002439",
-                    "001628",
-                    "001775",
-                    "001564",
-                    "001481",
-                    "003548"
-                ]
-            }
-        },
-        "H2S+1+HSR West Kowloon Station+Causeway Bay": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay",
-                "zh": "銅鑼灣"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "HSR West Kowloon Station",
-                "zh": "高鐵西九龍站"
-            },
-            "route": "H2S",
-            "seq": 5,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003548",
-                    "001629",
-                    "001031",
-                    "002423",
-                    "002536"
-                ]
-            }
-        },
         "HK1+1+STAR FERRY+STAR FERRY(CIRCULAR)": {
             "bound": {
                 "kmb": "O"
@@ -378768,7 +378498,75 @@
                 ]
             }
         },
-        "K58+1+Castle Peak Bay+Fu Tai": {
+        "K54A+1+Siu Hong Station+Wo Tin Estate": {
+            "bound": {
+                "lrtfeeder": "I"
+            },
+            "co": [
+                "lrtfeeder"
+            ],
+            "dest": {
+                "en": "Wo Tin Estate",
+                "zh": "和田邨"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Siu Hong Station",
+                "zh": "兆康站"
+            },
+            "route": "K54A",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "lrtfeeder": [
+                    "K54A-D010",
+                    "K54A-D020",
+                    "K54A-D030",
+                    "K54A-D040",
+                    "K54A-D050"
+                ]
+            }
+        },
+        "K54A+1+Wo Tin Estate+Siu Hong Station": {
+            "bound": {
+                "lrtfeeder": "O"
+            },
+            "co": [
+                "lrtfeeder"
+            ],
+            "dest": {
+                "en": "Siu Hong Station",
+                "zh": "兆康站"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Wo Tin Estate",
+                "zh": "和田邨"
+            },
+            "route": "K54A",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "lrtfeeder": [
+                    "K54A-U010",
+                    "K54A-U020",
+                    "K54A-U030",
+                    "K54A-U040",
+                    "K54A-U050"
+                ]
+            }
+        },
+        "K58+1+Castle Peak Bay Pier+Fu Tai": {
             "bound": {
                 "lrtfeeder": "I"
             },
@@ -379010,15 +378808,15 @@
             "jt": "42",
             "nlbId": null,
             "orig": {
-                "en": "Castle Peak Bay",
-                "zh": "青山灣"
+                "en": "Castle Peak Bay Pier",
+                "zh": "青山灣碼頭"
             },
             "route": "K58",
             "seq": 23,
             "serviceType": "1",
             "stops": {
                 "lrtfeeder": [
-                    "K58-D010",
+                    "K58-D012",
                     "K58-D020",
                     "K58-D030",
                     "K58-D040",
@@ -379044,7 +378842,7 @@
                 ]
             }
         },
-        "K58+1+Fu Tai+Castle Peak Bay": {
+        "K58+1+Fu Tai+Castle Peak Beach": {
             "bound": {
                 "lrtfeeder": "O"
             },
@@ -379052,7 +378850,7 @@
                 "lrtfeeder"
             ],
             "dest": {
-                "en": "Castle Peak Bay",
+                "en": "Castle Peak Beach",
                 "zh": "青山灣"
             },
             "fares": [
@@ -379320,7 +379118,7 @@
                     "K58-U180",
                     "K58-U190",
                     "K58-U200",
-                    "K58-U210"
+                    "K58-U215"
                 ]
             }
         },
@@ -394493,60 +394291,6 @@
                 ]
             }
         },
-        "N20A+1+Kai Tak (Shing King Street)+HSR West Kowloon Station": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "HSR West Kowloon Station",
-                "zh": "高鐵西九龍站"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Kai Tak (Shing King Street)",
-                "zh": "啟德 (承景街)"
-            },
-            "route": "N20A",
-            "seq": 25,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003790",
-                    "003520",
-                    "003708",
-                    "003612",
-                    "003587",
-                    "003706",
-                    "003369",
-                    "003505",
-                    "003808",
-                    "001576",
-                    "001577",
-                    "003522",
-                    "003012",
-                    "003013",
-                    "003690",
-                    "003691",
-                    "002835",
-                    "003692",
-                    "001559",
-                    "001561",
-                    "001565",
-                    "001567",
-                    "002811",
-                    "001482",
-                    "003549"
-                ]
-            }
-        },
         "N21+1+Airport (Ground Transportation Centre)+Tsim Sha Tsui (Star Ferry)": {
             "bound": {
                 "ctb": "I"
@@ -403893,69 +403637,6 @@
                 ]
             }
         },
-        "N6X+1+Central (Exchange Square)+Stanley Market": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Stanley Market",
-                "zh": "赤柱市場"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Central (Exchange Square)",
-                "zh": "中環 (交易廣場)"
-            },
-            "route": "N6X",
-            "seq": 34,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001032",
-                    "001031",
-                    "001136",
-                    "002479",
-                    "002480",
-                    "002481",
-                    "002482",
-                    "002484",
-                    "002350",
-                    "002351",
-                    "002201",
-                    "002199",
-                    "002200",
-                    "002247",
-                    "002252",
-                    "002248",
-                    "002256",
-                    "002267",
-                    "002191",
-                    "002193",
-                    "002195",
-                    "002376",
-                    "002374",
-                    "002176",
-                    "002179",
-                    "002181",
-                    "002386",
-                    "002378",
-                    "002281",
-                    "002303",
-                    "002304",
-                    "002305",
-                    "002302",
-                    "002277"
-                ]
-            }
-        },
         "N72+1+Quarry Bay (Hoi Chak Street)+Wah Kwai Estate": {
             "bound": {
                 "ctb": "I"
@@ -409612,96 +409293,6 @@
                 ]
             }
         },
-        "NB3+1+Shenzhen Bay Port+Tuen Mun Pier Head": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Tuen Mun Pier Head",
-                "zh": "屯門碼頭"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Shenzhen Bay Port",
-                "zh": "深圳灣口岸"
-            },
-            "route": "NB3",
-            "seq": 17,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003208",
-                    "003193",
-                    "003219",
-                    "003430",
-                    "002602",
-                    "002041",
-                    "002031",
-                    "001923",
-                    "003220",
-                    "003848",
-                    "001935",
-                    "001936",
-                    "001937",
-                    "002008",
-                    "002009",
-                    "003221",
-                    "003194"
-                ]
-            }
-        },
-        "NB3+1+Tuen Mun Pier Head+Shenzhen Bay Port": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Shenzhen Bay Port",
-                "zh": "深圳灣口岸"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tuen Mun Pier Head",
-                "zh": "屯門碼頭"
-            },
-            "route": "NB3",
-            "seq": 15,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003194",
-                    "002010",
-                    "001934",
-                    "001938",
-                    "003195",
-                    "003196",
-                    "003197",
-                    "001922",
-                    "002598",
-                    "002599",
-                    "002600",
-                    "003430",
-                    "003153",
-                    "003192",
-                    "003208"
-                ]
-            }
-        },
         "P960+1+EXHIBITION CENTRE STATION+SIU HONG STATION (NORTH)": {
             "bound": {
                 "kmb": "I"
@@ -410431,175 +410022,6 @@
                     "23EC94A5FAA1E5A3",
                     "9ADF943CA573C631",
                     "EB3F46E0040B4960"
-                ]
-            }
-        },
-        "R11+1+Disneyland+North Point Ferry Pier": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "North Point Ferry Pier",
-                "zh": "北角碼頭"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Disneyland",
-                "zh": "迪士尼樂園"
-            },
-            "route": "R11",
-            "seq": 19,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002658",
-                    "001854",
-                    "001515",
-                    "001775",
-                    "001559",
-                    "001561",
-                    "001564",
-                    "001471",
-                    "001476",
-                    "002673",
-                    "002437",
-                    "002713",
-                    "001213",
-                    "001251",
-                    "001248",
-                    "001243",
-                    "001244",
-                    "001254",
-                    "001249"
-                ]
-            }
-        },
-        "R11B+1+Central (Macau Ferry)+Tung Chung (Mun Tung Estate)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Tung Chung (Mun Tung Estate)",
-                "zh": "東涌 (滿東邨)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Central (Macau Ferry)",
-                "zh": "中環 (港澳碼頭)"
-            },
-            "route": "R11B",
-            "seq": 34,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001027",
-                    "001028",
-                    "001044",
-                    "001046",
-                    "001047",
-                    "001051",
-                    "001137",
-                    "002430",
-                    "002432",
-                    "002434",
-                    "002435",
-                    "002437",
-                    "002555",
-                    "002535",
-                    "002414",
-                    "001475",
-                    "001480",
-                    "001481",
-                    "001482",
-                    "001586",
-                    "001853",
-                    "003814",
-                    "003815",
-                    "001876",
-                    "001878",
-                    "001880",
-                    "001882",
-                    "003452",
-                    "003453",
-                    "003443",
-                    "001869",
-                    "001857",
-                    "001874",
-                    "003566"
-                ]
-            }
-        },
-        "R22+1+Disneyland+Yau Tong": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Yau Tong",
-                "zh": "油塘"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Disneyland",
-                "zh": "迪士尼樂園"
-            },
-            "route": "R22",
-            "seq": 29,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002658",
-                    "001854",
-                    "002862",
-                    "001483",
-                    "001484",
-                    "001691",
-                    "001412",
-                    "001413",
-                    "001534",
-                    "001535",
-                    "001536",
-                    "001529",
-                    "001572",
-                    "001573",
-                    "001829",
-                    "001503",
-                    "001504",
-                    "001505",
-                    "001506",
-                    "001507",
-                    "001508",
-                    "001509",
-                    "001510",
-                    "001518",
-                    "001519",
-                    "002662",
-                    "002663",
-                    "001791",
-                    "001792"
                 ]
             }
         },
@@ -435645,26 +435067,6 @@
                 "zh": "迪士尼樂園"
             }
         },
-        "002662": {
-            "location": {
-                "lat": 22.300173652091,
-                "lng": 114.23852691053
-            },
-            "name": {
-                "en": "St. Antonius Girls' College, Lei Yue Mun Road",
-                "zh": "聖安當女書院, 鯉魚門道"
-            }
-        },
-        "002663": {
-            "location": {
-                "lat": 22.297746442091,
-                "lng": 114.23937437053
-            },
-            "name": {
-                "en": "Yau Tong Estate, Lei Yue Mun Road",
-                "zh": "油塘邨, 鯉魚門道"
-            }
-        },
         "002664": {
             "location": {
                 "lat": 22.318555652091,
@@ -443027,8 +442429,8 @@
         },
         "003548": {
             "location": {
-                "lat": 22.304896172091,
-                "lng": 114.16590802053
+                "lat": 22.303788662091,
+                "lng": 114.16657432053
             },
             "name": {
                 "en": "HSR West Kowloon Station Boarding and Alighting Area",
@@ -447111,8 +446513,8 @@
                 "lng": 114.214338
             },
             "name": {
-                "en": "KOWLOON BAY STATION",
-                "zh": "九龍灣站"
+                "en": "KOWLOON BAY STATION (EKCC)",
+                "zh": "九龍灣站(東九文化中心)"
             }
         },
         "060A70079F196C7C": {
@@ -464991,8 +464393,8 @@
                 "lng": 114.27145791418441
             },
             "name": {
-                "en": "Bus lay-by on Wan Po Road near Pak Shing Kok Road ",
-                "zh": "環保大道近百勝角路的巴士停車灣 "
+                "en": "Bus lay-by on Wan Po Road near Pak Shing Kok Road",
+                "zh": "環保大道近百勝角路的巴士停車灣"
             }
         },
         "20002652": {
@@ -465001,8 +464403,8 @@
                 "lng": 114.2679475704486
             },
             "name": {
-                "en": "Bus lay-by on Wan Po Road near Creative Secondary School ",
-                "zh": "環保大道近啟思中學的巴士停車灣 "
+                "en": "Bus lay-by on Wan Po Road near Creative Secondary School",
+                "zh": "環保大道近啟思中學的巴士停車灣"
             }
         },
         "20002654": {
@@ -514611,8 +514013,8 @@
                 "lng": 114.214336
             },
             "name": {
-                "en": "KOWLOON BAY STATION",
-                "zh": "九龍灣站"
+                "en": "KOWLOON BAY STATION (EKCC)",
+                "zh": "九龍灣站(東九文化中心)"
             }
         },
         "4BDF62F2A7C32429": {
@@ -522181,8 +521583,8 @@
                 "lng": 114.214337
             },
             "name": {
-                "en": "KOWLOON BAY STATION",
-                "zh": "九龍灣站"
+                "en": "KOWLOON BAY STATION (EKCC)",
+                "zh": "九龍灣站(東九文化中心)"
             }
         },
         "66B8F73D3F4E91C9": {
@@ -531461,8 +530863,8 @@
                 "lng": 114.214339
             },
             "name": {
-                "en": "KOWLOON BAY STATION",
-                "zh": "九龍灣站"
+                "en": "KOWLOON BAY STATION (EKCC)",
+                "zh": "九龍灣站(東九文化中心)"
             }
         },
         "8C1810DE2419A30B": {
@@ -544091,8 +543493,8 @@
                 "lng": 114.21441
             },
             "name": {
-                "en": "KOWLOON BAY STATION",
-                "zh": "九龍灣站"
+                "en": "KOWLOON BAY STATION (EKCC)",
+                "zh": "九龍灣站(東九文化中心)"
             }
         },
         "BC8F3F54B096B69F": {
@@ -549161,8 +548563,8 @@
                 "lng": 114.214493
             },
             "name": {
-                "en": "KOWLOON BAY STATION",
-                "zh": "九龍灣站"
+                "en": "KOWLOON BAY STATION (EKCC)",
+                "zh": "九龍灣站(東九文化中心)"
             }
         },
         "D0FB28B8EED62431": {
@@ -564455,14 +563857,214 @@
                 "zh": "屯門市中心"
             }
         },
-        "K58-D010": {
+        "K54A-D010": {
             "location": {
-                "lat": 22.379752,
-                "lng": 113.980639
+                "lat": 22.4134,
+                "lng": 113.97902
             },
             "name": {
-                "en": "Castle Peak Bay",
-                "zh": "青山灣"
+                "en": "MTR Siu Hong Station (North) (LR Siu Hong Stop)",
+                "zh": "港鐵兆康站 (北) (輕鐵兆康站)"
+            }
+        },
+        "K54A-D020": {
+            "location": {
+                "lat": 22.414907,
+                "lng": 113.977412
+            },
+            "name": {
+                "en": "Siu Hong Court",
+                "zh": "兆康苑"
+            }
+        },
+        "K54A-D030": {
+            "location": {
+                "lat": 22.41309916,
+                "lng": 113.9723357
+            },
+            "name": {
+                "en": "Yan Po Road Public Transport Interchange",
+                "zh": "欣寶路公共運輸交匯處"
+            }
+        },
+        "K54A-D040": {
+            "location": {
+                "lat": 22.41197411,
+                "lng": 113.9703303
+            },
+            "name": {
+                "en": "Ching Tin Estate",
+                "zh": "菁田邨"
+            }
+        },
+        "K54A-D050": {
+            "location": {
+                "lat": 22.41295362,
+                "lng": 113.9686386
+            },
+            "name": {
+                "en": "Wo Tin Estate",
+                "zh": "和田邨"
+            }
+        },
+        "K54A-U010": {
+            "location": {
+                "lat": 22.41295362,
+                "lng": 113.9686386
+            },
+            "name": {
+                "en": "Wo Tin Estate",
+                "zh": "和田邨"
+            }
+        },
+        "K54A-U020": {
+            "location": {
+                "lat": 22.41229368,
+                "lng": 113.9705794
+            },
+            "name": {
+                "en": "Ching Tin Estate",
+                "zh": "菁田邨"
+            }
+        },
+        "K54A-U030": {
+            "location": {
+                "lat": 22.41439481,
+                "lng": 113.9738808
+            },
+            "name": {
+                "en": "Tsz Tin Tsuen",
+                "zh": "紫田村"
+            }
+        },
+        "K54A-U040": {
+            "location": {
+                "lat": 22.41435,
+                "lng": 113.97701
+            },
+            "name": {
+                "en": "Yan Tin Estate",
+                "zh": "欣田邨"
+            }
+        },
+        "K54A-U050": {
+            "location": {
+                "lat": 22.4134,
+                "lng": 113.97902
+            },
+            "name": {
+                "en": "MTR Siu Hong Station (North) (LR Siu Hong Stop)",
+                "zh": "港鐵兆康站 (北) (輕鐵兆康站)"
+            }
+        },
+        "K58-D001": {
+            "location": {
+                "lat": 22.375743,
+                "lng": 113.999829
+            },
+            "name": {
+                "en": "So Kwun Wat Tsuen",
+                "zh": "掃管笏村"
+            }
+        },
+        "K58-D002": {
+            "location": {
+                "lat": 22.372023,
+                "lng": 114.003593
+            },
+            "name": {
+                "en": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)",
+                "zh": "掃管笏  (鄭任安夫人千禧小學)"
+            }
+        },
+        "K58-D003": {
+            "location": {
+                "lat": 22.374216,
+                "lng": 114.002295
+            },
+            "name": {
+                "en": "So Kwun Wat Road",
+                "zh": "掃管笏路"
+            }
+        },
+        "K58-D004": {
+            "location": {
+                "lat": 22.373866,
+                "lng": 114.001024
+            },
+            "name": {
+                "en": "18 Kwun Chui Road",
+                "zh": "管翠路18號"
+            }
+        },
+        "K58-D005": {
+            "location": {
+                "lat": 22.375123,
+                "lng": 113.997707
+            },
+            "name": {
+                "en": "Kwun Chui Road",
+                "zh": "管翠路"
+            }
+        },
+        "K58-D006": {
+            "location": {
+                "lat": 22.371473,
+                "lng": 113.995381
+            },
+            "name": {
+                "en": "Aegean Coast",
+                "zh": "愛琴海岸"
+            }
+        },
+        "K58-D007": {
+            "location": {
+                "lat": 22.371294,
+                "lng": 113.993906
+            },
+            "name": {
+                "en": "Hong Kong Gold Coast",
+                "zh": "香港黃金海岸"
+            }
+        },
+        "K58-D008": {
+            "location": {
+                "lat": 22.373653,
+                "lng": 113.991237
+            },
+            "name": {
+                "en": "Golden Beach",
+                "zh": "黃金泳灘"
+            }
+        },
+        "K58-D009": {
+            "location": {
+                "lat": 22.375924,
+                "lng": 113.985662
+            },
+            "name": {
+                "en": "Cafeteria Beach",
+                "zh": "咖啡灣"
+            }
+        },
+        "K58-D011": {
+            "location": {
+                "lat": 22.377941,
+                "lng": 113.983293
+            },
+            "name": {
+                "en": "Bayview Terrace",
+                "zh": "碧翠花園"
+            }
+        },
+        "K58-D012": {
+            "location": {
+                "lat": 22.378954,
+                "lng": 113.980609
+            },
+            "name": {
+                "en": "Castle Peak Bay Pier",
+                "zh": "青山灣碼頭"
             }
         },
         "K58-D020": {
@@ -564905,14 +564507,124 @@
                 "zh": "三聖邨"
             }
         },
-        "K58-U210": {
+        "K58-U215": {
             "location": {
-                "lat": 22.379752,
-                "lng": 113.980639
+                "lat": 22.378923,
+                "lng": 113.980763
             },
             "name": {
-                "en": "Castle Peak Bay",
+                "en": "Castle Peak Beach",
                 "zh": "青山灣"
+            }
+        },
+        "K58-U220": {
+            "location": {
+                "lat": 22.377877,
+                "lng": 113.983564
+            },
+            "name": {
+                "en": "Seaview Garden",
+                "zh": "海景花園"
+            }
+        },
+        "K58-U230": {
+            "location": {
+                "lat": 22.374926,
+                "lng": 113.986745
+            },
+            "name": {
+                "en": "Cafeteria Beach",
+                "zh": "咖啡灣"
+            }
+        },
+        "K58-U240": {
+            "location": {
+                "lat": 22.373785,
+                "lng": 113.990848
+            },
+            "name": {
+                "en": "Golden Beach",
+                "zh": "黃金泳灘"
+            }
+        },
+        "K58-U250": {
+            "location": {
+                "lat": 22.372048,
+                "lng": 113.993608
+            },
+            "name": {
+                "en": "Hong Kong Gold Coast",
+                "zh": "香港黃金海岸"
+            }
+        },
+        "K58-U260": {
+            "location": {
+                "lat": 22.371605,
+                "lng": 113.9954
+            },
+            "name": {
+                "en": "Aegean Coast",
+                "zh": "愛琴海岸"
+            }
+        },
+        "K58-U270": {
+            "location": {
+                "lat": 22.373878,
+                "lng": 113.996144
+            },
+            "name": {
+                "en": "So Kwun Wat Sub-station",
+                "zh": "掃管笏變電站"
+            }
+        },
+        "K58-U280": {
+            "location": {
+                "lat": 22.375743,
+                "lng": 113.999829
+            },
+            "name": {
+                "en": "So Kwun Wat Tsuen",
+                "zh": "掃管笏村"
+            }
+        },
+        "K58-U290": {
+            "location": {
+                "lat": 22.372023,
+                "lng": 114.003593
+            },
+            "name": {
+                "en": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)",
+                "zh": "掃管笏 (鄭任安夫人千禧小學)"
+            }
+        },
+        "K58-U300": {
+            "location": {
+                "lat": 22.374216,
+                "lng": 114.002295
+            },
+            "name": {
+                "en": "So Kwun Wat Road",
+                "zh": "掃管笏路"
+            }
+        },
+        "K58-U310": {
+            "location": {
+                "lat": 22.373866,
+                "lng": 114.001024
+            },
+            "name": {
+                "en": "18 Kwun Chui Road",
+                "zh": "管翠路18號"
+            }
+        },
+        "K58-U320": {
+            "location": {
+                "lat": 22.375123,
+                "lng": 113.997707
+            },
+            "name": {
+                "en": "Kwun Chui Road",
+                "zh": "管翠路"
             }
         },
         "K65-D010": {
