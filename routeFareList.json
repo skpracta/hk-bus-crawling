@@ -45624,6 +45624,7 @@
                 "6.7",
                 "6.7",
                 "6.7",
+                "6.7",
                 "6.7"
             ],
             "faresHoliday": null,
@@ -45759,7 +45760,7 @@
                 "zh": "觀塘(裕民坊)"
             },
             "route": "17",
-            "seq": 20,
+            "seq": 21,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -45771,6 +45772,7 @@
                     "EC757345195E6EAC",
                     "427A1FF65094D4D0",
                     "317BECDAF11EB461",
+                    "F2DE08EC0816987B",
                     "C80FB453C9F53569",
                     "C5F7AF8D65B268E4",
                     "AE2A53D953B640BE",
@@ -45873,74 +45875,6 @@
                     "20002032",
                     "20002003",
                     "20014766"
-                ]
-            }
-        },
-        "17+1+TELFORD GARDENS+HO MAN TIN (OI MAN ESTATE) BUS TERMINUS": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "HO MAN TIN (OI MAN ESTATE) BUS TERMINUS",
-                "zh": "何文田(愛民邨)巴士總站"
-            },
-            "fares": [
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7",
-                "6.7"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0700": null,
-                    "0710": null,
-                    "0715": null,
-                    "0720": null
-                }
-            },
-            "gtfsId": "8191",
-            "jt": "27",
-            "nlbId": null,
-            "orig": {
-                "en": "TELFORD GARDENS",
-                "zh": "德福花園"
-            },
-            "route": "17",
-            "seq": 16,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "D45CEDE6A9DFA30B",
-                    "EC757345195E6EAC",
-                    "427A1FF65094D4D0",
-                    "317BECDAF11EB461",
-                    "C80FB453C9F53569",
-                    "C5F7AF8D65B268E4",
-                    "AE2A53D953B640BE",
-                    "ACD50EDB57CC1618",
-                    "8111C852B4D849ED",
-                    "950668CA03FE879F",
-                    "7CA14768A9D3B451",
-                    "4FDF5E1EC677A66C",
-                    "BC3B37FDEE7EE51B",
-                    "5CE1C1296F98C6C4",
-                    "28D4FD61902C9392",
-                    "D93BC4178BA9232A"
                 ]
             }
         },
@@ -46054,29 +45988,35 @@
                 "6.7",
                 "6.7",
                 "6.7",
+                "6.7",
+                "6.7",
                 "6.7"
             ],
             "faresHoliday": null,
             "freq": {
                 "287": {
-                    "0710": null
+                    "0700": null,
+                    "0710": null,
+                    "0715": null,
+                    "0720": null
                 }
             },
-            "gtfsId": "1000337",
-            "jt": "25",
+            "gtfsId": "8191",
+            "jt": "27",
             "nlbId": null,
             "orig": {
                 "en": "KOWLOON BAY STATION",
                 "zh": "九龍灣站"
             },
             "route": "17",
-            "seq": 15,
+            "seq": 16,
             "serviceType": "2",
             "stops": {
                 "kmb": [
                     "EC757345195E6EAC",
                     "427A1FF65094D4D0",
                     "317BECDAF11EB461",
+                    "F2DE08EC0816987B",
                     "C80FB453C9F53569",
                     "C5F7AF8D65B268E4",
                     "AE2A53D953B640BE",
@@ -46103,22 +46043,41 @@
                 "en": "HO MAN TIN (OI MAN ESTATE)",
                 "zh": "何文田(愛民邨)"
             },
-            "fares": null,
+            "fares": [
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0710": null
+                }
+            },
+            "gtfsId": "1000337",
+            "jt": "25",
             "nlbId": null,
             "orig": {
                 "en": "PRINCE EDWARD ROAD EAST (RICHLAND GARDENS)",
                 "zh": "太子道東(麗晶花園)"
             },
             "route": "17",
-            "seq": 13,
+            "seq": 14,
             "serviceType": "3",
             "stops": {
                 "kmb": [
                     "317BECDAF11EB461",
+                    "F2DE08EC0816987B",
                     "C80FB453C9F53569",
                     "C5F7AF8D65B268E4",
                     "AE2A53D953B640BE",
@@ -559991,6 +559950,16 @@
             "name": {
                 "en": "LI KWAN AVENUE",
                 "zh": "利群道"
+            }
+        },
+        "F2DE08EC0816987B": {
+            "location": {
+                "lat": 22.334848,
+                "lng": 114.20187
+            },
+            "name": {
+                "en": "RHYTHM GARDEN",
+                "zh": "采頤花園"
             }
         },
         "F2DFF3A02940D925": {
