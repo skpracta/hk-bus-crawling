@@ -33203,7 +33203,7 @@
                     "20000983",
                     "20002030",
                     "20007878",
-                    "20003266",
+                    "20014772",
                     "20002032",
                     "20002003",
                     "20002020",
@@ -95921,7 +95921,7 @@
             ],
             "dest": {
                 "en": "SHAM SHUI PO",
-                "zh": "深水埗"
+                "zh": "深水?"
             },
             "fares": [
                 "16.9",
@@ -410326,7 +410326,7 @@
                 "zh": "將軍澳(唐俊街)"
             },
             "route": "PB6",
-            "seq": 11,
+            "seq": 9,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -410334,8 +410334,6 @@
                     "DE8AB4B54CD3D4F2",
                     "C1EE377B1D421E2F",
                     "E85A10E61A00CC09",
-                    "90F0F685E42CC10D",
-                    "F77B2A9037BF71ED",
                     "90F0F685E42CC10D",
                     "C1EE377B1D421E2F",
                     "E85A10E61A00CC09",
@@ -410488,54 +410486,6 @@
                 ]
             }
         },
-        "R108+1+KAI YIP+CAUSEWAY BAY (VICTORIA PARK)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "CAUSEWAY BAY (VICTORIA PARK)",
-                "zh": "銅鑼灣(維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "KAI YIP",
-                "zh": "啟業"
-            },
-            "route": "R108",
-            "seq": 19,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "0718DE53C1C84496",
-                    "AC4EEE801BB9133C",
-                    "5CD6A0A0CE6B53B6",
-                    "32A2D05A195364DC",
-                    "C1C31D615DAA97F4",
-                    "A4601C77EB896E30",
-                    "E207DBF95EA7DE26",
-                    "C71093B5185DF735",
-                    "C80FB453C9F53569",
-                    "8BB1DE68DB8316D3",
-                    "AE4D7869B643DAA2",
-                    "AE2A53D953B640BE",
-                    "E798CB4E2C777782",
-                    "6E8CB58283AF3CB1",
-                    "9CFB5F7232818FFA",
-                    "A06590AD808DC9A9",
-                    "06C9926B2E2B304F",
-                    "76B4054F2E1F00B0",
-                    "DF901EF2F9A46F7B"
-                ]
-            }
-        },
         "R11+1+Disneyland+North Point Ferry Pier": {
             "bound": {
                 "ctb": "O"
@@ -410581,69 +410531,6 @@
                     "001244",
                     "001254",
                     "001249"
-                ]
-            }
-        },
-        "R215+1+LAM TIN (KWONG TIN ESTATE)+TSIM SHA TSUI EAST (MODY ROAD)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSIM SHA TSUI EAST (MODY ROAD)",
-                "zh": "尖東麼地道"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "LAM TIN (KWONG TIN ESTATE)",
-                "zh": "藍田(廣田邨)"
-            },
-            "route": "R215",
-            "seq": 34,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "215D99B3E2A5F8DD",
-                    "736E84A8060D2AB9",
-                    "CB4B52222877C32F",
-                    "6B9496267BEFF02A",
-                    "5ACB622335DF5AE7",
-                    "B7082198F517B1E8",
-                    "1FBAAE29AF1CA50E",
-                    "AA52228890817D12",
-                    "6410DDEFBBD17426",
-                    "A6A1C99BF11EE56C",
-                    "EC1E1868D370F3D9",
-                    "057B2DCE8BE58FFA",
-                    "8CA39D263F36C070",
-                    "EA2CFF27310EAEC3",
-                    "93084A14AE624C6F",
-                    "D17050E8964504BB",
-                    "04DDF4F7F1C74876",
-                    "D6F16850DA906373",
-                    "2BB6115BF9346B34",
-                    "6765DD696FA8BF8D",
-                    "0CA3C6C38D2F3F75",
-                    "FAF9EF8853A3B65E",
-                    "EDFC39232C98E301",
-                    "9D431DF484149B75",
-                    "3E54E8AF4083B065",
-                    "3F4B54625D1F9E48",
-                    "F663E12DC37F3C5A",
-                    "D2B43459063F53DB",
-                    "7995F69FE44D0DB3",
-                    "F90ED764C7A95649",
-                    "041DFA7A1729D20C",
-                    "558599642E78BB9B",
-                    "BEEBDDB542A7E709",
-                    "48184733EFE9D3E3"
                 ]
             }
         },
@@ -410941,7 +410828,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "CF0C67920B22ED62",
+                    "C799751FDFCE292E",
                     "98EBAB9468C80DD2",
                     "6DD6B837EF1FA76C",
                     "AFD29CB1A4F71AB9",
@@ -410958,94 +410845,6 @@
                     "66C6FDFC88F56E51",
                     "7CD8F96A087CDDF2",
                     "F3D86A2A72FF3582"
-                ]
-            }
-        },
-        "R298+1+HONG SING GARDEN+TSIM SHA TSUI EAST (MODY ROAD)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSIM SHA TSUI EAST (MODY ROAD)",
-                "zh": "尖沙咀東(麼地道)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "HONG SING GARDEN",
-                "zh": "康盛花園"
-            },
-            "route": "R298",
-            "seq": 13,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "D4D418BAEAC719B0",
-                    "ABC15E2110BF7A49",
-                    "BC66863007C0592B",
-                    "848CA90EB0DB1146",
-                    "7486D53F341F1AAC",
-                    "FC42DCBDC3AB0B6F",
-                    "22E2678081E88368",
-                    "1D5530B0037C0143",
-                    "9B0382206D441221",
-                    "54FCA9F5D8F3587E",
-                    "9762FC524B26C4A7",
-                    "BEEBDDB542A7E709",
-                    "0DB55CC5E4533F4E"
-                ]
-            }
-        },
-        "R307+1+Tai Po (Ting Tai Road)+Causeway Bay (Victoria Park)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Victoria Park)",
-                "zh": "銅鑼灣 (維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tai Po (Ting Tai Road)",
-                "zh": "大埔 (汀太路)"
-            },
-            "route": "R307",
-            "seq": 17,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003246",
-                    "003247",
-                    "003248",
-                    "003249",
-                    "003250",
-                    "002021",
-                    "003227",
-                    "002025",
-                    "001622",
-                    "001623",
-                    "001624",
-                    "001625",
-                    "001580",
-                    "001581",
-                    "001476",
-                    "002474",
-                    "001213"
                 ]
             }
         },
@@ -411340,48 +411139,6 @@
                 ]
             }
         },
-        "R38+1+Chi Fu Fa Yuen+Causeway Bay (Victoria Park)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Victoria Park)",
-                "zh": "銅鑼灣 (維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Chi Fu Fa Yuen",
-                "zh": "置富花園"
-            },
-            "route": "R38",
-            "seq": 13,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002186",
-                    "002190",
-                    "002328",
-                    "002339",
-                    "002341",
-                    "002342",
-                    "002259",
-                    "002363",
-                    "002159",
-                    "002343",
-                    "002347",
-                    "002474",
-                    "001213"
-                ]
-            }
-        },
         "R42+1+DISNEYLAND+TAI WAI STATION": {
             "bound": {
                 "kmb": "O"
@@ -411498,67 +411255,6 @@
                 ]
             }
         },
-        "R603+1+ON TAI (WEST)+CAUSEWAY BAY (VICTORIA PARK)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "CAUSEWAY BAY (VICTORIA PARK)",
-                "zh": "銅鑼灣(維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "ON TAI (WEST)",
-                "zh": "安泰(西)"
-            },
-            "route": "R603",
-            "seq": 32,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "FBE07247C3FDB904",
-                    "EC1E1868D370F3D9",
-                    "057B2DCE8BE58FFA",
-                    "4A91A327C9FC745E",
-                    "EA2CFF27310EAEC3",
-                    "3C0AF6BA82588E2F",
-                    "F8DEE1D5F9A349AD",
-                    "4A14A012710E80B1",
-                    "3216F11DA45B80D7",
-                    "6F106FD26B684372",
-                    "26305AF62FBEE2BC",
-                    "D83C4CC1305E35E9",
-                    "13A8D09F9E444BF3",
-                    "EF17FDCDDF170D38",
-                    "FDB7C76323B22686",
-                    "9D676B8892807F9D",
-                    "1472CA699A47EE46",
-                    "3144CE950CE29C80",
-                    "543FD8B6C65D1C4C",
-                    "316BB2C947568585",
-                    "3E862B92873F5811",
-                    "57A0D4D6D4D57497",
-                    "0F9D050D4229C0F7",
-                    "19171A194D7507D5",
-                    "F60CC440E22B0BD9",
-                    "3C6DAB7267F9E54F",
-                    "73E85E88E124EF2C",
-                    "6C6B36F7550907CE",
-                    "FF6E49051D6D9A8C",
-                    "06C9926B2E2B304F",
-                    "76B4054F2E1F00B0",
-                    "DF901EF2F9A46F7B"
-                ]
-            }
-        },
         "R673+1+SHEUNG SHUI (CHING HO)+CAUSEWAY BAY (VICTORIA PARK)": {
             "bound": {
                 "kmb": "O"
@@ -411581,12 +411277,13 @@
                 "zh": "上水(清河)"
             },
             "route": "R673",
-            "seq": 23,
+            "seq": 24,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "583E102838FA4D0A",
                     "6F11F73C749338DB",
+                    "C799751FDFCE292E",
                     "D3E18D04B69DF388",
                     "C4F843F93CDCBE64",
                     "4235BA400EB10F0E",
@@ -411608,53 +411305,6 @@
                     "4D3CBBDB95447F2E",
                     "76B4054F2E1F00B0",
                     "17B98BD1165A7B92"
-                ]
-            }
-        },
-        "R680+1+Ma On Shan (Kam Ying Court)+Causeway Bay (Victoria Park)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Victoria Park)",
-                "zh": "銅鑼灣 (維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Ma On Shan (Kam Ying Court)",
-                "zh": "馬鞍山 (錦英苑)"
-            },
-            "route": "R680",
-            "seq": 18,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003090",
-                    "003091",
-                    "003092",
-                    "001950",
-                    "003093",
-                    "001914",
-                    "001915",
-                    "003078",
-                    "002028",
-                    "002029",
-                    "003079",
-                    "003080",
-                    "003081",
-                    "003082",
-                    "001476",
-                    "002962",
-                    "002474",
-                    "001213"
                 ]
             }
         },
@@ -411688,47 +411338,6 @@
                     "18FB32A8BE19CB57",
                     "EF78DD9F765C6565",
                     "9DBFBF7A3CE5DF0A"
-                ]
-            }
-        },
-        "R796+1+LOHAS Park (via: Sheung Tak)+Tsim Sha Tsui (Mody Road)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Tsim Sha Tsui (Mody Road)",
-                "zh": "尖沙咀(麼地道)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "LOHAS Park (via: Sheung Tak)",
-                "zh": "日出康城 (經:尚德)"
-            },
-            "route": "R796",
-            "seq": 12,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003329",
-                    "002919",
-                    "002928",
-                    "002929",
-                    "002930",
-                    "002931",
-                    "001818",
-                    "002918",
-                    "001823",
-                    "003589",
-                    "001419",
-                    "001540"
                 ]
             }
         },
@@ -411950,53 +411559,6 @@
                 ]
             }
         },
-        "R930+1+Tsuen Wan (Discovery Park)+Causeway Bay (Victoria Park)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Victoria Park)",
-                "zh": "銅鑼灣 (維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tsuen Wan (Discovery Park)",
-                "zh": "荃灣 (愉景新城)"
-            },
-            "route": "R930",
-            "seq": 18,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003340",
-                    "003416",
-                    "003342",
-                    "001958",
-                    "001959",
-                    "003449",
-                    "003417",
-                    "003418",
-                    "001980",
-                    "001981",
-                    "002056",
-                    "001983",
-                    "001984",
-                    "001919",
-                    "001920",
-                    "001476",
-                    "002474",
-                    "001213"
-                ]
-            }
-        },
         "R934+1+TSUEN WAN (BAYVIEW GARDEN)+CAUSEWAY BAY (VICTORIA PARK)": {
             "bound": {
                 "kmb": "O"
@@ -412090,8 +411652,7 @@
                 "kmb": "O"
             },
             "co": [
-                "kmb",
-                "ctb"
+                "kmb"
             ],
             "dest": {
                 "en": "CAUSEWAY BAY (VICTORIA PARK)",
@@ -412111,27 +411672,6 @@
             "seq": 19,
             "serviceType": "1",
             "stops": {
-                "ctb": [
-                    "003319",
-                    "003320",
-                    "002005",
-                    "003108",
-                    "003109",
-                    "003110",
-                    "003111",
-                    "003112",
-                    "003113",
-                    "003114",
-                    "003115",
-                    "003116",
-                    "003117",
-                    "003118",
-                    "003119",
-                    "003138",
-                    "001476",
-                    "002474",
-                    "001213"
-                ],
                 "kmb": [
                     "79842A7E2FC0844F",
                     "FF5CF18C5510B901",
@@ -412152,216 +411692,6 @@
                     "06C9926B2E2B304F",
                     "76B4054F2E1F00B0",
                     "17B98BD1165A7B92"
-                ]
-            }
-        },
-        "R950+1+Tuen Mun (Ching Tin and Wo Tin)+Causeway Bay (Victoria Park)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Victoria Park)",
-                "zh": "銅鑼灣 (維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tuen Mun (Ching Tin and Wo Tin)",
-                "zh": "屯門 (菁田及和田)"
-            },
-            "route": "R950",
-            "seq": 23,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003752",
-                    "003753",
-                    "003754",
-                    "003207",
-                    "003350",
-                    "003656",
-                    "003193",
-                    "003657",
-                    "003658",
-                    "003363",
-                    "002603",
-                    "002604",
-                    "002606",
-                    "002608",
-                    "002675",
-                    "002611",
-                    "002613",
-                    "002614",
-                    "002616",
-                    "002618",
-                    "001476",
-                    "002474",
-                    "001213"
-                ]
-            }
-        },
-        "R960+1+HUNG SHUI KIU (HUNG YUEN ROAD)+CAUSEWAY BAY (VICTORIA PARK)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "CAUSEWAY BAY (VICTORIA PARK)",
-                "zh": "銅鑼灣(維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "HUNG SHUI KIU (HUNG YUEN ROAD)",
-                "zh": "洪水橋(洪元路)"
-            },
-            "route": "R960",
-            "seq": 28,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "595CE3974AB6F377",
-                    "AC1A0FA3D0743FCC",
-                    "8FA8E142E834CB7C",
-                    "92A09EC9B712A1ED",
-                    "4885700825A72F51",
-                    "A1541789F09C89BA",
-                    "D073CC71A1B4F79C",
-                    "B64EEA7F564C7853",
-                    "46D1A9FD1F84CA5C",
-                    "E01BD8E1BEC29EA6",
-                    "E16D49ECA536ECC6",
-                    "F224A907BD68406A",
-                    "4F36FEF121788834",
-                    "ECE3F3BE270C27E2",
-                    "594A765BE3A43C73",
-                    "507D90B4B976DBD6",
-                    "1F6BFDF34BABCE6A",
-                    "19B569A51034271F",
-                    "1AD9C759A42F9003",
-                    "EB64718829DFC071",
-                    "92A8D40E66E76F6B",
-                    "DD56DC2336C878C1",
-                    "8121695666A4D9CE",
-                    "C2787E27F82716BF",
-                    "ACB5FEA2BF9FC5AD",
-                    "06C9926B2E2B304F",
-                    "76B4054F2E1F00B0",
-                    "17B98BD1165A7B92"
-                ]
-            }
-        },
-        "R961+1+TUEN MUN (SHAN KING ESTATE)+CAUSEWAY BAY (VICTORIA PARK)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "CAUSEWAY BAY (VICTORIA PARK)",
-                "zh": "銅鑼灣(維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN (SHAN KING ESTATE)",
-                "zh": "屯門(山景邨)"
-            },
-            "route": "R961",
-            "seq": 12,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "2297CADDD7BC438D",
-                    "B3CCA98CC6CE7C8C",
-                    "490F1A302D8C32FC",
-                    "584E6744385F6463",
-                    "C1BF4509359B0895",
-                    "C425164651C7EF52",
-                    "ABDD74161F650B6E",
-                    "123A364D76B2CE5D",
-                    "ACB5FEA2BF9FC5AD",
-                    "06C9926B2E2B304F",
-                    "76B4054F2E1F00B0",
-                    "17B98BD1165A7B92"
-                ]
-            }
-        },
-        "R962+1+Tuen Mun (Lung Mun Oasis)+Causeway Bay (Moreton Terrace)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Moreton Terrace)",
-                "zh": "銅鑼灣 (摩頓台)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tuen Mun (Lung Mun Oasis)",
-                "zh": "屯門 (龍門居)"
-            },
-            "route": "R962",
-            "seq": 31,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003852",
-                    "001935",
-                    "001936",
-                    "001937",
-                    "002008",
-                    "002009",
-                    "002011",
-                    "002012",
-                    "002034",
-                    "001922",
-                    "001885",
-                    "001886",
-                    "001887",
-                    "001888",
-                    "001889",
-                    "001890",
-                    "003484",
-                    "003543",
-                    "003485",
-                    "003486",
-                    "003487",
-                    "001891",
-                    "001892",
-                    "002048",
-                    "002049",
-                    "001893",
-                    "001894",
-                    "001476",
-                    "002474",
-                    "002535",
-                    "002536"
                 ]
             }
         },
@@ -412406,54 +411736,6 @@
                     "06C9926B2E2B304F",
                     "76B4054F2E1F00B0",
                     "17B98BD1165A7B92"
-                ]
-            }
-        },
-        "R969+1+Tin Shui Wai Town Centre+Causeway Bay (Moreton Terrace)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Moreton Terrace)",
-                "zh": "銅鑼灣 (摩頓台)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Tin Shui Wai Town Centre",
-                "zh": "天水圍市中心"
-            },
-            "route": "R969",
-            "seq": 19,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002003",
-                    "002062",
-                    "002621",
-                    "002075",
-                    "002622",
-                    "003773",
-                    "002667",
-                    "001989",
-                    "001996",
-                    "001991",
-                    "001992",
-                    "001998",
-                    "002001",
-                    "002153",
-                    "001973",
-                    "001476",
-                    "002474",
-                    "002535",
-                    "002536"
                 ]
             }
         },
@@ -464453,8 +463735,8 @@
         },
         "20002020": {
             "location": {
-                "lat": 22.3227521689809,
-                "lng": 114.25031669819424
+                "lat": 22.322815040596723,
+                "lng": 114.2502272129059
             },
             "name": {
                 "en": "Po Lam Road North, outside Yuk King House, King Ming Court",
@@ -467909,16 +467191,6 @@
             "name": {
                 "en": "KAI CHEUNG ROAD, near HONG KONG AUXILIARY POLICE FORCE HEADQUARTERS",
                 "zh": "啓祥道, 近香港輔助警察隊總部"
-            }
-        },
-        "20003266": {
-            "location": {
-                "lat": 22.318603543620462,
-                "lng": 114.23623575039977
-            },
-            "name": {
-                "en": "Po Lam Road, opposite Po Tat Estate",
-                "zh": "寶琳路, 寶達邨對面"
             }
         },
         "20003273": {
@@ -561239,16 +560511,6 @@
             "name": {
                 "en": "EVELYN TOWERS",
                 "zh": "雲景台"
-            }
-        },
-        "F77B2A9037BF71ED": {
-            "location": {
-                "lat": 22.284365,
-                "lng": 114.173996
-            },
-            "name": {
-                "en": "GOLDEN BAUHINIA GARDEN",
-                "zh": "金紫荊廣場"
             }
         },
         "F78B61532972282D": {
