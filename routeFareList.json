@@ -274520,7 +274520,7 @@
                     "20014333",
                     "20014348",
                     "20007348",
-                    "20014334",
+                    "20000724",
                     "20014335",
                     "20014336",
                     "20014337",
@@ -410174,7 +410174,7 @@
                 "zh": "馬灣"
             },
             "route": "PB2",
-            "seq": 11,
+            "seq": 9,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -410182,8 +410182,6 @@
                     "321060BAE1447BEE",
                     "860671A5FA383DA3",
                     "0524415976F284A4",
-                    "90F0F685E42CC10D",
-                    "6F4C27D4E845432E",
                     "90F0F685E42CC10D",
                     "0524415976F284A4",
                     "860671A5FA383DA3",
@@ -413367,8 +413365,7 @@
                 "kmb": "O"
             },
             "co": [
-                "kmb",
-                "ctb"
+                "kmb"
             ],
             "dest": {
                 "en": "CENTRAL (MACAU FERRY)",
@@ -413385,8 +413382,47 @@
                 "zh": "啟德體育園"
             },
             "route": "SP10",
-            "seq": 9,
+            "seq": 10,
             "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "A4260736CBC94F30",
+                    "032C7D86DF9ED3AC",
+                    "742D35CD1DEA10FD",
+                    "8B5745F31A5778D7",
+                    "D15281453EE5E0B4",
+                    "A0424645102B1D9C",
+                    "9D0E44D3210264C3",
+                    "EC2573EE5FF42AAC",
+                    "C0B3CCF700EDA89C",
+                    "633A3F4B4A5637C2"
+                ]
+            }
+        },
+        "SP10+1+Kai Tak Sports Park+Central (Macau Ferry)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Central (Macau Ferry)",
+                "zh": "中環 (港澳碼頭)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Kai Tak Sports Park",
+                "zh": "啟德體育園"
+            },
+            "route": "SP10",
+            "seq": 9,
+            "serviceType": 1,
             "stops": {
                 "ctb": [
                     "003874",
@@ -413398,17 +413434,6 @@
                     "001053",
                     "001056",
                     "001027"
-                ],
-                "kmb": [
-                    "A4260736CBC94F30",
-                    "742D35CD1DEA10FD",
-                    "8B5745F31A5778D7",
-                    "D15281453EE5E0B4",
-                    "A0424645102B1D9C",
-                    "9D0E44D3210264C3",
-                    "EC2573EE5FF42AAC",
-                    "C0B3CCF700EDA89C",
-                    "633A3F4B4A5637C2"
                 ]
             }
         },
@@ -486041,16 +486066,6 @@
             "name": {
                 "en": "SHEUNG WO STREET, near Chan Sui Ki (La Salle) College",
                 "zh": "常和街, 近陳瑞祺（喇沙）書院"
-            }
-        },
-        "20014334": {
-            "location": {
-                "lat": 22.31517480201284,
-                "lng": 114.18158828234867
-            },
-            "name": {
-                "en": "FAT KWONG STREET, near Nga Man House, HO MAN TIN ESTATE",
-                "zh": "佛光街, 近何文田邨雅文樓"
             }
         },
         "20014335": {
