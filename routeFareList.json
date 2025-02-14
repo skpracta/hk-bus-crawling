@@ -293063,6 +293063,7 @@
                 "6.4",
                 "6.4",
                 "6.4",
+                "6.4",
                 "6.4"
             ],
             "faresHoliday": null,
@@ -293142,7 +293143,7 @@
                 "zh": "貨櫃碼頭路公共運輸交匯處"
             },
             "route": "87A",
-            "seq": 10,
+            "seq": 11,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -293155,6 +293156,7 @@
                     "20014801",
                     "20014802",
                     "20014803",
+                    "20021052",
                     "20014804"
                 ]
             }
@@ -293171,6 +293173,7 @@
                 "zh": "貨櫃碼頭路公共運輸交匯處"
             },
             "fares": [
+                "6.4",
                 "6.4",
                 "6.4",
                 "6.4",
@@ -293259,12 +293262,13 @@
                 "zh": "昂運路"
             },
             "route": "87A",
-            "seq": 11,
+            "seq": 12,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20014804",
                     "20014806",
+                    "20021052",
                     "20014807",
                     "20014808",
                     "20014809",
@@ -416068,6 +416072,66 @@
                 ]
             }
         },
+        "X581+1+GO PARK Sai Sha+Ma On Shan (On Chun Street)": {
+            "bound": {
+                "ctb": "I"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Ma On Shan (On Chun Street)",
+                "zh": "馬鞍山 (鞍駿街)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "GO PARK Sai Sha",
+                "zh": "西沙GO PARK"
+            },
+            "route": "X581",
+            "seq": 1,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "001944"
+                ]
+            }
+        },
+        "X581+1+Ma On Shan (On Chun Street)+GO PARK Sai Sha": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "GO PARK Sai Sha",
+                "zh": "西沙GO PARK"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Ma On Shan (On Chun Street)",
+                "zh": "馬鞍山 (鞍駿街)"
+            },
+            "route": "X581",
+            "seq": 1,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "001944"
+                ]
+            }
+        },
         "X6C+1+KOWLOON BAY+MEI FOO": {
             "bound": {
                 "kmb": "I"
@@ -502566,6 +502630,16 @@
             "name": {
                 "en": "Shanghai Street, outside Langham Place",
                 "zh": "上海街, 朗豪坊外"
+            }
+        },
+        "20021052": {
+            "location": {
+                "lat": 22.318735887567254,
+                "lng": 114.13138926029207
+            },
+            "name": {
+                "en": "CHI NGONG ROAD, outside Ngong Shuen Chau Barracks",
+                "zh": "志昂路, 昂船洲軍營外"
             }
         },
         "201": {
