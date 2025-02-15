@@ -95975,6 +95975,52 @@
                 ]
             }
         },
+        "270D+1+SHAM SHUI PO (YEN CHOW ST)+FANLING (LUEN WO HUI)": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "FANLING (LUEN WO HUI)",
+                "zh": "粉嶺(聯和墟)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHAM SHUI PO (YEN CHOW ST)",
+                "zh": "深水埗(欽州街)"
+            },
+            "route": "270D",
+            "seq": 17,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "099E9950742D6414",
+                    "1A85B99EDE6D01D8",
+                    "04FC6E130D4953F4",
+                    "EEBBD352B7F16E3F",
+                    "01E580BD435E9301",
+                    "B4F2BAAED2470D0A",
+                    "3F21ED54F86D9B1D",
+                    "2F202818B5A6F424",
+                    "F8D7946AFDBA377E",
+                    "D876A83244ECB838",
+                    "9170FC8FFFD12204",
+                    "D2C1DACCC74B69C5",
+                    "EBE1766B508217AF",
+                    "C4F843F93CDCBE64",
+                    "4235BA400EB10F0E",
+                    "879A98CD29D9433F",
+                    "12DC09C113E1C873"
+                ]
+            }
+        },
         "270P+1+SHEUNG SHUI+KOWLOON STATION": {
             "bound": {
                 "kmb": "O"
@@ -220783,74 +220829,6 @@
                     "20014226",
                     "20014227",
                     "20014231"
-                ]
-            }
-        },
-        "63R+1+LAM TSUEN WISHING TREE+TAI PO MARKET STATION": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TAI PO MARKET STATION",
-                "zh": "大埔墟站"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "LAM TSUEN WISHING TREE",
-                "zh": "林村許願樹"
-            },
-            "route": "63R",
-            "seq": 6,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "74A3A3037E047C81",
-                    "BCC83D8C953DC504",
-                    "399EF919E10C7F33",
-                    "512C07C3D131AB5A",
-                    "46604706EE6CC765",
-                    "8581908CE476D2CF"
-                ]
-            }
-        },
-        "63R+1+TAI PO MARKET STATION+LAM TSUEN WISHING TREE": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "LAM TSUEN WISHING TREE",
-                "zh": "林村許願樹"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TAI PO MARKET STATION",
-                "zh": "大埔墟站"
-            },
-            "route": "63R",
-            "seq": 4,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "8581908CE476D2CF",
-                    "0A8E2BA2F75E472E",
-                    "CCC4773031BC0FD8",
-                    "74A3A3037E047C81"
                 ]
             }
         },
@@ -392444,68 +392422,6 @@
                 ]
             }
         },
-        "LB2+1+SAI KUNG+SAN TIN PUBLIC TRANSPORT INTERCHANGE": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
-                "zh": "新田運輸交匯處"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "SAI KUNG",
-                "zh": "西貢"
-            },
-            "route": "LB2",
-            "seq": 2,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "FFB9E8929671D06E",
-                    "41EF38A42AC3C3D2"
-                ]
-            }
-        },
-        "LB2+1+SAN TIN PUBLIC TRANSPORT INTERCHANGE+SAI KUNG": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "SAI KUNG",
-                "zh": "西貢"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
-                "zh": "新田運輸交匯處"
-            },
-            "route": "LB2",
-            "seq": 2,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "41EF38A42AC3C3D2",
-                    "FFB9E8929671D06E"
-                ]
-            }
-        },
         "N1+3+Mui Wo Ferry Pier+Tai O": {
             "bound": {
                 "nlb": "O"
@@ -410804,52 +410720,6 @@
                 ]
             }
         },
-        "R270+1+SHEUNG SHUI+TSIM SHA TSUI EAST (MODY ROAD)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSIM SHA TSUI EAST (MODY ROAD)",
-                "zh": "尖沙咀東(麼地道)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "SHEUNG SHUI",
-                "zh": "上水"
-            },
-            "route": "R270",
-            "seq": 17,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "C799751FDFCE292E",
-                    "98EBAB9468C80DD2",
-                    "6DD6B837EF1FA76C",
-                    "AFD29CB1A4F71AB9",
-                    "60952B4A38F3D82E",
-                    "0E41E02CD9055626",
-                    "EE81A30BE4BDC8AC",
-                    "F129DD8D9E3268FB",
-                    "D0FB28B8EED62431",
-                    "FA52803E2628A212",
-                    "2431FF3100478DEE",
-                    "ED6FCB0422D541F5",
-                    "850F72123F644500",
-                    "98FCC750B322B706",
-                    "66C6FDFC88F56E51",
-                    "7CD8F96A087CDDF2",
-                    "F3D86A2A72FF3582"
-                ]
-            }
-        },
         "R33+1+DISNEYLAND+TUEN MUN STATION": {
             "bound": {
                 "kmb": "O"
@@ -411254,59 +411124,6 @@
                     "65C8216FB0BC4FBC",
                     "444BEB5BB189B3A0",
                     "FE235D7DCABCA944"
-                ]
-            }
-        },
-        "R673+1+SHEUNG SHUI (CHING HO)+CAUSEWAY BAY (VICTORIA PARK)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "CAUSEWAY BAY (VICTORIA PARK)",
-                "zh": "銅鑼灣 (維多利亞公園)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "SHEUNG SHUI (CHING HO)",
-                "zh": "上水(清河)"
-            },
-            "route": "R673",
-            "seq": 24,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "583E102838FA4D0A",
-                    "6F11F73C749338DB",
-                    "C799751FDFCE292E",
-                    "D3E18D04B69DF388",
-                    "C4F843F93CDCBE64",
-                    "4235BA400EB10F0E",
-                    "879A98CD29D9433F",
-                    "A22E315AD21129EB",
-                    "944EC71DD1731BE0",
-                    "EF78DD9F765C6565",
-                    "BFAE1E951D3B63EC",
-                    "C67060F448591E4F",
-                    "F7D40D08CB05EA87",
-                    "923E5B79E1B48739",
-                    "FA52803E2628A212",
-                    "2431FF3100478DEE",
-                    "ED6FCB0422D541F5",
-                    "850F72123F644500",
-                    "3821D64D2BF1BB66",
-                    "66C6FDFC88F56E51",
-                    "7CD8F96A087CDDF2",
-                    "4D3CBBDB95447F2E",
-                    "76B4054F2E1F00B0",
-                    "17B98BD1165A7B92"
                 ]
             }
         },
@@ -415084,40 +414901,6 @@
                 ]
             }
         },
-        "WB1+1+TUEN MUN STATION+LAM TSUEN WISHING TREE (From Tuen Mun) (Circular)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "LAM TSUEN WISHING TREE (From Tuen Mun) (Circular)",
-                "zh": "林村許願樹 (由屯門出發 循環行走)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN STATION",
-                "zh": "屯門站"
-            },
-            "route": "WB1",
-            "seq": 5,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "0678C85600B1A019",
-                    "41EF38A42AC3C3D2",
-                    "0EAA1DC8345202C3",
-                    "41EF38A42AC3C3D2",
-                    "0678C85600B1A019"
-                ]
-            }
-        },
         "X1+1+ASIAWORLD EXPO+TUNG CHUNG STATION": {
             "bound": {
                 "kmb": "I"
@@ -416094,10 +415877,11 @@
                 "zh": "西沙GO PARK"
             },
             "route": "X581",
-            "seq": 1,
+            "seq": 2,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "003882",
                     "001944"
                 ]
             }
@@ -416124,11 +415908,12 @@
                 "zh": "馬鞍山 (鞍駿街)"
             },
             "route": "X581",
-            "seq": 1,
+            "seq": 2,
             "serviceType": 1,
             "stops": {
                 "ctb": [
-                    "001944"
+                    "001944",
+                    "003882"
                 ]
             }
         },
@@ -434278,8 +434063,8 @@
                 "lng": 114.16907934053
             },
             "name": {
-                "en": "Police School Road",
-                "zh": "警校道"
+                "en": "MTR Wong Chuk Hang Depot, Police School Road",
+                "zh": "港鐵黃竹坑車廠, 警校道"
             }
         },
         "002372": {
@@ -446972,6 +446757,16 @@
                 "zh": "啟德 - 港鐵 A 出口, 沐安街"
             }
         },
+        "003882": {
+            "location": {
+                "lat": 22.427892352091,
+                "lng": 114.26557697053
+            },
+            "name": {
+                "en": "GO PARK Sai Sha",
+                "zh": "西沙GO PARK"
+            }
+        },
         "003D1263A14908F6": {
             "location": {
                 "lat": 22.373543,
@@ -450340,16 +450135,6 @@
             "name": {
                 "en": "CHUNG TSAI YUEN LOOKOUT",
                 "zh": "松仔園瞭望台"
-            }
-        },
-        "0EAA1DC8345202C3": {
-            "location": {
-                "lat": 22.457656,
-                "lng": 114.142927
-            },
-            "name": {
-                "en": "LAM TSUEN WISHING TREE",
-                "zh": "林村許願樹"
             }
         },
         "0EAFBD8737911A6A": {
@@ -512992,16 +512777,6 @@
                 "zh": "觀塘偉樂街"
             }
         },
-        "41EF38A42AC3C3D2": {
-            "location": {
-                "lat": 22.50282,
-                "lng": 114.081342
-            },
-            "name": {
-                "en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
-                "zh": "新田運輸交匯處"
-            }
-        },
         "41F54895BBB74FEF": {
             "location": {
                 "lat": 22.464821,
@@ -526980,16 +526755,6 @@
             "name": {
                 "en": "TAI LONG",
                 "zh": "大朗"
-            }
-        },
-        "74A3A3037E047C81": {
-            "location": {
-                "lat": 22.457656,
-                "lng": 114.142927
-            },
-            "name": {
-                "en": "LAM TSUEN WISHING TREE",
-                "zh": "林村許願樹"
             }
         },
         "74C0E91D535648A2": {
