@@ -415855,68 +415855,6 @@
                 ]
             }
         },
-        "X581+1+GO PARK Sai Sha+Ma On Shan (On Chun Street)": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Ma On Shan (On Chun Street)",
-                "zh": "馬鞍山 (鞍駿街)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "GO PARK Sai Sha",
-                "zh": "西沙GO PARK"
-            },
-            "route": "X581",
-            "seq": 2,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003882",
-                    "001944"
-                ]
-            }
-        },
-        "X581+1+Ma On Shan (On Chun Street)+GO PARK Sai Sha": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "GO PARK Sai Sha",
-                "zh": "西沙GO PARK"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Ma On Shan (On Chun Street)",
-                "zh": "馬鞍山 (鞍駿街)"
-            },
-            "route": "X581",
-            "seq": 2,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001944",
-                    "003882"
-                ]
-            }
-        },
         "X6C+1+KOWLOON BAY+MEI FOO": {
             "bound": {
                 "kmb": "I"
@@ -446757,16 +446695,6 @@
                 "zh": "啟德 - 港鐵 A 出口, 沐安街"
             }
         },
-        "003882": {
-            "location": {
-                "lat": 22.427892352091,
-                "lng": 114.26557697053
-            },
-            "name": {
-                "en": "GO PARK Sai Sha",
-                "zh": "西沙GO PARK"
-            }
-        },
         "003D1263A14908F6": {
             "location": {
                 "lat": 22.373543,
@@ -458593,8 +458521,8 @@
                 "lng": 114.16989608735264
             },
             "name": {
-                "en": "Waterloo Road outside House No. 5A",
-                "zh": "窩打老道5A號外"
+                "en": "Waterloo Road near Portland Street",
+                "zh": "窩打老道, 近砵蘭街"
             }
         },
         "20000626": {
