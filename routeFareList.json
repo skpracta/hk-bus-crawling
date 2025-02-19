@@ -413186,7 +413186,8 @@
                 "kmb": "O"
             },
             "co": [
-                "kmb"
+                "kmb",
+                "ctb"
             ],
             "dest": {
                 "en": "CENTRAL (MACAU FERRY)",
@@ -413206,6 +413207,18 @@
             "seq": 10,
             "serviceType": "1",
             "stops": {
+                "ctb": [
+                    "003874",
+                    "001476",
+                    "002566",
+                    "002537",
+                    "002445",
+                    "002446",
+                    "001141",
+                    "001053",
+                    "001056",
+                    "001027"
+                ],
                 "kmb": [
                     "A4260736CBC94F30",
                     "032C7D86DF9ED3AC",
@@ -413217,44 +413230,6 @@
                     "EC2573EE5FF42AAC",
                     "C0B3CCF700EDA89C",
                     "633A3F4B4A5637C2"
-                ]
-            }
-        },
-        "SP10+1+Kai Tak Sports Park+Central (Macau Ferry)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Central (Macau Ferry)",
-                "zh": "中環 (港澳碼頭)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Kai Tak Sports Park",
-                "zh": "啟德體育園"
-            },
-            "route": "SP10",
-            "seq": 9,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003874",
-                    "002566",
-                    "002537",
-                    "002445",
-                    "002446",
-                    "001141",
-                    "001053",
-                    "001056",
-                    "001027"
                 ]
             }
         },
@@ -413287,7 +413262,7 @@
                     "003874",
                     "001463",
                     "001265",
-                    "002677",
+                    "001266",
                     "001267",
                     "001268",
                     "001393",
@@ -459451,7 +459426,7 @@
                 "lng": 114.18816387617886
             },
             "name": {
-                "en": "'Lok Fu MTR Station Minibus Terminus ",
+                "en": "Lok Fu MTR Station Minibus Terminus ",
                 "zh": "港鐵樂富站小巴總站"
             }
         },
@@ -467632,7 +467607,7 @@
             },
             "name": {
                 "en": "Tai Tam Road, opposite Shan Tsui Court",
-                "zh": "大潭道, 山翠苑对面"
+                "zh": "大潭道, 山翠苑對面"
             }
         },
         "20003468": {
@@ -470211,8 +470186,8 @@
                 "lng": 114.16951718714701
             },
             "name": {
-                "en": "Fife Street, outside Trade And Industry Department Tower",
-                "zh": "快富街, 工業貿易署大樓外"
+                "en": "Fife Street, near Sai Yeung Choi Street South",
+                "zh": "快富街近西洋菜南街"
             }
         },
         "20006610": {
@@ -471132,7 +471107,7 @@
             },
             "name": {
                 "en": "Nathan Road, near Shan Tung Street",
-                "zh": "彌敦道,近山東街"
+                "zh": "彌敦道, 近山東街"
             }
         },
         "20007285": {
@@ -473622,7 +473597,7 @@
             },
             "name": {
                 "en": "Ting Kok Road, Plover Cove Country Park",
-                "zh": "汀角路, 船灣郊野公園"
+                "zh": "船灣郊野公園"
             }
         },
         "20008331": {
@@ -473692,7 +473667,7 @@
             },
             "name": {
                 "en": "Ting Kok Road, Plover Cove Country Park",
-                "zh": "汀角路, 船灣郊野公園"
+                "zh": "船灣郊野公園"
             }
         },
         "20008380": {
@@ -473702,7 +473677,7 @@
             },
             "name": {
                 "en": "Portland Street near Yau Ma Tei MTR Station",
-                "zh": "砵蘭街近油麻港鐵站"
+                "zh": "砵蘭街近油麻地港鐵站"
             }
         },
         "20008381": {
@@ -485371,8 +485346,8 @@
                 "lng": 114.16912844847025
             },
             "name": {
-                "en": "SAI YEUNG CHOI STREET SOUTH, near Cheung Ling Mansion",
-                "zh": "西洋菜南街,近長寧大廈"
+                "en": "SAI YEUNG CHOI STREET SOUTH, outside Cheung Ling Mansion",
+                "zh": "西洋菜南街, 長寧大廈外"
             }
         },
         "20014247": {
@@ -486162,7 +486137,7 @@
             },
             "name": {
                 "en": "JUNCTION ROAD, near Nga Tsin Wai Road",
-                "zh": "聯合道,  近衙前圍道"
+                "zh": "聯合道, 近衙前圍道"
             }
         },
         "20014486": {
@@ -486211,7 +486186,7 @@
                 "lng": 114.16292393923615
             },
             "name": {
-                "en": "Peak Road, near 56 Peak Road B",
+                "en": "PEAK ROAD, near 56 Peak Road B",
                 "zh": "山頂道, 近山頂道五十六號Ｂ"
             }
         },
@@ -498942,7 +498917,7 @@
             },
             "name": {
                 "en": "King Cho Road outside Cho Yiu Centre",
-                "zh": "敬祖路祖堯坊外"
+                "zh": "敬祖路, 祖堯坊外"
             }
         },
         "20017917": {
