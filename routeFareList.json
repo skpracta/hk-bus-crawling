@@ -40204,6 +40204,38 @@
                 ]
             }
         },
+        "14S+1+YAU TONG+TSEUNG KWAN O CHINESE PERMANENT CEMETERY(CIRCULAR)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSEUNG KWAN O CHINESE PERMANENT CEMETERY(CIRCULAR)",
+                "zh": "將軍澳墳場(循環線)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "YAU TONG",
+                "zh": "油塘"
+            },
+            "route": "14S",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "CB4BB0008A87E4FC",
+                    "2F7B146C55B013F8",
+                    "E0EEA7891A0FCD50"
+                ]
+            }
+        },
         "14X+1+YAU TONG (SHUNG TAK WAI)+TSIM SHA TSUI (CIRCULAR)": {
             "bound": {
                 "kmb": "O"
@@ -218771,6 +218803,65 @@
                     "20001296",
                     "20007709",
                     "20007708"
+                ]
+            }
+        },
+        "624+1+Park YOHO Transport Terminus+Yuen Long Station (Long Ming Street)(Circular)": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Yuen Long Station (Long Ming Street)(Circular)",
+                "zh": "元朗站(朗明街)(循環線)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "127": {
+                    "0600": [
+                        "0630",
+                        "900"
+                    ],
+                    "0630": [
+                        "0930",
+                        "600"
+                    ],
+                    "0930": [
+                        "1730",
+                        "900"
+                    ],
+                    "1730": [
+                        "2030",
+                        "600"
+                    ],
+                    "2030": [
+                        "2330",
+                        "900"
+                    ],
+                    "2330": [
+                        "0000",
+                        "600"
+                    ]
+                }
+            },
+            "gtfsId": "2010635",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Park YOHO Transport Terminus",
+                "zh": "峻巒交通總匯"
+            },
+            "route": "624",
+            "seq": 3,
+            "serviceType": 1,
+            "stops": {
+                "gmb": [
+                    "20016915",
+                    "20021118",
+                    "20016915"
                 ]
             }
         },
@@ -502088,6 +502179,16 @@
                 "zh": "志昂路, 昂船洲軍營外"
             }
         },
+        "20021118": {
+            "location": {
+                "lat": 22.44579104684504,
+                "lng": 114.0369325876236
+            },
+            "name": {
+                "en": "Yuen Long Station (Long Ming Street)",
+                "zh": "元朗站(朗明街)"
+            }
+        },
         "20021151": {
             "location": {
                 "lat": 22.316683859796903,
@@ -506856,6 +506957,16 @@
             "name": {
                 "en": "PO TIN BBI - PO TIN (T1)",
                 "zh": "寶田轉車站 - 寶田 (T1)"
+            }
+        },
+        "2F7B146C55B013F8": {
+            "location": {
+                "lat": 22.2922,
+                "lng": 114.245333
+            },
+            "name": {
+                "en": "TSEUNG KWAN O CHINESE PERMANENT CEMETERY",
+                "zh": "將軍澳華人永遠墳場"
             }
         },
         "2F7C67769B9FB896": {
@@ -553766,6 +553877,16 @@
             "name": {
                 "en": "FONTANA GARDENS",
                 "zh": "豪園"
+            }
+        },
+        "E0EEA7891A0FCD50": {
+            "location": {
+                "lat": 22.29525,
+                "lng": 114.240333
+            },
+            "name": {
+                "en": "YAU TONG (ALIGHTING BUS STOP)",
+                "zh": "油塘(落客站)"
             }
         },
         "E105131B41FBAF33": {
