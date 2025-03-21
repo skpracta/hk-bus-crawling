@@ -49587,51 +49587,6 @@
                 ]
             }
         },
-        "178R+1+CENTRAL (CENTRAL FERRY PIERS)+FANLING (LUEN WO HUI)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "FANLING (LUEN WO HUI)",
-                "zh": "粉嶺(聯和墟)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "CENTRAL (CENTRAL FERRY PIERS)",
-                "zh": "中環(渡輪碼頭)"
-            },
-            "route": "178R",
-            "seq": 16,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "C1FC4F003C9031B3",
-                    "F73020DB89A6E76F",
-                    "3FAC6C2592812331",
-                    "396DD38F2E41E117",
-                    "98EBAB9468C80DD2",
-                    "6DD6B837EF1FA76C",
-                    "AFD29CB1A4F71AB9",
-                    "65ECD19EFD09FB74",
-                    "D67917549F3DC8A3",
-                    "6633B4885C8A3EE7",
-                    "0F3FA9B7D07A91F3",
-                    "C837C3C549793472",
-                    "2AC85D87661D5AF6",
-                    "000CFEE2F92DC17B",
-                    "53BB93AAB2D45F3B",
-                    "0132863D9F66CE6B"
-                ]
-            }
-        },
         "178R+2+WAN CHAI(HONG KONG CONVENTION & EXHIBITION CENTRE)+FANLING (LUEN WO HUI)": {
             "bound": {
                 "kmb": "O"
@@ -66322,51 +66277,6 @@
                     "E207DBF95EA7DE26",
                     "C71093B5185DF735",
                     "A297D0A75996B49B"
-                ]
-            }
-        },
-        "225R+1+JORDAN (WUI MAN ROAD)+WONG TAI SIN": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "WONG TAI SIN",
-                "zh": "黃大仙"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "JORDAN (WUI MAN ROAD)",
-                "zh": "佐敦(匯民道)"
-            },
-            "route": "225R",
-            "seq": 16,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "A412A5FD403C8275",
-                    "BC932662BA367CD0",
-                    "AA26D9F25826AA4A",
-                    "F140654A12BA066A",
-                    "59FF8DDFC4405C0D",
-                    "DE60928B8CFD9E7C",
-                    "917DF4AF0ED7B258",
-                    "ACE23D880D07ABB1",
-                    "964AA1DCAAD06512",
-                    "7D025E77F4B35266",
-                    "84DBD40C5EDE2873",
-                    "653B1CE8590D4B52",
-                    "235F090F9AA1613B",
-                    "1A3478416DABC289",
-                    "713BF17AF24FE4DA",
-                    "742F8953113CD926"
                 ]
             }
         },
@@ -213472,16 +213382,12 @@
             "faresHoliday": null,
             "freq": {
                 "127": {
-                    "0200": [
-                        "0400",
+                    "0300": [
+                        "0500",
                         "900"
                     ],
-                    "2240": [
-                        "2259",
-                        "720"
-                    ],
-                    "2300": [
-                        "0200",
+                    "2340": [
+                        "0300",
                         "720"
                     ]
                 }
@@ -213531,7 +213437,7 @@
                         "720"
                     ],
                     "0300": [
-                        "0605",
+                        "0600",
                         "900"
                     ]
                 }
@@ -244438,54 +244344,6 @@
                 ]
             }
         },
-        "70R+1+JORDON (WUI MAN ROAD)+FANLING (LUEN WO HUI)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "FANLING (LUEN WO HUI)",
-                "zh": "粉嶺(聯和墟)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "JORDON (WUI MAN ROAD)",
-                "zh": "佐敦 (匯民道)"
-            },
-            "route": "70R",
-            "seq": 19,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "A412A5FD403C8275",
-                    "E3B0A57678CFD140",
-                    "3106E04BB81D74A8",
-                    "8717C0140C940AE3",
-                    "31005C82D70F6B09",
-                    "3FAC6C2592812331",
-                    "396DD38F2E41E117",
-                    "98EBAB9468C80DD2",
-                    "6DD6B837EF1FA76C",
-                    "AFD29CB1A4F71AB9",
-                    "65ECD19EFD09FB74",
-                    "D67917549F3DC8A3",
-                    "6633B4885C8A3EE7",
-                    "0F3FA9B7D07A91F3",
-                    "C837C3C549793472",
-                    "2AC85D87661D5AF6",
-                    "000CFEE2F92DC17B",
-                    "53BB93AAB2D45F3B",
-                    "0132863D9F66CE6B"
-                ]
-            }
-        },
         "70S+1+HUNG HOM STATION+WO HOP SHEK": {
             "bound": {
                 "kmb": "O"
@@ -259923,71 +259781,6 @@
                     "12E4BAFA2B73435B",
                     "46604706EE6CC765",
                     "94A3E9298FD887C6"
-                ]
-            }
-        },
-        "75R+1+LUNG MEI BEACH+TAI PO MARKET STATION": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TAI PO MARKET STATION",
-                "zh": "大埔墟站"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "LUNG MEI BEACH",
-                "zh": "龍尾泳灘"
-            },
-            "route": "75R",
-            "seq": 4,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "9AB9D810103D8382",
-                    "9F481C8D1469C29C",
-                    "46604706EE6CC765",
-                    "94A3E9298FD887C6"
-                ]
-            }
-        },
-        "75R+1+TAI PO MARKET STATION+LUNG MEI BEACH": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "LUNG MEI BEACH",
-                "zh": "龍尾泳灘"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TAI PO MARKET STATION",
-                "zh": "大埔墟站"
-            },
-            "route": "75R",
-            "seq": 3,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "94A3E9298FD887C6",
-                    "BBFADA4889A61FCC",
-                    "45AAE55CB6B5699F"
                 ]
             }
         },
@@ -538566,16 +538359,6 @@
                 "zh": "港灣豪庭"
             }
         },
-        "A412A5FD403C8275": {
-            "location": {
-                "lat": 22.303563,
-                "lng": 114.166227
-            },
-            "name": {
-                "en": "WUI MAN ROAD",
-                "zh": "匯民道"
-            }
-        },
         "A41AC473B50767ED": {
             "location": {
                 "lat": 22.430411,
@@ -560104,16 +559887,6 @@
             "name": {
                 "en": "KOWLOON BAY STATION",
                 "zh": "九龍灣站"
-            }
-        },
-        "F73020DB89A6E76F": {
-            "location": {
-                "lat": 22.282699,
-                "lng": 114.164043
-            },
-            "name": {
-                "en": "LUNG WO ROAD",
-                "zh": "龍和道"
             }
         },
         "F734736F35F459DC": {
