@@ -285229,7 +285229,7 @@
                     "1276AEF95F6564A2",
                     "2E299F1E89BC57CE",
                     "4E90B7D1DC654B0A",
-                    "F3D3D5E7F698B748",
+                    "8775AFC1C836C39F",
                     "AAECA769A84E2372",
                     "A66159E033DDEA04",
                     "C92E80A5D7E0E8EC",
@@ -297981,7 +297981,7 @@
                     "BC139F292AC087EA",
                     "715C285A167B88DD",
                     "FF9F7715ECEDAC41",
-                    "F3D3D5E7F698B748",
+                    "8775AFC1C836C39F",
                     "AAECA769A84E2372",
                     "A88D8F59960E3B4C",
                     "A3647D99DA65BA96",
@@ -355063,7 +355063,7 @@
                     "FB8BC2A525782A89",
                     "1D13B640481F4CD1",
                     "AC2A4AB84E52364C",
-                    "F3D3D5E7F698B748",
+                    "8775AFC1C836C39F",
                     "BF9EF4DE47490F5E",
                     "8A7BE4178A2816EE",
                     "66B8F73D3F4E91C9",
@@ -432560,8 +432560,8 @@
         },
         "002161": {
             "location": {
-                "lat": 22.246983922091,
-                "lng": 114.15584999053
+                "lat": 22.247000182091,
+                "lng": 114.15578260053
             },
             "name": {
                 "en": "Aberdeen Promenade, Aberdeen Praya Road",
@@ -444010,8 +444010,8 @@
         },
         "003508": {
             "location": {
-                "lat": 22.315324522091,
-                "lng": 114.17320536053
+                "lat": 22.314445402091,
+                "lng": 114.17255228053
             },
             "name": {
                 "en": "Kwong Wah Hospital, Waterloo Road",
@@ -446410,8 +446410,8 @@
         },
         "003781": {
             "location": {
-                "lat": 22.275835762091,
-                "lng": 114.22460934053
+                "lat": 22.276010292091,
+                "lng": 114.22446713053
             },
             "name": {
                 "en": "Yiu Ming House Yiu Tung Estate, Yiu Hing Road",
@@ -548480,8 +548480,8 @@
         },
         "C8F8183B3AFC9383": {
             "location": {
-                "lat": 22.395347,
-                "lng": 114.197987
+                "lat": 22.395417,
+                "lng": 114.1975
             },
             "name": {
                 "en": "FO TAN STATION",
