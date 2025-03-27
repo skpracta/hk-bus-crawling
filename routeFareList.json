@@ -17809,7 +17809,7 @@
                     "8815F901477E6435",
                     "20915DF05723C615",
                     "6C15579CA43DF72E",
-                    "9FB606D162511C77",
+                    "EB3A1D751C96E053",
                     "F0AC02C6C94078C4",
                     "A0FDF34B2D278750",
                     "6F817E994CAF7928"
@@ -88845,6 +88845,94 @@
                 ]
             }
         },
+        "268+1+PAT HEUNG ROAD+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS",
+                "zh": "攸壆路簡約公屋 (南)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "PAT HEUNG ROAD",
+                "zh": "八鄉路"
+            },
+            "route": "268",
+            "seq": 16,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "131A8DDFC3837AD7",
+                    "80E207687865EDE7",
+                    "EFB2FCFCD7E9950A",
+                    "BFCFEBF6F5C35402",
+                    "F8B3A5C8D0D3CED7",
+                    "3D5F826FD00C0529",
+                    "65F77C74AB618A8D",
+                    "0492DA388B6FDA92",
+                    "1F5D9F81AB034CAE",
+                    "E329DEA067F8BF02",
+                    "14FDBB259636B76C",
+                    "B13D9345C84F088E",
+                    "ED758B6955F44E30",
+                    "4D258A35FECA3A0C",
+                    "A068B6BB68299035",
+                    "D212D9782E80AF47"
+                ]
+            }
+        },
+        "268+1+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS+PAT HEUNG ROAD": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "PAT HEUNG ROAD",
+                "zh": "八鄉路"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS",
+                "zh": "攸壆路簡約公屋 (南)"
+            },
+            "route": "268",
+            "seq": 14,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "D212D9782E80AF47",
+                    "EC6FDF2670147F12",
+                    "C6D0AD0AA59CB197",
+                    "75BCC884A3620498",
+                    "D2FCC678B1D160E1",
+                    "217E82F6FF3F89E3",
+                    "BF598D4B90407BB9",
+                    "DB11DC6D1BA11F9A",
+                    "F5FA7ED5D5A6860D",
+                    "D05C7D74301D47C5",
+                    "41C9D989B8B874FF",
+                    "4EBE182141C52094",
+                    "E1C5246F946E2D86",
+                    "131A8DDFC3837AD7"
+                ]
+            }
+        },
         "268A+1+KWUN TONG FERRY+LONG PING ESTATE": {
             "bound": {
                 "kmb": "I"
@@ -121698,7 +121786,7 @@
                     "B8626845E031C9CF",
                     "A811A4AAF18AFAFF",
                     "20915DF05723C615",
-                    "302DF350591BF5EB"
+                    "9FB606D162511C77"
                 ]
             }
         },
@@ -121767,7 +121855,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "302DF350591BF5EB",
+                    "9FB606D162511C77",
                     "168487E2C681CB0D",
                     "3942D55ED3DE84C9",
                     "7C4E16F4A138B142",
@@ -136595,6 +136683,112 @@
                 ]
             }
         },
+        "36A+1+Yau Pok Road Light Public Housing+Yuen Long (Fook Hong Street)": {
+            "bound": {
+                "gmb": "I"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Yuen Long (Fook Hong Street)",
+                "zh": "元朗(福康街)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "127": {
+                    "0620": [
+                        "1600",
+                        "1200"
+                    ],
+                    "2000": [
+                        "2120",
+                        "1200"
+                    ]
+                }
+            },
+            "gtfsId": "2010830",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Yau Pok Road Light Public Housing",
+                "zh": "攸壆路簡約公屋"
+            },
+            "route": "36A",
+            "seq": 17,
+            "serviceType": 1,
+            "stops": {
+                "gmb": [
+                    "20021418",
+                    "20021417",
+                    "20021419",
+                    "20021420",
+                    "20016820",
+                    "20016821",
+                    "20016822",
+                    "20016823",
+                    "20016824",
+                    "20016825",
+                    "20001286",
+                    "20001287",
+                    "20001288",
+                    "20001289",
+                    "20015426",
+                    "20015427",
+                    "20015409"
+                ]
+            }
+        },
+        "36A+1+Yuen Long (Fook Hong Street)+Yau Pok Road Light Public Housing": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Yau Pok Road Light Public Housing",
+                "zh": "攸壆路簡約公屋"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "127": {
+                    "0600": [
+                        "2100",
+                        "1200"
+                    ]
+                }
+            },
+            "gtfsId": "2010830",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Yuen Long (Fook Hong Street)",
+                "zh": "元朗(福康街)"
+            },
+            "route": "36A",
+            "seq": 13,
+            "serviceType": 1,
+            "stops": {
+                "gmb": [
+                    "20015409",
+                    "20001281",
+                    "20001282",
+                    "20001283",
+                    "20015411",
+                    "20016803",
+                    "20016804",
+                    "20016805",
+                    "20016806",
+                    "20021415",
+                    "20021416",
+                    "20021417",
+                    "20021418"
+                ]
+            }
+        },
         "36A+2+Crocodile Hill (Hong Lee Court)+Yue Man Square Public Transport Interchange": {
             "bound": {
                 "gmb": "O"
@@ -136644,6 +136838,55 @@
                     "20014072",
                     "20000633",
                     "20013869"
+                ]
+            }
+        },
+        "36A+2+Yau Pok Road Light Public Housing+Yuen Long (Fook Hong Street)": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Yuen Long (Fook Hong Street)",
+                "zh": "元朗(福康街)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "127": {
+                    "1600": [
+                        "2000",
+                        "1200"
+                    ]
+                }
+            },
+            "gtfsId": "2010863",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Yau Pok Road Light Public Housing",
+                "zh": "攸壆路簡約公屋"
+            },
+            "route": "36A",
+            "seq": 13,
+            "serviceType": 2,
+            "stops": {
+                "gmb": [
+                    "20021418",
+                    "20021417",
+                    "20021419",
+                    "20021420",
+                    "20016820",
+                    "20016821",
+                    "20016822",
+                    "20016823",
+                    "20016824",
+                    "20016825",
+                    "20001286",
+                    "20001287",
+                    "20015409"
                 ]
             }
         },
@@ -206071,7 +206314,7 @@
                     "14F1A56811DDB204",
                     "1288A744C68C0447",
                     "4572EAE6E84619CD",
-                    "B603EBE7441D0A64",
+                    "C63076B1999BEBD7",
                     "F5BB84FC3C97BC6A",
                     "55371F963B58DC5B",
                     "11CE1FD8440A89D3",
@@ -209338,132 +209581,24 @@
                 "kmb": "I"
             },
             "co": [
-                "kmb",
-                "ctb"
+                "kmb"
             ],
             "dest": {
                 "en": "CHOI WAN (FUNG SHING STREET)",
                 "zh": "彩雲(豐盛街)"
             },
-            "fares": [
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "12.9",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "6.8"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "287": {
-                    "0930": [
-                        "1110",
-                        "1500"
-                    ],
-                    "1110": [
-                        "1330",
-                        "1200"
-                    ],
-                    "1330": [
-                        "1510",
-                        "1500"
-                    ],
-                    "1510": [
-                        "1810",
-                        "1200"
-                    ],
-                    "1810": [
-                        "1835",
-                        "1500"
-                    ],
-                    "1835": [
-                        "1855",
-                        "1200"
-                    ],
-                    "1855": [
-                        "1920",
-                        "1500"
-                    ],
-                    "1920": [
-                        "2000",
-                        "1200"
-                    ]
-                },
-                "288": {
-                    "0930": [
-                        "1110",
-                        "1500"
-                    ],
-                    "1110": [
-                        "1330",
-                        "1200"
-                    ],
-                    "1330": [
-                        "1510",
-                        "1500"
-                    ],
-                    "1510": [
-                        "1910",
-                        "1200"
-                    ],
-                    "1910": [
-                        "2000",
-                        "1500"
-                    ]
-                },
-                "448": {
-                    "0630": [
-                        "1730",
-                        "1200"
-                    ],
-                    "1730": [
-                        "2000",
-                        "1500"
-                    ]
-                }
-            },
-            "gtfsId": "1259",
-            "jt": "78",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "SIU SAI WAN (ISLAND RESORT)",
                 "zh": "小西灣(藍灣半島)"
             },
             "route": "606",
-            "seq": 40,
+            "seq": 39,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -209505,8 +209640,7 @@
                     "03F7818C0E176C55",
                     "9268B442F0C2807E",
                     "E7116B44D9E9393A",
-                    "942E95B4336BDFA7",
-                    "360587444784CEAB"
+                    "942E95B4336BDFA7"
                 ]
             }
         },
@@ -261803,6 +261937,49 @@
                     "002354",
                     "002355",
                     "003451"
+                ]
+            }
+        },
+        "76+1+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS+SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR)",
+                "zh": "上水站 (彩園路) (循環線)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS",
+                "zh": "攸壆路簡約公屋 (南)"
+            },
+            "route": "76",
+            "seq": 14,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "924FE4A6F2501116",
+                    "AAC74D0FACCF8639",
+                    "3106E04BB81D74A8",
+                    "8717C0140C940AE3",
+                    "31005C82D70F6B09",
+                    "3FAC6C2592812331",
+                    "4E655B25ABAE103A",
+                    "AD4E0E8DC8ACEFB6",
+                    "DF8F6AA868615D47",
+                    "FFFB0F940CA7BEA7",
+                    "ED758B6955F44E30",
+                    "4D258A35FECA3A0C",
+                    "A068B6BB68299035",
+                    "924FE4A6F2501116"
                 ]
             }
         },
@@ -413886,8 +414063,7 @@
                 "kmb": "O"
             },
             "co": [
-                "kmb",
-                "ctb"
+                "kmb"
             ],
             "dest": {
                 "en": "CENTRAL (MACAU FERRY)",
@@ -413904,8 +414080,48 @@
                 "zh": "啟德體育園"
             },
             "route": "SP10",
-            "seq": 10,
+            "seq": 11,
             "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "A4260736CBC94F30",
+                    "D32CF06A085E2501",
+                    "D0286A50FCF2DAFC",
+                    "61AC7D39918DB2F4",
+                    "17414DA265B5FFE9",
+                    "51E69940B3E57AAA",
+                    "9962A14911FC8F32",
+                    "BB1F05A4942960A1",
+                    "18146B736D94B1EB",
+                    "C0B3CCF700EDA89C",
+                    "633A3F4B4A5637C2"
+                ]
+            }
+        },
+        "SP10+1+Kai Tak Sports Park+Central (Macau Ferry)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Central (Macau Ferry)",
+                "zh": "中環 (港澳碼頭)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Kai Tak Sports Park",
+                "zh": "啟德體育園"
+            },
+            "route": "SP10",
+            "seq": 10,
+            "serviceType": 1,
             "stops": {
                 "ctb": [
                     "003874",
@@ -413918,18 +414134,6 @@
                     "001053",
                     "001056",
                     "001027"
-                ],
-                "kmb": [
-                    "A4260736CBC94F30",
-                    "032C7D86DF9ED3AC",
-                    "742D35CD1DEA10FD",
-                    "8B5745F31A5778D7",
-                    "D15281453EE5E0B4",
-                    "A0424645102B1D9C",
-                    "9D0E44D3210264C3",
-                    "EC2573EE5FF42AAC",
-                    "C0B3CCF700EDA89C",
-                    "633A3F4B4A5637C2"
                 ]
             }
         },
@@ -447574,8 +447778,8 @@
         },
         "003886": {
             "location": {
-                "lat": 22.425875062091,
-                "lng": 114.26730422053
+                "lat": 22.426329112091,
+                "lng": 114.26703768053
             },
             "name": {
                 "en": "Sai Sha Residences",
@@ -447818,8 +448022,8 @@
                 "lng": 114.16995
             },
             "name": {
-                "en": "CHEUNG SHA STREET MONG KOK (N52)",
-                "zh": "旺角長沙街 (N52)"
+                "en": "CHEUNG SHA STREET MONG KOK (N52) SINO CENTRE",
+                "zh": "旺角長沙街 (N52) 信和中心"
             }
         },
         "01AA9596DB95A8FA": {
@@ -448018,8 +448222,8 @@
                 "lng": 114.168632
             },
             "name": {
-                "en": "NULLAH ROAD MONG KOK (S8)",
-                "zh": "旺角水渠道 (S8)"
+                "en": "NULLAH ROAD (S8), ALLIED PLAZA",
+                "zh": "水渠道S8 聯合廣場"
             }
         },
         "029519563009717D": {
@@ -448198,8 +448402,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "038F62C619BF8650": {
@@ -449338,8 +449542,8 @@
                 "lng": 114.174725
             },
             "name": {
-                "en": "EAST TSIM SHA TSUI STATION",
-                "zh": "尖東站"
+                "en": "East Tsim Sha Tsui Station, K11  MUSEA",
+                "zh": "尖東站 K11 MUSEA"
             }
         },
         "08446B39CF34C8FD": {
@@ -450080,6 +450284,16 @@
             "name": {
                 "en": "KAU LIU HA",
                 "zh": "較寮下"
+            }
+        },
+        "0B8392BEB388E9E7": {
+            "location": {
+                "lat": 22.28078,
+                "lng": 114.189539
+            },
+            "name": {
+                "en": "VICTORIA PARK",
+                "zh": "維多利亞公園"
             }
         },
         "0B84025BFA5C2F9F": {
@@ -451138,8 +451352,8 @@
                 "lng": 114.169667
             },
             "name": {
-                "en": "SHANTUNG STREET MONG KOK (N59)",
-                "zh": "旺角山東街 (N59)"
+                "en": "SHANTUNG STREET (N59), LANGHAM PLACE",
+                "zh": "山東街N59 朗豪坊"
             }
         },
         "0F5CEC693FD6EB66": {
@@ -451738,8 +451952,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "10D4A794330B054C": {
@@ -452118,8 +452332,8 @@
                 "lng": 114.168771
             },
             "name": {
-                "en": "BUTE STREET MONG KOK (N70)",
-                "zh": "旺角弼街 (N70)"
+                "en": "BUTE STREET (N70), PIONEER CENTRE",
+                "zh": "弼街N70 始創中心"
             }
         },
         "11FCA01F6AF8D08A": {
@@ -452418,8 +452632,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "12CF2025741EF844": {
@@ -452668,8 +452882,8 @@
                 "lng": 114.168096
             },
             "name": {
-                "en": "KEI WING PRIMARY SCHOOL",
-                "zh": "基榮小學"
+                "en": "KEI WING PRIMARY SCHOOL, METROPARK HOTEL MONG KOK",
+                "zh": "基榮小學 維景酒店"
             }
         },
         "136E2FF5A3A98495": {
@@ -453058,8 +453272,8 @@
                 "lng": 114.163931
             },
             "name": {
-                "en": "HOI FU COURT",
-                "zh": "海富苑"
+                "en": "HOI FU COURT, PARK AVENUE",
+                "zh": "海富苑 柏景灣"
             }
         },
         "145AA374D8CB7123": {
@@ -453568,8 +453782,8 @@
                 "lng": 114.167924
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (N77)",
-                "zh": "太子站 (N77)"
+                "en": "PRINCE EDWARD STATION (N77), FLOWER MARKET",
+                "zh": "太子站 (N77) 旺角花墟"
             }
         },
         "15FCDE0753176016": {
@@ -454112,6 +454326,16 @@
                 "zh": "嘉湖山莊麗湖居"
             }
         },
+        "17414DA265B5FFE9": {
+            "location": {
+                "lat": 22.279018,
+                "lng": 114.172415
+            },
+            "name": {
+                "en": "LUARD ROAD, WAN CHAI (GLOUCESTER LUK KWOK)",
+                "zh": "灣仔盧押道(六國酒店)"
+            }
+        },
         "1741D103CB826E93": {
             "location": {
                 "lat": 22.372007,
@@ -454462,6 +454686,16 @@
                 "zh": "荃灣西站總站"
             }
         },
+        "18146B736D94B1EB": {
+            "location": {
+                "lat": 22.28152,
+                "lng": 114.158043
+            },
+            "name": {
+                "en": "CENTRAL (THE LANDMARK)",
+                "zh": "中環(置地廣場)"
+            }
+        },
         "182976403F291FE0": {
             "location": {
                 "lat": 22.27939,
@@ -454588,8 +454822,8 @@
                 "lng": 114.17666
             },
             "name": {
-                "en": "WING ON PLAZA",
-                "zh": "永安廣場"
+                "en": "WING ON PLAZA, AVENUE OF STARS",
+                "zh": "永安廣場 星光大道"
             }
         },
         "186754E04899194F": {
@@ -454618,8 +454852,8 @@
                 "lng": 114.169949
             },
             "name": {
-                "en": "MONG KOK ROAD",
-                "zh": "旺角道"
+                "en": "FA YUEN STREET MARKET, MONG KOK ROAD",
+                "zh": "旺角道 花園街街市"
             }
         },
         "18785E68EAD3D9B8": {
@@ -454958,8 +455192,8 @@
                 "lng": 114.168627
             },
             "name": {
-                "en": "SHANGHAI STREET JORDAN",
-                "zh": "佐敦上海街"
+                "en": "SHANGHAI STREET, TEMPLE STREET NIGHT MARKET",
+                "zh": "上海街 廟街夜市"
             }
         },
         "19521C0A1CA93C52": {
@@ -456148,8 +456382,8 @@
                 "lng": 114.172114
             },
             "name": {
-                "en": "CAMERON ROAD (S51)",
-                "zh": "金馬倫道 (S51)"
+                "en": "CAMERON ROAD (S51), KOWLOON MOSQUE",
+                "zh": "金馬倫道 (S51) 清真寺"
             }
         },
         "1DEFCF90AB170FD7": {
@@ -503312,6 +503546,66 @@
                 "zh": "永順街海濱廣場外"
             }
         },
+        "20021415": {
+            "location": {
+                "lat": 22.473154115972594,
+                "lng": 114.05548810958864
+            },
+            "name": {
+                "en": "Castle Peak Road - Tam Mi, near Ha San Wai",
+                "zh": "青山公路－潭尾段, 近下新圍"
+            }
+        },
+        "20021416": {
+            "location": {
+                "lat": 22.475662354159585,
+                "lng": 114.0563464164734
+            },
+            "name": {
+                "en": "Castle Peak Road - Tam Mi, near Ha Chuk Yuen",
+                "zh": "青山公路－潭尾段, 近下竹園"
+            }
+        },
+        "20021417": {
+            "location": {
+                "lat": 22.479107389874766,
+                "lng": 114.05313044786455
+            },
+            "name": {
+                "en": "Yau Pok Road Light Public Housing (North)",
+                "zh": "攸壆路簡約公屋（北）"
+            }
+        },
+        "20021418": {
+            "location": {
+                "lat": 22.475600392300997,
+                "lng": 114.05066817998888
+            },
+            "name": {
+                "en": "Yau Pok Road Light Public Housing (South)",
+                "zh": "攸壆路簡約公屋（南）"
+            }
+        },
+        "20021419": {
+            "location": {
+                "lat": 22.475682181948493,
+                "lng": 114.05645906925203
+            },
+            "name": {
+                "en": "Castle Peak Road - Tam Mi, near Ha Chuk Yuen",
+                "zh": "青山公路－潭尾段, 近下竹園"
+            }
+        },
+        "20021420": {
+            "location": {
+                "lat": 22.47315659449124,
+                "lng": 114.05560612678528
+            },
+            "name": {
+                "en": "Castle Peak Road - Tam Mi, near Ha San Wai",
+                "zh": "青山公路－潭尾段, 近下新圍"
+            }
+        },
         "201": {
             "location": {
                 "lat": 22.429587,
@@ -503508,8 +503802,8 @@
                 "lng": 114.171578
             },
             "name": {
-                "en": "BOWRING STREET YAU MA TEI (N21)",
-                "zh": "油麻地寶靈街 (N21)"
+                "en": "BOWRING STREET (N21), PRUDENTIAL CENTRE",
+                "zh": "寶靈街(N21) 恆豐中心"
             }
         },
         "20E8B4520A802912": {
@@ -504718,8 +505012,8 @@
                 "lng": 114.174389
             },
             "name": {
-                "en": "EAST TSIM SHA TSUI STATION",
-                "zh": "尖東站"
+                "en": "East Tsim Sha Tsui Station, K11  MUSEA",
+                "zh": "尖東站 K11 MUSEA"
             }
         },
         "244": {
@@ -504888,8 +505182,8 @@
                 "lng": 114.168095
             },
             "name": {
-                "en": "CHINA HONG KONG CITY",
-                "zh": "中港城"
+                "en": "CHINA HONG KONG CITY, XIQU CENTRE",
+                "zh": "中港城 戲曲中心"
             }
         },
         "24BB2F5E5721E970": {
@@ -505328,8 +505622,8 @@
                 "lng": 114.169112
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "25D24692B2A312FB": {
@@ -505510,6 +505804,16 @@
             "name": {
                 "en": "Nam Shan Camp Site",
                 "zh": "南山營地"
+            }
+        },
+        "2641DD1F88AF7A01": {
+            "location": {
+                "lat": 22.277774,
+                "lng": 114.17355
+            },
+            "name": {
+                "en": "FLEMING ROAD",
+                "zh": "菲林明道"
             }
         },
         "264B29FD223D9C4E": {
@@ -506868,8 +507172,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "2A5B424322D35B0A": {
@@ -506998,8 +507302,8 @@
                 "lng": 114.167954
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (N75)",
-                "zh": "太子站 (N75)"
+                "en": "PRINCE EDWARD STATION (N75), FLOWER MARKET",
+                "zh": "太子站 (N75) 旺角花墟"
             }
         },
         "2ADCFCFCCDDF2C9B": {
@@ -507908,8 +508212,8 @@
                 "lng": 114.168095
             },
             "name": {
-                "en": "CHINA HONG KONG CITY",
-                "zh": "中港城"
+                "en": "CHINA HONG KONG CITY, XIQU CENTRE",
+                "zh": "中港城 戲曲中心"
             }
         },
         "2EF9764BE18FC290": {
@@ -507958,8 +508262,8 @@
                 "lng": 114.169912
             },
             "name": {
-                "en": "WOOSUNG STREET JORDAN",
-                "zh": "佐敦吳松街"
+                "en": "WOOSUNG STREET, TEMPLE STREET NIGHT MARKET",
+                "zh": "吳松街 廟街夜市"
             }
         },
         "2F1AD255E336F1A8": {
@@ -508578,8 +508882,8 @@
                 "lng": 114.169894
             },
             "name": {
-                "en": "SAI YEUNG CHOI STREET SOUTH",
-                "zh": "西洋菜南街"
+                "en": "SAI YEUNG CHOI STREET SOUTH, MONG KOK STATION",
+                "zh": "西洋菜南街 旺角站"
             }
         },
         "30BF9D28A0DB0551": {
@@ -508638,8 +508942,8 @@
                 "lng": 114.168699
             },
             "name": {
-                "en": "BUTE STREET MONG KOK (N72)",
-                "zh": "旺角弼街 (N72)"
+                "en": "BUTE STREET (N72), PIONEER CENTRE",
+                "zh": "弼街N72 始創中心"
             }
         },
         "31": {
@@ -509458,8 +509762,8 @@
                 "lng": 114.168204
             },
             "name": {
-                "en": "AUSTIN ROAD",
-                "zh": "柯士甸道"
+                "en": "AUSTIN ROAD, XIQU CENTRE",
+                "zh": "柯士甸道 戲曲中心"
             }
         },
         "32A26FEADDED5A62": {
@@ -509498,8 +509802,8 @@
                 "lng": 114.181747
             },
             "name": {
-                "en": "SHEUNG LOK STREET",
-                "zh": "常樂街"
+                "en": "KWUN FAI COURT, SHEUNG LOK STREET",
+                "zh": "常樂街冠暉苑"
             }
         },
         "32CB1FBDCB7932A6": {
@@ -511298,8 +511602,8 @@
                 "lng": 114.169721
             },
             "name": {
-                "en": "SHANTUNG STREET MONG KOK (N57)",
-                "zh": "旺角山東街 (N57)"
+                "en": "SHANTUNG STREET (N57), LANGHAM PLACE",
+                "zh": "山東街N57 朗豪坊"
             }
         },
         "38F4F6A39C28DEB5": {
@@ -511858,8 +512162,8 @@
                 "lng": 114.169714
             },
             "name": {
-                "en": "SHANTUNG STREET MONG KOK (N58)",
-                "zh": "旺角山東街 (N58)"
+                "en": "SHANTUNG STREET (N58), LANGHAM PLACE",
+                "zh": "山東街N58 朗豪坊"
             }
         },
         "3B7B4F96BF52237D": {
@@ -511888,8 +512192,8 @@
                 "lng": 114.162187
             },
             "name": {
-                "en": "CENTRAL PARK",
-                "zh": "帝柏海灣"
+                "en": "CENTRAL PARK, OLYMPIAN CITY",
+                "zh": "帝柏海灣 奧海城"
             }
         },
         "3B984EDD1277F1A9": {
@@ -511998,8 +512302,8 @@
                 "lng": 114.171093
             },
             "name": {
-                "en": "HK & KLN CHIU CHOW SCHOOL",
-                "zh": "港九潮州公學"
+                "en": "HK & KLN CHIU CHOW SCHOOL, SAI YEE ST",
+                "zh": "港九潮州公學 洗衣街"
             }
         },
         "3C61E9226688CA79": {
@@ -512198,8 +512502,8 @@
                 "lng": 114.167935
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (N76)",
-                "zh": "太子站 (N76)"
+                "en": "PRINCE EDWARD STATION (N76), FLOWER MARKET",
+                "zh": "太子站 (N76) 旺角花墟"
             }
         },
         "3CE4F8574F4F9D72": {
@@ -513758,8 +514062,8 @@
                 "lng": 114.163641
             },
             "name": {
-                "en": "PARK AVENUE",
-                "zh": "柏景灣"
+                "en": "PARK AVENUE, OLYMPIAN CITY",
+                "zh": "柏景灣 奧海城"
             }
         },
         "422BD13B241CCD5B": {
@@ -514000,6 +514304,16 @@
             "name": {
                 "en": "TAI WO",
                 "zh": "大窩"
+            }
+        },
+        "42D724879F2DDDFB": {
+            "location": {
+                "lat": 222.241228,
+                "lng": 114.199938
+            },
+            "name": {
+                "en": "SHU KUK STREET",
+                "zh": "書局街"
             }
         },
         "42DD929DA7838903": {
@@ -514408,8 +514722,8 @@
                 "lng": 114.170468
             },
             "name": {
-                "en": "MONG KOK ROAD",
-                "zh": "旺角道"
+                "en": "FA YUEN STREET MARKET, MONG KOK ROAD",
+                "zh": "旺角道 花園街街市"
             }
         },
         "445A166A348A82DB": {
@@ -514490,6 +514804,16 @@
             "name": {
                 "en": "CHEUNG SHA WAN (SO UK ESTATE) BUS TERMINUS",
                 "zh": "長沙灣(蘇屋邨)巴士總站"
+            }
+        },
+        "44B5723F025DF0DA": {
+            "location": {
+                "lat": 22.291706,
+                "lng": 114.202365
+            },
+            "name": {
+                "en": "ISLAND PLACE",
+                "zh": "港運城"
             }
         },
         "44C261864506654B": {
@@ -516392,6 +516716,16 @@
                 "zh": "馬灣(珀欣路)"
             }
         },
+        "4B929B16A725D164": {
+            "location": {
+                "lat": 22.278041,
+                "lng": 11.069598
+            },
+            "name": {
+                "en": "STEWART ROAD",
+                "zh": "史釗域道"
+            }
+        },
         "4B95B1DBC152E5EB": {
             "location": {
                 "lat": 22.368365,
@@ -516578,8 +516912,8 @@
                 "lng": 114.169025
             },
             "name": {
-                "en": "SHANGHAI STREET JORDAN",
-                "zh": "佐敦上海街"
+                "en": "SHANGHAI STREET, TEMPLE STREET NIGHT MARKET",
+                "zh": "上海街 廟街夜市"
             }
         },
         "4C52780594F2D674": {
@@ -516838,8 +517172,8 @@
                 "lng": 114.169249
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "4D6B528AC01DB68C": {
@@ -517418,8 +517752,8 @@
                 "lng": 114.181753
             },
             "name": {
-                "en": "SHEUNG LOK STREET",
-                "zh": "常樂街"
+                "en": "KWUN FAI COURT, SHEUNG LOK STREET",
+                "zh": "常樂街冠暉苑"
             }
         },
         "4FF70CD3938702E4": {
@@ -518320,6 +518654,16 @@
             "name": {
                 "en": "SHEK LEI COMMERCIAL COMPLEX",
                 "zh": "石籬商場"
+            }
+        },
+        "51E69940B3E57AAA": {
+            "location": {
+                "lat": 22.27755,
+                "lng": 114.169949
+            },
+            "name": {
+                "en": "METHODIST HOUSE, WAN CHAI",
+                "zh": "灣仔循道衛理大廈"
             }
         },
         "51E6A73EBA9A0FF5": {
@@ -519778,8 +520122,8 @@
                 "lng": 114.174647
             },
             "name": {
-                "en": "EAST TSIM SHA TSUI STATION",
-                "zh": "尖東站"
+                "en": "East Tsim Sha Tsui Station, K11  MUSEA",
+                "zh": "尖東站 K11 MUSEA"
             }
         },
         "577490AF159C4088": {
@@ -519788,8 +520132,8 @@
                 "lng": 114.167829
             },
             "name": {
-                "en": "CHINA FERRY TERMINAL BUS TERMINUS",
-                "zh": "中港碼頭總站"
+                "en": "CHINA HONG KONG CITY B/T",
+                "zh": "中港城總站"
             }
         },
         "5774E63B634C0B1E": {
@@ -520178,8 +520522,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "58BC7AA90028AAD9": {
@@ -521438,8 +521782,8 @@
                 "lng": 114.174392
             },
             "name": {
-                "en": "EAST TSIM SHA TSUI STATION",
-                "zh": "尖東站"
+                "en": "East Tsim Sha Tsui Station, K11  MUSEA",
+                "zh": "尖東站 K11 MUSEA"
             }
         },
         "5D7715C4BFFC9979": {
@@ -521638,8 +521982,8 @@
                 "lng": 114.169112
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "5E2F6CD643BD71A1": {
@@ -522028,8 +522372,8 @@
                 "lng": 114.169819
             },
             "name": {
-                "en": "SAI YEUNG CHOI STREET SOUTH",
-                "zh": "西洋菜南街"
+                "en": "SAI YEUNG CHOI STREET SOUTH, MONG KOK STATION",
+                "zh": "西洋菜南街 旺角站"
             }
         },
         "5FDA47671B5557B3": {
@@ -522520,6 +522864,16 @@
             "name": {
                 "en": "FANLING SWIMMING POOL",
                 "zh": "粉嶺泳池"
+            }
+        },
+        "61AC7D39918DB2F4": {
+            "location": {
+                "lat": 22.280644,
+                "lng": 114.180231
+            },
+            "name": {
+                "en": "WAN CHAI (MARSH ROAD)",
+                "zh": "灣仔(馬師道)"
             }
         },
         "61BA8F7170CDFFD5": {
@@ -523560,6 +523914,16 @@
             "name": {
                 "en": "TSUI SHOU HOUSE TSUI WAN ESTATE",
                 "zh": "翠灣邨翠壽樓"
+            }
+        },
+        "654FEF97C067FB0F": {
+            "location": {
+                "lat": 22.278653,
+                "lng": 114.178814
+            },
+            "name": {
+                "en": "TONNOCHY ROAD",
+                "zh": "杜老誌道"
             }
         },
         "65523F89F26B2088": {
@@ -524648,8 +525012,8 @@
                 "lng": 114.169295
             },
             "name": {
-                "en": "MONG KOK STATION (S12)",
-                "zh": "旺角站 (S12)"
+                "en": "MONG KOK STATION (S12), ARGYLE CENTRE",
+                "zh": "旺角站S12旺角中心"
             }
         },
         "68D96D087701F3A3": {
@@ -524930,6 +525294,16 @@
             "name": {
                 "en": "CHUNG MING COURT",
                 "zh": "頌明苑"
+            }
+        },
+        "6A0B2E48433AE858": {
+            "location": {
+                "lat": 22.286651,
+                "lng": 114.15466
+            },
+            "name": {
+                "en": "CENTRAL (RUMSEY ST) BUS TERMINUS",
+                "zh": "中環(林士街)總站"
             }
         },
         "6A1A50A9E228AAA3": {
@@ -525468,8 +525842,8 @@
                 "lng": 114.171587
             },
             "name": {
-                "en": "BOWRING STREET YAU MA TEI (N22)",
-                "zh": "油麻地寶靈街 (N22)"
+                "en": "BOWRING STREET (N22), PRUDENTIAL CENTRE",
+                "zh": "寶靈街(N22) 恆豐中心"
             }
         },
         "6C3F6AF77695CAE9": {
@@ -525570,6 +525944,16 @@
             "name": {
                 "en": "MAN LOK HOUSE",
                 "zh": "民樂樓"
+            }
+        },
+        "6CD0823D8B4779B6": {
+            "location": {
+                "lat": 22.290036,
+                "lng": 114.19507
+            },
+            "name": {
+                "en": "TIN CHONG STREET",
+                "zh": "電廠街"
             }
         },
         "6CD14DBE643D2995": {
@@ -526478,8 +526862,8 @@
                 "lng": 114.168615
             },
             "name": {
-                "en": "NULLAH ROAD MONG KOK (S7)",
-                "zh": "旺角水渠道 (S7)"
+                "en": "NULLAH ROAD (S7), ALLIED PLAZA",
+                "zh": "水渠道S7  聯合廣場"
             }
         },
         "7": {
@@ -526578,8 +526962,8 @@
                 "lng": 114.16789
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (N78)",
-                "zh": "太子站 (N78)"
+                "en": "PRINCE EDWARD STATION (N78), FLOWER MARKET",
+                "zh": "太子站 (N78) 旺角花墟"
             }
         },
         "704C764F674E500D": {
@@ -527008,8 +527392,8 @@
                 "lng": 114.168797
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "7210357910C44570": {
@@ -527228,8 +527612,8 @@
                 "lng": 114.168404
             },
             "name": {
-                "en": "ARRAN STREET MONG KOK (N74)",
-                "zh": "旺角鴉蘭街 (N74)"
+                "en": "ARRAN STREET (N74), METROPARK HOTEL MONG KOK",
+                "zh": "鴉蘭街N74 維景酒店"
             }
         },
         "7310528ACFCE20DF": {
@@ -528338,8 +528722,8 @@
                 "lng": 114.170959
             },
             "name": {
-                "en": "QUEEN ELIZABETH SCHOOL",
-                "zh": "伊利沙伯中學"
+                "en": "QUEEN ELIZABETH SCHOOL, SAI YEE ST",
+                "zh": "伊利沙伯中學 洗衣街"
             }
         },
         "77505F1651DFA82F": {
@@ -528348,8 +528732,8 @@
                 "lng": 114.168045
             },
             "name": {
-                "en": "KEI WING PRIMARY SCHOOL",
-                "zh": "基榮小學"
+                "en": "KEI WING PRIMARY SCHOOL, METROPARK HOTEL MONG KOK",
+                "zh": "基榮小學 維景酒店"
             }
         },
         "775642281FBFE336": {
@@ -528438,8 +528822,8 @@
                 "lng": 114.169112
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "77BFE3A169866C7D": {
@@ -528538,8 +528922,8 @@
                 "lng": 114.169353
             },
             "name": {
-                "en": "MONG KOK STATION (S13)",
-                "zh": "旺角站 (S13)"
+                "en": "MONG KOK STATION (S13), ARGYLE CENTRE",
+                "zh": "旺角站S13旺角中心"
             }
         },
         "78419C6BD5AB7C34": {
@@ -529258,8 +529642,8 @@
                 "lng": 114.168639
             },
             "name": {
-                "en": "NULLAH ROAD MONG KOK (S9)",
-                "zh": "旺角水渠道 (S9)"
+                "en": "NULLAH ROAD (S9), ALLIED PLAZA",
+                "zh": "水渠道S9 聯合廣場"
             }
         },
         "7B9D5D0407DB14D3": {
@@ -529458,8 +529842,8 @@
                 "lng": 114.168123
             },
             "name": {
-                "en": "KEI WING PRIMARY SCHOOL",
-                "zh": "基榮小學"
+                "en": "KEI WING PRIMARY SCHOOL, METROPARK HOTEL MONG KOK",
+                "zh": "基榮小學 維景酒店"
             }
         },
         "7C6DEBE9645872B0": {
@@ -530478,8 +530862,8 @@
                 "lng": 114.169306
             },
             "name": {
-                "en": "MONG KOK STATION (S11)",
-                "zh": "旺角站 (S11)"
+                "en": "MONG KOK STATION (S11), ARGYLE CENTRE",
+                "zh": "旺角站S11旺角中心"
             }
         },
         "80EEE299A75B7F1B": {
@@ -531028,8 +531412,8 @@
                 "lng": 114.1693
             },
             "name": {
-                "en": "MONG KOK STATION (S10)",
-                "zh": "旺角站 (S10)"
+                "en": "MONG KOK STATION (S10), ARGYLE CENTRE",
+                "zh": "旺角站S10旺角中心"
             }
         },
         "82C6FB4FF5612428": {
@@ -531418,8 +531802,8 @@
                 "lng": 114.168121
             },
             "name": {
-                "en": "AUSTIN ROAD",
-                "zh": "柯士甸道"
+                "en": "AUSTIN ROAD, XIQU CENTRE",
+                "zh": "柯士甸道 戲曲中心"
             }
         },
         "84": {
@@ -531788,8 +532172,8 @@
                 "lng": 114.169721
             },
             "name": {
-                "en": "SHANTUNG STREET MONG KOK (N56)",
-                "zh": "旺角山東街 (N56)"
+                "en": "SHANTUNG STREET (N56), LANGHAM PLACE",
+                "zh": "山東街N56 朗豪坊"
             }
         },
         "8569ED53DDB3A570": {
@@ -532418,8 +532802,8 @@
                 "lng": 114.172226
             },
             "name": {
-                "en": "MONG KOK EAST STATION BUS TERMINUS",
-                "zh": "旺角東站巴士總站"
+                "en": "MONG KOK EAST STATION, MOKO",
+                "zh": "旺角東站 MOKO"
             }
         },
         "87CD68EAD90352E9": {
@@ -532628,8 +533012,8 @@
                 "lng": 114.168181
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (S2)",
-                "zh": "太子站 (S2)"
+                "en": "PRINCE EDWARD STATION (S2), FLOWER MARKET",
+                "zh": "太子站 (S2) 旺角花墟"
             }
         },
         "88AC366AD0AEF0BF": {
@@ -532958,8 +533342,8 @@
                 "lng": 114.17454
             },
             "name": {
-                "en": "EAST TSIM SHA TSUI STATION",
-                "zh": "尖東站"
+                "en": "East Tsim Sha Tsui Station, K11  MUSEA",
+                "zh": "尖東站 K11 MUSEA"
             }
         },
         "89D8AA4F45165FB6": {
@@ -533748,8 +534132,8 @@
                 "lng": 114.169189
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "8D845BED93F1CDD3": {
@@ -533878,8 +534262,8 @@
                 "lng": 114.174189
             },
             "name": {
-                "en": "EAST TSIM SHA TSUI STATION",
-                "zh": "尖東站"
+                "en": "East Tsim Sha Tsui Station, K11  MUSEA",
+                "zh": "尖東站 K11 MUSEA"
             }
         },
         "8EA1F6CDA69E539C": {
@@ -534168,8 +534552,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "9": {
@@ -534870,6 +535254,16 @@
             "name": {
                 "en": "MEI WAI HOUSE",
                 "zh": "美槐樓"
+            }
+        },
+        "924FE4A6F2501116": {
+            "location": {
+                "lat": 22.475606,
+                "lng": 114.050757
+            },
+            "name": {
+                "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH) TERMINUS",
+                "zh": "攸壆路簡約公屋 (南) 總站"
             }
         },
         "92540DF9CB08304C": {
@@ -535818,8 +536212,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "95C43FF4684FCADA": {
@@ -535978,8 +536372,8 @@
                 "lng": 114.169112
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "96442B84082D4DF5": {
@@ -536658,8 +537052,8 @@
                 "lng": 114.168744
             },
             "name": {
-                "en": "BUTE STREET MONG KOK (N71)",
-                "zh": "旺角弼街 (N71)"
+                "en": "BUTE STREET (N71), PIONEER CENTRE",
+                "zh": "弼街N71 始創中心"
             }
         },
         "992F89F2265F8D8D": {
@@ -536730,6 +537124,16 @@
             "name": {
                 "en": "TATE'S CAIRN TUNNEL (B4)",
                 "zh": "大老山隧道 (B4)"
+            }
+        },
+        "9962A14911FC8F32": {
+            "location": {
+                "lat": 22.277991,
+                "lng": 114.165087
+            },
+            "name": {
+                "en": "ADMIRALTY (PACIFIC PLACE)",
+                "zh": "金鐘(太古廣場)"
             }
         },
         "996EC6B4E40A2E4A": {
@@ -537428,8 +537832,8 @@
                 "lng": 114.174588
             },
             "name": {
-                "en": "EAST TSIM SHA TSUI STATION",
-                "zh": "尖東站"
+                "en": "East Tsim Sha Tsui Station, K11  MUSEA",
+                "zh": "尖東站 K11 MUSEA"
             }
         },
         "9CB216DC49F84CFA": {
@@ -537678,8 +538082,8 @@
                 "lng": 114.168089
             },
             "name": {
-                "en": "CHINA FERRY TERMINAL BUS TERMINUS",
-                "zh": "中港碼頭總站"
+                "en": "CHINA HONG KONG CITY B/T",
+                "zh": "中港城總站"
             }
         },
         "9D88EE061FF5E1D0": {
@@ -537858,8 +538262,8 @@
                 "lng": 114.167947
             },
             "name": {
-                "en": "CHINA FERRY TERMINAL BUS TERMINUS",
-                "zh": "中港碼頭總站"
+                "en": "CHINA HONG KONG CITY B/T",
+                "zh": "中港城總站"
             }
         },
         "9DE60F8A475770F4": {
@@ -538492,6 +538896,16 @@
                 "zh": "紅磡平治街"
             }
         },
+        "A068B6BB68299035": {
+            "location": {
+                "lat": 22.479314,
+                "lng": 114.052982
+            },
+            "name": {
+                "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (NORTH) TERMINUS",
+                "zh": "攸壆路簡約公屋 (北) 總站"
+            }
+        },
         "A06C4A6122AAB40B": {
             "location": {
                 "lat": 22.462643,
@@ -538660,6 +539074,16 @@
             "name": {
                 "en": "TSING YI STATION",
                 "zh": "青衣站"
+            }
+        },
+        "A0E544B7B849C7CC": {
+            "location": {
+                "lat": 22.279647,
+                "lng": 11.069698
+            },
+            "name": {
+                "en": "WAN CHAI FIRE STATION",
+                "zh": "灣仔消防局"
             }
         },
         "A0EFE3E68568F194": {
@@ -540338,8 +540762,8 @@
                 "lng": 114.168234
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (S4)",
-                "zh": "太子站 (S4)"
+                "en": "PRINCE EDWARD STATION (S4), FLOWER MARKET",
+                "zh": "太子站 (S4) 旺角花墟"
             }
         },
         "A70E3450F9432F54": {
@@ -540578,8 +541002,8 @@
                 "lng": 114.172256
             },
             "name": {
-                "en": "MONG KOK EAST STATION BUS TERMINUS",
-                "zh": "旺角東站巴士總站"
+                "en": "MONG KOK EAST STATION, MOKO",
+                "zh": "旺角東站 MOKO"
             }
         },
         "A7E87E8D797D1A52": {
@@ -541248,8 +541672,8 @@
                 "lng": 114.169888
             },
             "name": {
-                "en": "SAI YEUNG CHOI STREET SOUTH",
-                "zh": "西洋菜南街"
+                "en": "SAI YEUNG CHOI STREET SOUTH, MONG KOK STATION",
+                "zh": "西洋菜南街 旺角站"
             }
         },
         "A9D85812EAEE6C17": {
@@ -541520,6 +541944,26 @@
             "name": {
                 "en": "CATHAY PACIFIC CITY",
                 "zh": "國泰城"
+            }
+        },
+        "AAC74D0FACCF8639": {
+            "location": {
+                "lat": 22.479289,
+                "lng": 114.052867
+            },
+            "name": {
+                "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (NORTH) TERMINUS",
+                "zh": "攸壆路簡約公屋 (北) 總站"
+            }
+        },
+        "AAD91FB98A0825DF": {
+            "location": {
+                "lat": 22.280019,
+                "lng": 114.185419
+            },
+            "name": {
+                "en": "PATERSON STREET",
+                "zh": "百德新街"
             }
         },
         "AAECA769A84E2372": {
@@ -542208,8 +542652,8 @@
                 "lng": 114.156667
             },
             "name": {
-                "en": "LAI LO HOUSE",
-                "zh": "麗蘿樓"
+                "en": "LAI LO HOUSE LAI KOK ESTATE",
+                "zh": "麗閣邨麗蘿樓"
             }
         },
         "ADB789C140CFBE00": {
@@ -543058,8 +543502,8 @@
                 "lng": 114.171583
             },
             "name": {
-                "en": "BOWRING STREET YAU MA TEI (N20)",
-                "zh": "油麻地寶靈街 (N20)"
+                "en": "BOWRING STREET (N20), PRUDENTIAL CENTRE",
+                "zh": "寶靈街(N20) 恆豐中心"
             }
         },
         "B10F5697E4DA810B": {
@@ -543290,6 +543734,16 @@
             "name": {
                 "en": "SAN MA LO PAT HEUNG",
                 "zh": "八鄉新馬路"
+            }
+        },
+        "B20A409B4FB9FED7": {
+            "location": {
+                "lat": 22.283631,
+                "lng": 114.19244
+            },
+            "name": {
+                "en": "NGAN MOK STREET",
+                "zh": "銀幕街"
             }
         },
         "B222F08B5E956350": {
@@ -543798,8 +544252,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "B45CD55709BC851E": {
@@ -544538,8 +544992,8 @@
                 "lng": 114.168191
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (S3)",
-                "zh": "太子站 (S3)"
+                "en": "PRINCE EDWARD STATION (S3), FLOWER MARKET",
+                "zh": "太子站 (S3) 旺角花墟"
             }
         },
         "B726654FC497E9C5": {
@@ -545652,6 +546106,16 @@
                 "zh": "富善邨總站"
             }
         },
+        "BB1F05A4942960A1": {
+            "location": {
+                "lat": 22.279474,
+                "lng": 114.162208
+            },
+            "name": {
+                "en": "CENTRAL (BANK OF CHINA TOWER)",
+                "zh": "中環(中銀大廈)"
+            }
+        },
         "BB33B8049C297ADD": {
             "location": {
                 "lat": 22.46076,
@@ -546178,8 +546642,8 @@
                 "lng": 114.172218
             },
             "name": {
-                "en": "MONG KOK EAST STATION BUS TERMINUS",
-                "zh": "旺角東站巴士總站"
+                "en": "MONG KOK EAST STATION, MOKO",
+                "zh": "旺角東站 MOKO"
             }
         },
         "BDC2B3601964F0DD": {
@@ -548302,6 +548766,16 @@
                 "zh": "犁壁山"
             }
         },
+        "C63076B1999BEBD7": {
+            "location": {
+                "lat": 22.277588,
+                "lng": 114.17369
+            },
+            "name": {
+                "en": "FLEMING ROAD",
+                "zh": "菲林明道"
+            }
+        },
         "C63E1545EF857170": {
             "location": {
                 "lat": 22.253396,
@@ -548328,8 +548802,8 @@
                 "lng": 114.177
             },
             "name": {
-                "en": "WING ON PLAZA",
-                "zh": "永安廣場"
+                "en": "WING ON PLAZA, AVENUE OF STARS",
+                "zh": "永安廣場 星光大道"
             }
         },
         "C65C38558F2F978B": {
@@ -548878,8 +549352,8 @@
                 "lng": 114.169112
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "C8946B416C2ED8EA": {
@@ -549588,8 +550062,8 @@
                 "lng": 114.168797
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "CB341BEEABF66D6E": {
@@ -550782,6 +551256,16 @@
                 "zh": "油塘巴士總站"
             }
         },
+        "D0286A50FCF2DAFC": {
+            "location": {
+                "lat": 22.282487,
+                "lng": 114.185193
+            },
+            "name": {
+                "en": "CAUSEWAYBAY (PATERSON STREET)",
+                "zh": "銅鑼灣(百德新街)"
+            }
+        },
         "D0310E4F70D963A4": {
             "location": {
                 "lat": 22.377226,
@@ -550838,8 +551322,8 @@
                 "lng": 114.169913
             },
             "name": {
-                "en": "SAI YEUNG CHOI STREET SOUTH",
-                "zh": "西洋菜南街"
+                "en": "SAI YEUNG CHOI STREET SOUTH, MONG KOK STATION",
+                "zh": "西洋菜南街 旺角站"
             }
         },
         "D066F149BE3A1D28": {
@@ -550858,8 +551342,8 @@
                 "lng": 114.167704
             },
             "name": {
-                "en": "WUI CHEUNG ROAD",
-                "zh": "匯翔道"
+                "en": "WUI CHEUNG ROAD, AUSTIN STATION",
+                "zh": "匯翔道  柯士甸站"
             }
         },
         "D073CC71A1B4F79C": {
@@ -550918,8 +551402,8 @@
                 "lng": 114.167954
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (N75)",
-                "zh": "太子站 (N75)"
+                "en": "PRINCE EDWARD STATION (N75), FLOWER MARKET",
+                "zh": "太子站 (N75) 旺角花墟"
             }
         },
         "D0B1FC246C384949": {
@@ -551322,6 +551806,16 @@
                 "zh": "粉嶺樓"
             }
         },
+        "D212D9782E80AF47": {
+            "location": {
+                "lat": 22.475603,
+                "lng": 114.050735
+            },
+            "name": {
+                "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH) TERMINUS",
+                "zh": "攸壆路簡約公屋 (南) 總站"
+            }
+        },
         "D213B1E60E14A62E": {
             "location": {
                 "lat": 22.367685,
@@ -551620,6 +552114,16 @@
             "name": {
                 "en": "MEI FOO BUS TERMINUS (T7)",
                 "zh": "美孚巴士總站 (T7)"
+            }
+        },
+        "D32CF06A085E2501": {
+            "location": {
+                "lat": 22.302685,
+                "lng": 114.180807
+            },
+            "name": {
+                "en": "HUNG HOM (CROSS HARBOUR TUNNEL BBI) (A3)",
+                "zh": "紅磡(紅隧轉車站) (A3)"
             }
         },
         "D3425EC6D131021D": {
@@ -552608,8 +553112,8 @@
                 "lng": 114.172087
             },
             "name": {
-                "en": "KIMBERLEY ROAD (S49)",
-                "zh": "金巴利道 (S49)"
+                "en": "KIMBERLEY ROAD (S49), MIRA PLACE",
+                "zh": "金巴利道 (S49)  美麗華廣場"
             }
         },
         "D6E2F61E79C01350": {
@@ -552848,8 +553352,8 @@
                 "lng": 114.168686
             },
             "name": {
-                "en": "BUTE STREET MONG KOK (N73)",
-                "zh": "旺角弼街 (N73)"
+                "en": "BUTE STREET (N73), PIONEER CENTRE",
+                "zh": "弼街N73 始創中心"
             }
         },
         "D7C7D86E923EEAE1": {
@@ -552908,8 +553412,8 @@
                 "lng": 114.168797
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "D7EDDEA5A942843B": {
@@ -553848,8 +554352,8 @@
                 "lng": 114.17223
             },
             "name": {
-                "en": "MONG KOK EAST STATION BUS TERMINUS",
-                "zh": "旺角東站巴士總站"
+                "en": "MONG KOK EAST STATION, MOKO",
+                "zh": "旺角東站 MOKO"
             }
         },
         "DB241439B4E2785A": {
@@ -554288,8 +554792,8 @@
                 "lng": 114.168797
             },
             "name": {
-                "en": "STAR FERRY",
-                "zh": "尖沙咀碼頭"
+                "en": "STAR FERRY, HARBOUR CITY",
+                "zh": "尖沙咀碼頭 海港城"
             }
         },
         "DD161A7AB0D39192": {
@@ -554448,8 +554952,8 @@
                 "lng": 114.169853
             },
             "name": {
-                "en": "MONG KOK ROAD",
-                "zh": "旺角道"
+                "en": "FA YUEN STREET MARKET, MONG KOK ROAD",
+                "zh": "旺角道 花園街街市"
             }
         },
         "DE2B114C5B1EEA91": {
@@ -554468,8 +554972,8 @@
                 "lng": 114.170348
             },
             "name": {
-                "en": "MONG KOK ROAD",
-                "zh": "旺角道"
+                "en": "FA YUEN STREET MARKET, MONG KOK ROAD",
+                "zh": "旺角道 花園街街市"
             }
         },
         "DE5FEC673BB54DC5": {
@@ -554588,8 +555092,8 @@
                 "lng": 114.168134
             },
             "name": {
-                "en": "PRINCE EDWARD STATION (S1)",
-                "zh": "太子站 (S1)"
+                "en": "PRINCE EDWARD STATION (S1), FLOWER MARKET",
+                "zh": "太子站 (S1) 旺角花墟"
             }
         },
         "DEB36380E32DCD53": {
@@ -554968,8 +555472,8 @@
                 "lng": 114.170361
             },
             "name": {
-                "en": "PARKES STREET JORDAN",
-                "zh": "佐敦白加士街"
+                "en": "PARKES STREET, TEMPLE STREET NIGHT MARKET",
+                "zh": "白加士街 廟街夜市"
             }
         },
         "E0558D2901ECC032": {
@@ -555268,8 +555772,8 @@
                 "lng": 114.17223
             },
             "name": {
-                "en": "MONG KOK EAST STATION BUS TERMINUS",
-                "zh": "旺角東站巴士總站"
+                "en": "MONG KOK EAST STATION, MOKO",
+                "zh": "旺角東站 MOKO"
             }
         },
         "E1C5246F946E2D86": {
@@ -555388,8 +555892,8 @@
                 "lng": 114.16815
             },
             "name": {
-                "en": "KEI WING PRIMARY SCHOOL",
-                "zh": "基榮小學"
+                "en": "KEI WING PRIMARY SCHOOL, METROPARK HOTEL MONG KOK",
+                "zh": "基榮小學 維景酒店"
             }
         },
         "E21A497AF62AF38F": {
@@ -556348,8 +556852,8 @@
                 "lng": 114.171428
             },
             "name": {
-                "en": "NANKING STREET YAU MA TEI (N24)",
-                "zh": "油麻地南京街 (N24)"
+                "en": "NANKING STREET (N24) JORDAN STATION",
+                "zh": "南京街 (N24) 佐敦站"
             }
         },
         "E5EBA1D47BA06FCC": {
@@ -556578,8 +557082,8 @@
                 "lng": 114.168817
             },
             "name": {
-                "en": "CANTON ROAD",
-                "zh": "廣東道"
+                "en": "CANTON ROAD, GATEWAY HOTEL",
+                "zh": "廣東道 港威酒店"
             }
         },
         "E6FB42A68818D9F4": {
@@ -557468,8 +557972,8 @@
                 "lng": 114.170771
             },
             "name": {
-                "en": "QUEEN ELIZABETH SCHOOL",
-                "zh": "伊利沙伯中學"
+                "en": "QUEEN ELIZABETH SCHOOL, SAI YEE ST",
+                "zh": "伊利沙伯中學 洗衣街"
             }
         },
         "EA5AF653CB5975F8": {
@@ -557568,8 +558072,8 @@
                 "lng": 114.172057
             },
             "name": {
-                "en": "KIMBERLEY ROAD (S50)",
-                "zh": "金巴利道 (S50)"
+                "en": "KIMBERLEY ROAD (S50), MIRA PLACE",
+                "zh": "金巴利道 (S50)  美麗華廣場"
             }
         },
         "EAEA62781C49856C": {
@@ -557778,8 +558282,8 @@
                 "lng": 114.171414
             },
             "name": {
-                "en": "NANKING STREET YAU MA TEI (N25)",
-                "zh": "油麻地南京街 (N25)"
+                "en": "NANKING STREET (N25) JORDAN STATION",
+                "zh": "南京街 (N25) 佐敦站"
             }
         },
         "EBBFDA8142CCE90D": {
@@ -557970,6 +558474,16 @@
             "name": {
                 "en": "UNIVERSITY STATION",
                 "zh": "大學站"
+            }
+        },
+        "EC6FDF2670147F12": {
+            "location": {
+                "lat": 22.47925,
+                "lng": 114.052849
+            },
+            "name": {
+                "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (NORTH) TERMINUS",
+                "zh": "攸壆路簡約公屋 (北) 總站"
             }
         },
         "EC70552CECFD18F2": {
@@ -558188,8 +558702,8 @@
                 "lng": 114.188848
             },
             "name": {
-                "en": "HUNG HOM (HUNG LUEN ROAD) BUS TERMINUS",
-                "zh": "紅磡(紅鸞道)巴士總站"
+                "en": "HUNG HOM (HUNG LUEN ROAD), KERRY HOTEL",
+                "zh": "紅磡(紅鸞道) 嘉里酒店"
             }
         },
         "ED1B11038B7F6955": {
@@ -558818,8 +559332,8 @@
                 "lng": 114.17222
             },
             "name": {
-                "en": "MONG KOK EAST STATION",
-                "zh": "旺角東站巴士總站"
+                "en": "MONG KOK EAST STATION, MOKO",
+                "zh": "旺角東站 MOKO"
             }
         },
         "EF4016702D714B33": {
@@ -558910,6 +559424,16 @@
             "name": {
                 "en": "SHA TIN RACE COURSE BUS TERMINUS",
                 "zh": "沙田馬場巴士總站"
+            }
+        },
+        "EFB2FCFCD7E9950A": {
+            "location": {
+                "lat": 22.434342,
+                "lng": 114.064494
+            },
+            "name": {
+                "en": "KAM SHEUNG ROAD STATION",
+                "zh": "錦上路站"
             }
         },
         "EFB9F85F98113CB0": {
@@ -559898,8 +560422,8 @@
                 "lng": 114.169766
             },
             "name": {
-                "en": "MONG KOK ROAD",
-                "zh": "旺角道"
+                "en": "FA YUEN STREET MARKET, MONG KOK ROAD",
+                "zh": "旺角道 花園街街市"
             }
         },
         "F35D6943E16A8DB0": {
@@ -560438,8 +560962,8 @@
                 "lng": 114.163941
             },
             "name": {
-                "en": "HOI FU COURT",
-                "zh": "海富苑"
+                "en": "HOI FU COURT, PARK AVENUE",
+                "zh": "海富苑 柏景灣"
             }
         },
         "F51CE770F087FDEC": {
@@ -560848,8 +561372,8 @@
                 "lng": 114.176208
             },
             "name": {
-                "en": "GOLDEN MANSION",
-                "zh": "金德大廈"
+                "en": "GOLDEN MANSION, HONG KONG SCIENCE MUSEUM",
+                "zh": "金德大廈 香港科學館"
             }
         },
         "F656EDDC34092D80": {
@@ -561028,8 +561552,8 @@
                 "lng": 114.167837
             },
             "name": {
-                "en": "WUI CHEUNG ROAD",
-                "zh": "匯翔道"
+                "en": "WUI CHEUNG ROAD, AUSTIN STATION",
+                "zh": "匯翔道  柯士甸站"
             }
         },
         "F6FAA30D1632A880": {
