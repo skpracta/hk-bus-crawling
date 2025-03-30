@@ -297223,6 +297223,55 @@
                 ]
             }
         },
+        "88A+2+Kai Ching Estate+Hong Kong Children’s Hospital (Circular)": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Hong Kong Children’s Hospital (Circular)",
+                "zh": "香港兒童醫院(循環線)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "96": {
+                    "0700": [
+                        "1900",
+                        "1800"
+                    ]
+                }
+            },
+            "gtfsId": "2010798",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Kai Ching Estate",
+                "zh": "啟晴邨"
+            },
+            "route": "88A",
+            "seq": 13,
+            "serviceType": 2,
+            "stops": {
+                "gmb": [
+                    "20021399",
+                    "20021388",
+                    "20021398",
+                    "20021390",
+                    "20021391",
+                    "20021392",
+                    "20021393",
+                    "20021394",
+                    "20021395",
+                    "20021396",
+                    "20021397",
+                    "20021398",
+                    "20021399"
+                ]
+            }
+        },
         "88A+2+Mayfair Gardens+Cheung On Estate (Circular)": {
             "bound": {
                 "gmb": "O"
@@ -297426,6 +297475,65 @@
                     "20016755",
                     "20014982",
                     "20016746"
+                ]
+            }
+        },
+        "88A+2+Wong Tai Sin Station+Hong Kong Children’s Hospital (Circular)": {
+            "bound": {
+                "gmb": "O"
+            },
+            "co": [
+                "gmb"
+            ],
+            "dest": {
+                "en": "Hong Kong Children’s Hospital (Circular)",
+                "zh": "香港兒童醫院(循環線)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": {
+                "31": {
+                    "0700": [
+                        "1900",
+                        "1800"
+                    ]
+                }
+            },
+            "gtfsId": "2010797",
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Wong Tai Sin Station",
+                "zh": "黃大仙站"
+            },
+            "route": "88A",
+            "seq": 23,
+            "serviceType": 2,
+            "stops": {
+                "gmb": [
+                    "20021382",
+                    "20021383",
+                    "20021384",
+                    "20021385",
+                    "20021400",
+                    "20008528",
+                    "20021387",
+                    "20021388",
+                    "20021389",
+                    "20021390",
+                    "20021391",
+                    "20021392",
+                    "20021393",
+                    "20021394",
+                    "20021395",
+                    "20021396",
+                    "20021397",
+                    "20021398",
+                    "20021399",
+                    "20021400",
+                    "20021401",
+                    "20021402",
+                    "20021382"
                 ]
             }
         },
@@ -427027,8 +427135,8 @@
         },
         "001464": {
             "location": {
-                "lat": 22.301175862091,
-                "lng": 114.23338190053
+                "lat": 22.301112152091,
+                "lng": 114.23320554053
             },
             "name": {
                 "en": "Eastern Harbour Crossing Bus-Bus Interchange",
@@ -475395,6 +475503,16 @@
                 "zh": "彩興里, 近彩興苑彩蕎閣"
             }
         },
+        "20008528": {
+            "location": {
+                "lat": 22.33217133347984,
+                "lng": 114.1979429125786
+            },
+            "name": {
+                "en": "Concorde Road eastbound near Trade and Industry Tower",
+                "zh": "協調道東行線近工業貿易大樓"
+            }
+        },
         "20008529": {
             "location": {
                 "lat": 22.332041807267032,
@@ -504063,6 +504181,206 @@
             "name": {
                 "en": "No.142 Belcher's Street ",
                 "zh": "卑路乍街142號"
+            }
+        },
+        "20021382": {
+            "location": {
+                "lat": 22.34079017917738,
+                "lng": 114.19483959674837
+            },
+            "name": {
+                "en": "Wong Tai Sin Bus Terminus",
+                "zh": "黃大仙巴士總站"
+            }
+        },
+        "20021383": {
+            "location": {
+                "lat": 22.34013646559696,
+                "lng": 114.19592052698137
+            },
+            "name": {
+                "en": "Shatin Pass Road southbound near Chun Yan Street",
+                "zh": "沙田坳道南行線近親仁街"
+            }
+        },
+        "20021384": {
+            "location": {
+                "lat": 22.339304123756126,
+                "lng": 114.19926524162294
+            },
+            "name": {
+                "en": "Choi Hung Road eastbound opposite to Shing King Industrial Building (near L/P AA6798)",
+                "zh": "彩虹道東行線盛景工業大廈對面(近燈柱AA6798)"
+            }
+        },
+        "20021385": {
+            "location": {
+                "lat": 22.33717300828864,
+                "lng": 114.20109987258913
+            },
+            "name": {
+                "en": "Sze Mei Street opposite to Wang Fai Industrial Building",
+                "zh": "四美街宏輝工業大廈對面"
+            }
+        },
+        "20021387": {
+            "location": {
+                "lat": 22.332799033663495,
+                "lng": 114.19913381338121
+            },
+            "name": {
+                "en": "Concorde Road eastbound near Inland Revenue Centre",
+                "zh": "協調道東行近稅務大樓"
+            }
+        },
+        "20021388": {
+            "location": {
+                "lat": 22.332404550478675,
+                "lng": 114.20387327671052
+            },
+            "name": {
+                "en": "Muk Hung Street southbound bus lay-by",
+                "zh": "沐虹街南行停車灣"
+            }
+        },
+        "20021389": {
+            "location": {
+                "lat": 22.33133026042592,
+                "lng": 114.20269981026651
+            },
+            "name": {
+                "en": "Muk Chui Street eastbound near Ching Long Shopping Centre",
+                "zh": "沐翠街東行近晴朗商場"
+            }
+        },
+        "20021390": {
+            "location": {
+                "lat": 22.321055858444048,
+                "lng": 114.20774638652803
+            },
+            "name": {
+                "en": "Sheung Yee Road southbound near Zero Carbon Building",
+                "zh": "常怡道南行近零碳天地"
+            }
+        },
+        "20021391": {
+            "location": {
+                "lat": 22.31638858366881,
+                "lng": 114.21176970005035
+            },
+            "name": {
+                "en": "Cheung Yip Street southbound near Harbourside HQ",
+                "zh": "祥業街南行線近啟匯"
+            }
+        },
+        "20021392": {
+            "location": {
+                "lat": 22.315852618680843,
+                "lng": 114.20945495367052
+            },
+            "name": {
+                "en": "Shing Cheong Road near Hong Kong Children’s Hospital",
+                "zh": "承昌道近香港兒童醫院"
+            }
+        },
+        "20021393": {
+            "location": {
+                "lat": 22.316182634402995,
+                "lng": 114.2113620042801
+            },
+            "name": {
+                "en": "Cheung Yip Street northound near Kai Tak Fire Station",
+                "zh": "祥業街近啟德消防局"
+            }
+        },
+        "20021394": {
+            "location": {
+                "lat": 22.322626469240983,
+                "lng": 114.20881390571594
+            },
+            "name": {
+                "en": "Wang Chiu Road northbound bus lay-by outside Proficient Industrial Centre",
+                "zh": "宏照道北行線鴻力工業中心外巴士停車灣"
+            }
+        },
+        "20021395": {
+            "location": {
+                "lat": 22.324239242342674,
+                "lng": 114.20678079128267
+            },
+            "name": {
+                "en": " Lam Hing Street westbound opposite to Kellett School",
+                "zh": "臨興街西行啟曆學校對面"
+            }
+        },
+        "20021396": {
+            "location": {
+                "lat": 22.32628867788129,
+                "lng": 114.2057776451111
+            },
+            "name": {
+                "en": "Wang Kwong Road northbound near Skyline Tower",
+                "zh": "宏光道北行線近宏天廣場"
+            }
+        },
+        "20021397": {
+            "location": {
+                "lat": 22.330188973245715,
+                "lng": 114.20468330383302
+            },
+            "name": {
+                "en": "Shing Kai Road northbound near Tak Long Estate",
+                "zh": "承啟道北行近德朗邨"
+            }
+        },
+        "20021398": {
+            "location": {
+                "lat": 22.33133026042592,
+                "lng": 114.20269981026651
+            },
+            "name": {
+                "en": "Muk Chui Street eastbound near Ching Long Shopping Centre",
+                "zh": "沐翠街東行近晴朗商場"
+            }
+        },
+        "20021399": {
+            "location": {
+                "lat": 22.33205472483419,
+                "lng": 114.20468330383302
+            },
+            "name": {
+                "en": "Shing Kai Road northbound bus lay-by outside Kai Ching Estate",
+                "zh": "承啟道北行啟晴邨外巴士停車灣"
+            }
+        },
+        "20021400": {
+            "location": {
+                "lat": 22.33251247523444,
+                "lng": 114.19920757412912
+            },
+            "name": {
+                "en": "Concorde Road westbound near Muk Yuen Street",
+                "zh": "協調道西行近沐元街"
+            }
+        },
+        "20021401": {
+            "location": {
+                "lat": 22.338646681829996,
+                "lng": 114.20036226511003
+            },
+            "name": {
+                "en": "Choi Hung Road westbound outside Ka Wing Factory Building",
+                "zh": "彩虹道西行嘉榮工業大廈外"
+            }
+        },
+        "20021402": {
+            "location": {
+                "lat": 22.33930784511668,
+                "lng": 114.19582262635232
+            },
+            "name": {
+                "en": "Shatin Pass Road northbound opposite to Hong Kong Sheng Kung Hui Calvary Church",
+                "zh": "沙田坳道北行線龍逸樓外"
             }
         },
         "20021415": {
