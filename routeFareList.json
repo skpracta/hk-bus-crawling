@@ -338571,18 +338571,130 @@
                 "en": "EXHIBITION CENTRE STATION",
                 "zh": "會展站"
             },
-            "fares": null,
+            "fares": [
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "27.9",
+                "11.4",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0540": [
+                        "0600",
+                        "1200"
+                    ],
+                    "0600": [
+                        "0615",
+                        "900"
+                    ],
+                    "0615": [
+                        "0703",
+                        "720"
+                    ],
+                    "0703": [
+                        "0730",
+                        "540"
+                    ],
+                    "0730": [
+                        "0800",
+                        "600"
+                    ],
+                    "0800": [
+                        "0900",
+                        "900"
+                    ],
+                    "0900": [
+                        "1200",
+                        "1200"
+                    ],
+                    "1200": [
+                        "1900",
+                        "1800"
+                    ],
+                    "1900": [
+                        "2100",
+                        "2400"
+                    ],
+                    "2100": [
+                        "2300",
+                        "3600"
+                    ]
+                },
+                "288": {
+                    "0600": [
+                        "0700",
+                        "1200"
+                    ],
+                    "0700": [
+                        "0800",
+                        "900"
+                    ],
+                    "0800": [
+                        "1300",
+                        "1200"
+                    ],
+                    "1300": [
+                        "1900",
+                        "1800"
+                    ],
+                    "1900": [
+                        "2100",
+                        "2400"
+                    ],
+                    "2100": [
+                        "2300",
+                        "3600"
+                    ]
+                },
+                "448": {
+                    "0600": [
+                        "0730",
+                        "1800"
+                    ],
+                    "0730": [
+                        "1330",
+                        "1200"
+                    ],
+                    "1330": [
+                        "1900",
+                        "1800"
+                    ],
+                    "1900": [
+                        "2300",
+                        "3600"
+                    ]
+                }
+            },
+            "gtfsId": "1195",
+            "jt": "91",
             "nlbId": null,
             "orig": {
                 "en": "FANLING (WAH MING)",
                 "zh": "粉嶺(華明)"
             },
             "route": "978",
-            "seq": 25,
+            "seq": 26,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -338610,7 +338722,8 @@
                     "B4EBE05A59376062",
                     "E75D7F316C638995",
                     "15CF21F494E81BA6",
-                    "CF978D9F9779F527"
+                    "CF978D9F9779F527",
+                    "F6E65ED7BA637652"
                 ]
             }
         },
@@ -411111,42 +411224,6 @@
                 ]
             }
         },
-        "PB1+1+YUEN LONG (YOHO MALL I)+TSUEN WAN(From Yuen Long) (Circular)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSUEN WAN(From Yuen Long) (Circular)",
-                "zh": "荃灣  (由元朗出發 循環行走)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "YUEN LONG (YOHO MALL I)",
-                "zh": "元朗(形點)"
-            },
-            "route": "PB1",
-            "seq": 7,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "F493236404A4FABF",
-                    "315813D4C69F73E8",
-                    "CC43907C8D4CED33",
-                    "321060BAE1447BEE",
-                    "CC43907C8D4CED33",
-                    "315813D4C69F73E8",
-                    "F493236404A4FABF"
-                ]
-            }
-        },
         "PB2+1+MA WAN+CENTRAL(From Ma Wan) (Circular)": {
             "bound": {
                 "kmb": "O"
@@ -411182,156 +411259,6 @@
                     "860671A5FA383DA3",
                     "321060BAE1447BEE",
                     "02FBFA6B14F230C6"
-                ]
-            }
-        },
-        "PB3+1+TAI PO MEGA MALL (TAI WO ROAD)+TSUEN WAN(From Tai Po) (Circular)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSUEN WAN(From Tai Po) (Circular)",
-                "zh": "荃灣 (由大埔出發 循環行走)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TAI PO MEGA MALL (TAI WO ROAD)",
-                "zh": "大埔超級城(太和路)"
-            },
-            "route": "PB3",
-            "seq": 9,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "AFFD0E0C6077741D",
-                    "2B011CC82C51D518",
-                    "B1882202E2B36620",
-                    "8C90768E30E981C6",
-                    "321060BAE1447BEE",
-                    "8C90768E30E981C6",
-                    "B1882202E2B36620",
-                    "2B011CC82C51D518",
-                    "AFFD0E0C6077741D"
-                ]
-            }
-        },
-        "PB4+1+TUEN MUN STATION+TSUEN WAN (From Tuen Mun) (Circular)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSUEN WAN (From Tuen Mun) (Circular)",
-                "zh": "荃灣(由屯門出發 循環行走)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TUEN MUN STATION",
-                "zh": "屯門站"
-            },
-            "route": "PB4",
-            "seq": 9,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "0678C85600B1A019",
-                    "3CA179A8B3DC79DC",
-                    "5C6754BD37D3F4D0",
-                    "2EA448DB63E8D43C",
-                    "321060BAE1447BEE",
-                    "2EA448DB63E8D43C",
-                    "5C6754BD37D3F4D0",
-                    "86E9F1CDA10B3F16",
-                    "0678C85600B1A019"
-                ]
-            }
-        },
-        "PB5+1+SHA TIN TOWN HALL+SAI KUNG (From Sha Tin) (Circular)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "SAI KUNG (From Sha Tin) (Circular)",
-                "zh": "西貢 (由沙田出發 循環行走)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "SHA TIN TOWN HALL",
-                "zh": "沙田大會堂"
-            },
-            "route": "PB5",
-            "seq": 7,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "8C90768E30E981C6",
-                    "3C6231BF9A77F8B4",
-                    "8B9E121BB71771F4",
-                    "FFB9E8929671D06E",
-                    "8B9E121BB71771F4",
-                    "3C6231BF9A77F8B4",
-                    "8C90768E30E981C6"
-                ]
-            }
-        },
-        "PB6+1+TSEUNG KWAN O (TONG CHUN STREET)+CENTRAL (From Tseung Kwan O)(Circular)": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "CENTRAL (From Tseung Kwan O)(Circular)",
-                "zh": "中環(由將軍澳出發循環行走)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TSEUNG KWAN O (TONG CHUN STREET)",
-                "zh": "將軍澳(唐俊街)"
-            },
-            "route": "PB6",
-            "seq": 9,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "06CC6423AA236B72",
-                    "DE8AB4B54CD3D4F2",
-                    "C1EE377B1D421E2F",
-                    "E85A10E61A00CC09",
-                    "90F0F685E42CC10D",
-                    "C1EE377B1D421E2F",
-                    "E85A10E61A00CC09",
-                    "DE8AB4B54CD3D4F2",
-                    "06CC6423AA236B72"
                 ]
             }
         },
@@ -449663,16 +449590,6 @@
                 "zh": "和宜合道運動場"
             }
         },
-        "0678C85600B1A019": {
-            "location": {
-                "lat": 22.39523,
-                "lng": 113.97385
-            },
-            "name": {
-                "en": "TUEN MUN STATION(V City)",
-                "zh": "屯門站(V City)"
-            }
-        },
         "067F57DA0477D026": {
             "location": {
                 "lat": 22.410027,
@@ -449721,16 +449638,6 @@
             "name": {
                 "en": "CROSS HARBOUR TUNNEL BBI (A6)",
                 "zh": "紅隧轉車站 (A6)"
-            }
-        },
-        "06CC6423AA236B72": {
-            "location": {
-                "lat": 22.303002,
-                "lng": 114.261429
-            },
-            "name": {
-                "en": "TONG CHUN STREET",
-                "zh": "唐俊街"
             }
         },
         "06D3396F1F07B07D": {
@@ -483209,8 +483116,8 @@
                 "lng": 114.21132646501064
             },
             "name": {
-                "en": "Cheung Yip Street, Octa Tower",
-                "zh": "祥業街, 傲騰廣場"
+                "en": "Cheung Yip Street, Harbourside HQ",
+                "zh": "祥業街, 啟匯"
             }
         },
         "20012999": {
@@ -508183,16 +508090,6 @@
                 "zh": "廣福道轉車站 - 寶鄉橋 (B2)"
             }
         },
-        "2B011CC82C51D518": {
-            "location": {
-                "lat": 22.443221,
-                "lng": 114.168832
-            },
-            "name": {
-                "en": "WAN TAU TONG ESTATE",
-                "zh": "運頭塘邨"
-            }
-        },
         "2B0183A25DA19AE3": {
             "location": {
                 "lat": 22.339349,
@@ -508991,16 +508888,6 @@
             "name": {
                 "en": "YMCA",
                 "zh": "青年會"
-            }
-        },
-        "2EA448DB63E8D43C": {
-            "location": {
-                "lat": 22.30915,
-                "lng": 114.043412
-            },
-            "name": {
-                "en": "DISNEYLAND MAGIC ROAD",
-                "zh": "迪士尼神奇道"
             }
         },
         "2EA8AA00E0850F35": {
@@ -509971,16 +509858,6 @@
             "name": {
                 "en": "Caribbean Coast",
                 "zh": "映灣園"
-            }
-        },
-        "315813D4C69F73E8": {
-            "location": {
-                "lat": 22.458285,
-                "lng": 114.003812
-            },
-            "name": {
-                "en": "TIN SHUI WAI GINZA SQUARE",
-                "zh": "天水圍銀座"
             }
         },
         "315B55985B328146": {
@@ -513163,16 +513040,6 @@
                 "zh": "錦英苑"
             }
         },
-        "3C6231BF9A77F8B4": {
-            "location": {
-                "lat": 22.425017,
-                "lng": 114.231436
-            },
-            "name": {
-                "en": "BAYSHORE TOWERS",
-                "zh": "海栢花園"
-            }
-        },
         "3C624F6CB2D5BBEA": {
             "location": {
                 "lat": 22.386783,
@@ -513241,16 +513108,6 @@
             "name": {
                 "en": "HA KWAI CHUNG POLYCLINIC",
                 "zh": "下葵涌分科診所"
-            }
-        },
-        "3CA179A8B3DC79DC": {
-            "location": {
-                "lat": 22.383829,
-                "lng": 113.972738
-            },
-            "name": {
-                "en": "GOODVIEW GARDEN",
-                "zh": "豐景園"
             }
         },
         "3CA62A3B1C8415D0": {
@@ -522261,16 +522118,6 @@
             "name": {
                 "en": "JUBILANT PLACE",
                 "zh": "欣榮花園"
-            }
-        },
-        "5C6754BD37D3F4D0": {
-            "location": {
-                "lat": 22.29026,
-                "lng": 113.940555
-            },
-            "name": {
-                "en": "TUNG CHUNG STATION BUS TERMINUS",
-                "zh": "東涌站巴士總站"
             }
         },
         "5C6A29BCDA410664": {
@@ -533353,16 +533200,6 @@
                 "zh": "佐敦廟街"
             }
         },
-        "86E9F1CDA10B3F16": {
-            "location": {
-                "lat": 22.384009,
-                "lng": 113.972822
-            },
-            "name": {
-                "en": "GOODVIEW GARDEN",
-                "zh": "豐景園"
-            }
-        },
         "86F4FDCF2F5D13ED": {
             "location": {
                 "lat": 22.295006,
@@ -534453,16 +534290,6 @@
                 "zh": "觀塘(裕民坊)總站"
             }
         },
-        "8B9E121BB71771F4": {
-            "location": {
-                "lat": 22.427029,
-                "lng": 114.265792
-            },
-            "name": {
-                "en": "GO PARK SAI SHA",
-                "zh": "西沙 GO PARK"
-            }
-        },
         "8BAB6AA783EE0508": {
             "location": {
                 "lat": 22.314051,
@@ -534701,16 +534528,6 @@
             "name": {
                 "en": "CHO YIU CHUEN BUS TERMINUS",
                 "zh": "祖堯邨巴士總站"
-            }
-        },
-        "8C90768E30E981C6": {
-            "location": {
-                "lat": 22.382023,
-                "lng": 114.191197
-            },
-            "name": {
-                "en": "SHA TIN TOWN HALL",
-                "zh": "沙田大會堂"
             }
         },
         "8CA39D263F36C070": {
@@ -543983,16 +543800,6 @@
                 "zh": "鴻福街"
             }
         },
-        "AFFD0E0C6077741D": {
-            "location": {
-                "lat": 22.451204,
-                "lng": 114.168829
-            },
-            "name": {
-                "en": "TAI PO MEGA MALL (TAI WO ROAD)",
-                "zh": "大埔超級城(太和路)"
-            }
-        },
         "AIR": {
             "location": {
                 "lat": 22.315916787075466,
@@ -544451,16 +544258,6 @@
             "name": {
                 "en": "CANAL ROAD EAST",
                 "zh": "堅拿道東"
-            }
-        },
-        "B1882202E2B36620": {
-            "location": {
-                "lat": 22.428807,
-                "lng": 114.208558
-            },
-            "name": {
-                "en": "PAK SHEK KOK (FO YIN ROAD)",
-                "zh": "白石角(科研路)"
             }
         },
         "B18C8718C0B7904F": {
@@ -548613,16 +548410,6 @@
                 "zh": "愉田苑"
             }
         },
-        "C1EE377B1D421E2F": {
-            "location": {
-                "lat": 22.290301,
-                "lng": 114.194434
-            },
-            "name": {
-                "en": "CITY GARDEN",
-                "zh": "城市花園"
-            }
-        },
         "C1FC4F003C9031B3": {
             "location": {
                 "lat": 22.286203,
@@ -551121,16 +550908,6 @@
             "name": {
                 "en": "LINGNAN UNIVERSITY",
                 "zh": "嶺南大學"
-            }
-        },
-        "CC43907C8D4CED33": {
-            "location": {
-                "lat": 22.372558,
-                "lng": 113.989567
-            },
-            "name": {
-                "en": "HONG KONG GOLD COAST",
-                "zh": "香港黃金海岸"
             }
         },
         "CC57C2DF592993CB": {
@@ -555823,16 +555600,6 @@
                 "zh": "香島中學"
             }
         },
-        "DE8AB4B54CD3D4F2": {
-            "location": {
-                "lat": 22.296803,
-                "lng": 114.269336
-            },
-            "name": {
-                "en": "LOHAS PARK STATION",
-                "zh": "康城站"
-            }
-        },
         "DE925628D8747F6D": {
             "location": {
                 "lat": 22.317402,
@@ -558311,16 +558078,6 @@
             "name": {
                 "en": "SEAVIEW VILLA",
                 "zh": "海恬閣"
-            }
-        },
-        "E85A10E61A00CC09": {
-            "location": {
-                "lat": 22.292777,
-                "lng": 114.202044
-            },
-            "name": {
-                "en": "HARBOUR NORTH",
-                "zh": "北角匯"
             }
         },
         "E86A26B1A389C290": {
@@ -561541,16 +561298,6 @@
             "name": {
                 "en": "TUEN MUN CENTRAL BUS TERMINUS",
                 "zh": "屯門市中心總站"
-            }
-        },
-        "F493236404A4FABF": {
-            "location": {
-                "lat": 22.445022,
-                "lng": 114.037377
-            },
-            "name": {
-                "en": "YOHO MALL (YUEN LONG)",
-                "zh": "元朗 形點"
             }
         },
         "F49465D014D12FF8": {
