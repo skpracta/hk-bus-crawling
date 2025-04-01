@@ -20771,96 +20771,6 @@
                 ]
             }
         },
-        "110+1+SHAU KEI WAN BUS TERMINUS+GRANVILLE ROAD": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb",
-                "ctb"
-            ],
-            "dest": {
-                "en": "GRANVILLE ROAD",
-                "zh": "加連威老道"
-            },
-            "fares": [
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "7.7",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2",
-                "12.2"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "448": {
-                    "0700": [
-                        "0735",
-                        "2100"
-                    ],
-                    "0810": [
-                        "0840",
-                        "1800"
-                    ]
-                },
-                "480": {
-                    "2000": null
-                }
-            },
-            "gtfsId": "8177",
-            "jt": "67",
-            "nlbId": null,
-            "orig": {
-                "en": "SHAU KEI WAN BUS TERMINUS",
-                "zh": "筲箕灣巴士總站"
-            },
-            "route": "110",
-            "seq": 23,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "35AEEA90C71121F0",
-                    "B404A065F58A5F64",
-                    "4FC7150518C5234A",
-                    "3FB2109BF5E57DDB",
-                    "F01C5503A89517B4",
-                    "88461293F994CB07",
-                    "7FC94FB715BB85C6",
-                    "08A237AE35DF8A35",
-                    "9711BA45457DCA24",
-                    "99FB764916B4BA81",
-                    "E293EF47A90B818D",
-                    "616738F21326814A",
-                    "3A1D9864C04075B2",
-                    "153D32217234A0F0",
-                    "5CCBD9A6B58BF20D",
-                    "E049C81469E2B3C0",
-                    "076E1E9D5874C41D",
-                    "F6EE4DC41A299593",
-                    "83EB94899B6BBB4B",
-                    "F57E1173086C7A51",
-                    "576538E1395C8508",
-                    "0DB55CC5E4533F4E",
-                    "36C11B4E5D248AE2"
-                ]
-            }
-        },
         "110+1+SHAU KEI WAN+TSIM SHA TSUI (CIRCULAR)": {
             "bound": {
                 "kmb": "O"
@@ -20910,6 +20820,7 @@
                 "7.7",
                 "7.7",
                 "7.7",
+                "6.1",
                 "6.1",
                 "6.1",
                 "6.1",
@@ -21049,7 +20960,7 @@
                 "zh": "筲箕灣"
             },
             "route": "110",
-            "seq": 46,
+            "seq": 47,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -21057,6 +20968,7 @@
                     "B404A065F58A5F64",
                     "4FC7150518C5234A",
                     "3FB2109BF5E57DDB",
+                    "455FC1E8B39E3D16",
                     "F01C5503A89517B4",
                     "88461293F994CB07",
                     "7FC94FB715BB85C6",
@@ -21519,7 +21431,7 @@
                 "zh": "筲箕灣"
             },
             "route": "110",
-            "seq": 22,
+            "seq": 23,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -21527,6 +21439,7 @@
                     "B404A065F58A5F64",
                     "4FC7150518C5234A",
                     "3FB2109BF5E57DDB",
+                    "455FC1E8B39E3D16",
                     "F01C5503A89517B4",
                     "88461293F994CB07",
                     "7FC94FB715BB85C6",
@@ -177509,74 +177422,6 @@
                     "20002181",
                     "20002182",
                     "20007949"
-                ]
-            }
-        },
-        "501K+1+Yan Shing Court+Luen Wo Hui (Circular)": {
-            "bound": {
-                "gmb": "O"
-            },
-            "co": [
-                "gmb"
-            ],
-            "dest": {
-                "en": "Luen Wo Hui (Circular)",
-                "zh": "聯和墟 (循環線)"
-            },
-            "fares": [
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4",
-                "5.4"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "63": {
-                    "0630": [
-                        "1000",
-                        "600"
-                    ]
-                }
-            },
-            "gtfsId": "2001063",
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Yan Shing Court",
-                "zh": "欣盛苑"
-            },
-            "route": "501K",
-            "seq": 16,
-            "serviceType": 1,
-            "stops": {
-                "gmb": [
-                    "20002183",
-                    "20002184",
-                    "20002185",
-                    "20020068",
-                    "20002187",
-                    "20004532",
-                    "20004530",
-                    "20001457",
-                    "20001460",
-                    "20004529",
-                    "20001455",
-                    "20003322",
-                    "20007951",
-                    "20002181",
-                    "20002182",
-                    "20002183"
                 ]
             }
         },
@@ -345627,7 +345472,7 @@
                 "zh": "機場 (經港珠澳大橋香港口岸)"
             },
             "route": "A10",
-            "seq": 48,
+            "seq": 49,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -345678,6 +345523,7 @@
                     "002936",
                     "002263",
                     "002171",
+                    "002207",
                     "002202"
                 ]
             }
@@ -345771,11 +345617,12 @@
                 "zh": "鴨脷洲 (利樂街)"
             },
             "route": "A10",
-            "seq": 52,
+            "seq": 53,
             "serviceType": 1,
             "stops": {
                 "ctb": [
                     "002202",
+                    "002205",
                     "002262",
                     "002263",
                     "002170",
@@ -408229,7 +408076,7 @@
                 "zh": "機場 ／ 港珠澳大橋香港口岸"
             },
             "route": "NA10",
-            "seq": 48,
+            "seq": 49,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -408280,6 +408127,7 @@
                     "002936",
                     "002263",
                     "002171",
+                    "002207",
                     "002202"
                 ]
             }
@@ -408362,11 +408210,12 @@
                 "zh": "鴨脷洲 (利樂街)"
             },
             "route": "NA10",
-            "seq": 52,
+            "seq": 53,
             "serviceType": 1,
             "stops": {
                 "ctb": [
                     "002202",
+                    "002205",
                     "002262",
                     "002263",
                     "002170",
@@ -433936,8 +433785,8 @@
                 "lng": 114.14836660053
             },
             "name": {
-                "en": "Yi Nam Road, Lee Nam Road",
-                "zh": "怡南路, 利南道"
+                "en": "New Shell Ap Lei Chau Depot, Lee Nam Road",
+                "zh": "蜆殼新鴨脷洲油庫, 利南道"
             }
         },
         "002205": {
@@ -433946,8 +433795,8 @@
                 "lng": 114.14975594053
             },
             "name": {
-                "en": "Sewage Treatment Plant, Lee Nam Road",
-                "zh": "污水處理廠, 利南道"
+                "en": "The Corniche, Lee Nam Road",
+                "zh": "凱玥, 利南道"
             }
         },
         "002206": {
@@ -433956,8 +433805,8 @@
                 "lng": 114.15030606053
             },
             "name": {
-                "en": "The Oasis, Lee Nam Road",
-                "zh": "御庭園, 利南道"
+                "en": "Ap Lei Chau Bridge Road Playground, Lee Nam Road",
+                "zh": "鴨脷洲橋道遊樂場, 利南道"
             }
         },
         "002207": {
@@ -433966,8 +433815,8 @@
                 "lng": 114.14981125053
             },
             "name": {
-                "en": "Sewage Treatment Plant, Lee Nam Road",
-                "zh": "污水處理廠, 利南道"
+                "en": "The Corniche, Lee Nam Road",
+                "zh": "凱玥, 利南道"
             }
         },
         "002208": {
@@ -434046,8 +433895,8 @@
                 "lng": 114.18136199053
             },
             "name": {
-                "en": "Nam Fung - Parker Cable Tunnel, Nam Fung Road",
-                "zh": "南風 - 柏架電力隧道, 南風道"
+                "en": "South Island School, Nam Fung Road",
+                "zh": "南島中學, 南風道"
             }
         },
         "002217": {
@@ -434057,7 +433906,7 @@
             },
             "name": {
                 "en": "Wong Chuk Hang Complex for the Elderly, Nam Fung Road",
-                "zh": "黃竹坑老人服務大樓, 南風道"
+                "zh": "黃竹坑老人服務綜合大樓, 南風道"
             }
         },
         "002218": {
@@ -434096,8 +433945,8 @@
                 "lng": 114.17442024053
             },
             "name": {
-                "en": "Wong Chuk Hang Complex for the Elderly, Nam Fung Road",
-                "zh": "黃竹坑老人服務大樓, 南風道"
+                "en": "HKUGA College, Nam Fung Road",
+                "zh": "港大同學會書院, 南風道"
             }
         },
         "002222": {
@@ -434786,8 +434635,8 @@
                 "lng": 114.14418340053
             },
             "name": {
-                "en": "Dairy Farm Ice & Cold Storage, Tin Wan Praya Road",
-                "zh": "牛奶公司冰廠及冷房, 田灣海旁道"
+                "en": "HKICS Ice Plant & Cold Storage, Tin Wan Praya Road",
+                "zh": "香港製冰冰廠及冷庫, 田灣海旁道"
             }
         },
         "002296": {
@@ -434796,8 +434645,8 @@
                 "lng": 114.14726387053
             },
             "name": {
-                "en": "Hing Wai Industrial Centre, Tin Wan Praya Road",
-                "zh": "興偉工業中心, 田灣海旁道"
+                "en": "Hing Wai Centre, Tin Wan Praya Road",
+                "zh": "興偉中心, 田灣海旁道"
             }
         },
         "002297": {
@@ -434806,8 +434655,8 @@
                 "lng": 114.14442990053
             },
             "name": {
-                "en": "Dairy Farm Ice & Cold Storage, Tin Wan Praya Road",
-                "zh": "牛奶公司冰廠及冷房, 田灣海旁道"
+                "en": "HKICS Ice Plant & Cold Storage, Tin Wan Praya Road",
+                "zh": "香港製冰冰廠及冷庫, 田灣海旁道"
             }
         },
         "002298": {
@@ -472962,8 +472811,8 @@
         },
         "20007401": {
             "location": {
-                "lat": 22.318847544802967,
-                "lng": 114.23187822103503
+                "lat": 22.31925447263937,
+                "lng": 114.23131361603738
             },
             "name": {
                 "en": "Sau Ming Road, outside Sau Mau Ping Shopping Centre",
@@ -474298,16 +474147,6 @@
             "name": {
                 "en": "Yung Shing Court",
                 "zh": "雍盛苑"
-            }
-        },
-        "20007951": {
-            "location": {
-                "lat": 22.484539973298126,
-                "lng": 114.14587318897249
-            },
-            "name": {
-                "en": "Wo Hing Road, opposite Wo Hing Tsuen",
-                "zh": "和興路, 和興村對面"
             }
         },
         "20007955": {
@@ -486302,8 +486141,8 @@
         },
         "20014147": {
             "location": {
-                "lat": 22.3207779602224,
-                "lng": 114.23130959272386
+                "lat": 22.320424383560105,
+                "lng": 114.231513440609
             },
             "name": {
                 "en": "Sau Ming Road outside The Mission Covenant Church Holm Glad Primary School",
@@ -515698,6 +515537,16 @@
             "name": {
                 "en": "MORETON TERRACE",
                 "zh": "摩頓台"
+            }
+        },
+        "455FC1E8B39E3D16": {
+            "location": {
+                "lat": 22.275812,
+                "lng": 114.224643
+            },
+            "name": {
+                "en": "YIU MING HOUSE",
+                "zh": "耀明樓"
             }
         },
         "45628FA7B8D7C5D2": {
