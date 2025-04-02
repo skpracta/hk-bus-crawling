@@ -268044,13 +268044,12 @@
                 "zh": "上水(太平)"
             },
             "route": "78K",
-            "seq": 36,
+            "seq": 35,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "3C450B715D06675A",
                     "396DD38F2E41E117",
-                    "60AEF6D3AA7AAC41",
                     "C4DBA77DDE73976A",
                     "F19EA5A24A38C94C",
                     "FC63E0A36323E494",
@@ -268193,7 +268192,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "60AEF6D3AA7AAC41",
+                    "C4DBA77DDE73976A",
                     "F19EA5A24A38C94C",
                     "FC63E0A36323E494",
                     "EFEE1D1E1BF3140C",
@@ -268513,11 +268512,10 @@
                 "zh": "上水"
             },
             "route": "78S",
-            "seq": 18,
+            "seq": 17,
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "60AEF6D3AA7AAC41",
                     "C4DBA77DDE73976A",
                     "07EEE519D04FFE28",
                     "E6022594DB48E35B",
@@ -411073,6 +411071,44 @@
                 ]
             }
         },
+        "PB1A+1+TAI PO MEGA MALL (TAI WO ROAD)+SAI SHA GO PARK (From Tai Po) (Circular)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SAI SHA GO PARK (From Tai Po) (Circular)",
+                "zh": "西沙 GO PARK  (由大埔出發 循環行走)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TAI PO MEGA MALL (TAI WO ROAD)",
+                "zh": "大埔超級城(太和路)"
+            },
+            "route": "PB1A",
+            "seq": 9,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "AFFD0E0C6077741D",
+                    "B1882202E2B36620",
+                    "D23A43F56F61F40A",
+                    "8C90768E30E981C6",
+                    "8B9E121BB71771F4",
+                    "8C90768E30E981C6",
+                    "D23A43F56F61F40A",
+                    "B1882202E2B36620",
+                    "AFFD0E0C6077741D"
+                ]
+            }
+        },
         "PB2+1+MA WAN+CENTRAL(From Ma Wan) (Circular)": {
             "bound": {
                 "kmb": "O"
@@ -411108,6 +411144,44 @@
                     "860671A5FA383DA3",
                     "321060BAE1447BEE",
                     "02FBFA6B14F230C6"
+                ]
+            }
+        },
+        "PB2B+1+SHEK MUN STATION+WEST KOWLOON CULTURAL DISTRICT (From Sha Tin)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WEST KOWLOON CULTURAL DISTRICT (From Sha Tin)",
+                "zh": "西九龍文化區 (由沙田出發 循環行走)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "SHEK MUN STATION",
+                "zh": "石門站"
+            },
+            "route": "PB2B",
+            "seq": 9,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "77D8D65A6BD868B3",
+                    "8C90768E30E981C6",
+                    "B3F486EAD0CE8187",
+                    "045FB4EAE4FE52D6",
+                    "0524415976F284A4",
+                    "045FB4EAE4FE52D6",
+                    "B3F486EAD0CE8187",
+                    "8C90768E30E981C6",
+                    "77D8D65A6BD868B3"
                 ]
             }
         },
@@ -448969,6 +449043,16 @@
                 "zh": "沙田醫院"
             }
         },
+        "045FB4EAE4FE52D6": {
+            "location": {
+                "lat": 22.328007,
+                "lng": 114.153683
+            },
+            "name": {
+                "en": "NAM CHEONG STATION (V WALK)",
+                "zh": "南昌站 (V WALK)"
+            }
+        },
         "04601C2FB7201CAA": {
             "location": {
                 "lat": 22.279725,
@@ -461691,8 +461775,8 @@
         },
         "20001166": {
             "location": {
-                "lat": 22.32459882232558,
-                "lng": 114.2592616595549
+                "lat": 22.324187137656942,
+                "lng": 114.25948888063432
             },
             "name": {
                 "en": "PO LAM ROAD NORTH, near Yan Ming Court Commercial Complex",
@@ -464921,8 +465005,8 @@
         },
         "20002020": {
             "location": {
-                "lat": 22.322815040596723,
-                "lng": 114.2502272129059
+                "lat": 22.3227521689809,
+                "lng": 114.25031669819424
             },
             "name": {
                 "en": "Po Lam Road North, outside Yuk King House, King Ming Court",
@@ -529399,6 +529483,16 @@
                 "zh": "飛機燃料庫"
             }
         },
+        "77D8D65A6BD868B3": {
+            "location": {
+                "lat": 22.387499,
+                "lng": 114.20858
+            },
+            "name": {
+                "en": "SHEK MUN STATION",
+                "zh": "石門站"
+            }
+        },
         "77FB32597CCD30F5": {
             "location": {
                 "lat": 22.414332,
@@ -534139,6 +534233,16 @@
                 "zh": "觀塘(裕民坊)總站"
             }
         },
+        "8B9E121BB71771F4": {
+            "location": {
+                "lat": 22.427029,
+                "lng": 114.265792
+            },
+            "name": {
+                "en": "GO PARK SAI SHA",
+                "zh": "西沙 GO PARK"
+            }
+        },
         "8BAB6AA783EE0508": {
             "location": {
                 "lat": 22.314051,
@@ -534377,6 +534481,16 @@
             "name": {
                 "en": "CHO YIU CHUEN BUS TERMINUS",
                 "zh": "祖堯邨巴士總站"
+            }
+        },
+        "8C90768E30E981C6": {
+            "location": {
+                "lat": 22.382023,
+                "lng": 114.191197
+            },
+            "name": {
+                "en": "SHA TIN TOWN HALL",
+                "zh": "沙田大會堂"
             }
         },
         "8CA39D263F36C070": {
@@ -543649,6 +543763,16 @@
                 "zh": "鴻福街"
             }
         },
+        "AFFD0E0C6077741D": {
+            "location": {
+                "lat": 22.451204,
+                "lng": 114.168829
+            },
+            "name": {
+                "en": "TAI PO MEGA MALL (TAI WO ROAD)",
+                "zh": "大埔超級城(太和路)"
+            }
+        },
         "AIR": {
             "location": {
                 "lat": 22.315916787075466,
@@ -544107,6 +544231,16 @@
             "name": {
                 "en": "CANAL ROAD EAST",
                 "zh": "堅拿道東"
+            }
+        },
+        "B1882202E2B36620": {
+            "location": {
+                "lat": 22.428807,
+                "lng": 114.208558
+            },
+            "name": {
+                "en": "PAK SHEK KOK (FO YIN ROAD)",
+                "zh": "白石角(科研路)"
             }
         },
         "B18C8718C0B7904F": {
@@ -544647,6 +544781,16 @@
             "name": {
                 "en": "THE BEAUMOUNT",
                 "zh": "峻瀅"
+            }
+        },
+        "B3F486EAD0CE8187": {
+            "location": {
+                "lat": 22.373947,
+                "lng": 114.179157
+            },
+            "name": {
+                "en": "TAI WAI STATION",
+                "zh": "大圍站"
             }
         },
         "B404A065F58A5F64": {
@@ -552287,6 +552431,16 @@
             "name": {
                 "en": "TSZ MAN ESTATE",
                 "zh": "慈民邨"
+            }
+        },
+        "D23A43F56F61F40A": {
+            "location": {
+                "lat": 22.395053,
+                "lng": 114.198254
+            },
+            "name": {
+                "en": "FO TAN STATION",
+                "zh": "火炭站"
             }
         },
         "D2425B7147B58E1D": {
