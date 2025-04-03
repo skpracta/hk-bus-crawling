@@ -51300,17 +51300,7 @@
                 "8.7"
             ],
             "faresHoliday": null,
-            "freq": {
-                "111": {
-                    "1000": null,
-                    "1500": null
-                },
-                "127": {
-                    "0800": null,
-                    "1230": null,
-                    "1645": null
-                }
-            },
+            "freq": {},
             "gtfsId": "2002317",
             "jt": null,
             "nlbId": null,
@@ -51350,17 +51340,7 @@
                 "8.7"
             ],
             "faresHoliday": null,
-            "freq": {
-                "111": {
-                    "1015": null,
-                    "1515": null
-                },
-                "127": {
-                    "0815": null,
-                    "1245": null,
-                    "1700": null
-                }
-            },
+            "freq": {},
             "gtfsId": "2002317",
             "jt": null,
             "nlbId": null,
@@ -534859,7 +534839,7 @@
                 "lng": 114.174189
             },
             "name": {
-                "en": "East Tsim Sha Tsui Station, K11  MUSEA",
+                "en": "EAST TSIM SHA TSUI STATION, K11  MUSEA",
                 "zh": "尖東站 K11 MUSEA"
             }
         },
