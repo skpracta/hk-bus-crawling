@@ -51300,7 +51300,32 @@
                 "8.7"
             ],
             "faresHoliday": null,
-            "freq": {},
+            "freq": {
+                "111": {
+                    "1000": [
+                        "1000",
+                        "60"
+                    ],
+                    "1500": [
+                        "1500",
+                        "60"
+                    ]
+                },
+                "127": {
+                    "0800": [
+                        "0800",
+                        "60"
+                    ],
+                    "1230": [
+                        "1230",
+                        "60"
+                    ],
+                    "1645": [
+                        "1645",
+                        "60"
+                    ]
+                }
+            },
             "gtfsId": "2002317",
             "jt": null,
             "nlbId": null,
@@ -51340,7 +51365,32 @@
                 "8.7"
             ],
             "faresHoliday": null,
-            "freq": {},
+            "freq": {
+                "111": {
+                    "1015": [
+                        "1015",
+                        "60"
+                    ],
+                    "1515": [
+                        "1515",
+                        "60"
+                    ]
+                },
+                "127": {
+                    "0815": [
+                        "0815",
+                        "60"
+                    ],
+                    "1245": [
+                        "1245",
+                        "60"
+                    ],
+                    "1700": [
+                        "1700",
+                        "60"
+                    ]
+                }
+            },
             "gtfsId": "2002317",
             "jt": null,
             "nlbId": null,
@@ -108293,6 +108343,42 @@
                     "BA995ECF3EFCA99E",
                     "879A98CD29D9433F",
                     "0132863D9F66CE6B"
+                ]
+            }
+        },
+        "279X+2+TSING YI STATION+SHEUNG SHUI STATION": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SHEUNG SHUI STATION",
+                "zh": "上水站"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSING YI STATION",
+                "zh": "青衣站"
+            },
+            "route": "279X",
+            "seq": 7,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
+                    "716E50EBD1CD72B4",
+                    "AFC36FC71B4E124E",
+                    "CA1C0FB0345F9675",
+                    "A5E559178C9F5182",
+                    "E55FA660A59AB64A",
+                    "E3B0A57678CFD140",
+                    "647CBF3FE0DF2FAE"
                 ]
             }
         },
@@ -279620,7 +279706,7 @@
                 "zh": "愉翠苑"
             },
             "route": "80K",
-            "seq": 16,
+            "seq": 17,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -279632,6 +279718,7 @@
                     "7421C8745B4EDF25",
                     "8EFA13840D1272E8",
                     "2132577767F0056D",
+                    "84BAF05C529889BB",
                     "F608A74B860B3C47",
                     "92B3E07F00FBB305",
                     "9E28FDE5126284C1",
@@ -298616,7 +298703,7 @@
                 "zh": "駿景園"
             },
             "route": "88K",
-            "seq": 17,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -298626,6 +298713,7 @@
                     "7421C8745B4EDF25",
                     "8EFA13840D1272E8",
                     "2132577767F0056D",
+                    "84BAF05C529889BB",
                     "F608A74B860B3C47",
                     "92B3E07F00FBB305",
                     "9E28FDE5126284C1",
@@ -411127,6 +411215,44 @@
                 ]
             }
         },
+        "PB2A+1+CENTRAL HARBOURFRONT+WEST KOWLOON CULTURAL DISTRICT": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "WEST KOWLOON CULTURAL DISTRICT",
+                "zh": "西九文化區"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "CENTRAL HARBOURFRONT",
+                "zh": "中環海濱"
+            },
+            "route": "PB2A",
+            "seq": 9,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "90F0F685E42CC10D",
+                    "1CBCE3D9633DC5C7",
+                    "993431C67E83B130",
+                    "5F32C53A90CDEB52",
+                    "0524415976F284A4",
+                    "993431C67E83B130",
+                    "5F32C53A90CDEB52",
+                    "1CBCE3D9633DC5C7",
+                    "90F0F685E42CC10D"
+                ]
+            }
+        },
         "PB2B+1+SHEK MUN STATION+WEST KOWLOON CULTURAL DISTRICT (From Sha Tin)": {
             "bound": {
                 "kmb": "O"
@@ -411162,6 +411288,158 @@
                     "B3F486EAD0CE8187",
                     "8C90768E30E981C6",
                     "77D8D65A6BD868B3"
+                ]
+            }
+        },
+        "PB3A+1+KAI TAK+HARNOUR NORTH": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "HARNOUR NORTH",
+                "zh": "北角匯"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "KAI TAK",
+                "zh": "啟德"
+            },
+            "route": "PB3A",
+            "seq": 9,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "97959A28795E3EFF",
+                    "2D3BD1583B26087F",
+                    "9252A494500A05C9",
+                    "0C8085DE147882C0",
+                    "E85A10E61A00CC09",
+                    "0C8085DE147882C0",
+                    "9252A494500A05C9",
+                    "2D3BD1583B26087F",
+                    "97959A28795E3EFF"
+                ]
+            }
+        },
+        "PB3B+1+TSUEN WAN+NORTH POINT(From Tsuen Wan) (Circular)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "NORTH POINT(From Tsuen Wan) (Circular)",
+                "zh": "北角(由荃灣出發 循環行走)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSUEN WAN",
+                "zh": "荃灣"
+            },
+            "route": "PB3B",
+            "seq": 9,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "321060BAE1447BEE",
+                    "A8DC6F85E7043234",
+                    "A31DD8C4FD6740D4",
+                    "CD4D0EF3F601A4A7",
+                    "E85A10E61A00CC09",
+                    "860671A5FA383DA3",
+                    "A31DD8C4FD6740D4",
+                    "A8DC6F85E7043234",
+                    "321060BAE1447BEE"
+                ]
+            }
+        },
+        "PBS1+1+TSUEN WAN+MA WAN(From Tsuen Wan) (Circular)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MA WAN(From Tsuen Wan) (Circular)",
+                "zh": "馬灣(由荃灣出發 循環行走)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSUEN WAN",
+                "zh": "荃灣"
+            },
+            "route": "PBS1",
+            "seq": 9,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "321060BAE1447BEE",
+                    "4B63964A12D91E2A",
+                    "A8DC6F85E7043234",
+                    "A31DD8C4FD6740D4",
+                    "9774D8AAAD859409",
+                    "A31DD8C4FD6740D4",
+                    "A8DC6F85E7043234",
+                    "4B63964A12D91E2A",
+                    "321060BAE1447BEE"
+                ]
+            }
+        },
+        "PBS2+1+CENTRAL+MA WAN(From Central) (Circular)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MA WAN(From Central) (Circular)",
+                "zh": "馬灣 (由中環出發 循環行走)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "CENTRAL",
+                "zh": "中環"
+            },
+            "route": "PBS2",
+            "seq": 9,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "90F0F685E42CC10D",
+                    "0524415976F284A4",
+                    "860671A5FA383DA3",
+                    "321060BAE1447BEE",
+                    "9774D8AAAD859409",
+                    "321060BAE1447BEE",
+                    "CD4D0EF3F601A4A7",
+                    "0524415976F284A4",
+                    "90F0F685E42CC10D"
                 ]
             }
         },
@@ -450893,6 +451171,16 @@
                 "zh": "洪天路洪福邨"
             }
         },
+        "0C8085DE147882C0": {
+            "location": {
+                "lat": 22.307003,
+                "lng": 114.23121
+            },
+            "name": {
+                "en": "LAM TIN (SIN FAT ROAD)",
+                "zh": "藍田 (茜發道)"
+            }
+        },
         "0C81107C4ABFCD56": {
             "location": {
                 "lat": 22.425392,
@@ -456351,6 +456639,16 @@
             "name": {
                 "en": "CHEUNG SHA WAN BUS TERMINUS",
                 "zh": "長沙灣巴士總站"
+            }
+        },
+        "1CBCE3D9633DC5C7": {
+            "location": {
+                "lat": 22.284012,
+                "lng": 114.15049
+            },
+            "name": {
+                "en": "SHEUNG WAN (PMQ)",
+                "zh": "上環 (元創方)"
             }
         },
         "1CCCE3B2D9AB4D2A": {
@@ -508473,6 +508771,16 @@
                 "zh": "汀九"
             }
         },
+        "2D3BD1583B26087F": {
+            "location": {
+                "lat": 22.321698,
+                "lng": 114.212921
+            },
+            "name": {
+                "en": "KOWLOON BAY (TELFORD GARDEN)",
+                "zh": "九龍灣 (德福花園)"
+            }
+        },
         "2D3C0F18F9131DA2": {
             "location": {
                 "lat": 22.308306,
@@ -517303,6 +517611,16 @@
                 "zh": "錦英苑"
             }
         },
+        "4B63964A12D91E2A": {
+            "location": {
+                "lat": 22.357927,
+                "lng": 114.127273
+            },
+            "name": {
+                "en": "HING NING ROAD KWAI FONG",
+                "zh": "葵芳興寧路"
+            }
+        },
         "4B6D9BB197225DBE": {
             "location": {
                 "lat": 22.374569,
@@ -522801,6 +523119,16 @@
             "name": {
                 "en": "WO YI HOP ROAD SPORTSGROUND",
                 "zh": "和宜合道運動場"
+            }
+        },
+        "5F32C53A90CDEB52": {
+            "location": {
+                "lat": 22.288088,
+                "lng": 114.150019
+            },
+            "name": {
+                "en": "CENTRAL (MACAU FERRY)",
+                "zh": "中環 (港澳碼頭)"
             }
         },
         "5F60283656DF3016": {
@@ -535843,6 +536171,16 @@
                 "zh": "攸壆路簡約公屋 (南) 總站"
             }
         },
+        "9252A494500A05C9": {
+            "location": {
+                "lat": 22.309177,
+                "lng": 114.221147
+            },
+            "name": {
+                "en": "KWUN TONG FERRY (KEI YIP STREET)",
+                "zh": "觀塘碼頭 (基業街)"
+            }
+        },
         "92540DF9CB08304C": {
             "location": {
                 "lat": 22.337344,
@@ -537263,6 +537601,16 @@
                 "zh": "馬灣(珀欣路)"
             }
         },
+        "97959A28795E3EFF": {
+            "location": {
+                "lat": 22.331877,
+                "lng": 114.198474
+            },
+            "name": {
+                "en": "KAI TAK (AIRSIDE)",
+                "zh": "啟德 (AIRSIDE)"
+            }
+        },
         "97A265C9E6F9AA61": {
             "location": {
                 "lat": 22.420492,
@@ -537641,6 +537989,16 @@
             "name": {
                 "en": "SHUN YIP STREET, KWUN TONG",
                 "zh": "觀塘順業街"
+            }
+        },
+        "993431C67E83B130": {
+            "location": {
+                "lat": 22.281243,
+                "lng": 114.126697
+            },
+            "name": {
+                "en": "KENNEDY TOWN (FORBES STREET)",
+                "zh": "堅尼地城 (科士街)"
             }
         },
         "9934B2D6C17179FE": {
@@ -540273,6 +540631,16 @@
                 "zh": "石田路"
             }
         },
+        "A31DD8C4FD6740D4": {
+            "location": {
+                "lat": 22.346439,
+                "lng": 114.111897
+            },
+            "name": {
+                "en": "SPCA TSING YI",
+                "zh": "青衣SPCA"
+            }
+        },
         "A332AF8FFAE8947D": {
             "location": {
                 "lat": 22.31517,
@@ -541921,6 +542289,16 @@
             "name": {
                 "en": "LEUNG SHEK CHEE COLLEGE",
                 "zh": "梁式芝書院"
+            }
+        },
+        "A8DC6F85E7043234": {
+            "location": {
+                "lat": 22.359696,
+                "lng": 114.106578
+            },
+            "name": {
+                "en": "TSING YI STATION",
+                "zh": "青衣站"
             }
         },
         "A8E0D10D79497444": {
@@ -551143,6 +551521,16 @@
                 "zh": "華都花園"
             }
         },
+        "CD4D0EF3F601A4A7": {
+            "location": {
+                "lat": 22.336102,
+                "lng": 114.149431
+            },
+            "name": {
+                "en": "TAI NAN WEST STREET",
+                "zh": "大南西街"
+            }
+        },
         "CD5DC8318C78D8E5": {
             "location": {
                 "lat": 22.387441,
@@ -558061,6 +558449,16 @@
             "name": {
                 "en": "SEAVIEW VILLA",
                 "zh": "海恬閣"
+            }
+        },
+        "E85A10E61A00CC09": {
+            "location": {
+                "lat": 22.292777,
+                "lng": 114.202044
+            },
+            "name": {
+                "en": "HARBOUR NORTH",
+                "zh": "北角匯"
             }
         },
         "E86A26B1A389C290": {
