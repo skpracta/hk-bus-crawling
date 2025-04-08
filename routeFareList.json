@@ -133914,120 +133914,6 @@
                 ]
             }
         },
-        "347+1+Aberdeen (via Victoria Road)+Admiralty (West)": {
-            "bound": {
-                "ctb": "I"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Admiralty (West)",
-                "zh": "金鐘 (西)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Aberdeen (via Victoria Road)",
-                "zh": "香港仔 (經域多利道)"
-            },
-            "route": "347",
-            "seq": 29,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002157",
-                    "002158",
-                    "002162",
-                    "002163",
-                    "002261",
-                    "002328",
-                    "002320",
-                    "002329",
-                    "002321",
-                    "002322",
-                    "002665",
-                    "002330",
-                    "002324",
-                    "002325",
-                    "002332",
-                    "002331",
-                    "002306",
-                    "002326",
-                    "001159",
-                    "001160",
-                    "001161",
-                    "001162",
-                    "001163",
-                    "001022",
-                    "001080",
-                    "001144",
-                    "001180",
-                    "001031",
-                    "001139"
-                ]
-            }
-        },
-        "347+1+Admiralty (West)+Aberdeen (via Victoria Road)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Aberdeen (via Victoria Road)",
-                "zh": "香港仔 (經域多利道)"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Admiralty (West)",
-                "zh": "金鐘 (西)"
-            },
-            "route": "347",
-            "seq": 27,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "001139",
-                    "001033",
-                    "001032",
-                    "001034",
-                    "001004",
-                    "001005",
-                    "001164",
-                    "001165",
-                    "001166",
-                    "001167",
-                    "001168",
-                    "002384",
-                    "002307",
-                    "002308",
-                    "002309",
-                    "002310",
-                    "002327",
-                    "002311",
-                    "002312",
-                    "002313",
-                    "002314",
-                    "002315",
-                    "002680",
-                    "002260",
-                    "002259",
-                    "002157",
-                    "002158"
-                ]
-            }
-        },
         "34A+1+Ha Tsuen+Lau Fau Shan": {
             "bound": {
                 "gmb": "O"
@@ -337136,71 +337022,6 @@
                 ]
             }
         },
-        "971R+1+Cyberport  (via Victoria Road)+Mong Kok": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Mong Kok",
-                "zh": "旺角"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Cyberport  (via Victoria Road)",
-                "zh": "數碼港 (經域多利道)"
-            },
-            "route": "971R",
-            "seq": 36,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002392",
-                    "002393",
-                    "002394",
-                    "002697",
-                    "002332",
-                    "002331",
-                    "002306",
-                    "001162",
-                    "001163",
-                    "001628",
-                    "002862",
-                    "001483",
-                    "001546",
-                    "001547",
-                    "001548",
-                    "001552",
-                    "001554",
-                    "003133",
-                    "001775",
-                    "001559",
-                    "001562",
-                    "001564",
-                    "001567",
-                    "002811",
-                    "001482",
-                    "001586",
-                    "001629",
-                    "001004",
-                    "001005",
-                    "001164",
-                    "001165",
-                    "002309",
-                    "002310",
-                    "002327",
-                    "002696",
-                    "002391"
-                ]
-            }
-        },
         "973+1+Stanley Village+Tsim Sha Tsui (Mody Road)": {
             "bound": {
                 "ctb": "I"
@@ -348522,6 +348343,40 @@
                     "001398",
                     "001399",
                     "001586",
+                    "001853",
+                    "003550",
+                    "002714",
+                    "001837"
+                ]
+            }
+        },
+        "A25S+1+Kai Tak Sports Park+Airport (via HZMB Hong Kong Port)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Airport (via HZMB Hong Kong Port)",
+                "zh": "機場 (經港珠澳大橋香港口岸)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Kai Tak Sports Park",
+                "zh": "啟德體育園"
+            },
+            "route": "A25S",
+            "seq": 5,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003874",
                     "001853",
                     "003550",
                     "002714",
@@ -415149,6 +415004,68 @@
                     "001362",
                     "001383",
                     "001382"
+                ]
+            }
+        },
+        "SP12+1+KAI TAK SPORTS PARK+LOK MA CHAU": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LOK MA CHAU",
+                "zh": "落馬洲"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "KAI TAK SPORTS PARK",
+                "zh": "啟德體育園"
+            },
+            "route": "SP12",
+            "seq": 2,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "414AD39F5040C30F",
+                    "3106E04BB81D74A8"
+                ]
+            }
+        },
+        "SP12+1+Kai Tak Sports Park+Lok Ma Chau (San Tin)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Lok Ma Chau (San Tin)",
+                "zh": "落馬洲 (新田)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Kai Tak Sports Park",
+                "zh": "啟德體育園"
+            },
+            "route": "SP12",
+            "seq": 2,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "003874",
+                    "003623"
                 ]
             }
         },
