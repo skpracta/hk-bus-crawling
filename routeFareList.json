@@ -21414,24 +21414,61 @@
                 "kmb": "O"
             },
             "co": [
-                "kmb"
+                "kmb",
+                "ctb"
             ],
             "dest": {
                 "en": "TSIM SHA TSUI EAST (MODY ROAD)",
                 "zh": "尖沙咀東(麼地道)"
             },
-            "fares": null,
+            "fares": [
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "7.7",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2",
+                "12.2"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "448": {
+                    "0700": [
+                        "0735",
+                        "2100"
+                    ],
+                    "0810": [
+                        "0840",
+                        "1800"
+                    ]
+                },
+                "480": {
+                    "2000": null
+                }
+            },
+            "gtfsId": "8177",
+            "jt": "52",
             "nlbId": null,
             "orig": {
                 "en": "SHAU KEI WAN",
                 "zh": "筲箕灣"
             },
             "route": "110",
-            "seq": 23,
+            "seq": 22,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -21456,8 +21493,7 @@
                     "F6EE4DC41A299593",
                     "83EB94899B6BBB4B",
                     "F57E1173086C7A51",
-                    "576538E1395C8508",
-                    "0DB55CC5E4533F4E"
+                    "576538E1395C8508"
                 ]
             }
         },
@@ -89013,7 +89049,7 @@
                 ]
             }
         },
-        "268+1+PAT HEUNG ROAD+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS": {
+        "268+1+PAT HEUNG ROAD+YAU POK ROAD PUBLIC HOUSING (SOUTH)": {
             "bound": {
                 "kmb": "I"
             },
@@ -89021,7 +89057,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS",
+                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
                 "zh": "攸壆路簡約公屋 (南)"
             },
             "fares": [
@@ -89081,7 +89117,7 @@
                 ]
             }
         },
-        "268+1+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS+PAT HEUNG ROAD": {
+        "268+1+YAU POK ROAD PUBLIC HOUSING (SOUTH)+PAT HEUNG ROAD": {
             "bound": {
                 "kmb": "O"
             },
@@ -89120,7 +89156,7 @@
             "jt": "29",
             "nlbId": null,
             "orig": {
-                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS",
+                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
                 "zh": "攸壆路簡約公屋 (南)"
             },
             "route": "268",
@@ -119286,7 +119322,7 @@
                     "6AE1163C3BD93D0E",
                     "548DAB3A4F71EB68",
                     "D242CDB564D5CCA2",
-                    "1C23A54B97165DAB"
+                    "2132577767F0056D"
                 ]
             }
         },
@@ -119379,7 +119415,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "1C23A54B97165DAB",
+                    "2132577767F0056D",
                     "EB0D8F8D1AF9DDDE",
                     "A67E402790581309",
                     "91481C9100917BA7",
@@ -119488,7 +119524,7 @@
                     "6AE1163C3BD93D0E",
                     "548DAB3A4F71EB68",
                     "D242CDB564D5CCA2",
-                    "1C23A54B97165DAB"
+                    "2132577767F0056D"
                 ]
             }
         },
@@ -169583,7 +169619,7 @@
                     "DEDD6247441C8C05",
                     "81B719F7DC3F0FAD",
                     "C27FCAD44F743B0B",
-                    "05EE261A65F9B7ED",
+                    "1C23A54B97165DAB",
                     "9179E2F718D0F436",
                     "19521C0A1CA93C52",
                     "72936E1AD7A19462",
@@ -170944,7 +170980,7 @@
                     "DEDD6247441C8C05",
                     "81B719F7DC3F0FAD",
                     "C27FCAD44F743B0B",
-                    "05EE261A65F9B7ED",
+                    "1C23A54B97165DAB",
                     "9179E2F718D0F436",
                     "19521C0A1CA93C52",
                     "5E75DC46C55ED246",
@@ -173242,7 +173278,7 @@
                     "DEDD6247441C8C05",
                     "81B719F7DC3F0FAD",
                     "9E8E99C5BB698AC2",
-                    "05EE261A65F9B7ED",
+                    "1C23A54B97165DAB",
                     "EEDFC5EC1DD36179",
                     "458D2C951A759CAD",
                     "9ED89AFC5ACA9A00"
@@ -261975,7 +262011,7 @@
                 ]
             }
         },
-        "76+1+YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS+SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR)": {
+        "76+1+YAU POK ROAD PUBLIC HOUSING (SOUTH)+SHEUNG SHUI STATION (CHOI YUEN ROAD) (CIRCULAR)": {
             "bound": {
                 "kmb": "O"
             },
@@ -262014,7 +262050,7 @@
             "jt": "18",
             "nlbId": null,
             "orig": {
-                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH) TERMINUS",
+                "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
                 "zh": "攸壆路簡約公屋 (南)"
             },
             "route": "76",
@@ -279523,7 +279559,7 @@
                 "zh": "愉翠苑"
             },
             "route": "80K",
-            "seq": 17,
+            "seq": 16,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -279534,8 +279570,7 @@
                     "6AE1163C3BD93D0E",
                     "7421C8745B4EDF25",
                     "8EFA13840D1272E8",
-                    "2132577767F0056D",
-                    "84BAF05C529889BB",
+                    "05EE261A65F9B7ED",
                     "F608A74B860B3C47",
                     "92B3E07F00FBB305",
                     "9E28FDE5126284C1",
@@ -283560,7 +283595,7 @@
                     "C458B4A40BFCC4FF",
                     "7421C8745B4EDF25",
                     "8EFA13840D1272E8",
-                    "05EE261A65F9B7ED",
+                    "1C23A54B97165DAB",
                     "9179E2F718D0F436",
                     "19521C0A1CA93C52",
                     "AA7CF12747D8E60A",
@@ -298556,7 +298591,7 @@
                 "zh": "駿景園"
             },
             "route": "88K",
-            "seq": 18,
+            "seq": 17,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -298565,8 +298600,7 @@
                     "12DE49878E7A4ED1",
                     "7421C8745B4EDF25",
                     "8EFA13840D1272E8",
-                    "2132577767F0056D",
-                    "84BAF05C529889BB",
+                    "05EE261A65F9B7ED",
                     "F608A74B860B3C47",
                     "92B3E07F00FBB305",
                     "9E28FDE5126284C1",
@@ -448341,8 +448375,8 @@
         },
         "003874": {
             "location": {
-                "lat": 22.323294602091,
-                "lng": 114.19286007053
+                "lat": 22.323107362091,
+                "lng": 114.19375013053
             },
             "name": {
                 "en": "Kai Tak Sports Park, Sung Wong Toi Road",
@@ -448421,8 +448455,8 @@
         },
         "003885": {
             "location": {
-                "lat": 22.320669992091,
-                "lng": 114.19945043053
+                "lat": 22.320298182091,
+                "lng": 114.19955657053
             },
             "name": {
                 "en": "Shing Fung Road Park, Shing Fung Road",
