@@ -187705,6 +187705,8 @@
                 "9.4",
                 "9.4",
                 "9.4",
+                "9.4",
+                "9.4",
                 "9.4"
             ],
             "faresHoliday": null,
@@ -187736,11 +187738,13 @@
                 "zh": "樂富"
             },
             "route": "54",
-            "seq": 10,
+            "seq": 12,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20000973",
+                    "20021550",
+                    "20021551",
                     "20000978",
                     "20000802",
                     "20002395",
@@ -187765,6 +187769,9 @@
                 "zh": "樂富"
             },
             "fares": [
+                "9.4",
+                "9.4",
+                "9.4",
                 "9.4",
                 "9.4",
                 "9.4",
@@ -187802,7 +187809,7 @@
                 "zh": "順天"
             },
             "route": "54",
-            "seq": 8,
+            "seq": 11,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -187813,6 +187820,9 @@
                     "20000975",
                     "20000976",
                     "20004134",
+                    "20021547",
+                    "20021548",
+                    "20021549",
                     "20000973"
                 ]
             }
@@ -409183,7 +409193,7 @@
                     "9F9D5E46754C52D4",
                     "23F3D6C7BDAD87EB",
                     "86201D4BB45ED201",
-                    "28E722A4FDD9ABB9",
+                    "0E987A8094AF742E",
                     "2A8231CC433F6B22",
                     "C9BF57C6B2F9BB92",
                     "3D126591E55E8FA1",
@@ -452429,8 +452439,8 @@
                 "lng": 114.266003
             },
             "name": {
-                "en": "CHUNG WA ROAD",
-                "zh": "重華路"
+                "en": "CHUNG WA ROAD, EAST POINT CITY",
+                "zh": "重華路 東港城"
             }
         },
         "105E0AF98899CAEE": {
@@ -455329,8 +455339,8 @@
                 "lng": 114.231436
             },
             "name": {
-                "en": "BAYSHORE TOWERS",
-                "zh": "海栢花園"
+                "en": "BAYSHORE TOWERS (MA157)",
+                "zh": "海栢花園 (MA157)"
             }
         },
         "181": {
@@ -457099,8 +457109,8 @@
                 "lng": 114.23294
             },
             "name": {
-                "en": "MA ON SHAN POLICE STATION",
-                "zh": "馬鞍山警署"
+                "en": "MA ON SHAN POLICE STATION (MA181)",
+                "zh": "馬鞍山警署 (MA181)"
             }
         },
         "1E0C8A961881DE1D": {
@@ -504883,6 +504893,56 @@
                 "zh": "順安道西行線, 天瑤樓外"
             }
         },
+        "20021547": {
+            "location": {
+                "lat": 22.340621479191984,
+                "lng": 114.18626993894578
+            },
+            "name": {
+                "en": "Fu Mei Street Wang Tau Hom Estate, near Wang Fu House",
+                "zh": "富美街橫頭磡邨, 近宏富樓"
+            }
+        },
+        "20021548": {
+            "location": {
+                "lat": 22.34004591299972,
+                "lng": 114.18565839529039
+            },
+            "name": {
+                "en": "Fu Keung Street Fu Keung Court, near Fu Yat House",
+                "zh": "富強街富強苑, 近富逸閣"
+            }
+        },
+        "20021549": {
+            "location": {
+                "lat": 22.339673778420977,
+                "lng": 114.18691098690034
+            },
+            "name": {
+                "en": "Wang Tau Hom Central Road, opposite to Lok Fu Estate",
+                "zh": "橫頭磡中道東行線, 樂富廣場對面"
+            }
+        },
+        "20021550": {
+            "location": {
+                "lat": 22.33858465884677,
+                "lng": 114.18646037578584
+            },
+            "name": {
+                "en": "Wang Tau Hom South Road, outside Wang Shun House",
+                "zh": "橫頭磡南道，宏順樓外"
+            }
+        },
+        "20021551": {
+            "location": {
+                "lat": 22.34068226082791,
+                "lng": 114.18726369738579
+            },
+            "name": {
+                "en": "Fu Mei Street, near Wang Chiu House",
+                "zh": "富美街，近宏照樓"
+            }
+        },
         "201": {
             "location": {
                 "lat": 22.429587,
@@ -508589,8 +508649,8 @@
                 "lng": 114.23166
             },
             "name": {
-                "en": "MA ON SHAN TOWN CENTRE",
-                "zh": "馬鞍山市中心"
+                "en": "MA ON SHAN TOWN CENTRE (MA309)",
+                "zh": "馬鞍山市中心 (MA309)"
             }
         },
         "2AEDE966C122B71E": {
@@ -508659,8 +508719,8 @@
                 "lng": 114.226591
             },
             "name": {
-                "en": "CHUNG ON BUS TERMINUS",
-                "zh": "頌安巴士總站"
+                "en": "CHUNG ON BUS TERMINUS (MA940)",
+                "zh": "頌安巴士總站 (MA940)"
             }
         },
         "2B9DA1FE14596F2E": {
@@ -509989,8 +510049,8 @@
                 "lng": 114.259137
             },
             "name": {
-                "en": "YAN KING ROAD",
-                "zh": "欣景路"
+                "en": "YAN KING ROAD, METRO CITY",
+                "zh": "欣景路 新都城"
             }
         },
         "305": {
@@ -511389,8 +511449,8 @@
                 "lng": 114.265883
             },
             "name": {
-                "en": "CHUNG WA ROAD",
-                "zh": "重華路"
+                "en": "CHUNG WA ROAD, EAST POINT CITY",
+                "zh": "重華路 東港城"
             }
         },
         "337C68B5F413E04E": {
@@ -515209,8 +515269,8 @@
                 "lng": 114.231917
             },
             "name": {
-                "en": "MA ON SHAN TOWN CENTRE BUS TERMINUS",
-                "zh": "馬鞍山市中心總站"
+                "en": "MA ON SHAN TOWN CENTRE BUS TERMINUS (MA951)",
+                "zh": "馬鞍山市中心總站 (MA951)"
             }
         },
         "41E81A921D79F375": {
@@ -515809,8 +515869,8 @@
                 "lng": 114.263988
             },
             "name": {
-                "en": "PUI SHING ROAD",
-                "zh": "培成路"
+                "en": "PUI SHING ROAD, NAN FUNG PLAZA",
+                "zh": "培成路 南豐廣場"
             }
         },
         "43E5D3A445382F82": {
@@ -519399,8 +519459,8 @@
                 "lng": 114.23846
             },
             "name": {
-                "en": "KAM YING COURT",
-                "zh": "錦英苑"
+                "en": "KAM YING COURT (MA191)",
+                "zh": "錦英苑 (MA191)"
             }
         },
         "5089C69E080B7A43": {
@@ -523339,8 +523399,8 @@
                 "lng": 114.231544
             },
             "name": {
-                "en": "MA ON SHAN TOWN CENTRE",
-                "zh": "馬鞍山市中心"
+                "en": "MA ON SHAN TOWN CENTRE (MA311)",
+                "zh": "馬鞍山市中心 (MA311)"
             }
         },
         "5EDA0C1BE5CE95CF": {
@@ -525519,8 +525579,8 @@
                 "lng": 114.226888
             },
             "name": {
-                "en": "KAM CHUN COURT",
-                "zh": "錦駿苑"
+                "en": "KAM CHUN COURT (MA186)",
+                "zh": "錦駿苑 (MA186)"
             }
         },
         "664C6FCE94BB37FD": {
@@ -525679,8 +525739,8 @@
                 "lng": 114.230731
             },
             "name": {
-                "en": "YIU HIM HOUSE YIU ON ESTATE",
-                "zh": "耀安邨耀謙樓"
+                "en": "YIU HIM HOUSE YIU ON ESTATE (MA380)",
+                "zh": "耀安邨耀謙樓 (MA380)"
             }
         },
         "66E438CBC36DA32F": {
@@ -527069,8 +527129,8 @@
                 "lng": 114.266633
             },
             "name": {
-                "en": "NGAN O ROAD",
-                "zh": "銀澳路"
+                "en": "NGAN O ROAD, LA CITE NOBLE",
+                "zh": "銀澳路 新寶城"
             }
         },
         "6C4DDD9C22580CA2": {
@@ -529669,8 +529729,8 @@
                 "lng": 114.235451
             },
             "name": {
-                "en": "SADDLE RIDGE GARDEN",
-                "zh": "富寶花園"
+                "en": "SADDLE RIDGE GARDEN (MA304)",
+                "zh": "富寶花園 (MA304)"
             }
         },
         "76361DD9F5A6CF6A": {
@@ -529819,8 +529879,8 @@
                 "lng": 114.231609
             },
             "name": {
-                "en": "MA ON SHAN TOWN CENTRE",
-                "zh": "馬鞍山市中心"
+                "en": "MA ON SHAN TOWN CENTRE (MA310)",
+                "zh": "馬鞍山市中心 (MA310)"
             }
         },
         "76F0BFCC3D78F888": {
@@ -531399,8 +531459,8 @@
                 "lng": 114.231779
             },
             "name": {
-                "en": "MA ON SHAN TOWN CENTRE",
-                "zh": "馬鞍山市中心"
+                "en": "MA ON SHAN TOWN CENTRE (MA307)",
+                "zh": "馬鞍山市中心 (MA307)"
             }
         },
         "7E2E1F1269E520DE": {
@@ -533069,8 +533129,8 @@
                 "lng": 114.231475
             },
             "name": {
-                "en": "MA ON SHAN TOWN CENTRE",
-                "zh": "馬鞍山市中心"
+                "en": "MA ON SHAN TOWN CENTRE (MA306)",
+                "zh": "馬鞍山市中心 (MA306)"
             }
         },
         "8447E71E45CE5452": {
@@ -533429,8 +533489,8 @@
                 "lng": 114.228481
             },
             "name": {
-                "en": "MA ON SHAN SPORTS GROUND",
-                "zh": "馬鞍山運動場"
+                "en": "MA ON SHAN SPORTS GROUND (MA126)",
+                "zh": "馬鞍山運動場 (MA126)"
             }
         },
         "8581908CE476D2CF": {
@@ -536499,8 +536559,8 @@
                 "lng": 114.265837
             },
             "name": {
-                "en": "CHUNG WA ROAD",
-                "zh": "重華路"
+                "en": "CHUNG WA ROAD, EAST POINT CITY",
+                "zh": "重華路 東港城"
             }
         },
         "92680F8CE20F8FDB": {
@@ -538739,8 +538799,8 @@
                 "lng": 114.265927
             },
             "name": {
-                "en": "CHUNG WA ROAD",
-                "zh": "重華路"
+                "en": "CHUNG WA ROAD, EAST POINT CITY",
+                "zh": "重華路 東港城"
             }
         },
         "9B07890D73E13AE4": {
@@ -540739,8 +540799,8 @@
                 "lng": 114.239571
             },
             "name": {
-                "en": "KAM LUNG COURT",
-                "zh": "錦龍苑"
+                "en": "KAM LUNG COURT (MA193)",
+                "zh": "錦龍苑 (MA193)"
             }
         },
         "A23B54EC3487EF41": {
@@ -540949,8 +541009,8 @@
                 "lng": 114.264026
             },
             "name": {
-                "en": "PUI SHING ROAD",
-                "zh": "培成路"
+                "en": "PUI SHING ROAD, NAN FUNG PLAZA",
+                "zh": "培成路 南豐廣場"
             }
         },
         "A334D0EC59D94F8D": {
@@ -541069,8 +541129,8 @@
                 "lng": 114.230664
             },
             "name": {
-                "en": "HENG ON ESTATE",
-                "zh": "恆安邨"
+                "en": "HENG ON ESTATE (MA123)",
+                "zh": "恆安邨 (MA123)"
             }
         },
         "A39682B5A68D668F": {
@@ -544249,8 +544309,8 @@
                 "lng": 114.265966
             },
             "name": {
-                "en": "CHUNG WA ROAD",
-                "zh": "重華路"
+                "en": "CHUNG WA ROAD, EAST POINT CITY",
+                "zh": "重華路 東港城"
             }
         },
         "AF36CBF039B7CB03": {
@@ -544259,8 +544319,8 @@
                 "lng": 114.263958
             },
             "name": {
-                "en": "PUI SHING ROAD",
-                "zh": "培成路"
+                "en": "PUI SHING ROAD, NAN FUNG PLAZA",
+                "zh": "培成路 南豐廣場"
             }
         },
         "AF3BDAE9EB45140B": {
@@ -545219,8 +545279,8 @@
                 "lng": 114.228332
             },
             "name": {
-                "en": "FOK ON GARDEN",
-                "zh": "福安花園"
+                "en": "FOK ON GARDEN (MA155)",
+                "zh": "福安花園 (MA155)"
             }
         },
         "B32791B3E5EF4287": {
@@ -551089,8 +551149,8 @@
                 "lng": 114.23173
             },
             "name": {
-                "en": "MA ON SHAN TOWN CENTRE",
-                "zh": "馬鞍山市中心"
+                "en": "MA ON SHAN TOWN CENTRE (MA308)",
+                "zh": "馬鞍山市中心 (MA308)"
             }
         },
         "CA8554613AAA6C49": {
@@ -553869,8 +553929,8 @@
                 "lng": 114.210303
             },
             "name": {
-                "en": "UNIVERSITY STATION",
-                "zh": "大學站"
+                "en": "UNIVERSITY STATION (ST904)",
+                "zh": "大學站 (ST904)"
             }
         },
         "D4D418BAEAC719B0": {
@@ -554479,8 +554539,8 @@
                 "lng": 114.263931
             },
             "name": {
-                "en": "PUI SHING ROAD",
-                "zh": "培成路"
+                "en": "PUI SHING ROAD, NAN FUNG PLAZA",
+                "zh": "培成路 南豐廣場"
             }
         },
         "D7369E9D4404292E": {
@@ -555079,8 +555139,8 @@
                 "lng": 114.228903
             },
             "name": {
-                "en": "MA ON SHAN SPORTS GROUND",
-                "zh": "馬鞍山運動場"
+                "en": "MA ON SHAN SPORTS GROUND (MA372)",
+                "zh": "馬鞍山運動場 (MA372)"
             }
         },
         "D97A36CE8D65B198": {
@@ -557249,8 +557309,8 @@
                 "lng": 114.224178
             },
             "name": {
-                "en": "KAM CHUN COURT",
-                "zh": "錦駿苑"
+                "en": "KAM CHUN COURT (MA110)",
+                "zh": "錦駿苑 (MA110)"
             }
         },
         "E284CEE504CCDFB1": {
@@ -559709,8 +559769,8 @@
                 "lng": 114.210665
             },
             "name": {
-                "en": "UNIVERSITY STATION",
-                "zh": "大學站"
+                "en": "UNIVERSITY STATION (ST901)",
+                "zh": "大學站 (ST901)"
             }
         },
         "EC6FDF2670147F12": {
@@ -564309,8 +564369,8 @@
                 "lng": 114.258615
             },
             "name": {
-                "en": "YAN KING ROAD",
-                "zh": "欣景路"
+                "en": "YAN KING ROAD, METRO CITY",
+                "zh": "欣景路 新都城"
             }
         },
         "FC46B100B69573B7": {
