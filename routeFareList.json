@@ -293992,6 +293992,110 @@
                 ]
             }
         },
+        "87C+1+HUNG HOM STATION+KAM YING COURT": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "KAM YING COURT",
+                "zh": "錦英苑"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "HUNG HOM STATION",
+                "zh": "紅磡站"
+            },
+            "route": "87C",
+            "seq": 24,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "2802E2DEE1D48B51",
+                    "FE2815CBCD21C57C",
+                    "F2508598F5A43655",
+                    "3313287185163530",
+                    "8E8DB91C885F1230",
+                    "4A38244491180BF7",
+                    "5419928D472EAD8D",
+                    "357B7D41501CDACA",
+                    "D7C7D86E923EEAE1",
+                    "A76BB6FCB881AF5C",
+                    "0F4F935A9F14F111",
+                    "136480342AAF0BD2",
+                    "32CCEDBCC9EAAA9E",
+                    "2751781A6F757C5D",
+                    "6045969736940272",
+                    "38A53BACD13CD0C8",
+                    "E27820FF0AF73D52",
+                    "CB667DC000F66D40",
+                    "5E073AD8BC9F2AC8",
+                    "B31E6B9D8E5B4493",
+                    "3A450B5AD5AF1605",
+                    "0E2175C0750054FE",
+                    "0D4E07F475845DB3",
+                    "8CFD0DAAA2D9B47E"
+                ]
+            }
+        },
+        "87C+1+KAM YING COURT+HUNG HOM STATION": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "HUNG HOM STATION",
+                "zh": "紅磡站"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "KAM YING COURT",
+                "zh": "錦英苑"
+            },
+            "route": "87C",
+            "seq": 22,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "8CFD0DAAA2D9B47E",
+                    "D156C558FF163BE3",
+                    "013F884CBCB1CBE4",
+                    "41E806B7927291BE",
+                    "028E0B68D3166C00",
+                    "BC45FA032C515D44",
+                    "664BAA2EA12B80B1",
+                    "E34E3D48842C9B66",
+                    "DF9E89A391CAC245",
+                    "657E5836BC932790",
+                    "7A1C43F91CF8A6FC",
+                    "60F1DDDCB555E319",
+                    "F7CAA2D4FF9D61F7",
+                    "14F176D358D65A8B",
+                    "8E3A5C15E42020BB",
+                    "96442B84082D4DF5",
+                    "508D99EBC9AB3A9B",
+                    "FE56DD70DEDE0395",
+                    "D2217D7746597D10",
+                    "5D75A800F823B45D",
+                    "1864222D8939BD69",
+                    "2802E2DEE1D48B51"
+                ]
+            }
+        },
         "87D+1+HUNG HOM STATION+KAM YING COURT": {
             "bound": {
                 "kmb": "I"
@@ -545499,8 +545603,8 @@
                 "lng": 114.272496
             },
             "name": {
-                "en": "THE BEAUMOUNT",
-                "zh": "峻瀅"
+                "en": "THE BEAUMOUNT / LOHAS PARK",
+                "zh": "峻瀅 日出康城"
             }
         },
         "B3F486EAD0CE8187": {
@@ -559769,8 +559873,8 @@
                 "lng": 114.210665
             },
             "name": {
-                "en": "UNIVERSITY STATION (ST901)",
-                "zh": "大學站 (ST901)"
+                "en": "UNIVERSITY STATION (ST900)",
+                "zh": "大學站 (ST900)"
             }
         },
         "EC6FDF2670147F12": {
