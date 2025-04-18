@@ -154655,6 +154655,46 @@
                 ]
             }
         },
+        "40R+1+Wong Chuk Hang Road+Chi Fu Fa Yuen": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Chi Fu Fa Yuen",
+                "zh": "置富花園"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Wong Chuk Hang Road",
+                "zh": "黃竹坑道"
+            },
+            "route": "40R",
+            "seq": 11,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002372",
+                    "002333",
+                    "002334",
+                    "002335",
+                    "002336",
+                    "002338",
+                    "002226",
+                    "002183",
+                    "002184",
+                    "002185",
+                    "002187"
+                ]
+            }
+        },
         "40X+1+KWAI CHUNG ESTATE+WU KAI SHA STATION": {
             "bound": {
                 "kmb": "I"
@@ -192561,10 +192601,11 @@
                 "zh": "西沙及十四鄉"
             },
             "route": "581",
-            "seq": 12,
+            "seq": 13,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "003886",
                     "003831",
                     "003832",
                     "003833",
@@ -244694,6 +244735,50 @@
                     "002421",
                     "001033",
                     "001032"
+                ]
+            }
+        },
+        "70R+1+Wong Chuk Hang Road+Shek Pai Wan": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Shek Pai Wan",
+                "zh": "石排灣"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Wong Chuk Hang Road",
+                "zh": "黃竹坑道"
+            },
+            "route": "70R",
+            "seq": 15,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002160",
+                    "002161",
+                    "002162",
+                    "002298",
+                    "002396",
+                    "002294",
+                    "002388",
+                    "002157",
+                    "002164",
+                    "002165",
+                    "002365",
+                    "002366",
+                    "002367",
+                    "002368",
+                    "002938"
                 ]
             }
         },
@@ -522453,7 +522538,7 @@
                 "lng": 114.078941
             },
             "name": {
-                "en": "HA WAN FISHERMAN TSUEN",
+                "en": "HA WAN FISHERMAN SAN TSUEN",
                 "zh": "下灣漁民新村"
             }
         },
@@ -537633,7 +537718,7 @@
                 "lng": 114.078917
             },
             "name": {
-                "en": "HA WAN FISHERMAN TSUEN",
+                "en": "HA WAN FISHERMAN SAN TSUEN",
                 "zh": "下灣漁民新村"
             }
         },
