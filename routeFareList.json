@@ -154655,47 +154655,6 @@
                 ]
             }
         },
-        "40R+1+Wong Chuk Hang Road+Chi Fu Fa Yuen": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Chi Fu Fa Yuen",
-                "zh": "置富花園"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Wong Chuk Hang Road",
-                "zh": "黃竹坑道"
-            },
-            "route": "40R",
-            "seq": 12,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003889",
-                    "002372",
-                    "002333",
-                    "002334",
-                    "002335",
-                    "002336",
-                    "002338",
-                    "002226",
-                    "002183",
-                    "002184",
-                    "002185",
-                    "002187"
-                ]
-            }
-        },
         "40X+1+KWAI CHUNG ESTATE+WU KAI SHA STATION": {
             "bound": {
                 "kmb": "I"
@@ -165719,9 +165678,9 @@
             "faresHoliday": null,
             "freq": {
                 "127": {
-                    "1545": [
+                    "1800": [
                         "2300",
-                        "1200"
+                        "900"
                     ]
                 }
             },
@@ -244739,51 +244698,6 @@
                 ]
             }
         },
-        "70R+1+Wong Chuk Hang Road+Shek Pai Wan": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Shek Pai Wan",
-                "zh": "石排灣"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Wong Chuk Hang Road",
-                "zh": "黃竹坑道"
-            },
-            "route": "70R",
-            "seq": 16,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "003889",
-                    "002160",
-                    "002161",
-                    "002162",
-                    "002298",
-                    "002396",
-                    "002294",
-                    "002388",
-                    "002157",
-                    "002164",
-                    "002165",
-                    "002365",
-                    "002366",
-                    "002367",
-                    "002368",
-                    "002938"
-                ]
-            }
-        },
         "70S+1+HUNG HOM STATION+WO HOP SHEK": {
             "bound": {
                 "kmb": "O"
@@ -312677,7 +312591,6 @@
                 "13",
                 "13",
                 "13",
-                "13",
                 "13"
             ],
             "faresHoliday": null,
@@ -312719,7 +312632,7 @@
                 "zh": "佐敦(北海街)"
             },
             "route": "91",
-            "seq": 42,
+            "seq": 41,
             "serviceType": 2,
             "stops": {
                 "gmb": [
@@ -312748,7 +312661,6 @@
                     "20017819",
                     "20021317",
                     "20021318",
-                    "20021316",
                     "20020180",
                     "20015578",
                     "20015579",
@@ -447716,16 +447628,6 @@
                 "zh": "西沙灣"
             }
         },
-        "003889": {
-            "location": {
-                "lat": 22.248648142091,
-                "lng": 114.16675996053
-            },
-            "name": {
-                "en": "Wong Chuk Hang Road",
-                "zh": "黃竹坑道"
-            }
-        },
         "003D1263A14908F6": {
             "location": {
                 "lat": 22.373543,
@@ -462032,8 +461934,8 @@
                 "lng": 114.03435106620873
             },
             "name": {
-                "en": "Castle Peak Road-Yuen Long, near YOHO Midtown",
-                "zh": "青山公路－元朗段, 近 YOHO Midtown"
+                "en": "Castle Peak Road - Yuen Long, near YOHO Midtown",
+                "zh": "青山公路－元朗段, 近YOHO Midtown"
             }
         },
         "20001288": {
@@ -496948,8 +496850,8 @@
         },
         "20016823": {
             "location": {
-                "lat": 22.458106150974043,
-                "lng": 114.05180579429141
+                "lat": 22.45811364826835,
+                "lng": 114.05178666114807
             },
             "name": {
                 "en": "Castle Peak Road - Tam Mi, Near Koon Chun Hing Kee Soy & Sauce Factory Ltd.",
@@ -522722,8 +522624,8 @@
                 "lng": 114.168979
             },
             "name": {
-                "en": "SILVERCORD",
-                "zh": "新港中心"
+                "en": "SILVERCORD, CANTON ROAD",
+                "zh": "廣東道,新港中心"
             }
         },
         "5F616585205DDDF9": {
@@ -535846,16 +535748,6 @@
                 "zh": "藍田(廣田邨)總站"
             }
         },
-        "92B3E07F00FBB305": {
-            "location": {
-                "lat": 22.377253,
-                "lng": 114.180817
-            },
-            "name": {
-                "en": "TUNG LO WAN VILLAGE",
-                "zh": "銅鑼灣村"
-            }
-        },
         "92B983D6E149A880": {
             "location": {
                 "lat": 22.4321,
@@ -545612,8 +545504,8 @@
                 "lng": 114.168979
             },
             "name": {
-                "en": "SILVERCORD",
-                "zh": "新港中心"
+                "en": "SILVERCORD, CANTON ROAD",
+                "zh": "廣東道,新港中心"
             }
         },
         "B7B39A88DD40D6CA": {
@@ -561532,8 +561424,8 @@
                 "lng": 114.169362
             },
             "name": {
-                "en": "PEKING ROAD",
-                "zh": "北京道"
+                "en": "PEKING ROAD, CANTON ROAD",
+                "zh": "廣東道,北京道"
             }
         },
         "F5852274488DD86D": {
