@@ -403853,52 +403853,6 @@
                 ]
             }
         },
-        "N681+1+CENTRAL (CENTRAL FERRY PIERS)+MA ON SHAN TOWN CENTRE": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "MA ON SHAN TOWN CENTRE",
-                "zh": "馬鞍山市中心"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "CENTRAL (CENTRAL FERRY PIERS)",
-                "zh": "中環(渡輪碼頭)"
-            },
-            "route": "N681",
-            "seq": 17,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "C1FC4F003C9031B3",
-                    "EA0726E907CC8172",
-                    "E51DA37997BE59A8",
-                    "CDA6257743B1D479",
-                    "3007D34FB91FB27E",
-                    "1AB934EFE0E1470A",
-                    "1B5E6822783B914B",
-                    "638FE52F0D97B5FC",
-                    "A07CC0A6D462A579",
-                    "9E25CF3DAA0BA0C4",
-                    "9541036143D6CCF1",
-                    "DDEB0396969D004B",
-                    "6F5592E4FF8A35E8",
-                    "5E073AD8BC9F2AC8",
-                    "B31E6B9D8E5B4493",
-                    "0D0D7E774E1C1575",
-                    "BA6D9F93E62B8075"
-                ]
-            }
-        },
         "N691+1+CENTRAL (MACAU FERRY)+TIU KENG LENG": {
             "bound": {
                 "kmb": "I"
@@ -558256,16 +558210,6 @@
             "name": {
                 "en": "NETHERSOLE HOSPITAL",
                 "zh": "那打素醫院"
-            }
-        },
-        "EA0726E907CC8172": {
-            "location": {
-                "lat": 22.284903,
-                "lng": 114.159953
-            },
-            "name": {
-                "en": "TWO INTERNATIONAL FINANCE CENTRE",
-                "zh": "國際金融中心二期"
             }
         },
         "EA0A89C7D56C46DF": {
