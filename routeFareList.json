@@ -132205,6 +132205,7 @@
             },
             "fares": [
                 "3.9",
+                "3.9",
                 "3.9"
             ],
             "faresHoliday": null,
@@ -132282,12 +132283,13 @@
                 "zh": "康山"
             },
             "route": "33M",
-            "seq": 3,
+            "seq": 4,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20013699",
                     "20014419",
+                    "20021613",
                     "20013699"
                 ]
             }
@@ -463533,8 +463535,8 @@
                 "lng": 114.00591820478441
             },
             "name": {
-                "en": "Tin Yiu Estate (Tin Fuk Road outside Yiu Hing House",
-                "zh": "天福路, 天耀邨耀興樓外"
+                "en": "Tin Yiu Estate (Tin Fuk Road outside Yiu Yat House)",
+                "zh": "天福路, 天耀邨耀逸樓外"
             }
         },
         "20001606": {
@@ -504155,6 +504157,16 @@
             "name": {
                 "en": "97-103 San Fung Avenue near Shek Wu Hui Post Office",
                 "zh": "新豐路97-103號近石湖墟郵政局"
+            }
+        },
+        "20021613": {
+            "location": {
+                "lat": 22.28421463388583,
+                "lng": 114.21706572175027
+            },
+            "name": {
+                "en": "Tai Koo Station",
+                "zh": "太古站"
             }
         },
         "201": {
