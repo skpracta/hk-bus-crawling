@@ -165260,6 +165260,7 @@
                 "6.6",
                 "6.6",
                 "6.6",
+                "6.6",
                 "6.6"
             ],
             "faresHoliday": null,
@@ -165279,13 +165280,14 @@
                 "zh": "長沙灣 (青山道)"
             },
             "route": "44",
-            "seq": 13,
+            "seq": 14,
             "serviceType": 2,
             "stops": {
                 "gmb": [
                     "20019864",
                     "20019865",
                     "20019866",
+                    "20021647",
                     "20012318",
                     "20012316",
                     "20019873",
@@ -165399,6 +165401,7 @@
                 "6.6",
                 "6.6",
                 "6.6",
+                "6.6",
                 "6.6"
             ],
             "faresHoliday": null,
@@ -165418,13 +165421,14 @@
                 "zh": "長沙灣 (青山道)"
             },
             "route": "44",
-            "seq": 12,
+            "seq": 13,
             "serviceType": "3",
             "stops": {
                 "gmb": [
                     "20019864",
                     "20019865",
                     "20019866",
+                    "20021647",
                     "20012318",
                     "20012316",
                     "20019867",
@@ -165695,6 +165699,11 @@
             "fares": [
                 "4.7",
                 "4.7",
+                "4.7",
+                "4.7",
+                "4.7",
+                "4.7",
+                "4.7",
                 "4.7"
             ],
             "faresHoliday": null,
@@ -165714,13 +165723,18 @@
                 "zh": "長沙灣廣場"
             },
             "route": "44A",
-            "seq": 4,
+            "seq": 9,
             "serviceType": 2,
             "stops": {
                 "gmb": [
                     "20012340",
+                    "20012318",
+                    "20012316",
                     "20002614",
                     "20012342",
+                    "20019868",
+                    "20019869",
+                    "20012311",
                     "20012343"
                 ]
             }
@@ -166781,6 +166795,7 @@
                 "6",
                 "6",
                 "6",
+                "6",
                 "6"
             ],
             "faresHoliday": null,
@@ -166808,7 +166823,7 @@
                 "zh": "海麗邨"
             },
             "route": "44S",
-            "seq": 12,
+            "seq": 13,
             "serviceType": 2,
             "stops": {
                 "gmb": [
@@ -166822,6 +166837,7 @@
                     "20012346",
                     "20012347",
                     "20012348",
+                    "20021647",
                     "20020230",
                     "20002614"
                 ]
@@ -176230,6 +176246,7 @@
                 "11",
                 "11",
                 "11",
+                "11",
                 "11"
             ],
             "faresHoliday": null,
@@ -176271,7 +176288,7 @@
                 "zh": "香港仔(南寧街)"
             },
             "route": "5",
-            "seq": 14,
+            "seq": 15,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -176287,6 +176304,7 @@
                     "20011242",
                     "20011243",
                     "20011244",
+                    "20021646",
                     "20011246",
                     "20011247"
                 ]
@@ -213788,7 +213806,7 @@
                 ]
             }
         },
-        "610S+1+Tin Shui Wai (Tin Shui Estate)+Tsim Sha Tsui (Haipong Road)": {
+        "610S+1+Tin Shui Wai (Tin Shui Estate)+Tsim Sha Tsui (Haiphong Road)": {
             "bound": {
                 "gmb": "O"
             },
@@ -213796,7 +213814,7 @@
                 "gmb"
             ],
             "dest": {
-                "en": "Tsim Sha Tsui (Haipong Road)",
+                "en": "Tsim Sha Tsui (Haiphong Road)",
                 "zh": "尖沙咀海防道"
             },
             "fares": [
@@ -349892,91 +349910,6 @@
                 ]
             }
         },
-        "A30+2+AIRPORT (GROUND TRANSPORTATION CENTRE)+LEI MUK SHUE": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "LEI MUK SHUE",
-                "zh": "梨木樹"
-            },
-            "fares": [
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "18.9",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5",
-                "4.5"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1715": null,
-                    "1745": null,
-                    "1815": null
-                }
-            },
-            "gtfsId": "1000384",
-            "jt": "73",
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "機場(地面運輸中心)"
-            },
-            "route": "A30",
-            "seq": 25,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "23F3D6C7BDAD87EB",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "E48E4C46F64FFB0E",
-                    "9F9D5E46754C52D4",
-                    "0E987A8094AF742E",
-                    "2A8231CC433F6B22",
-                    "C9BF57C6B2F9BB92",
-                    "3D126591E55E8FA1",
-                    "73DBA4ECE93BB290",
-                    "5693912DEE916C4D",
-                    "7DCD729826DDB645",
-                    "C0E90AAAA204D927",
-                    "2658CCFAB79763B6",
-                    "26EB1A3C1E17889A",
-                    "32EF27636D4BEAEB",
-                    "77CEEF0D8191410C",
-                    "C84CAD6CCD18F87F",
-                    "478ACE8A8C9A2705",
-                    "A13C2C1D5D3EE0D7",
-                    "EF7EC605C6C6859A",
-                    "D5382A8A3773E6FE",
-                    "2A70ADF9A6812DD6",
-                    "28A57C043C111604",
-                    "419036314897BEEE"
-                ]
-            }
-        },
         "A30+2+LEI MUK SHUE+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
@@ -349989,7 +349922,6 @@
                 "zh": "機場(地面運輸中心)"
             },
             "fares": [
-                "18.9",
                 "18.9",
                 "18.9",
                 "18.9",
@@ -350027,7 +349959,7 @@
                 "zh": "梨木樹"
             },
             "route": "A30",
-            "seq": 20,
+            "seq": 19,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -350048,7 +349980,6 @@
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
                     "E48E4C46F64FFB0E",
                     "23F3D6C7BDAD87EB"
                 ]
@@ -350252,79 +350183,6 @@
                 ]
             }
         },
-        "A31+2+AIRPORT (GROUND TRANSPORTATION CENTRE)+TSUEN WAN (NINA TOWER)": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSUEN WAN (NINA TOWER)",
-                "zh": "荃灣(如心廣場)"
-            },
-            "fares": [
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1710": null,
-                    "1725": null,
-                    "1740": null,
-                    "1755": null,
-                    "1810": null
-                }
-            },
-            "gtfsId": "1000088",
-            "jt": "83",
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "機場(地面運輸中心)"
-            },
-            "route": "A31",
-            "seq": 18,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "5E1FA939586B3FD1",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "E48E4C46F64FFB0E",
-                    "35178229BDA14084",
-                    "6A22FBF7825E3E7F",
-                    "9BA601064A2EF221",
-                    "CE80C150FB0C40F9",
-                    "BDAEF35D10A3ADC7",
-                    "D01ECABA2E8B3987",
-                    "E6FF7108BC36B5CE",
-                    "190BE384606CC1B5",
-                    "155A8CC00899AB1E",
-                    "77070BA4D8554234",
-                    "2DB24989E9EAF9B7",
-                    "711AE4AC67F88999",
-                    "86E0CB9AE1AF077A",
-                    "708870108A511AF7"
-                ]
-            }
-        },
         "A31+3+TSUEN WAN (NINA TOWER)+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
@@ -350337,7 +350195,6 @@
                 "zh": "機場(地面運輸中心)"
             },
             "fares": [
-                "19.8",
                 "19.8",
                 "19.8",
                 "19.8",
@@ -350374,7 +350231,7 @@
                 "zh": "荃灣(如心廣場)"
             },
             "route": "A31",
-            "seq": 19,
+            "seq": 18,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -350392,7 +350249,6 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
                     "E48E4C46F64FFB0E",
                     "0D5759F7A4B185FE",
                     "21466046C6868AA7",
@@ -350577,84 +350433,6 @@
                 ]
             }
         },
-        "A32+2+AIRPORT (GROUND TRANSPORTATION CENTRE)+KWAI CHUNG ESTATE": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "KWAI CHUNG ESTATE",
-                "zh": "葵涌邨"
-            },
-            "fares": [
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3",
-                "11.3"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1705": null,
-                    "1805": null
-                }
-            },
-            "gtfsId": "1000004",
-            "jt": "82",
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "機場(地面運輸中心)"
-            },
-            "route": "A32",
-            "seq": 22,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "23F3D6C7BDAD87EB",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "E48E4C46F64FFB0E",
-                    "9F9D5E46754C52D4",
-                    "0E987A8094AF742E",
-                    "6118B186F901485A",
-                    "2DC2EF0A12E23C1F",
-                    "AA4830D4C9864F6B",
-                    "45FCFADAC74DCFFE",
-                    "D693BB486419666B",
-                    "330FCB2E8E28D4CF",
-                    "4206E3523A2C11D5",
-                    "B0D304F9542AE3BF",
-                    "C4BFD3A76F6CDCED",
-                    "143D7489C808BD46",
-                    "CFB33B4D4B0EA4BA",
-                    "C763E328B97F0D03",
-                    "F0AE2D3C2589FC4F",
-                    "B9DFF2C142DCE309",
-                    "56E8E92250BBEE74",
-                    "DC825DF01C49316F"
-                ]
-            }
-        },
         "A32+2+KWAI CHUNG ESTATE+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
@@ -350667,7 +350445,6 @@
                 "zh": "機場(地面運輸中心)"
             },
             "fares": [
-                "19.8",
                 "19.8",
                 "19.8",
                 "19.8",
@@ -350708,7 +350485,7 @@
                 "zh": "葵涌邨"
             },
             "route": "A32",
-            "seq": 26,
+            "seq": 25,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -350734,7 +350511,6 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
                     "E48E4C46F64FFB0E",
                     "0D5759F7A4B185FE",
                     "23F3D6C7BDAD87EB"
@@ -351048,7 +350824,6 @@
                 "15.7",
                 "15.7",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -351075,7 +350850,7 @@
                 "zh": "屯門公路轉車站"
             },
             "route": "A33",
-            "seq": 36,
+            "seq": 35,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -351112,7 +350887,6 @@
                     "3465CA4854929709",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
                     "E48E4C46F64FFB0E",
                     "21466046C6868AA7"
                 ]
@@ -351135,7 +350909,6 @@
                 "15.7",
                 "15.7",
                 "15.7",
-                "6.8",
                 "6.8",
                 "6.8",
                 "6.8",
@@ -351189,13 +350962,12 @@
                 "zh": "機場(地面運輸中心)"
             },
             "route": "A33",
-            "seq": 35,
+            "seq": 34,
             "serviceType": "3",
             "stops": {
                 "kmb": [
                     "0713774B2DB5E4D3",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
                     "E48E4C46F64FFB0E",
                     "0EE7033EEE2C4C8C",
                     "B651E2A39CD4CC05",
@@ -354084,82 +353856,6 @@
                 ]
             }
         },
-        "A37+2+AIRPORT (GROUND TRANSPORTATION CENTRE)+LONG PING STATION": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "LONG PING STATION",
-                "zh": "朗屏站"
-            },
-            "fares": [
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "19.8",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7",
-                "5.7"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1655": [
-                        "1815",
-                        "1200"
-                    ]
-                }
-            },
-            "gtfsId": "8779",
-            "jt": "89",
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "機場(地面運輸中心)"
-            },
-            "route": "A37",
-            "seq": 20,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "93A608CBFD9D5128",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "E48E4C46F64FFB0E",
-                    "3250A722B6084CC8",
-                    "5CDF70DDB539B39B",
-                    "023F856BE4F830F2",
-                    "CEDD8C935E63648C",
-                    "C20316E552E64387",
-                    "B6C73B7C3607611B",
-                    "8C6AEEC9E76F7852",
-                    "8370DDFF896AC3E0",
-                    "01B4E1C4514C35E2",
-                    "7C8F479D41B69151",
-                    "3B5F1B8C69EAE397",
-                    "90A0828B57A59906",
-                    "79C0E2525F4B50FF",
-                    "D921F140F4006272",
-                    "8366B8BB0703BB8C",
-                    "334A391D9FD2C201"
-                ]
-            }
-        },
         "A37+2+LONG PING STATION+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
@@ -354192,7 +353888,6 @@
                 "15.7",
                 "15.7",
                 "15.7",
-                "15.7",
                 "15.7"
             ],
             "faresHoliday": null,
@@ -354212,7 +353907,7 @@
                 "zh": "朗屏站"
             },
             "route": "A37",
-            "seq": 23,
+            "seq": 22,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -354236,7 +353931,6 @@
                     "0D5759F7A4B185FE",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
                     "E48E4C46F64FFB0E",
                     "21466046C6868AA7"
                 ]
@@ -355073,93 +354767,6 @@
                 ]
             }
         },
-        "A41P+2+AIRPORT (GROUND TRANSPORTATION CENTRE)+WU KAI SHA STATION": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "WU KAI SHA STATION",
-                "zh": "烏溪沙站"
-            },
-            "fares": [
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8",
-                "13.8"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1705": null,
-                    "1735": null,
-                    "1755": null,
-                    "1825": null,
-                    "1855": null
-                }
-            },
-            "gtfsId": "1000023",
-            "jt": "96",
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "機場(地面運輸中心)"
-            },
-            "route": "A41P",
-            "seq": 25,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "CFDE62B6C9EDE114",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "E48E4C46F64FFB0E",
-                    "A7378EEEBFA0C76C",
-                    "0879D399E5B5FE0C",
-                    "897B26110ECE76B3",
-                    "727AA8B21AB74300",
-                    "582EA09A77D20CC3",
-                    "04543155BFC77A1B",
-                    "6F03E19C5E800893",
-                    "7FDBE1ABD7231657",
-                    "B86B05AB0F82C94E",
-                    "AC515BE42D6D6CBC",
-                    "CE813C1E1A72C7B0",
-                    "297B262BF8D00544",
-                    "A6424D59E135C4EC",
-                    "24CD3B0F3389F822",
-                    "040478A068F3E0EB",
-                    "8EB192ED041A8459",
-                    "14F7E124D3972753",
-                    "473AF4463A49DA24",
-                    "362D0188DD0985FF",
-                    "4DC840CF3B4B2427",
-                    "BA72214DFE48AA86"
-                ]
-            }
-        },
         "A41P+2+WU KAI SHA STATION+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
@@ -355195,7 +354802,6 @@
                 "19.8",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -355214,7 +354820,7 @@
                 "zh": "烏溪沙站"
             },
             "route": "A41P",
-            "seq": 26,
+            "seq": 25,
             "serviceType": "2",
             "stops": {
                 "kmb": [
@@ -355240,7 +354846,6 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
                     "E48E4C46F64FFB0E",
                     "0D5759F7A4B185FE",
                     "21466046C6868AA7"
@@ -355908,71 +355513,6 @@
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
                     "21466046C6868AA7"
-                ]
-            }
-        },
-        "A43P+2+AIRPORT (GROUND TRANSPORTATION CENTRE)+FANLING (LUEN WO HUI)": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "FANLING (LUEN WO HUI)",
-                "zh": "粉嶺(聯和墟)"
-            },
-            "fares": [
-                "32.4",
-                "32.4",
-                "32.4",
-                "32.4",
-                "32.4",
-                "15.7",
-                "11.5",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1700": null,
-                    "1730": null,
-                    "1800": null
-                }
-            },
-            "gtfsId": "1000011",
-            "jt": "73",
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "機場(地面運輸中心)"
-            },
-            "route": "A43P",
-            "seq": 15,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "1C7EDE6D51378E58",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "E48E4C46F64FFB0E",
-                    "558ED5EDA9A0C43C",
-                    "7D72DDC29E02C14D",
-                    "D926EC9FC8BCE6BD",
-                    "F15B04D268DD5C8F",
-                    "7CA480A59A2F904E",
-                    "CFCF195771D9D63E",
-                    "9B68464F2596E2FE",
-                    "04A05525A6AB819D",
-                    "D1F2F468672FB541",
-                    "BA2B81A1A81DB398",
-                    "D44F9DCC71251889"
                 ]
             }
         },
@@ -356689,72 +356229,6 @@
                 ]
             }
         },
-        "A47X+4+AIRPORT (GROUND TRANSPORTATION CENTRE)+TAI PO (TAI WO)": {
-            "bound": {
-                "kmb": "I"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TAI PO (TAI WO)",
-                "zh": "大埔(太和)"
-            },
-            "fares": [
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "29",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1",
-                "8.1"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1705": null,
-                    "1735": null
-                }
-            },
-            "gtfsId": "8780",
-            "jt": "101",
-            "nlbId": null,
-            "orig": {
-                "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-                "zh": "機場(地面運輸中心)"
-            },
-            "route": "A47X",
-            "seq": 16,
-            "serviceType": "4",
-            "stops": {
-                "kmb": [
-                    "86218AD69549D7B2",
-                    "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
-                    "E48E4C46F64FFB0E",
-                    "09836E367F4BA3E2",
-                    "558ED5EDA9A0C43C",
-                    "897B26110ECE76B3",
-                    "FC1FCC3EF8D5C544",
-                    "9ACF8C3736E6ABA4",
-                    "EB3F22350E8A93A7",
-                    "9063A69A1F2B1410",
-                    "437924EA663F3DF6",
-                    "0962265A8720C38C",
-                    "4C1CD2009B21E9A1",
-                    "F9AB54847EF884BB",
-                    "5B5C877D02DF4C31"
-                ]
-            }
-        },
         "A47X+4+TAI PO (TAI WO)+AIRPORT (GROUND TRANSPORTATION CENTRE)": {
             "bound": {
                 "kmb": "O"
@@ -356785,7 +356259,6 @@
                 "19.8",
                 "19.8",
                 "19.8",
-                "19.8",
                 "19.8"
             ],
             "faresHoliday": null,
@@ -356802,7 +356275,7 @@
                 "zh": "大埔(太和)"
             },
             "route": "A47X",
-            "seq": 21,
+            "seq": 20,
             "serviceType": "4",
             "stops": {
                 "kmb": [
@@ -356823,7 +356296,6 @@
                     "412DEEF534E127AF",
                     "C552CE565E1F0C85",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
                     "E48E4C46F64FFB0E",
                     "0D5759F7A4B185FE",
                     "21466046C6868AA7"
@@ -412542,7 +412014,7 @@
                     "20AEF0F80E06013D",
                     "9DCBD34740D95B23",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
+                    "E48E4C46F64FFB0E",
                     "5B8A639645E2BC49",
                     "57DB1124DEF92894",
                     "89A83934270E9BFB",
@@ -413901,7 +413373,7 @@
                     "7BEEBCE35DFFAB7C",
                     "9DCBD34740D95B23",
                     "9C9F817064169CE7",
-                    "61C957321A4DE4A9",
+                    "E48E4C46F64FFB0E",
                     "31418DC3F19236BF",
                     "18CA599721E67265",
                     "57DB1124DEF92894",
@@ -504467,6 +503939,26 @@
                 "zh": "太古站"
             }
         },
+        "20021646": {
+            "location": {
+                "lat": 22.26856298394178,
+                "lng": 114.18725565075876
+            },
+            "name": {
+                "en": "Blue Pool Road, near Horseshoe Tower",
+                "zh": "藍塘道, 近藍駿樓"
+            }
+        },
+        "20021647": {
+            "location": {
+                "lat": 22.336118602678248,
+                "lng": 114.15247142314911
+            },
+            "name": {
+                "en": "Hing Wah Street outside Hang Chun Court",
+                "zh": "興華街, 幸俊苑外"
+            }
+        },
         "201": {
             "location": {
                 "lat": 22.429587,
@@ -513223,8 +512715,8 @@
                 "lng": 114.140963
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE BUS TERMINUS(A1)",
-                "zh": "華明轉車站-華明邨總站(A1)"
+                "en": "WAH MING ESTATE BUS TERMINUS(A1)",
+                "zh": "華明邨總站(A1)"
             }
         },
         "3CB360C4C4AA1098": {
@@ -522323,8 +521815,8 @@
                 "lng": 114.141025
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE BUS TERMINUS(B1)",
-                "zh": "華明轉車站-華明邨總站(B1)"
+                "en": "WAH MING ESTATE BUS TERMINUS(B1)",
+                "zh": "華明邨總站(B1)"
             }
         },
         "5CB3827F92F37568": {
@@ -532083,8 +531575,8 @@
                 "lng": 114.141322
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE(C3)",
-                "zh": "華明轉車站-華明邨(C3)"
+                "en": "WAH MING BBI(C3)",
+                "zh": "華明轉車站(C3)"
             }
         },
         "823E3EE2413E40E2": {
@@ -538233,8 +537725,8 @@
                 "lng": 114.141642
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE(C6)",
-                "zh": "華明轉車站-華明邨(C6)"
+                "en": "WAH MING BBI(C6)",
+                "zh": "華明轉車站(C6)"
             }
         },
         "9ADE07CC443E4ACE": {
@@ -550653,8 +550145,8 @@
                 "lng": 114.141194
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE(C2)",
-                "zh": "華明轉車站-華明邨(C2)"
+                "en": "WAH MING BBI(C2)",
+                "zh": "華明轉車站(C2)"
             }
         },
         "CAB": {
@@ -553363,8 +552855,8 @@
                 "lng": 114.141503
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE(C5)",
-                "zh": "華明轉車站-華明邨(C5)"
+                "en": "WAH MING BBI(C5)",
+                "zh": "華明轉車站(C5)"
             }
         },
         "D4C5C8BD5FC05C2E": {
@@ -555963,8 +555455,8 @@
                 "lng": 114.141287
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE BUS TERMINUS(B2)",
-                "zh": "華明轉車站-華明邨總站(B2)"
+                "en": "WAH MING ESTATE BUS TERMINUS(B2)",
+                "zh": "華明邨總站(B2)"
             }
         },
         "DF3F6652DC307265": {
@@ -557493,8 +556985,8 @@
                 "lng": 114.141463
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE BUS TERMINUS(B3)",
-                "zh": "華明轉車站-華明邨總站(B3)"
+                "en": "WAH MING ESTATE BUS TERMINUS(B3)",
+                "zh": "華明邨總站(B3)"
             }
         },
         "E5421509D8FC00AF": {
@@ -560533,8 +560025,8 @@
                 "lng": 114.14141
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE(C4)",
-                "zh": "華明轉車站-華明邨(C4)"
+                "en": "WAH MING BBI(C4)",
+                "zh": "華明轉車站(C4)"
             }
         },
         "F139E189918C1F86": {
@@ -562573,8 +562065,8 @@
                 "lng": 114.141642
             },
             "name": {
-                "en": "WAH MING BBI-WAH MING ESTATE(C7)",
-                "zh": "華明轉車站-華明邨(C7)"
+                "en": "WAH MING BBI(C7)",
+                "zh": "華明轉車站(C7)"
             }
         },
         "F7DD5A5E7E4D41C9": {
@@ -579776,7 +579268,7 @@
         "003304": [
             [
                 "kmb",
-                "61C957321A4DE4A9"
+                "E48E4C46F64FFB0E"
             ]
         ],
         "003317": [
@@ -583899,12 +583391,6 @@
             [
                 "ctb",
                 "002563"
-            ]
-        ],
-        "61C957321A4DE4A9": [
-            [
-                "ctb",
-                "003304"
             ]
         ],
         "6219234626AC9DD5": [
@@ -588397,6 +587883,12 @@
             [
                 "ctb",
                 "002458"
+            ]
+        ],
+        "E48E4C46F64FFB0E": [
+            [
+                "ctb",
+                "003304"
             ]
         ],
         "E499DA804188827F": [
