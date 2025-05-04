@@ -10698,6 +10698,41 @@
                 ]
             }
         },
+        "104R+1+CENTRAL (FERRY PIERS)+MONG KOK": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MONG KOK",
+                "zh": "旺角"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "CENTRAL (FERRY PIERS)",
+                "zh": "中環渡輪碼頭"
+            },
+            "route": "104R",
+            "seq": 6,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "153D32217234A0F0",
+                    "893BBB901005C3E6",
+                    "BBE77B90CE43AEFA",
+                    "246B98B8B9F002F0",
+                    "3B7368AAB82CC612",
+                    "D7C46496C9C7B7BA"
+                ]
+            }
+        },
         "104R+1+Central (Ferry Piers)+Mong Kok": {
             "bound": {
                 "ctb": "O"
