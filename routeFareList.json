@@ -190302,7 +190302,7 @@
                 "zh": "屯門 (和田及菁田)"
             },
             "route": "56A",
-            "seq": 18,
+            "seq": 19,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -190321,6 +190321,7 @@
                     "003774",
                     "003780",
                     "003846",
+                    "003878",
                     "003681",
                     "003682",
                     "003660"
@@ -227219,7 +227220,7 @@
                 "zh": "中環 (香港站)"
             },
             "route": "679",
-            "seq": 28,
+            "seq": 29,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -227248,6 +227249,7 @@
                     "003678",
                     "003679",
                     "003680",
+                    "003878",
                     "003681",
                     "003682",
                     "003660"
@@ -272914,7 +272916,7 @@
                 "zh": "高鐵西九龍站"
             },
             "route": "79P",
-            "seq": 34,
+            "seq": 35,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -272949,6 +272951,7 @@
                     "003678",
                     "003679",
                     "003680",
+                    "003878",
                     "003681",
                     "003682",
                     "003660"
@@ -338210,7 +338213,7 @@
                 "zh": "中環 (香港站)"
             },
             "route": "979",
-            "seq": 20,
+            "seq": 21,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -338231,6 +338234,7 @@
                     "003678",
                     "003679",
                     "003680",
+                    "003878",
                     "003681",
                     "003682",
                     "003660"
@@ -411550,6 +411554,70 @@
                 ]
             }
         },
+        "PBD1+1+DB PLAZA+TSEUNG KWAN O": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSEUNG KWAN O",
+                "zh": "將軍澳"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "DB PLAZA",
+                "zh": "愉景廣場"
+            },
+            "route": "PBD1",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "E4415E645A9914EF",
+                    "E33098F43CF205B8",
+                    "06CC6423AA236B72"
+                ]
+            }
+        },
+        "PBD1+1+TSEUNG KWAN O+DB PLAZA": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "DB PLAZA",
+                "zh": "愉景廣場"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TSEUNG KWAN O",
+                "zh": "將軍澳"
+            },
+            "route": "PBD1",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "06CC6423AA236B72",
+                    "E33098F43CF205B8",
+                    "E4415E645A9914EF"
+                ]
+            }
+        },
         "PBD2+1+DB PLAZA+TUEN MUN STATION (V CITY)": {
             "bound": {
                 "kmb": "I"
@@ -450415,6 +450483,16 @@
             "name": {
                 "en": "CROSS HARBOUR TUNNEL BBI (A6)",
                 "zh": "紅隧轉車站 (A6)"
+            }
+        },
+        "06CC6423AA236B72": {
+            "location": {
+                "lat": 22.303002,
+                "lng": 114.261429
+            },
+            "name": {
+                "en": "TSEUNG KWAN O (TONG CHUN STREET)",
+                "zh": "將軍澳(唐俊街)"
             }
         },
         "06D3396F1F07B07D": {
@@ -546575,16 +546653,6 @@
             "name": {
                 "en": "FO YIN ROAD (S5)",
                 "zh": "科研路 (S5)"
-            }
-        },
-        "B64A5DCCD5562BA5": {
-            "location": {
-                "lat": 22.370698,
-                "lng": 114.189159
-            },
-            "name": {
-                "en": "SUN TIN WAI ESTATE (ST772)",
-                "zh": "新田圍邨 (ST772)"
             }
         },
         "B64E0F355A9F4223": {
