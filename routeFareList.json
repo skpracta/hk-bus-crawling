@@ -97760,7 +97760,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "D72656F177EAD9E0",
+                    "5C97567FE14D1836",
                     "62266836D5ACF227",
                     "81293E4174C24FD5",
                     "378DA3C43904CFF9",
@@ -99208,7 +99208,7 @@
             "serviceType": "2",
             "stops": {
                 "kmb": [
-                    "5C97567FE14D1836",
+                    "D72656F177EAD9E0",
                     "2D2F0A476CB1FEF5",
                     "81293E4174C24FD5",
                     "3DDE81FE5DB08180",
@@ -446602,8 +446602,8 @@
                 "lng": 114.20858
             },
             "name": {
-                "en": "SHEK MUN ESTATE BUS TERMINUS (ST990)",
-                "zh": "碩門邨巴士總站 (ST990)"
+                "en": "SHEK MUN ESTATE BUS TERMINUS (ST991)",
+                "zh": "碩門邨巴士總站 (ST991)"
             }
         },
         "003600": {
@@ -449402,8 +449402,8 @@
                 "lng": 114.204981
             },
             "name": {
-                "en": "CHONG SAN ROAD (S4)",
-                "zh": "創新路 (S4)"
+                "en": "CHONG SAN ROAD",
+                "zh": "創新路"
             }
         },
         "023F856BE4F830F2": {
@@ -450682,8 +450682,8 @@
                 "lng": 114.203323
             },
             "name": {
-                "en": "St MARTIN (S3)",
-                "zh": "雲滙 (S3)"
+                "en": "St MARTIN",
+                "zh": "雲滙"
             }
         },
         "07ADFF84F3502690": {
@@ -450902,8 +450902,8 @@
                 "lng": 114.200812
             },
             "name": {
-                "en": "PAK SHEK KOK SUBSTATION (N8)",
-                "zh": "白石角變電站 (N8)"
+                "en": "PAK SHEK KOK SUBSTATION",
+                "zh": "白石角變電站"
             }
         },
         "08E7E3FD65881EE2": {
@@ -451052,8 +451052,8 @@
                 "lng": 114.208027
             },
             "name": {
-                "en": "FO YIN ROAD (N5)",
-                "zh": "科研路 (N5)"
+                "en": "FO YIN ROAD",
+                "zh": "科研路"
             }
         },
         "09889186EAB604F2": {
@@ -455842,8 +455842,8 @@
                 "lng": 114.213925
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (N3)",
-                "zh": "香港生物科技研究院 (N3)"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
+                "zh": "香港生物科技研究院"
             }
         },
         "17CDBCBA18D0D000": {
@@ -456892,8 +456892,8 @@
                 "lng": 114.201512
             },
             "name": {
-                "en": "PAK SHEK KOK (N7)",
-                "zh": "白石角 (N7)"
+                "en": "PAK SHEK KOK",
+                "zh": "白石角"
             }
         },
         "1B21C4E917FBA155": {
@@ -457212,8 +457212,8 @@
                 "lng": 114.211589
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1) (S6)",
-                "zh": "科學園(第一期) (S6)"
+                "en": "SCIENCE PARK (PHASE 1)",
+                "zh": "科學園(第一期)"
             }
         },
         "1C79BF0732EDBD9C": {
@@ -457412,8 +457412,8 @@
                 "lng": 114.214179
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (S7)",
-                "zh": "香港生物科技研究院 (S7)"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
+                "zh": "香港生物科技研究院"
             }
         },
         "1D202282C0A82F12": {
@@ -506862,8 +506862,8 @@
                 "lng": 114.214179
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (S7)",
-                "zh": "香港生物科技研究院(S7)"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
+                "zh": "香港生物科技研究院"
             }
         },
         "241A8AC2A2889D05": {
@@ -506882,8 +506882,8 @@
                 "lng": 114.211589
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1) (S6)",
-                "zh": "科學園(第一期) (S6)"
+                "en": "SCIENCE PARK (PHASE 1)",
+                "zh": "科學園(第一期)"
             }
         },
         "241BD0C151A1B393": {
@@ -507722,8 +507722,8 @@
                 "lng": 114.201558
             },
             "name": {
-                "en": "PROVIDENCE BAY (S2)",
-                "zh": "天賦海灣 (S2)"
+                "en": "PROVIDENCE BAY",
+                "zh": "天賦海灣"
             }
         },
         "262": {
@@ -509702,8 +509702,8 @@
                 "lng": 114.213922
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (N3)",
-                "zh": "香港生物科技研究院 (N3)"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
+                "zh": "香港生物科技研究院"
             }
         },
         "2D1C6EC793734CBA": {
@@ -511872,8 +511872,8 @@
                 "lng": 114.203338
             },
             "name": {
-                "en": "St MARTIN (N6)",
-                "zh": "雲滙 (N6)"
+                "en": "St MARTIN",
+                "zh": "雲滙"
             }
         },
         "33173A78A66E9FB9": {
@@ -512172,8 +512172,8 @@
                 "lng": 114.203323
             },
             "name": {
-                "en": "St MARTIN (S3)",
-                "zh": "雲滙 (S3)"
+                "en": "St MARTIN",
+                "zh": "雲滙"
             }
         },
         "33BA3785390F1457": {
@@ -512402,8 +512402,8 @@
                 "lng": 114.21425
             },
             "name": {
-                "en": "WATER SPORTS CENTRE (N2)",
-                "zh": "水上活動中心 (N2)"
+                "en": "WATER SPORTS CENTRE",
+                "zh": "水上活動中心"
             }
         },
         "34E91A304CD09953": {
@@ -512892,8 +512892,8 @@
                 "lng": 114.201512
             },
             "name": {
-                "en": "PAK SHEK KOK (N7)",
-                "zh": "白石角 (N7)"
+                "en": "PAK SHEK KOK",
+                "zh": "白石角"
             }
         },
         "36A5F6842C55126E": {
@@ -513602,8 +513602,8 @@
                 "lng": 114.201372
             },
             "name": {
-                "en": "PAK SHEK KOK SUBSTATION (S1)",
-                "zh": "白石角變電站 (S1)"
+                "en": "PAK SHEK KOK SUBSTATION",
+                "zh": "白石角變電站"
             }
         },
         "395175EBEEC636B7": {
@@ -513722,8 +513722,8 @@
                 "lng": 114.20845
             },
             "name": {
-                "en": "FO YIN ROAD (S5)",
-                "zh": "科研路 (S5)"
+                "en": "FO YIN ROAD",
+                "zh": "科研路"
             }
         },
         "39F712E839F52A9B": {
@@ -513862,8 +513862,8 @@
                 "lng": 114.204981
             },
             "name": {
-                "en": "CHONG SAN ROAD (S4)",
-                "zh": "創新路 (S4)"
+                "en": "CHONG SAN ROAD",
+                "zh": "創新路"
             }
         },
         "3A99869DB9D31D45": {
@@ -515112,8 +515112,8 @@
                 "lng": 114.203323
             },
             "name": {
-                "en": "St MARTIN (S3)",
-                "zh": "雲滙 (S3)"
+                "en": "St MARTIN",
+                "zh": "雲滙"
             }
         },
         "3F2DBF48C61352D1": {
@@ -516262,8 +516262,8 @@
                 "lng": 114.203338
             },
             "name": {
-                "en": "St MARTIN (N6)",
-                "zh": "雲滙 (N6)"
+                "en": "St MARTIN",
+                "zh": "雲滙"
             }
         },
         "42ED08E8B1829CED": {
@@ -516392,8 +516392,8 @@
                 "lng": 114.204693
             },
             "name": {
-                "en": "CHONG SAN ROAD (S4)",
-                "zh": "創新路 (S4)"
+                "en": "CHONG SAN ROAD",
+                "zh": "創新路"
             }
         },
         "437D60C455A624E6": {
@@ -517632,8 +517632,8 @@
                 "lng": 114.21425
             },
             "name": {
-                "en": "WATER SPORTS CENTRE (N2)",
-                "zh": "水上活動中心 (N2)"
+                "en": "WATER SPORTS CENTRE",
+                "zh": "水上活動中心"
             }
         },
         "47B6BE5FC95C2042": {
@@ -518242,8 +518242,8 @@
                 "lng": 114.203323
             },
             "name": {
-                "en": "St MARTIN (S3)",
-                "zh": "雲滙 (S3)"
+                "en": "St MARTIN",
+                "zh": "雲滙"
             }
         },
         "4A14A012710E80B1": {
@@ -519172,8 +519172,8 @@
                 "lng": 114.201558
             },
             "name": {
-                "en": "PROVIDENCE BAY (S2)",
-                "zh": "天賦海灣 (S2)"
+                "en": "PROVIDENCE BAY",
+                "zh": "天賦海灣"
             }
         },
         "4DD9CB2D8C7DB1D8": {
@@ -522982,8 +522982,8 @@
                 "lng": 114.213945
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER (S9)",
-                "zh": "馬料水公眾碼頭 (S9)"
+                "en": "MA LIU SHUI PUBLIC PIER",
+                "zh": "馬料水公眾碼頭"
             }
         },
         "5B3C373DE4DCAE6F": {
@@ -523262,8 +523262,8 @@
                 "lng": 114.211589
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1) (S6)",
-                "zh": "科學園(第一期) (S6)"
+                "en": "SCIENCE PARK (PHASE 1)",
+                "zh": "科學園(第一期)"
             }
         },
         "5C2C6EDCA82F5AF9": {
@@ -525412,8 +525412,8 @@
                 "lng": 114.214271
             },
             "name": {
-                "en": "WATER SPORTS CENTRE (S8)",
-                "zh": "水上活動中心 (S8)"
+                "en": "WATER SPORTS CENTRE",
+                "zh": "水上活動中心"
             }
         },
         "6410DDEFBBD17426": {
@@ -529612,8 +529612,8 @@
                 "lng": 114.213778
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER (N1)",
-                "zh": "馬料水公眾碼頭 (N1)"
+                "en": "MA LIU SHUI PUBLIC PIER",
+                "zh": "馬料水公眾碼頭"
             }
         },
         "73A2A03BA9A23247": {
@@ -529852,8 +529852,8 @@
                 "lng": 114.201372
             },
             "name": {
-                "en": "PAK SHEK KOK SUBSTATION (S1)",
-                "zh": "白石角變電站 (S1)"
+                "en": "PAK SHEK KOK SUBSTATION",
+                "zh": "白石角變電站"
             }
         },
         "7467287ACB876529": {
@@ -531232,8 +531232,8 @@
                 "lng": 114.203338
             },
             "name": {
-                "en": "St MARTIN (N6)",
-                "zh": "雲滙 (N6)"
+                "en": "St MARTIN",
+                "zh": "雲滙"
             }
         },
         "7A1C43F91CF8A6FC": {
@@ -534012,8 +534012,8 @@
                 "lng": 114.214271
             },
             "name": {
-                "en": "WATER SPORTS CENTRE (S8)",
-                "zh": "水上活動中心 (S8)"
+                "en": "WATER SPORTS CENTRE",
+                "zh": "水上活動中心"
             }
         },
         "854BC3A8D4DE6AA9": {
@@ -536602,8 +536602,8 @@
                 "lng": 114.214271
             },
             "name": {
-                "en": "WATER SPORTS CENTRE (S8)",
-                "zh": "水上活動中心 (S8)"
+                "en": "WATER SPORTS CENTRE",
+                "zh": "水上活動中心"
             }
         },
         "90901971846A40E7": {
@@ -540392,8 +540392,8 @@
                 "lng": 114.21425
             },
             "name": {
-                "en": "WATER SPORTS CENTRE (N2)",
-                "zh": "水上活動中心 (N2)"
+                "en": "WATER SPORTS CENTRE",
+                "zh": "水上活動中心"
             }
         },
         "9E970734315233A2": {
@@ -540522,8 +540522,8 @@
                 "lng": 114.213778
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER (N1)",
-                "zh": "馬料水公眾碼頭 (N1)"
+                "en": "MA LIU SHUI PUBLIC PIER",
+                "zh": "馬料水公眾碼頭"
             }
         },
         "9F72AC7E3C3CE65C": {
@@ -540932,8 +540932,8 @@
                 "lng": 114.214179
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (S7)",
-                "zh": "香港生物科技研究院 (S7)"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
+                "zh": "香港生物科技研究院"
             }
         },
         "A0DC5DA3E06ADFC9": {
@@ -541612,8 +541612,8 @@
                 "lng": 114.200812
             },
             "name": {
-                "en": "PAK SHEK KOK SUBSTATION (N8)",
-                "zh": "白石角變電站 (N8)"
+                "en": "PAK SHEK KOK SUBSTATION",
+                "zh": "白石角變電站"
             }
         },
         "A33E576A3F6DDCA9": {
@@ -541792,8 +541792,8 @@
                 "lng": 114.20845
             },
             "name": {
-                "en": "FO YIN ROAD (S5)",
-                "zh": "科研路 (S5)"
+                "en": "FO YIN ROAD",
+                "zh": "科研路"
             }
         },
         "A3F6D2CA9135A988": {
@@ -542342,8 +542342,8 @@
                 "lng": 114.213945
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER (S9)",
-                "zh": "馬料水公眾碼頭 (S9)"
+                "en": "MA LIU SHUI PUBLIC PIER",
+                "zh": "馬料水公眾碼頭"
             }
         },
         "A6013462EAC8AA50": {
@@ -542862,8 +542862,8 @@
                 "lng": 114.192175
             },
             "name": {
-                "en": "TIN KA PING PRIMARY SCHOOL (ST683)",
-                "zh": "田家炳學校 (ST683)"
+                "en": "TIN KA PING PRIMARY SCHOOL (ST684)",
+                "zh": "田家炳學校 (ST684)"
             }
         },
         "A7C1A969F48B62C0": {
@@ -545902,8 +545902,8 @@
                 "lng": 114.204981
             },
             "name": {
-                "en": "CHONG SAN ROAD (S4)",
-                "zh": "創新路 (S4)"
+                "en": "CHONG SAN ROAD",
+                "zh": "創新路"
             }
         },
         "B37FC6600B2254B6": {
@@ -546172,8 +546172,8 @@
                 "lng": 114.20845
             },
             "name": {
-                "en": "FO YIN ROAD (S5)",
-                "zh": "科研路 (S5)"
+                "en": "FO YIN ROAD",
+                "zh": "科研路"
             }
         },
         "B471F4B9E9CB6DB7": {
@@ -546352,8 +546352,8 @@
                 "lng": 114.201558
             },
             "name": {
-                "en": "PROVIDENCE BAY (S2)",
-                "zh": "天賦海灣 (S2)"
+                "en": "PROVIDENCE BAY",
+                "zh": "天賦海灣"
             }
         },
         "B4EBE05A59376062": {
@@ -546652,8 +546652,8 @@
                 "lng": 114.20845
             },
             "name": {
-                "en": "FO YIN ROAD (S5)",
-                "zh": "科研路 (S5)"
+                "en": "FO YIN ROAD",
+                "zh": "科研路"
             }
         },
         "B64E0F355A9F4223": {
@@ -548702,8 +548702,8 @@
                 "lng": 114.213945
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER (S9)",
-                "zh": "馬料水公眾碼頭 (S9)"
+                "en": "MA LIU SHUI PUBLIC PIER",
+                "zh": "馬料水公眾碼頭"
             }
         },
         "BE81792B3E788D41": {
@@ -548742,8 +548742,8 @@
                 "lng": 114.211432
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1) (N4)",
-                "zh": "科學園(第一期) (N4)"
+                "en": "SCIENCE PARK (PHASE 1)",
+                "zh": "科學園(第一期)"
             }
         },
         "BEA270261C1E0D73": {
@@ -556082,8 +556082,8 @@
                 "lng": 114.211432
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1) (N4)",
-                "zh": "科學園(第一期) (N4)"
+                "en": "SCIENCE PARK (PHASE 1)",
+                "zh": "科學園(第一期)"
             }
         },
         "DAE04FEC0D09BED6": {
@@ -557272,8 +557272,8 @@
                 "lng": 114.192239
             },
             "name": {
-                "en": "TIN KA PING PRIMARY SCHOOL (ST682)",
-                "zh": "田家炳學校 (ST682)"
+                "en": "TIN KA PING PRIMARY SCHOOL (ST683)",
+                "zh": "田家炳學校 (ST683)"
             }
         },
         "E01BD8E1BEC29EA6": {
@@ -557482,8 +557482,8 @@
                 "lng": 114.211432
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1) (N4)",
-                "zh": "科學園(第一期) (N4)"
+                "en": "SCIENCE PARK (PHASE 1)",
+                "zh": "科學園(第一期)"
             }
         },
         "E114ADD0B146D4CA": {
@@ -558602,8 +558602,8 @@
                 "lng": 114.20858
             },
             "name": {
-                "en": "SHEK MUN ESTATE BUS TERMINUS (ST991)",
-                "zh": "碩門邨巴士總站 (ST991)"
+                "en": "SHEK MUN ESTATE BUS TERMINUS (ST990)",
+                "zh": "碩門邨巴士總站 (ST990)"
             }
         },
         "E553B839AD6A8C3D": {
@@ -559502,8 +559502,8 @@
                 "lng": 114.208027
             },
             "name": {
-                "en": "FO YIN ROAD (N5)",
-                "zh": "科研路 (N5)"
+                "en": "FO YIN ROAD",
+                "zh": "科研路"
             }
         },
         "E900EC472C60D5D8": {
@@ -560702,8 +560702,8 @@
                 "lng": 114.192111
             },
             "name": {
-                "en": "TIN KA PING PRIMARY SCHOOL (ST684)",
-                "zh": "田家炳學校 (ST684)"
+                "en": "TIN KA PING PRIMARY SCHOOL (ST682)",
+                "zh": "田家炳學校 (ST682)"
             }
         },
         "EDAD79A7F0FE08D8": {
@@ -562202,8 +562202,8 @@
                 "lng": 114.201558
             },
             "name": {
-                "en": "PROVIDENCE BAY (S2)",
-                "zh": "天賦海灣 (S2)"
+                "en": "PROVIDENCE BAY",
+                "zh": "天賦海灣"
             }
         },
         "F3281CF8A2A2AD4A": {
@@ -563742,8 +563742,8 @@
                 "lng": 114.213925
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (N3)",
-                "zh": "香港生物科技研究院 (N3)"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
+                "zh": "香港生物科技研究院"
             }
         },
         "F80DF64ABE690251": {
