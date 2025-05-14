@@ -98359,7 +98359,7 @@
                 ]
             }
         },
-        "272A+1+UNIVERSITY STATION (ST905)+POK YIN ROAD": {
+        "272A+1+UNIVERSITY STATION (ST905)+POK YIN ROAD (PA161)": {
             "bound": {
                 "kmb": "O"
             },
@@ -98367,8 +98367,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "POK YIN ROAD",
-                "zh": "博研路"
+                "en": "POK YIN ROAD (PA161)",
+                "zh": "博研路 (PA161)"
             },
             "fares": [
                 "5.1",
@@ -331648,7 +331648,182 @@
                 ]
             }
         },
+        "969+1+Sherwood Court Kingswood Villas, Tin Wu Road+Causeway Bay (Moreton Terrace)": {
+            "bound": {
+                "ctb": "IO"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Moreton Terrace)",
+                "zh": "銅鑼灣 (摩頓台)"
+            },
+            "fares": [
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "12.2",
+                "12.2",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "319": {
+                    "0720": null
+                }
+            },
+            "gtfsId": "1819",
+            "jt": "80",
+            "nlbId": null,
+            "orig": {
+                "en": "Sherwood Court Kingswood Villas, Tin Wu Road",
+                "zh": "嘉湖山莊賞湖居, 天湖路"
+            },
+            "route": "969",
+            "seq": 18,
+            "serviceType": "1",
+            "stops": {
+                "ctb": [
+                    "001999",
+                    "001998",
+                    "002001",
+                    "002153",
+                    "001973",
+                    "001629",
+                    "003253",
+                    "001028",
+                    "001029",
+                    "001030",
+                    "001174",
+                    "002427",
+                    "002432",
+                    "002435",
+                    "002437",
+                    "002574",
+                    "002535",
+                    "002536"
+                ]
+            }
+        },
         "969+1+Tin Shui Wai Town Centre+Causeway Bay (Moreton Terrace)": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Causeway Bay (Moreton Terrace)",
+                "zh": "銅鑼灣 (摩頓台)"
+            },
+            "fares": [
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "27.3",
+                "12.2",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7",
+                "7.7"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "511": {
+                    "1845": [
+                        "2125",
+                        "1200"
+                    ],
+                    "2125": [
+                        "2355",
+                        "1500"
+                    ]
+                }
+            },
+            "gtfsId": "1000054",
+            "jt": "110",
+            "nlbId": null,
+            "orig": {
+                "en": "Tin Shui Wai Town Centre",
+                "zh": "天水圍市中心"
+            },
+            "route": "969",
+            "seq": 33,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002666",
+                    "002073",
+                    "002003",
+                    "002059",
+                    "002076",
+                    "002074",
+                    "002075",
+                    "002622",
+                    "003773",
+                    "002667",
+                    "001989",
+                    "002030",
+                    "002036",
+                    "001996",
+                    "001991",
+                    "001992",
+                    "001998",
+                    "002001",
+                    "002153",
+                    "001973",
+                    "001629",
+                    "003253",
+                    "001028",
+                    "001029",
+                    "001030",
+                    "001174",
+                    "002427",
+                    "002432",
+                    "002435",
+                    "002437",
+                    "002574",
+                    "002535",
+                    "002536"
+                ]
+            }
+        },
+        "969+2+Tin Shui Wai Town Centre+Causeway Bay (Moreton Terrace)": {
             "bound": {
                 "ctb": "O"
             },
@@ -331825,7 +332000,7 @@
             },
             "route": "969",
             "seq": 25,
-            "serviceType": "1",
+            "serviceType": "2",
             "stops": {
                 "ctb": [
                     "002003",
@@ -331856,76 +332031,7 @@
                 ]
             }
         },
-        "969+2+Kingswood Villas (Locwood Court)+Causeway Bay (Moreton Terrace)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Moreton Terrace)",
-                "zh": "銅鑼灣 (摩頓台)"
-            },
-            "fares": [
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "12.2",
-                "12.2",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "319": {
-                    "0720": null
-                }
-            },
-            "gtfsId": "1819",
-            "jt": "80",
-            "nlbId": null,
-            "orig": {
-                "en": "Kingswood Villas (Locwood Court)",
-                "zh": "嘉湖山莊 (樂湖居)"
-            },
-            "route": "969",
-            "seq": 18,
-            "serviceType": "2",
-            "stops": {
-                "ctb": [
-                    "002002",
-                    "002060",
-                    "002001",
-                    "002153",
-                    "001973",
-                    "001629",
-                    "003253",
-                    "001028",
-                    "001029",
-                    "001030",
-                    "001174",
-                    "002427",
-                    "002432",
-                    "002435",
-                    "002437",
-                    "002574",
-                    "002535",
-                    "002536"
-                ]
-            }
-        },
-        "969+2+Tin Shui Wai Town Centre+Causeway Bay (Moreton Terrace)": {
+        "969+3+Tin Shui Wai Town Centre+Causeway Bay (Moreton Terrace)": {
             "bound": {
                 "ctb": "O"
             },
@@ -332006,116 +332112,10 @@
             },
             "route": "969",
             "seq": 21,
-            "serviceType": "2",
+            "serviceType": "3",
             "stops": {
                 "ctb": [
                     "002003",
-                    "001996",
-                    "001991",
-                    "001992",
-                    "001998",
-                    "002001",
-                    "002153",
-                    "001973",
-                    "001629",
-                    "003253",
-                    "001028",
-                    "001029",
-                    "001030",
-                    "001174",
-                    "002427",
-                    "002432",
-                    "002435",
-                    "002437",
-                    "002574",
-                    "002535",
-                    "002536"
-                ]
-            }
-        },
-        "969+2+Tin Yan Estate+Causeway Bay (Moreton Terrace)": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Causeway Bay (Moreton Terrace)",
-                "zh": "銅鑼灣 (摩頓台)"
-            },
-            "fares": [
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "27.3",
-                "12.2",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7",
-                "7.7"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "1845": [
-                        "2125",
-                        "1200"
-                    ],
-                    "2125": [
-                        "2355",
-                        "1500"
-                    ]
-                }
-            },
-            "gtfsId": "1000054",
-            "jt": "110",
-            "nlbId": null,
-            "orig": {
-                "en": "Tin Yan Estate",
-                "zh": "天恩邨"
-            },
-            "route": "969",
-            "seq": 33,
-            "serviceType": "2",
-            "stops": {
-                "ctb": [
-                    "002666",
-                    "002073",
-                    "002003",
-                    "002059",
-                    "002076",
-                    "002074",
-                    "002075",
-                    "002622",
-                    "003773",
-                    "002667",
-                    "001989",
-                    "002030",
-                    "002036",
                     "001996",
                     "001991",
                     "001992",
@@ -339133,7 +339133,7 @@
                 ]
             }
         },
-        "98+1+T.K.O. INDUSTRIAL ESTATE BUS TERMINUS+NGAU TAU KOK STATION (V4)": {
+        "98+1+T.K.O. INDUSTRIAL ESTATE BUS TERMINUS (TK993)+NGAU TAU KOK STATION (V4)": {
             "bound": {
                 "kmb": "O"
             },
@@ -339168,8 +339168,8 @@
             "jt": "29",
             "nlbId": null,
             "orig": {
-                "en": "T.K.O. INDUSTRIAL ESTATE BUS TERMINUS",
-                "zh": "將軍澳工業邨巴士總站"
+                "en": "T.K.O. INDUSTRIAL ESTATE BUS TERMINUS (TK993)",
+                "zh": "將軍澳工業邨巴士總站 (TK993)"
             },
             "route": "98",
             "seq": 12,
@@ -341273,7 +341273,7 @@
                 ]
             }
         },
-        "98A+1+KWUN TONG BBI - MILLENNIUM CITY (B3)+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)": {
+        "98A+1+KWUN TONG BBI - MILLENNIUM CITY (B3)+HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL) (TK950)": {
             "bound": {
                 "kmb": "O"
             },
@@ -341281,8 +341281,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北) (將軍澳醫院)"
+                "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL) (TK950)",
+                "zh": "坑口(北) (將軍澳醫院) (TK950)"
             },
             "fares": [
                 "7.1",
@@ -433596,16 +433596,6 @@
                 "zh": "天晴邨晴彩樓, 天華路"
             }
         },
-        "002060": {
-            "location": {
-                "lat": 22.450369342091,
-                "lng": 114.00300100053
-            },
-            "name": {
-                "en": "Tin Yiu Estate",
-                "zh": "天耀邨"
-            }
-        },
         "002061": {
             "location": {
                 "lat": 22.453711282091,
@@ -449402,8 +449392,8 @@
                 "lng": 114.204981
             },
             "name": {
-                "en": "CHONG SAN ROAD",
-                "zh": "創新路"
+                "en": "CHONG SAN ROAD (PA211)",
+                "zh": "創新路 (PA211)"
             }
         },
         "023F856BE4F830F2": {
@@ -449422,8 +449412,8 @@
                 "lng": 114.257402
             },
             "name": {
-                "en": "PO LAM BUS TERMINUS",
-                "zh": "寶林總站"
+                "en": "PO LAM BUS TERMINUS (TK928)",
+                "zh": "寶林總站 (TK928)"
             }
         },
         "024D478CE8AC52F3": {
@@ -449512,8 +449502,8 @@
                 "lng": 114.171768
             },
             "name": {
-                "en": "MEI CHI HOUSE MEI TIN ESTATE",
-                "zh": "美田邨美致樓"
+                "en": "MEI CHI HOUSE MEI TIN ESTATE (TA160)",
+                "zh": "美田邨美致樓 (TA160)"
             }
         },
         "02E2C6CDE2A867C1": {
@@ -449992,8 +449982,8 @@
                 "lng": 114.171035
             },
             "name": {
-                "en": "HIN KENG BUS TERMINUS",
-                "zh": "顯徑巴士總站"
+                "en": "HIN KENG BUS TERMINUS (TA934)",
+                "zh": "顯徑巴士總站 (TA934)"
             }
         },
         "0492DA388B6FDA92": {
@@ -450052,8 +450042,8 @@
                 "lng": 114.17196
             },
             "name": {
-                "en": "HIN KENG SHOPPING CENTRE",
-                "zh": "顯徑商場"
+                "en": "HIN KENG SHOPPING CENTRE (TA549)",
+                "zh": "顯徑商場 (TA549)"
             }
         },
         "04D3244DD2B38746": {
@@ -450532,8 +450522,8 @@
                 "lng": 114.27338
             },
             "name": {
-                "en": "LE PRESTIGE LOHAS PARK",
-                "zh": "日出康城領都"
+                "en": "LE PRESTIGE LOHAS PARK (TK532)",
+                "zh": "日出康城領都 (TK532)"
             }
         },
         "0718DE53C1C84496": {
@@ -450682,8 +450672,8 @@
                 "lng": 114.203323
             },
             "name": {
-                "en": "St MARTIN",
-                "zh": "雲滙"
+                "en": "St MARTIN (PA207)",
+                "zh": "雲滙 (PA207)"
             }
         },
         "07ADFF84F3502690": {
@@ -450692,8 +450682,8 @@
                 "lng": 114.186827
             },
             "name": {
-                "en": "CHUN SHEK ESTATE",
-                "zh": "秦石邨"
+                "en": "CHUN SHEK ESTATE (TA130)",
+                "zh": "秦石邨 (TA130)"
             }
         },
         "07B714029E91FD81": {
@@ -450762,8 +450752,8 @@
                 "lng": 114.25236
             },
             "name": {
-                "en": "TIU KENG LENG STATION",
-                "zh": "調景嶺站"
+                "en": "TIU KENG LENG STATION (TK977)",
+                "zh": "調景嶺站 (TK977)"
             }
         },
         "080EF1BEA737A5D3": {
@@ -450902,8 +450892,8 @@
                 "lng": 114.200812
             },
             "name": {
-                "en": "PAK SHEK KOK SUBSTATION",
-                "zh": "白石角變電站"
+                "en": "PAK SHEK KOK SUBSTATION (PA131)",
+                "zh": "白石角變電站 (PA131)"
             }
         },
         "08E7E3FD65881EE2": {
@@ -450992,8 +450982,8 @@
                 "lng": 114.260466
             },
             "name": {
-                "en": "CHILIN BUDDHIST PRIMARY SCHOOL",
-                "zh": "佛教志蓮小學"
+                "en": "CHILIN BUDDHIST PRIMARY SCHOOL (TK115)",
+                "zh": "佛教志蓮小學 (TK115)"
             }
         },
         "09601DB251157030": {
@@ -451052,8 +451042,8 @@
                 "lng": 114.208027
             },
             "name": {
-                "en": "FO YIN ROAD",
-                "zh": "科研路"
+                "en": "FO YIN ROAD (PA123)",
+                "zh": "科研路 (PA123)"
             }
         },
         "09889186EAB604F2": {
@@ -451112,8 +451102,8 @@
                 "lng": 114.170968
             },
             "name": {
-                "en": "HIN KENG BUS TERMINUS",
-                "zh": "顯徑巴士總站"
+                "en": "HIN KENG BUS TERMINUS (TA932)",
+                "zh": "顯徑巴士總站 (TA932)"
             }
         },
         "09B4297CB90AF3EC": {
@@ -451192,8 +451182,8 @@
                 "lng": 114.271368
             },
             "name": {
-                "en": "PAK SHING KOK",
-                "zh": "百勝角"
+                "en": "PAK SHING KOK (TK535)",
+                "zh": "百勝角 (TK535)"
             }
         },
         "0A1DAEAFFDFF0B66": {
@@ -452512,8 +452502,8 @@
                 "lng": 114.264905
             },
             "name": {
-                "en": "HANG HAU STATION",
-                "zh": "坑口站"
+                "en": "HANG HAU STATION (TK940)",
+                "zh": "坑口站 (TK940)"
             }
         },
         "0F35C99BABE4D40E": {
@@ -453022,8 +453012,8 @@
                 "lng": 114.266003
             },
             "name": {
-                "en": "CHUNG WA ROAD, EAST POINT CITY",
-                "zh": "重華路 東港城"
+                "en": "CHUNG WA ROAD, EAST POINT CITY (TK234)",
+                "zh": "重華路 東港城 (TK234)"
             }
         },
         "105E0AF98899CAEE": {
@@ -453082,8 +453072,8 @@
                 "lng": 114.260993
             },
             "name": {
-                "en": "KING LAM ESTATE",
-                "zh": "景林邨"
+                "en": "KING LAM ESTATE (TK435)",
+                "zh": "景林邨 (TK435)"
             }
         },
         "108": {
@@ -453122,8 +453112,8 @@
                 "lng": 114.171194
             },
             "name": {
-                "en": "HIN KENG BUS TERMINUS",
-                "zh": "顯徑巴士總站"
+                "en": "HIN KENG BUS TERMINUS (TA930)",
+                "zh": "顯徑巴士總站 (TA930)"
             }
         },
         "1094B993AA8409D0": {
@@ -453692,8 +453682,8 @@
                 "lng": 114.270398
             },
             "name": {
-                "en": "T.K.O. INDUSTRIAL EST. BUS TERMINUS",
-                "zh": "將軍澳工業邨巴士總站"
+                "en": "T.K.O. INDUSTRIAL EST. BUS TERMINUS (TK991)",
+                "zh": "將軍澳工業邨巴士總站 (TK991)"
             }
         },
         "122AB077C55A383F": {
@@ -453722,8 +453712,8 @@
                 "lng": 114.257546
             },
             "name": {
-                "en": "PO LAM BUS TERMINUS",
-                "zh": "寶林總站"
+                "en": "PO LAM BUS TERMINUS (TK933)",
+                "zh": "寶林總站 (TK933)"
             }
         },
         "123A364D76B2CE5D": {
@@ -453802,8 +453792,8 @@
                 "lng": 114.177213
             },
             "name": {
-                "en": "TAI WAI MARKET",
-                "zh": "大圍街市"
+                "en": "TAI WAI MARKET (TA333)",
+                "zh": "大圍街市 (TA333)"
             }
         },
         "128": {
@@ -453842,8 +453832,8 @@
                 "lng": 114.181367
             },
             "name": {
-                "en": "TUNG LO WAN VILLAGE",
-                "zh": "銅鑼灣村"
+                "en": "TUNG LO WAN VILLAGE (TA319)",
+                "zh": "銅鑼灣村 (TA319)"
             }
         },
         "12A827339D5B8454": {
@@ -453882,8 +453872,8 @@
                 "lng": 114.260687
             },
             "name": {
-                "en": "HONG KONG VELODROME",
-                "zh": "香港單車館"
+                "en": "HONG KONG VELODROME (TK479)",
+                "zh": "香港單車館 (TK479)"
             }
         },
         "12C9A74EEAE58238": {
@@ -454282,8 +454272,8 @@
                 "lng": 114.273473
             },
             "name": {
-                "en": "TAI CHIK SHA FIRE STATION",
-                "zh": "大赤沙消防局"
+                "en": "TAI CHIK SHA FIRE STATION (TK320)",
+                "zh": "大赤沙消防局 (TK320)"
             }
         },
         "13C75FFFA2BB060D": {
@@ -454892,8 +454882,8 @@
                 "lng": 114.272628
             },
             "name": {
-                "en": "CHUN WANG STREET",
-                "zh": "駿宏街"
+                "en": "CHUN WANG STREET (TK500)",
+                "zh": "駿宏街 (TK500)"
             }
         },
         "155A8CC00899AB1E": {
@@ -455532,8 +455522,8 @@
                 "lng": 114.273631
             },
             "name": {
-                "en": "CHUN YING STREET",
-                "zh": "駿盈街"
+                "en": "CHUN YING STREET (TK510)",
+                "zh": "駿盈街 (TK510)"
             }
         },
         "172": {
@@ -455842,8 +455832,8 @@
                 "lng": 114.213925
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
-                "zh": "香港生物科技研究院"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (PA106)",
+                "zh": "香港生物科技研究院 (PA106)"
             }
         },
         "17CDBCBA18D0D000": {
@@ -455882,8 +455872,8 @@
                 "lng": 114.17496
             },
             "name": {
-                "en": "MEI LAM BUS TERMINUS",
-                "zh": "美林巴士總站"
+                "en": "MEI LAM BUS TERMINUS (TA963)",
+                "zh": "美林巴士總站 (TA963)"
             }
         },
         "18": {
@@ -456542,8 +456532,8 @@
                 "lng": 114.176824
             },
             "name": {
-                "en": "HOLFORD GARDEN",
-                "zh": "海福花園"
+                "en": "HOLFORD GARDEN (TA143)",
+                "zh": "海福花園 (TA143)"
             }
         },
         "199": {
@@ -456892,8 +456882,8 @@
                 "lng": 114.201512
             },
             "name": {
-                "en": "PAK SHEK KOK",
-                "zh": "白石角"
+                "en": "PAK SHEK KOK (PA128)",
+                "zh": "白石角 (PA128)"
             }
         },
         "1B21C4E917FBA155": {
@@ -457012,8 +457002,8 @@
                 "lng": 114.176795
             },
             "name": {
-                "en": "HOLFORD GARDEN",
-                "zh": "海福花園"
+                "en": "HOLFORD GARDEN (TA144)",
+                "zh": "海福花園 (TA144)"
             }
         },
         "1B9CA570385CC6F2": {
@@ -457212,8 +457202,8 @@
                 "lng": 114.211589
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1)",
-                "zh": "科學園(第一期)"
+                "en": "SCIENCE PARK (PHASE 1) (PA219)",
+                "zh": "科學園(第一期) (PA219)"
             }
         },
         "1C79BF0732EDBD9C": {
@@ -457402,8 +457392,8 @@
                 "lng": 114.173908
             },
             "name": {
-                "en": "HIN HING HOUSE HIN KENG ESTATE",
-                "zh": "顯徑邨顯慶樓"
+                "en": "HIN HING HOUSE HIN KENG ESTATE (TA560)",
+                "zh": "顯徑邨顯慶樓 (TA560)"
             }
         },
         "1D1571E9D1588FBE": {
@@ -457412,8 +457402,8 @@
                 "lng": 114.214179
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
-                "zh": "香港生物科技研究院"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (PA231)",
+                "zh": "香港生物科技研究院 (PA231)"
             }
         },
         "1D202282C0A82F12": {
@@ -457762,8 +457752,8 @@
                 "lng": 114.171154
             },
             "name": {
-                "en": "SHA TIN HEIGHTS",
-                "zh": "沙田花園"
+                "en": "SHA TIN HEIGHTS (TA313)",
+                "zh": "沙田花園 (TA313)"
             }
         },
         "1E471172708B5C5D": {
@@ -457982,8 +457972,8 @@
                 "lng": 114.251823
             },
             "name": {
-                "en": "KIN MING ESTATE",
-                "zh": "健明邨"
+                "en": "KIN MING ESTATE (TK100)",
+                "zh": "健明邨 (TK100)"
             }
         },
         "1F01222C3FA70452": {
@@ -458142,8 +458132,8 @@
                 "lng": 114.261055
             },
             "name": {
-                "en": "KING LAM ESTATE",
-                "zh": "景林邨"
+                "en": "KING LAM ESTATE (TK436)",
+                "zh": "景林邨 (TK436)"
             }
         },
         "1FBAAE29AF1CA50E": {
@@ -505812,8 +505802,8 @@
                 "lng": 114.262359
             },
             "name": {
-                "en": "TSEUNG KWAN O PLAZA",
-                "zh": "將軍澳廣場"
+                "en": "TSEUNG KWAN O PLAZA (TK122)",
+                "zh": "將軍澳廣場 (TK122)"
             }
         },
         "21": {
@@ -505932,8 +505922,8 @@
                 "lng": 114.155514
             },
             "name": {
-                "en": "VILLA CARLTON",
-                "zh": "爾登華庭"
+                "en": "VILLA CARLTON (TA742)",
+                "zh": "爾登華庭 (TA742)"
             }
         },
         "21581A1F9544F6E4": {
@@ -506002,8 +505992,8 @@
                 "lng": 114.251711
             },
             "name": {
-                "en": "CHOI MING BUS TERMINUS",
-                "zh": "彩明總站"
+                "en": "CHOI MING BUS TERMINUS (TK915)",
+                "zh": "彩明總站 (TK915)"
             }
         },
         "21AFFFF707224831": {
@@ -506042,8 +506032,8 @@
                 "lng": 114.25955
             },
             "name": {
-                "en": "SHEUNG TAK BUS TERMINUS",
-                "zh": "尚德總站"
+                "en": "SHEUNG TAK BUS TERMINUS (TK965)",
+                "zh": "尚德總站 (TK965)"
             }
         },
         "21FC719DAF5F9D28": {
@@ -506292,8 +506282,8 @@
                 "lng": 114.202526
             },
             "name": {
-                "en": "POK YIN ROAD",
-                "zh": "博研路"
+                "en": "POK YIN ROAD (PA160)",
+                "zh": "博研路 (PA160)"
             }
         },
         "227": {
@@ -506482,8 +506472,8 @@
                 "lng": 114.261306
             },
             "name": {
-                "en": "KING LAM ESTATE",
-                "zh": "景林邨"
+                "en": "KING LAM ESTATE (TK206)",
+                "zh": "景林邨 (TK206)"
             }
         },
         "22FE13158B36FE48": {
@@ -506522,8 +506512,8 @@
                 "lng": 114.273728
             },
             "name": {
-                "en": "MEGA PLUS DATA CENTRE",
-                "zh": "MEGA Plus 數據中心"
+                "en": "MEGA PLUS DATA CENTRE (TK303)",
+                "zh": "MEGA Plus 數據中心 (TK303)"
             }
         },
         "230B03C34F2022D4": {
@@ -506862,8 +506852,8 @@
                 "lng": 114.214179
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
-                "zh": "香港生物科技研究院"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (PA233)",
+                "zh": "香港生物科技研究院 (PA233)"
             }
         },
         "241A8AC2A2889D05": {
@@ -506882,8 +506872,8 @@
                 "lng": 114.211589
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1)",
-                "zh": "科學園(第一期)"
+                "en": "SCIENCE PARK (PHASE 1) (PA218)",
+                "zh": "科學園(第一期) (PA218)"
             }
         },
         "241BD0C151A1B393": {
@@ -507042,8 +507032,8 @@
                 "lng": 114.255951
             },
             "name": {
-                "en": "LEUNG KIT WAH PRIMARY SCHOOL",
-                "zh": "梁潔華小學"
+                "en": "LEUNG KIT WAH PRIMARY SCHOOL (TK466)",
+                "zh": "梁潔華小學 (TK466)"
             }
         },
         "246B32CF201C6A7A": {
@@ -507212,8 +507202,8 @@
                 "lng": 114.151112
             },
             "name": {
-                "en": "CALDECOTT ROAD",
-                "zh": "郝德傑道"
+                "en": "CALDECOTT ROAD (TA307)",
+                "zh": "郝德傑道 (TA307)"
             }
         },
         "24E16716BBB7F2D0": {
@@ -507722,8 +507712,8 @@
                 "lng": 114.201558
             },
             "name": {
-                "en": "PROVIDENCE BAY",
-                "zh": "天賦海灣"
+                "en": "PROVIDENCE BAY (PA203)",
+                "zh": "天賦海灣 (PA203)"
             }
         },
         "262": {
@@ -508062,8 +508052,8 @@
                 "lng": 114.252229
             },
             "name": {
-                "en": "TIU KENG LENG STATION",
-                "zh": "調景嶺站"
+                "en": "TIU KENG LENG STATION (TK974)",
+                "zh": "調景嶺站 (TK974)"
             }
         },
         "27": {
@@ -508372,8 +508362,8 @@
                 "lng": 114.270278
             },
             "name": {
-                "en": "T.K.O. INDUSTRIAL EST. BUS TERMINUS",
-                "zh": "將軍澳工業邨巴士總站"
+                "en": "T.K.O. INDUSTRIAL EST. BUS TERMINUS (TK990)",
+                "zh": "將軍澳工業邨巴士總站 (TK990)"
             }
         },
         "27F96537744C6792": {
@@ -508382,8 +508372,8 @@
                 "lng": 114.209304
             },
             "name": {
-                "en": "HONG KONG SCIENCE PARK PHASE 3",
-                "zh": "香港科學園第三期"
+                "en": "HONG KONG SCIENCE PARK PHASE 3 (PA116)",
+                "zh": "香港科學園第三期 (PA116)"
             }
         },
         "28": {
@@ -508632,8 +508622,8 @@
                 "lng": 114.269074
             },
             "name": {
-                "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北) (將軍澳醫院)"
+                "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL) (TK956)",
+                "zh": "坑口(北) (將軍澳醫院) (TK956)"
             }
         },
         "28B264A688848238": {
@@ -508852,8 +508842,8 @@
                 "lng": 114.249125
             },
             "name": {
-                "en": "TSUI LAM BUS TERMINUS",
-                "zh": "翠林總站"
+                "en": "TSUI LAM BUS TERMINUS (TK909)",
+                "zh": "翠林總站 (TK909)"
             }
         },
         "29740CCBBD82FC33": {
@@ -508962,8 +508952,8 @@
                 "lng": 114.26481
             },
             "name": {
-                "en": "HANG HAU STATION",
-                "zh": "坑口站"
+                "en": "HANG HAU STATION (TK941)",
+                "zh": "坑口站 (TK941)"
             }
         },
         "29A14A56FBEFADB4": {
@@ -508982,8 +508972,8 @@
                 "lng": 114.187599
             },
             "name": {
-                "en": "FOO WAI HOUSE SUN TIN WAI ESTATE",
-                "zh": "新田圍邨富圍樓"
+                "en": "FOO WAI HOUSE SUN TIN WAI ESTATE (TA592)",
+                "zh": "新田圍邨富圍樓 (TA592)"
             }
         },
         "29A5797CA506CDEE": {
@@ -509092,8 +509082,8 @@
                 "lng": 114.255704
             },
             "name": {
-                "en": "LEUNG KIT WAH PRIMARY SCHOOL",
-                "zh": "梁潔華小學"
+                "en": "LEUNG KIT WAH PRIMARY SCHOOL (TK467)",
+                "zh": "梁潔華小學 (TK467)"
             }
         },
         "29F7954D216356E1": {
@@ -509702,8 +509692,8 @@
                 "lng": 114.213922
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
-                "zh": "香港生物科技研究院"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (PA107)",
+                "zh": "香港生物科技研究院 (PA107)"
             }
         },
         "2D1C6EC793734CBA": {
@@ -509972,8 +509962,8 @@
                 "lng": 114.184036
             },
             "name": {
-                "en": "CHE KUNG TEMPLE",
-                "zh": "車公廟"
+                "en": "CHE KUNG TEMPLE (TA537)",
+                "zh": "車公廟 (TA537)"
             }
         },
         "2E1126EB3A7EDB00": {
@@ -510582,8 +510572,8 @@
                 "lng": 114.187159
             },
             "name": {
-                "en": "CHUN SHEK BUS TERMINUS",
-                "zh": "秦石巴士總站"
+                "en": "CHUN SHEK BUS TERMINUS (TA901)",
+                "zh": "秦石巴士總站 (TA901)"
             }
         },
         "3015AF669161ADBF": {
@@ -510662,8 +510652,8 @@
                 "lng": 114.259137
             },
             "name": {
-                "en": "YAN KING ROAD, METRO CITY",
-                "zh": "欣景路 新都城"
+                "en": "YAN KING ROAD, METRO CITY (TK455)",
+                "zh": "欣景路 新都城 (TK455)"
             }
         },
         "305": {
@@ -510802,8 +510792,8 @@
                 "lng": 114.274657
             },
             "name": {
-                "en": "CHUN CHEONG STREET",
-                "zh": "駿昌街"
+                "en": "CHUN CHEONG STREET (TK530)",
+                "zh": "駿昌街 (TK530)"
             }
         },
         "30B08A7B2B2B623F": {
@@ -511152,8 +511142,8 @@
                 "lng": 114.181313
             },
             "name": {
-                "en": "CHUNG LING ROAD",
-                "zh": "松嶺路"
+                "en": "CHUNG LING ROAD (TA325)",
+                "zh": "松嶺路 (TA325)"
             }
         },
         "318": {
@@ -511872,8 +511862,8 @@
                 "lng": 114.203338
             },
             "name": {
-                "en": "St MARTIN",
-                "zh": "雲滙"
+                "en": "St MARTIN (PA125)",
+                "zh": "雲滙 (PA125)"
             }
         },
         "33173A78A66E9FB9": {
@@ -512042,8 +512032,8 @@
                 "lng": 114.253885
             },
             "name": {
-                "en": "FINERY PARK",
-                "zh": "富麗花園"
+                "en": "FINERY PARK (TK475)",
+                "zh": "富麗花園 (TK475)"
             }
         },
         "33674BF8F361D2C3": {
@@ -512062,8 +512052,8 @@
                 "lng": 114.265883
             },
             "name": {
-                "en": "CHUNG WA ROAD, EAST POINT CITY",
-                "zh": "重華路 東港城"
+                "en": "CHUNG WA ROAD, EAST POINT CITY (TK231)",
+                "zh": "重華路 東港城 (TK231)"
             }
         },
         "337C68B5F413E04E": {
@@ -512172,8 +512162,8 @@
                 "lng": 114.203323
             },
             "name": {
-                "en": "St MARTIN",
-                "zh": "雲滙"
+                "en": "St MARTIN (PA209)",
+                "zh": "雲滙 (PA209)"
             }
         },
         "33BA3785390F1457": {
@@ -512402,8 +512392,8 @@
                 "lng": 114.21425
             },
             "name": {
-                "en": "WATER SPORTS CENTRE",
-                "zh": "水上活動中心"
+                "en": "WATER SPORTS CENTRE (PA102)",
+                "zh": "水上活動中心 (PA102)"
             }
         },
         "34E91A304CD09953": {
@@ -512792,8 +512782,8 @@
                 "lng": 114.174167
             },
             "name": {
-                "en": "MEI FAI STREET",
-                "zh": "美輝街"
+                "en": "MEI FAI STREET (TA151)",
+                "zh": "美輝街 (TA151)"
             }
         },
         "363A9BD5A7BE81D0": {
@@ -512892,8 +512882,8 @@
                 "lng": 114.201512
             },
             "name": {
-                "en": "PAK SHEK KOK",
-                "zh": "白石角"
+                "en": "PAK SHEK KOK (PA129)",
+                "zh": "白石角 (PA129)"
             }
         },
         "36A5F6842C55126E": {
@@ -513042,8 +513032,8 @@
                 "lng": 114.18591
             },
             "name": {
-                "en": "SUN TIN WAI ESTATE",
-                "zh": "新田圍邨"
+                "en": "SUN TIN WAI ESTATE (TA590)",
+                "zh": "新田圍邨 (TA590)"
             }
         },
         "3715F32B3A14C278": {
@@ -513242,8 +513232,8 @@
                 "lng": 114.25772
             },
             "name": {
-                "en": "HAVEN OF HOPE HOSPITAL",
-                "zh": "靈實醫院"
+                "en": "HAVEN OF HOPE HOSPITAL (TK135)",
+                "zh": "靈實醫院 (TK135)"
             }
         },
         "38021D9E2840F8CC": {
@@ -513352,8 +513342,8 @@
                 "lng": 114.267895
             },
             "name": {
-                "en": "OSCAR BY THE SEA",
-                "zh": "清水灣半島"
+                "en": "OSCAR BY THE SEA (TK536)",
+                "zh": "清水灣半島 (TK536)"
             }
         },
         "38A38CABCA7969CF": {
@@ -513602,8 +513592,8 @@
                 "lng": 114.201372
             },
             "name": {
-                "en": "PAK SHEK KOK SUBSTATION",
-                "zh": "白石角變電站"
+                "en": "PAK SHEK KOK SUBSTATION (PA200)",
+                "zh": "白石角變電站 (PA200)"
             }
         },
         "395175EBEEC636B7": {
@@ -513652,8 +513642,8 @@
                 "lng": 114.255497
             },
             "name": {
-                "en": "VERBENA HEIGHTS",
-                "zh": "茵怡花園"
+                "en": "VERBENA HEIGHTS (TK128)",
+                "zh": "茵怡花園 (TK128)"
             }
         },
         "399EF919E10C7F33": {
@@ -513722,8 +513712,8 @@
                 "lng": 114.20845
             },
             "name": {
-                "en": "FO YIN ROAD",
-                "zh": "科研路"
+                "en": "FO YIN ROAD (PA214)",
+                "zh": "科研路 (PA214)"
             }
         },
         "39F712E839F52A9B": {
@@ -513862,8 +513852,8 @@
                 "lng": 114.204981
             },
             "name": {
-                "en": "CHONG SAN ROAD",
-                "zh": "創新路"
+                "en": "CHONG SAN ROAD (PA210)",
+                "zh": "創新路 (PA210)"
             }
         },
         "3A99869DB9D31D45": {
@@ -513982,8 +513972,8 @@
                 "lng": 114.25976
             },
             "name": {
-                "en": "YAN MING COURT",
-                "zh": "欣明苑"
+                "en": "YAN MING COURT (TK438)",
+                "zh": "欣明苑 (TK438)"
             }
         },
         "3B254E7FFFCC0A2F": {
@@ -514432,8 +514422,8 @@
                 "lng": 114.250355
             },
             "name": {
-                "en": "TSUI LAM ESTATE",
-                "zh": "翠林邨"
+                "en": "TSUI LAM ESTATE (TK449)",
+                "zh": "翠林邨 (TK449)"
             }
         },
         "3CEFE1F7CC598005": {
@@ -514962,8 +514952,8 @@
                 "lng": 114.26075
             },
             "name": {
-                "en": "SHEUNG CHI HOUSE",
-                "zh": "尚智樓"
+                "en": "SHEUNG CHI HOUSE (TK109)",
+                "zh": "尚智樓 (TK109)"
             }
         },
         "3EAF33C37104D168": {
@@ -515102,8 +515092,8 @@
                 "lng": 114.16276
             },
             "name": {
-                "en": "TSING SHA HIGHWAY BBI",
-                "zh": "青沙公路轉車站"
+                "en": "TSING SHA HIGHWAY BBI (TA290)",
+                "zh": "青沙公路轉車站 (TA290)"
             }
         },
         "3F24CFF9046300D9": {
@@ -515112,8 +515102,8 @@
                 "lng": 114.203323
             },
             "name": {
-                "en": "St MARTIN",
-                "zh": "雲滙"
+                "en": "St MARTIN (PA206)",
+                "zh": "雲滙 (PA206)"
             }
         },
         "3F2DBF48C61352D1": {
@@ -515452,8 +515442,8 @@
                 "lng": 114.259499
             },
             "name": {
-                "en": "SHEUNG TAK BUS TERMINUS",
-                "zh": "尚德總站"
+                "en": "SHEUNG TAK BUS TERMINUS (TK967)",
+                "zh": "尚德總站 (TK967)"
             }
         },
         "4039C75BB85BF238": {
@@ -516262,8 +516252,8 @@
                 "lng": 114.203338
             },
             "name": {
-                "en": "St MARTIN",
-                "zh": "雲滙"
+                "en": "St MARTIN (PA126)",
+                "zh": "雲滙 (PA126)"
             }
         },
         "42ED08E8B1829CED": {
@@ -516392,8 +516382,8 @@
                 "lng": 114.204693
             },
             "name": {
-                "en": "CHONG SAN ROAD",
-                "zh": "創新路"
+                "en": "CHONG SAN ROAD (PA213)",
+                "zh": "創新路 (PA213)"
             }
         },
         "437D60C455A624E6": {
@@ -516482,8 +516472,8 @@
                 "lng": 114.263988
             },
             "name": {
-                "en": "PUI SHING ROAD, NAN FUNG PLAZA",
-                "zh": "培成路 南豐廣場"
+                "en": "PUI SHING ROAD, NAN FUNG PLAZA (TK251)",
+                "zh": "培成路 南豐廣場 (TK251)"
             }
         },
         "43E5D3A445382F82": {
@@ -516792,8 +516782,8 @@
                 "lng": 114.186536
             },
             "name": {
-                "en": "CHUN SHEK ESTATE",
-                "zh": "秦石邨"
+                "en": "CHUN SHEK ESTATE (TA533)",
+                "zh": "秦石邨 (TA533)"
             }
         },
         "450240CAB4788D47": {
@@ -516872,8 +516862,8 @@
                 "lng": 114.184162
             },
             "name": {
-                "en": "CHE KUNG TEMPLE",
-                "zh": "車公廟"
+                "en": "CHE KUNG TEMPLE (TA126)",
+                "zh": "車公廟 (TA126)"
             }
         },
         "455338DEEC08A032": {
@@ -516992,8 +516982,8 @@
                 "lng": 114.253528
             },
             "name": {
-                "en": "SERENITY PLACE",
-                "zh": "怡心園"
+                "en": "SERENITY PLACE (TK129)",
+                "zh": "怡心園 (TK129)"
             }
         },
         "4585A7CEF5D5F43B": {
@@ -517172,8 +517162,8 @@
                 "lng": 114.177601
             },
             "name": {
-                "en": "CHIK TAK LANE",
-                "zh": "積德里"
+                "en": "CHIK TAK LANE (TA745)",
+                "zh": "積德里 (TA745)"
             }
         },
         "45E245505155AFF3": {
@@ -517232,8 +517222,8 @@
                 "lng": 114.175003
             },
             "name": {
-                "en": "MEI LAM BUS TERMINUS",
-                "zh": "美林巴士總站"
+                "en": "MEI LAM BUS TERMINUS (TA964)",
+                "zh": "美林巴士總站 (TA964)"
             }
         },
         "4618B90F316901BB": {
@@ -517322,8 +517312,8 @@
                 "lng": 114.17492
             },
             "name": {
-                "en": "MEI LAM BUS TERMINUS",
-                "zh": "美林巴士總站"
+                "en": "MEI LAM BUS TERMINUS (TA960)",
+                "zh": "美林巴士總站 (TA960)"
             }
         },
         "46604706EE6CC765": {
@@ -517522,8 +517512,8 @@
                 "lng": 114.272705
             },
             "name": {
-                "en": "THE CAPITOL LOHAS PARK",
-                "zh": "日出康城首都"
+                "en": "THE CAPITOL LOHAS PARK (TK533)",
+                "zh": "日出康城首都 (TK533)"
             }
         },
         "471AB47F0E2C6E89": {
@@ -517632,8 +517622,8 @@
                 "lng": 114.21425
             },
             "name": {
-                "en": "WATER SPORTS CENTRE",
-                "zh": "水上活動中心"
+                "en": "WATER SPORTS CENTRE (PA103)",
+                "zh": "水上活動中心 (PA103)"
             }
         },
         "47B6BE5FC95C2042": {
@@ -517742,8 +517732,8 @@
                 "lng": 114.163389
             },
             "name": {
-                "en": "TSING SHA HIGHWAY BBI",
-                "zh": "青沙公路轉車站"
+                "en": "TSING SHA HIGHWAY BBI (TA750)",
+                "zh": "青沙公路轉車站 (TA750)"
             }
         },
         "48105C2BE18DAD7F": {
@@ -517892,8 +517882,8 @@
                 "lng": 114.186808
             },
             "name": {
-                "en": "CHUN SHEK ESTATE",
-                "zh": "秦石邨"
+                "en": "CHUN SHEK ESTATE (TA530)",
+                "zh": "秦石邨 (TA530)"
             }
         },
         "48CD423F78F6FA22": {
@@ -518242,8 +518232,8 @@
                 "lng": 114.203323
             },
             "name": {
-                "en": "St MARTIN",
-                "zh": "雲滙"
+                "en": "St MARTIN (PA208)",
+                "zh": "雲滙 (PA208)"
             }
         },
         "4A14A012710E80B1": {
@@ -518272,8 +518262,8 @@
                 "lng": 114.271576
             },
             "name": {
-                "en": "CHUN YAT STREET",
-                "zh": "駿日街"
+                "en": "CHUN YAT STREET (TK321)",
+                "zh": "駿日街 (TK321)"
             }
         },
         "4A1CFF0BEA83DE78": {
@@ -518402,8 +518392,8 @@
                 "lng": 114.254298
             },
             "name": {
-                "en": "HONG SING GARDEN",
-                "zh": "康盛花園"
+                "en": "HONG SING GARDEN (TK451)",
+                "zh": "康盛花園 (TK451)"
             }
         },
         "4A85D10FF93639B1": {
@@ -518472,8 +518462,8 @@
                 "lng": 114.257982
             },
             "name": {
-                "en": "METRO CITY PHASE II",
-                "zh": "新都城二期"
+                "en": "METRO CITY PHASE II (TK925)",
+                "zh": "新都城二期 (TK925)"
             }
         },
         "4AF3A5BD16E5BA3F": {
@@ -518562,8 +518552,8 @@
                 "lng": 114.172557
             },
             "name": {
-                "en": "HIN TIN VILLAGE",
-                "zh": "顯田村"
+                "en": "HIN TIN VILLAGE (TA117)",
+                "zh": "顯田村 (TA117)"
             }
         },
         "4B17C55C032D3A37": {
@@ -518762,8 +518752,8 @@
                 "lng": 114.164496
             },
             "name": {
-                "en": "LUK HOP VILLAGE",
-                "zh": "六合村"
+                "en": "LUK HOP VILLAGE (TA311)",
+                "zh": "六合村 (TA311)"
             }
         },
         "4C19E0623146E4F9": {
@@ -518772,8 +518762,8 @@
                 "lng": 114.181367
             },
             "name": {
-                "en": "TUNG LO WAN VILLAGE",
-                "zh": "銅鑼灣村"
+                "en": "TUNG LO WAN VILLAGE (TA318)",
+                "zh": "銅鑼灣村 (TA318)"
             }
         },
         "4C1CD2009B21E9A1": {
@@ -519012,8 +519002,8 @@
                 "lng": 114.257011
             },
             "name": {
-                "en": "METRO CITY",
-                "zh": "新都城"
+                "en": "METRO CITY (TK465)",
+                "zh": "新都城 (TK465)"
             }
         },
         "4D258A35FECA3A0C": {
@@ -519032,8 +519022,8 @@
                 "lng": 114.25533
             },
             "name": {
-                "en": "VERBENA HEIGHTS",
-                "zh": "茵怡花園"
+                "en": "VERBENA HEIGHTS (TK476)",
+                "zh": "茵怡花園 (TK476)"
             }
         },
         "4D3C6D74F6AE8C7D": {
@@ -519172,8 +519162,8 @@
                 "lng": 114.201558
             },
             "name": {
-                "en": "PROVIDENCE BAY",
-                "zh": "天賦海灣"
+                "en": "PROVIDENCE BAY (PA204)",
+                "zh": "天賦海灣 (PA204)"
             }
         },
         "4DD9CB2D8C7DB1D8": {
@@ -519242,8 +519232,8 @@
                 "lng": 114.174801
             },
             "name": {
-                "en": "TAI WAI NEW VILLAGE",
-                "zh": "大圍新村"
+                "en": "TAI WAI NEW VILLAGE (TA314)",
+                "zh": "大圍新村 (TA314)"
             }
         },
         "4E279C21A109E9E3": {
@@ -519252,8 +519242,8 @@
                 "lng": 114.252883
             },
             "name": {
-                "en": "TIU KENG LENG",
-                "zh": "調景嶺"
+                "en": "TIU KENG LENG (TK586)",
+                "zh": "調景嶺 (TK586)"
             }
         },
         "4E2C01EAE9535C14": {
@@ -519292,8 +519282,8 @@
                 "lng": 114.184038
             },
             "name": {
-                "en": "CHE KUNG TEMPLE",
-                "zh": "車公廟"
+                "en": "CHE KUNG TEMPLE (TA535)",
+                "zh": "車公廟 (TA535)"
             }
         },
         "4E3FEA4E559A5D16": {
@@ -519332,8 +519322,8 @@
                 "lng": 114.257594
             },
             "name": {
-                "en": "TONG MING COURT",
-                "zh": "唐明苑"
+                "en": "TONG MING COURT (TK105)",
+                "zh": "唐明苑 (TK105)"
             }
         },
         "4E655B25ABAE103A": {
@@ -519372,8 +519362,8 @@
                 "lng": 114.267883
             },
             "name": {
-                "en": "PUNG LOI ROAD",
-                "zh": "蓬萊路"
+                "en": "PUNG LOI ROAD (TK300)",
+                "zh": "蓬萊路 (TK300)"
             }
         },
         "4E870B220826BEE0": {
@@ -519392,8 +519382,8 @@
                 "lng": 114.175185
             },
             "name": {
-                "en": "CARADO GARDEN",
-                "zh": "雲疊花園"
+                "en": "CARADO GARDEN (TA544)",
+                "zh": "雲疊花園 (TA544)"
             }
         },
         "4EA9AA1416D2A374": {
@@ -519462,8 +519452,8 @@
                 "lng": 114.17496
             },
             "name": {
-                "en": "MEI LAM BUS TERMINUS",
-                "zh": "美林巴士總站"
+                "en": "MEI LAM BUS TERMINUS (TA961)",
+                "zh": "美林巴士總站 (TA961)"
             }
         },
         "4ED04A0F5F9FF05F": {
@@ -519542,8 +519532,8 @@
                 "lng": 114.184038
             },
             "name": {
-                "en": "CHE KUNG TEMPLE",
-                "zh": "車公廟"
+                "en": "CHE KUNG TEMPLE (TA536)",
+                "zh": "車公廟 (TA536)"
             }
         },
         "4F36FEF121788834": {
@@ -519712,8 +519702,8 @@
                 "lng": 114.268914
             },
             "name": {
-                "en": "MING TAK ESTATE",
-                "zh": "明德邨"
+                "en": "MING TAK ESTATE (TK426)",
+                "zh": "明德邨 (TK426)"
             }
         },
         "5029C93BB80545B1": {
@@ -520252,8 +520242,8 @@
                 "lng": 114.26906
             },
             "name": {
-                "en": "SHUI BIN TSUEN",
-                "zh": "水邊村"
+                "en": "SHUI BIN TSUEN (TK275)",
+                "zh": "水邊村 (TK275)"
             }
         },
         "5121D0898DB67DCE": {
@@ -520332,8 +520322,8 @@
                 "lng": 114.270317
             },
             "name": {
-                "en": "ST. VINCENT CATHOLIC CHURCH",
-                "zh": "聖雲仙天主堂"
+                "en": "ST. VINCENT CATHOLIC CHURCH (TK261)",
+                "zh": "聖雲仙天主堂 (TK261)"
             }
         },
         "515244AC39630F51": {
@@ -520732,8 +520722,8 @@
                 "lng": 114.174422
             },
             "name": {
-                "en": "SHA TIN HEIGHTS ROAD",
-                "zh": "沙田嶺路"
+                "en": "SHA TIN HEIGHTS ROAD (TA734)",
+                "zh": "沙田嶺路 (TA734)"
             }
         },
         "5264F4D691BA47AD": {
@@ -520772,8 +520762,8 @@
                 "lng": 114.168536
             },
             "name": {
-                "en": "KENG HAU ROAD",
-                "zh": "徑口路"
+                "en": "KENG HAU ROAD (TA312)",
+                "zh": "徑口路 (TA312)"
             }
         },
         "5298A15B8CCAEF42": {
@@ -520812,8 +520802,8 @@
                 "lng": 114.186748
             },
             "name": {
-                "en": "CHUN SHEK ESTATE",
-                "zh": "秦石邨"
+                "en": "CHUN SHEK ESTATE (TA129)",
+                "zh": "秦石邨 (TA129)"
             }
         },
         "52C01B7F122297BD": {
@@ -521012,8 +521002,8 @@
                 "lng": 114.258332
             },
             "name": {
-                "en": "PO HONG PARK",
-                "zh": "寶康公園"
+                "en": "PO HONG PARK (TK155)",
+                "zh": "寶康公園 (TK155)"
             }
         },
         "53AC50E46ABDA85B": {
@@ -521242,8 +521232,8 @@
                 "lng": 114.256218
             },
             "name": {
-                "en": "YING MING COURT",
-                "zh": "英明苑"
+                "en": "YING MING COURT (TK443)",
+                "zh": "英明苑 (TK443)"
             }
         },
         "5453C5D010F3D53A": {
@@ -521372,8 +521362,8 @@
                 "lng": 114.266582
             },
             "name": {
-                "en": "NGAN O ROAD",
-                "zh": "銀澳路"
+                "en": "NGAN O ROAD (TK240)",
+                "zh": "銀澳路 (TK240)"
             }
         },
         "54FF927A38FDC562": {
@@ -521402,8 +521392,8 @@
                 "lng": 114.273023
             },
             "name": {
-                "en": "CHUN KWONG STREET",
-                "zh": "駿光街"
+                "en": "CHUN KWONG STREET (TK515)",
+                "zh": "駿光街 (TK515)"
             }
         },
         "5501654D47E432D4": {
@@ -521452,8 +521442,8 @@
                 "lng": 114.259515
             },
             "name": {
-                "en": "SHEUNG TAK BUS TERMINUS",
-                "zh": "尚德總站"
+                "en": "SHEUNG TAK BUS TERMINUS (TK966)",
+                "zh": "尚德總站 (TK966)"
             }
         },
         "552B7536410F3A51": {
@@ -521462,8 +521452,8 @@
                 "lng": 114.267833
             },
             "name": {
-                "en": "FU NING GARDEN",
-                "zh": "富寧花園"
+                "en": "FU NING GARDEN (TK216)",
+                "zh": "富寧花園 (TK216)"
             }
         },
         "552DA8FCE732ABF0": {
@@ -521992,8 +521982,8 @@
                 "lng": 114.203753
             },
             "name": {
-                "en": "Mayfair by the Sea",
-                "zh": "逸瓏灣"
+                "en": "Mayfair by the Sea (PA150)",
+                "zh": "逸瓏灣 (PA150)"
             }
         },
         "5759B937A26C377E": {
@@ -522092,8 +522082,8 @@
                 "lng": 114.164971
             },
             "name": {
-                "en": "LUK HOP VILLAGE",
-                "zh": "六合村"
+                "en": "LUK HOP VILLAGE (TA737)",
+                "zh": "六合村 (TA737)"
             }
         },
         "57A4742358B804D4": {
@@ -522592,8 +522582,8 @@
                 "lng": 114.172634
             },
             "name": {
-                "en": "HIN TIN PLAYGROUND",
-                "zh": "顯田遊樂場"
+                "en": "HIN TIN PLAYGROUND (TA120)",
+                "zh": "顯田遊樂場 (TA120)"
             }
         },
         "59899C91FD8A9C2F": {
@@ -522982,8 +522972,8 @@
                 "lng": 114.213945
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER",
-                "zh": "馬料水公眾碼頭"
+                "en": "MA LIU SHUI PUBLIC PIER (PA237)",
+                "zh": "馬料水公眾碼頭 (PA237)"
             }
         },
         "5B3C373DE4DCAE6F": {
@@ -523152,8 +523142,8 @@
                 "lng": 114.264333
             },
             "name": {
-                "en": "HANG HAU STATION",
-                "zh": "坑口站"
+                "en": "HANG HAU STATION (TK944)",
+                "zh": "坑口站 (TK944)"
             }
         },
         "5BEC0CCDD7EE4A8C": {
@@ -523262,8 +523252,8 @@
                 "lng": 114.211589
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1)",
-                "zh": "科學園(第一期)"
+                "en": "SCIENCE PARK (PHASE 1) (PA220)",
+                "zh": "科學園(第一期) (PA220)"
             }
         },
         "5C2C6EDCA82F5AF9": {
@@ -523322,8 +523312,8 @@
                 "lng": 114.170565
             },
             "name": {
-                "en": "MEI TIN BUS TERMINUS",
-                "zh": "美田巴士總站"
+                "en": "MEI TIN BUS TERMINUS (TA974)",
+                "zh": "美田巴士總站 (TA974)"
             }
         },
         "5C6534DD562AEF61": {
@@ -524002,8 +523992,8 @@
                 "lng": 114.178154
             },
             "name": {
-                "en": "LUNG HANG ESTATE",
-                "zh": "隆亨邨"
+                "en": "LUNG HANG ESTATE (TA112)",
+                "zh": "隆亨邨 (TA112)"
             }
         },
         "5ED989C30DF49DE4": {
@@ -524092,8 +524082,8 @@
                 "lng": 114.250331
             },
             "name": {
-                "en": "TSUI LAM ESTATE",
-                "zh": "翠林邨"
+                "en": "TSUI LAM ESTATE (TK448)",
+                "zh": "翠林邨 (TK448)"
             }
         },
         "5F319D33896DDC93": {
@@ -524192,8 +524182,8 @@
                 "lng": 114.173333
             },
             "name": {
-                "en": "HIN YEUNG HOUSE HIN KENG ESTATE",
-                "zh": "顯徑邨顯揚樓"
+                "en": "HIN YEUNG HOUSE HIN KENG ESTATE (TA548)",
+                "zh": "顯徑邨顯揚樓 (TA548)"
             }
         },
         "5FBC215F6F58AC98": {
@@ -524572,8 +524562,8 @@
                 "lng": 114.177158
             },
             "name": {
-                "en": "TAI WAI MARKET",
-                "zh": "大圍街市"
+                "en": "TAI WAI MARKET (TA332)",
+                "zh": "大圍街市 (TA332)"
             }
         },
         "610D6DDB5A3E99F1": {
@@ -524662,8 +524652,8 @@
                 "lng": 114.173333
             },
             "name": {
-                "en": "HIN YEUNG HOUSE HIN KENG ESTATE",
-                "zh": "顯徑邨顯揚樓"
+                "en": "HIN YEUNG HOUSE HIN KENG ESTATE (TA547)",
+                "zh": "顯徑邨顯揚樓 (TA547)"
             }
         },
         "613A21BCEF50485D": {
@@ -524822,8 +524812,8 @@
                 "lng": 114.178724
             },
             "name": {
-                "en": "MEI LAM ESTATE",
-                "zh": "美林邨"
+                "en": "MEI LAM ESTATE (TA733)",
+                "zh": "美林邨 (TA733)"
             }
         },
         "61D7306AC40C4FB8": {
@@ -525412,8 +525402,8 @@
                 "lng": 114.214271
             },
             "name": {
-                "en": "WATER SPORTS CENTRE",
-                "zh": "水上活動中心"
+                "en": "WATER SPORTS CENTRE (PA234)",
+                "zh": "水上活動中心 (PA234)"
             }
         },
         "6410DDEFBBD17426": {
@@ -526072,8 +526062,8 @@
                 "lng": 114.184147
             },
             "name": {
-                "en": "CHE KUNG TEMPLE",
-                "zh": "車公廟"
+                "en": "CHE KUNG TEMPLE (TA128)",
+                "zh": "車公廟 (TA128)"
             }
         },
         "65F591143DC7CF9C": {
@@ -526482,8 +526472,8 @@
                 "lng": 114.181313
             },
             "name": {
-                "en": "WORLD WIDE GARDENS",
-                "zh": "世界花園"
+                "en": "WORLD WIDE GARDENS (TA605)",
+                "zh": "世界花園 (TA605)"
             }
         },
         "6762DEA1B89E6354": {
@@ -526742,8 +526732,8 @@
                 "lng": 114.250388
             },
             "name": {
-                "en": "TSUI LAM ESTATE",
-                "zh": "翠林邨"
+                "en": "TSUI LAM ESTATE (TK450)",
+                "zh": "翠林邨 (TK450)"
             }
         },
         "6882248B39345F28": {
@@ -527082,8 +527072,8 @@
                 "lng": 114.26861
             },
             "name": {
-                "en": "YUK MING COURT",
-                "zh": "煜明苑"
+                "en": "YUK MING COURT (TK395)",
+                "zh": "煜明苑 (TK395)"
             }
         },
         "69BBC65EA7215C8F": {
@@ -527092,8 +527082,8 @@
                 "lng": 114.170962
             },
             "name": {
-                "en": "HIN KENG BUS TERMINUS",
-                "zh": "顯徑巴士總站"
+                "en": "HIN KENG BUS TERMINUS (TA935)",
+                "zh": "顯徑巴士總站 (TA935)"
             }
         },
         "69C45315DFA906FC": {
@@ -527172,8 +527162,8 @@
                 "lng": 114.262157
             },
             "name": {
-                "en": "CHUNG MING COURT",
-                "zh": "頌明苑"
+                "en": "CHUNG MING COURT (TK281)",
+                "zh": "頌明苑 (TK281)"
             }
         },
         "6A0B2E48433AE858": {
@@ -527412,8 +527402,8 @@
                 "lng": 114.255396
             },
             "name": {
-                "en": "VERBENA HEIGHTS",
-                "zh": "茵怡花園"
+                "en": "VERBENA HEIGHTS (TK477)",
+                "zh": "茵怡花園 (TK477)"
             }
         },
         "6AEE9093F4E070AD": {
@@ -527732,8 +527722,8 @@
                 "lng": 114.266633
             },
             "name": {
-                "en": "NGAN O ROAD, LA CITE NOBLE",
-                "zh": "銀澳路 新寶城"
+                "en": "NGAN O ROAD, LA CITE NOBLE (TK390)",
+                "zh": "銀澳路 新寶城 (TK390)"
             }
         },
         "6C4DDD9C22580CA2": {
@@ -528002,8 +527992,8 @@
                 "lng": 114.170565
             },
             "name": {
-                "en": "MEI TIN BUS TERMINUS",
-                "zh": "美田巴士總站"
+                "en": "MEI TIN BUS TERMINUS (TA975)",
+                "zh": "美田巴士總站 (TA975)"
             }
         },
         "6D81BF91C256E963": {
@@ -528092,8 +528082,8 @@
                 "lng": 114.172547
             },
             "name": {
-                "en": "MEI CHUEN HOUSE MEI TIN ESTATE",
-                "zh": "美田邨美全樓"
+                "en": "MEI CHUEN HOUSE MEI TIN ESTATE (TA155)",
+                "zh": "美田邨美全樓 (TA155)"
             }
         },
         "6DE63371E5E799BA": {
@@ -528302,8 +528292,8 @@
                 "lng": 114.209304
             },
             "name": {
-                "en": "Hong Kong Science Park Phase 3",
-                "zh": "香港科學園第三期"
+                "en": "Hong Kong Science Park Phase 3 (PA113)",
+                "zh": "香港科學園第三期 (PA113)"
             }
         },
         "6E85D42922E5A10C": {
@@ -528362,8 +528352,8 @@
                 "lng": 114.186089
             },
             "name": {
-                "en": "SUN TIN WAI BUS TERMINUS",
-                "zh": "新田圍巴士總站"
+                "en": "SUN TIN WAI BUS TERMINUS (TA910)",
+                "zh": "新田圍巴士總站 (TA910)"
             }
         },
         "6EAC23CB146AE03C": {
@@ -528872,8 +528862,8 @@
                 "lng": 114.175147
             },
             "name": {
-                "en": "HIN YIU ESTATE",
-                "zh": "顯耀邨"
+                "en": "HIN YIU ESTATE (TA570)",
+                "zh": "顯耀邨 (TA570)"
             }
         },
         "708870108A511AF7": {
@@ -529002,8 +528992,8 @@
                 "lng": 114.262428
             },
             "name": {
-                "en": "BAUHINIA GARDEN",
-                "zh": "寶盈花園"
+                "en": "BAUHINIA GARDEN (TK560)",
+                "zh": "寶盈花園 (TK560)"
             }
         },
         "711A39D02DB2B4D8": {
@@ -529082,8 +529072,8 @@
                 "lng": 114.173687
             },
             "name": {
-                "en": "HIN HING HOUSE HIN KENG ESTATE",
-                "zh": "顯徑邨顯慶樓"
+                "en": "HIN HING HOUSE HIN KENG ESTATE (TA562)",
+                "zh": "顯徑邨顯慶樓 (TA562)"
             }
         },
         "716A72D0EAAC8738": {
@@ -529172,8 +529162,8 @@
                 "lng": 114.185563
             },
             "name": {
-                "en": "SHEK YING HOUSE CHUN SHEK ESTATE",
-                "zh": "秦石邨石瑩樓"
+                "en": "SHEK YING HOUSE CHUN SHEK ESTATE (TA594)",
+                "zh": "秦石邨石瑩樓 (TA594)"
             }
         },
         "719B6A48C203AFBA": {
@@ -529392,8 +529382,8 @@
                 "lng": 114.268881
             },
             "name": {
-                "en": "SHUI BIN TSUEN",
-                "zh": "水邊村"
+                "en": "SHUI BIN TSUEN (TK262)",
+                "zh": "水邊村 (TK262)"
             }
         },
         "7297D36F7092CEFC": {
@@ -529572,8 +529562,8 @@
                 "lng": 114.170565
             },
             "name": {
-                "en": "MEI TIN BUS TERMINUS",
-                "zh": "美田巴士總站"
+                "en": "MEI TIN BUS TERMINUS (TA971)",
+                "zh": "美田巴士總站 (TA971)"
             }
         },
         "7380707A36C032B9": {
@@ -529612,8 +529602,8 @@
                 "lng": 114.213778
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER",
-                "zh": "馬料水公眾碼頭"
+                "en": "MA LIU SHUI PUBLIC PIER (PA100)",
+                "zh": "馬料水公眾碼頭 (PA100)"
             }
         },
         "73A2A03BA9A23247": {
@@ -529812,8 +529802,8 @@
                 "lng": 114.160524
             },
             "name": {
-                "en": "TAI PO ROAD LOOKOUT",
-                "zh": "大埔道眺望處"
+                "en": "TAI PO ROAD LOOKOUT (TA738)",
+                "zh": "大埔道眺望處 (TA738)"
             }
         },
         "7459D3AB11AFD6B5": {
@@ -529852,8 +529842,8 @@
                 "lng": 114.201372
             },
             "name": {
-                "en": "PAK SHEK KOK SUBSTATION",
-                "zh": "白石角變電站"
+                "en": "PAK SHEK KOK SUBSTATION (PA201)",
+                "zh": "白石角變電站 (PA201)"
             }
         },
         "7467287ACB876529": {
@@ -529912,8 +529902,8 @@
                 "lng": 114.256144
             },
             "name": {
-                "en": "YING MING COURT",
-                "zh": "英明苑"
+                "en": "YING MING COURT (TK204)",
+                "zh": "英明苑 (TK204)"
             }
         },
         "74A2E12A2DC55FE0": {
@@ -530242,8 +530232,8 @@
                 "lng": 114.269142
             },
             "name": {
-                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北)(將軍澳醫院)"
+                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL) (TK954)",
+                "zh": "坑口(北)(將軍澳醫院) (TK954)"
             }
         },
         "75EF762BDAB6F5C3": {
@@ -530302,8 +530292,8 @@
                 "lng": 114.26429
             },
             "name": {
-                "en": "HAU TAK ESTATE",
-                "zh": "厚德邨"
+                "en": "HAU TAK ESTATE (TK215)",
+                "zh": "厚德邨 (TK215)"
             }
         },
         "7616C33B0351F02D": {
@@ -530392,8 +530382,8 @@
                 "lng": 114.268995
             },
             "name": {
-                "en": "MING TAK ESTATE",
-                "zh": "明德邨"
+                "en": "MING TAK ESTATE (TK425)",
+                "zh": "明德邨 (TK425)"
             }
         },
         "76AB9046AC5C4DFF": {
@@ -530572,8 +530562,8 @@
                 "lng": 114.178788
             },
             "name": {
-                "en": "MEI LAM ESTATE",
-                "zh": "美林邨"
+                "en": "MEI LAM ESTATE (TA732)",
+                "zh": "美林邨 (TA732)"
             }
         },
         "774D2D2447DEA064": {
@@ -530652,8 +530642,8 @@
                 "lng": 114.180578
             },
             "name": {
-                "en": "SUN CHUI BUS TERMINUS",
-                "zh": "新翠巴士總站"
+                "en": "SUN CHUI BUS TERMINUS (TA921)",
+                "zh": "新翠巴士總站 (TA921)"
             }
         },
         "779954C17EAF3B95": {
@@ -530912,8 +530902,8 @@
                 "lng": 114.270815
             },
             "name": {
-                "en": "TSEUNG KWAN O HOSPITAL",
-                "zh": "將軍澳醫院"
+                "en": "TSEUNG KWAN O HOSPITAL (TK260)",
+                "zh": "將軍澳醫院 (TK260)"
             }
         },
         "78B21BFA082E3A4F": {
@@ -531082,8 +531072,8 @@
                 "lng": 114.257611
             },
             "name": {
-                "en": "PO LAM BUS TERMINUS",
-                "zh": "寶林總站"
+                "en": "PO LAM BUS TERMINUS (TK930)",
+                "zh": "寶林總站 (TK930)"
             }
         },
         "797CC0222B9EFBEF": {
@@ -531232,8 +531222,8 @@
                 "lng": 114.203338
             },
             "name": {
-                "en": "St MARTIN",
-                "zh": "雲滙"
+                "en": "St MARTIN (PA127)",
+                "zh": "雲滙 (PA127)"
             }
         },
         "7A1C43F91CF8A6FC": {
@@ -532032,8 +532022,8 @@
                 "lng": 114.263897
             },
             "name": {
-                "en": "PUI SHING ROAD",
-                "zh": "培成路"
+                "en": "PUI SHING ROAD (TK254)",
+                "zh": "培成路 (TK254)"
             }
         },
         "7E177E3E89B58BFE": {
@@ -532122,8 +532112,8 @@
                 "lng": 114.264563
             },
             "name": {
-                "en": "HANG HAU STATION",
-                "zh": "坑口站"
+                "en": "HANG HAU STATION (TK942)",
+                "zh": "坑口站 (TK942)"
             }
         },
         "7E5AE4AB3F36BAEF": {
@@ -532162,8 +532152,8 @@
                 "lng": 114.186118
             },
             "name": {
-                "en": "SUN TIN WAI BUS TERMINUS",
-                "zh": "新田圍巴士總站"
+                "en": "SUN TIN WAI BUS TERMINUS (TA911)",
+                "zh": "新田圍巴士總站 (TA911)"
             }
         },
         "7EA4C557505395EF": {
@@ -532932,8 +532922,8 @@
                 "lng": 114.272574
             },
             "name": {
-                "en": "PAK SHING KOK",
-                "zh": "百勝角"
+                "en": "PAK SHING KOK (TK301)",
+                "zh": "百勝角 (TK301)"
             }
         },
         "81631C6B0F2D1843": {
@@ -533202,8 +533192,8 @@
                 "lng": 114.176057
             },
             "name": {
-                "en": "TAI WAI ROAD",
-                "zh": "大圍道"
+                "en": "TAI WAI ROAD (TA300)",
+                "zh": "大圍道 (TA300)"
             }
         },
         "8249FC875132E1FA": {
@@ -533272,8 +533262,8 @@
                 "lng": 114.175483
             },
             "name": {
-                "en": "CARADO GARDEN",
-                "zh": "雲叠花園"
+                "en": "CARADO GARDEN (TA546)",
+                "zh": "雲叠花園 (TA546)"
             }
         },
         "82A8D65E4B7DA67C": {
@@ -533782,8 +533772,8 @@
                 "lng": 114.176533
             },
             "name": {
-                "en": "TAI WAI ROAD",
-                "zh": "大圍道"
+                "en": "TAI WAI ROAD (TA747)",
+                "zh": "大圍道 (TA747)"
             }
         },
         "84891259878A06F5": {
@@ -533802,8 +533792,8 @@
                 "lng": 114.252091
             },
             "name": {
-                "en": "PO LAM FIRE STATION",
-                "zh": "寶林消防局"
+                "en": "PO LAM FIRE STATION (TK203)",
+                "zh": "寶林消防局 (TK203)"
             }
         },
         "849062B1454057E3": {
@@ -534012,8 +534002,8 @@
                 "lng": 114.214271
             },
             "name": {
-                "en": "WATER SPORTS CENTRE",
-                "zh": "水上活動中心"
+                "en": "WATER SPORTS CENTRE (PA236)",
+                "zh": "水上活動中心 (PA236)"
             }
         },
         "854BC3A8D4DE6AA9": {
@@ -534592,8 +534582,8 @@
                 "lng": 114.178432
             },
             "name": {
-                "en": "LUNG HANG ESTATE",
-                "zh": "隆亨邨"
+                "en": "LUNG HANG ESTATE (TA571)",
+                "zh": "隆亨邨 (TA571)"
             }
         },
         "87825C8E4FE99CD8": {
@@ -534672,8 +534662,8 @@
                 "lng": 114.267833
             },
             "name": {
-                "en": "FU NING GARDEN",
-                "zh": "富寧花園"
+                "en": "FU NING GARDEN (TK218)",
+                "zh": "富寧花園 (TK218)"
             }
         },
         "87D6AA0759B66B69": {
@@ -534772,8 +534762,8 @@
                 "lng": 114.256451
             },
             "name": {
-                "en": "PO HONG PARK",
-                "zh": "寶康公園"
+                "en": "PO HONG PARK (TK478)",
+                "zh": "寶康公園 (TK478)"
             }
         },
         "884300BD53E9D626": {
@@ -534892,8 +534882,8 @@
                 "lng": 114.18754
             },
             "name": {
-                "en": "FOO WAI HOUSE SUN TIN WAI ESTATE",
-                "zh": "新田圍邨富圍樓"
+                "en": "FOO WAI HOUSE SUN TIN WAI ESTATE (TA591)",
+                "zh": "新田圍邨富圍樓 (TA591)"
             }
         },
         "88B010581BF4B96C": {
@@ -535082,8 +535072,8 @@
                 "lng": 114.158235
             },
             "name": {
-                "en": "KOWLOON RESERVOIR",
-                "zh": "九龍水塘"
+                "en": "KOWLOON RESERVOIR (TA309)",
+                "zh": "九龍水塘 (TA309)"
             }
         },
         "896D3C4F7F91E9C9": {
@@ -535792,8 +535782,8 @@
                 "lng": 114.259112
             },
             "name": {
-                "en": "TONG MING STREET PARK",
-                "zh": "唐明街公園"
+                "en": "TONG MING STREET PARK (TK108)",
+                "zh": "唐明街公園 (TK108)"
             }
         },
         "8CCC6A9A25E82BCF": {
@@ -536062,8 +536052,8 @@
                 "lng": 114.26927
             },
             "name": {
-                "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北) (將軍澳醫院)"
+                "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL) (TK951)",
+                "zh": "坑口(北) (將軍澳醫院) (TK951)"
             }
         },
         "8E3A5C15E42020BB": {
@@ -536602,8 +536592,8 @@
                 "lng": 114.214271
             },
             "name": {
-                "en": "WATER SPORTS CENTRE",
-                "zh": "水上活動中心"
+                "en": "WATER SPORTS CENTRE (PA235)",
+                "zh": "水上活動中心 (PA235)"
             }
         },
         "90901971846A40E7": {
@@ -536682,8 +536672,8 @@
                 "lng": 114.170565
             },
             "name": {
-                "en": "MEI TIN BUS TERMINUS",
-                "zh": "美田巴士總站"
+                "en": "MEI TIN BUS TERMINUS (TA970)",
+                "zh": "美田巴士總站 (TA970)"
             }
         },
         "90C3A9DB72F244DE": {
@@ -536982,8 +536972,8 @@
                 "lng": 114.270292
             },
             "name": {
-                "en": "T.K.O. INDUSTRIAL ESTATE BUS TERMINUS",
-                "zh": "將軍澳工業邨巴士總站"
+                "en": "T.K.O. INDUSTRIAL ESTATE BUS TERMINUS (TK993)",
+                "zh": "將軍澳工業邨巴士總站 (TK993)"
             }
         },
         "91C7F46612ADD9EF": {
@@ -537112,8 +537102,8 @@
                 "lng": 114.176045
             },
             "name": {
-                "en": "MEI WAI HOUSE MEI LAM ESTATE",
-                "zh": "美林邨美槐樓"
+                "en": "MEI WAI HOUSE MEI LAM ESTATE (TA330)",
+                "zh": "美林邨美槐樓 (TA330)"
             }
         },
         "924FE4A6F2501116": {
@@ -537152,8 +537142,8 @@
                 "lng": 114.265837
             },
             "name": {
-                "en": "CHUNG WA ROAD, EAST POINT CITY",
-                "zh": "重華路 東港城"
+                "en": "CHUNG WA ROAD, EAST POINT CITY (TK230)",
+                "zh": "重華路 東港城 (TK230)"
             }
         },
         "92680F8CE20F8FDB": {
@@ -537252,8 +537242,8 @@
                 "lng": 114.269338
             },
             "name": {
-                "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北) (將軍澳醫院)"
+                "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL) (TK950)",
+                "zh": "坑口(北) (將軍澳醫院) (TK950)"
             }
         },
         "92C62E07455F7C6C": {
@@ -537342,8 +537332,8 @@
                 "lng": 114.250222
             },
             "name": {
-                "en": "TSUI LAM ESTATE",
-                "zh": "翠林邨"
+                "en": "TSUI LAM ESTATE (TK201)",
+                "zh": "翠林邨 (TK201)"
             }
         },
         "9335E0F061724158": {
@@ -537382,8 +537372,8 @@
                 "lng": 114.151161
             },
             "name": {
-                "en": "CALDECOTT ROAD",
-                "zh": "郝德傑道"
+                "en": "CALDECOTT ROAD (TA741)",
+                "zh": "郝德傑道 (TA741)"
             }
         },
         "937CA381A981989F": {
@@ -537412,8 +537402,8 @@
                 "lng": 114.251711
             },
             "name": {
-                "en": "CHOI MING BUS TERMINUS",
-                "zh": "彩明總站"
+                "en": "CHOI MING BUS TERMINUS (TK916)",
+                "zh": "彩明總站 (TK916)"
             }
         },
         "9386CDB16D533E27": {
@@ -537802,8 +537792,8 @@
                 "lng": 114.186187
             },
             "name": {
-                "en": "CHUN SHEK ESTATE",
-                "zh": "秦石邨"
+                "en": "CHUN SHEK ESTATE (TA131)",
+                "zh": "秦石邨 (TA131)"
             }
         },
         "94BA9F1C0A85C1B3": {
@@ -538082,8 +538072,8 @@
                 "lng": 114.178154
             },
             "name": {
-                "en": "LUNG HANG ESTATE",
-                "zh": "隆亨邨"
+                "en": "LUNG HANG ESTATE (TA111)",
+                "zh": "隆亨邨 (TA111)"
             }
         },
         "95C538941C437656": {
@@ -538712,8 +538702,8 @@
                 "lng": 114.153453
             },
             "name": {
-                "en": "SHEK LEI PUI RESERVOIR",
-                "zh": "石梨貝水塘"
+                "en": "SHEK LEI PUI RESERVOIR (TA740)",
+                "zh": "石梨貝水塘 (TA740)"
             }
         },
         "98735B91CBE6B102": {
@@ -538752,8 +538742,8 @@
                 "lng": 114.260334
             },
             "name": {
-                "en": "KWONG MING COURT",
-                "zh": "廣明苑"
+                "en": "KWONG MING COURT (TK126)",
+                "zh": "廣明苑 (TK126)"
             }
         },
         "98927BE83CD53CC3": {
@@ -539072,8 +539062,8 @@
                 "lng": 114.267833
             },
             "name": {
-                "en": "FU NING GARDEN",
-                "zh": "富寧花園"
+                "en": "FU NING GARDEN (TK217)",
+                "zh": "富寧花園 (TK217)"
             }
         },
         "99A50A96B5A4DE22": {
@@ -539122,8 +539112,8 @@
                 "lng": 114.178487
             },
             "name": {
-                "en": "LUNG HANG ESTATE",
-                "zh": "隆亨邨"
+                "en": "LUNG HANG ESTATE (TA572)",
+                "zh": "隆亨邨 (TA572)"
             }
         },
         "99DF5E49CC03AEEB": {
@@ -539382,8 +539372,8 @@
                 "lng": 114.265927
             },
             "name": {
-                "en": "CHUNG WA ROAD, EAST POINT CITY",
-                "zh": "重華路 東港城"
+                "en": "CHUNG WA ROAD, EAST POINT CITY (TK232)",
+                "zh": "重華路 東港城 (TK232)"
             }
         },
         "9B07890D73E13AE4": {
@@ -539542,8 +539532,8 @@
                 "lng": 114.25608
             },
             "name": {
-                "en": "YING MING COURT",
-                "zh": "英明苑"
+                "en": "YING MING COURT (TK445)",
+                "zh": "英明苑 (TK445)"
             }
         },
         "9BA601064A2EF221": {
@@ -539612,8 +539602,8 @@
                 "lng": 114.175483
             },
             "name": {
-                "en": "CARADO GARDEN",
-                "zh": "雲疊花園"
+                "en": "CARADO GARDEN (TA545)",
+                "zh": "雲疊花園 (TA545)"
             }
         },
         "9C1D2401E1E06544": {
@@ -539662,8 +539652,8 @@
                 "lng": 114.212396
             },
             "name": {
-                "en": "HONG KONG SCIENCE PARK",
-                "zh": "香港科學園"
+                "en": "HONG KONG SCIENCE PARK (PA111)",
+                "zh": "香港科學園 (PA111)"
             }
         },
         "9C839C3824F47A6A": {
@@ -539852,8 +539842,8 @@
                 "lng": 114.259045
             },
             "name": {
-                "en": "TONG MING STREET PARK",
-                "zh": "唐明街公園"
+                "en": "TONG MING STREET PARK (TK107)",
+                "zh": "唐明街公園 (TK107)"
             }
         },
         "9D249890C4EB5901": {
@@ -539912,8 +539902,8 @@
                 "lng": 114.157953
             },
             "name": {
-                "en": "KOWLOON RESERVOIR",
-                "zh": "九龍水塘"
+                "en": "KOWLOON RESERVOIR (TA739)",
+                "zh": "九龍水塘 (TA739)"
             }
         },
         "9D5EC5BD0A116058": {
@@ -539982,8 +539972,8 @@
                 "lng": 114.257922
             },
             "name": {
-                "en": "PO LAM BUS TERMINUS",
-                "zh": "寶林總站"
+                "en": "PO LAM BUS TERMINUS (TK926)",
+                "zh": "寶林總站 (TK926)"
             }
         },
         "9DA0D713E35F6BA7": {
@@ -540052,8 +540042,8 @@
                 "lng": 114.259098
             },
             "name": {
-                "en": "YAN MING COURT",
-                "zh": "欣明苑"
+                "en": "YAN MING COURT (TK440)",
+                "zh": "欣明苑 (TK440)"
             }
         },
         "9DCBD34740D95B23": {
@@ -540272,8 +540262,8 @@
                 "lng": 114.178845
             },
             "name": {
-                "en": "MEI LAM ESTATE",
-                "zh": "美林邨"
+                "en": "MEI LAM ESTATE (TA730)",
+                "zh": "美林邨 (TA730)"
             }
         },
         "9E376227A51AB6BE": {
@@ -540322,8 +540312,8 @@
                 "lng": 114.168089
             },
             "name": {
-                "en": "KENG HAU ROAD",
-                "zh": "徑口路"
+                "en": "KENG HAU ROAD (TA736)",
+                "zh": "徑口路 (TA736)"
             }
         },
         "9E54416DFC0C7B68": {
@@ -540392,8 +540382,8 @@
                 "lng": 114.21425
             },
             "name": {
-                "en": "WATER SPORTS CENTRE",
-                "zh": "水上活動中心"
+                "en": "WATER SPORTS CENTRE (PA104)",
+                "zh": "水上活動中心 (PA104)"
             }
         },
         "9E970734315233A2": {
@@ -540522,8 +540512,8 @@
                 "lng": 114.213778
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER",
-                "zh": "馬料水公眾碼頭"
+                "en": "MA LIU SHUI PUBLIC PIER (PA101)",
+                "zh": "馬料水公眾碼頭 (PA101)"
             }
         },
         "9F72AC7E3C3CE65C": {
@@ -540932,8 +540922,8 @@
                 "lng": 114.214179
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
-                "zh": "香港生物科技研究院"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (PA232)",
+                "zh": "香港生物科技研究院 (PA232)"
             }
         },
         "A0DC5DA3E06ADFC9": {
@@ -541282,8 +541272,8 @@
                 "lng": 114.257952
             },
             "name": {
-                "en": "PARK CENTRAL",
-                "zh": "將軍澳中心"
+                "en": "PARK CENTRAL (TK563)",
+                "zh": "將軍澳中心 (TK563)"
             }
         },
         "A1C65E46464147A0": {
@@ -541482,8 +541472,8 @@
                 "lng": 114.175431
             },
             "name": {
-                "en": "HA KENG HAU VILLAGE",
-                "zh": "下徑口村"
+                "en": "HA KENG HAU VILLAGE (TA116)",
+                "zh": "下徑口村 (TA116)"
             }
         },
         "A2908CBEAA7D4C73": {
@@ -541592,8 +541582,8 @@
                 "lng": 114.264026
             },
             "name": {
-                "en": "PUI SHING ROAD, NAN FUNG PLAZA",
-                "zh": "培成路 南豐廣場"
+                "en": "PUI SHING ROAD, NAN FUNG PLAZA (TK250)",
+                "zh": "培成路 南豐廣場 (TK250)"
             }
         },
         "A334D0EC59D94F8D": {
@@ -541612,8 +541602,8 @@
                 "lng": 114.200812
             },
             "name": {
-                "en": "PAK SHEK KOK SUBSTATION",
-                "zh": "白石角變電站"
+                "en": "PAK SHEK KOK SUBSTATION (PA130)",
+                "zh": "白石角變電站 (PA130)"
             }
         },
         "A33E576A3F6DDCA9": {
@@ -541652,8 +541642,8 @@
                 "lng": 114.176755
             },
             "name": {
-                "en": "HOLFORD GARDEN",
-                "zh": "海福花園"
+                "en": "HOLFORD GARDEN (TA145)",
+                "zh": "海福花園 (TA145)"
             }
         },
         "A3658E938F378588": {
@@ -541682,8 +541672,8 @@
                 "lng": 114.187222
             },
             "name": {
-                "en": "CHUN SHEK BUS TERMINUS",
-                "zh": "秦石巴士總站"
+                "en": "CHUN SHEK BUS TERMINUS (TA902)",
+                "zh": "秦石巴士總站 (TA902)"
             }
         },
         "A37BEF9605484BC3": {
@@ -541792,8 +541782,8 @@
                 "lng": 114.20845
             },
             "name": {
-                "en": "FO YIN ROAD",
-                "zh": "科研路"
+                "en": "FO YIN ROAD (PA217)",
+                "zh": "科研路 (PA217)"
             }
         },
         "A3F6D2CA9135A988": {
@@ -542132,8 +542122,8 @@
                 "lng": 114.254139
             },
             "name": {
-                "en": "HONG SING GARDEN BUS TERMINUS",
-                "zh": "康盛花園巴士總站"
+                "en": "HONG SING GARDEN BUS TERMINUS (TK901)",
+                "zh": "康盛花園巴士總站 (TK901)"
             }
         },
         "A552AA2858C2E0F2": {
@@ -542152,8 +542142,8 @@
                 "lng": 114.152734
             },
             "name": {
-                "en": "SHEK LEI PUI RESERVOIR",
-                "zh": "石梨貝水塘"
+                "en": "SHEK LEI PUI RESERVOIR (TA308)",
+                "zh": "石梨貝水塘 (TA308)"
             }
         },
         "A56DA623B00B162E": {
@@ -542252,8 +542242,8 @@
                 "lng": 114.253883
             },
             "name": {
-                "en": "HONG SING GARDEN BUS TERMINUS",
-                "zh": "康盛花園巴士總站"
+                "en": "HONG SING GARDEN BUS TERMINUS (TK900)",
+                "zh": "康盛花園巴士總站 (TK900)"
             }
         },
         "A5BF509DD18069D4": {
@@ -542282,8 +542272,8 @@
                 "lng": 114.178535
             },
             "name": {
-                "en": "LUNG HANG ESTATE",
-                "zh": "隆亨邨"
+                "en": "LUNG HANG ESTATE (TA573)",
+                "zh": "隆亨邨 (TA573)"
             }
         },
         "A5C65B0A68257CF1": {
@@ -542342,8 +542332,8 @@
                 "lng": 114.213945
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER",
-                "zh": "馬料水公眾碼頭"
+                "en": "MA LIU SHUI PUBLIC PIER (PA239)",
+                "zh": "馬料水公眾碼頭 (PA239)"
             }
         },
         "A6013462EAC8AA50": {
@@ -543452,8 +543442,8 @@
                 "lng": 114.209304
             },
             "name": {
-                "en": "HONG KONG SCIENCE PARK PHASE 3",
-                "zh": "香港科學園第三期"
+                "en": "HONG KONG SCIENCE PARK PHASE 3 (PA115)",
+                "zh": "香港科學園第三期 (PA115)"
             }
         },
         "A9478A97C59FE581": {
@@ -543462,8 +543452,8 @@
                 "lng": 114.266529
             },
             "name": {
-                "en": "OSCAR BY THE SEA",
-                "zh": "清水灣半島"
+                "en": "OSCAR BY THE SEA (TK550)",
+                "zh": "清水灣半島 (TK550)"
             }
         },
         "A95174A6FE24B3A6": {
@@ -543742,8 +543732,8 @@
                 "lng": 114.258869
             },
             "name": {
-                "en": "TSEUNG KWAN O SWIMMING POOL",
-                "zh": "將軍澳游泳池"
+                "en": "TSEUNG KWAN O SWIMMING POOL (TK485)",
+                "zh": "將軍澳游泳池 (TK485)"
             }
         },
         "AA62C03711F778F2": {
@@ -543892,8 +543882,8 @@
                 "lng": 114.180817
             },
             "name": {
-                "en": "TUNG LO WAN VILLAGE",
-                "zh": "銅鑼灣村"
+                "en": "TUNG LO WAN VILLAGE (TA728)",
+                "zh": "銅鑼灣村 (TA728)"
             }
         },
         "AB021611E13B83E5": {
@@ -544022,8 +544012,8 @@
                 "lng": 114.177258
             },
             "name": {
-                "en": "TAI WAI MARKET",
-                "zh": "大圍街市"
+                "en": "TAI WAI MARKET (TA334)",
+                "zh": "大圍街市 (TA334)"
             }
         },
         "AB5CF1D729028A16": {
@@ -544032,8 +544022,8 @@
                 "lng": 114.259043
             },
             "name": {
-                "en": "TONG MING STREET PARK",
-                "zh": "唐明街公園"
+                "en": "TONG MING STREET PARK (TK575)",
+                "zh": "唐明街公園 (TK575)"
             }
         },
         "AB63C9E8465C6002": {
@@ -544112,8 +544102,8 @@
                 "lng": 114.254072
             },
             "name": {
-                "en": "HONG SING GARDEN",
-                "zh": "康盛花園"
+                "en": "HONG SING GARDEN (TK200)",
+                "zh": "康盛花園 (TK200)"
             }
         },
         "ABDD74161F650B6E": {
@@ -544222,8 +544212,8 @@
                 "lng": 114.175018
             },
             "name": {
-                "en": "HIN PUI HOUSE HIN KENG ESTATE",
-                "zh": "顯徑邨顯沛樓"
+                "en": "HIN PUI HOUSE HIN KENG ESTATE (TA563)",
+                "zh": "顯徑邨顯沛樓 (TA563)"
             }
         },
         "AC30AF0DFC95D507": {
@@ -544282,8 +544272,8 @@
                 "lng": 114.255628
             },
             "name": {
-                "en": "LEUNG KIT WAH PRIMARY SCHOOL",
-                "zh": "梁潔華小學"
+                "en": "LEUNG KIT WAH PRIMARY SCHOOL (TK468)",
+                "zh": "梁潔華小學 (TK468)"
             }
         },
         "AC8828CF13B8AA49": {
@@ -544492,8 +544482,8 @@
                 "lng": 114.268925
             },
             "name": {
-                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北)(將軍澳醫院)"
+                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL) (TK955)",
+                "zh": "坑口(北)(將軍澳醫院) (TK955)"
             }
         },
         "AD4CB5E1CAAF8063": {
@@ -544852,8 +544842,8 @@
                 "lng": 114.170821
             },
             "name": {
-                "en": "HIN KENG BUS TERMINUS",
-                "zh": "顯徑巴士總站"
+                "en": "HIN KENG BUS TERMINUS (TA931)",
+                "zh": "顯徑巴士總站 (TA931)"
             }
         },
         "AF03F8EECD52F273": {
@@ -544862,8 +544852,8 @@
                 "lng": 114.175978
             },
             "name": {
-                "en": "CHIK FAI STREET",
-                "zh": "積輝街"
+                "en": "CHIK FAI STREET (TA146)",
+                "zh": "積輝街 (TA146)"
             }
         },
         "AF049AE41CC182FC": {
@@ -544892,8 +544882,8 @@
                 "lng": 114.265966
             },
             "name": {
-                "en": "CHUNG WA ROAD, EAST POINT CITY",
-                "zh": "重華路 東港城"
+                "en": "CHUNG WA ROAD, EAST POINT CITY (TK233)",
+                "zh": "重華路 東港城 (TK233)"
             }
         },
         "AF36CBF039B7CB03": {
@@ -544902,8 +544892,8 @@
                 "lng": 114.263958
             },
             "name": {
-                "en": "PUI SHING ROAD, NAN FUNG PLAZA",
-                "zh": "培成路 南豐廣場"
+                "en": "PUI SHING ROAD, NAN FUNG PLAZA (TK252)",
+                "zh": "培成路 南豐廣場 (TK252)"
             }
         },
         "AF3BDAE9EB45140B": {
@@ -544932,8 +544922,8 @@
                 "lng": 114.178459
             },
             "name": {
-                "en": "MEI TAO HOUSE MEI LAM ESTATE",
-                "zh": "美林邨美桃樓"
+                "en": "MEI TAO HOUSE MEI LAM ESTATE (TA316)",
+                "zh": "美林邨美桃樓 (TA316)"
             }
         },
         "AF639F3CE03AAC5C": {
@@ -545152,8 +545142,8 @@
                 "lng": 114.264483
             },
             "name": {
-                "en": "HANG HAU STATION",
-                "zh": "坑口站"
+                "en": "HANG HAU STATION (TK943)",
+                "zh": "坑口站 (TK943)"
             }
         },
         "B02B0B9F73E50D93": {
@@ -545442,8 +545432,8 @@
                 "lng": 114.187141
             },
             "name": {
-                "en": "CHUN SHEK BUS TERMINUS",
-                "zh": "秦石巴士總站"
+                "en": "CHUN SHEK BUS TERMINUS (TA900)",
+                "zh": "秦石巴士總站 (TA900)"
             }
         },
         "B11E10F012C57433": {
@@ -545652,8 +545642,8 @@
                 "lng": 114.174167
             },
             "name": {
-                "en": "MEI FAI STREET",
-                "zh": "美輝街"
+                "en": "MEI FAI STREET (TA150)",
+                "zh": "美輝街 (TA150)"
             }
         },
         "B241331CC87A36D4": {
@@ -545902,8 +545892,8 @@
                 "lng": 114.204981
             },
             "name": {
-                "en": "CHONG SAN ROAD",
-                "zh": "創新路"
+                "en": "CHONG SAN ROAD (PA212)",
+                "zh": "創新路 (PA212)"
             }
         },
         "B37FC6600B2254B6": {
@@ -546082,8 +546072,8 @@
                 "lng": 114.272496
             },
             "name": {
-                "en": "THE BEAUMOUNT / LOHAS PARK",
-                "zh": "峻瀅 日出康城"
+                "en": "THE BEAUMOUNT / LOHAS PARK (TK302)",
+                "zh": "峻瀅 日出康城 (TK302)"
             }
         },
         "B3F486EAD0CE8187": {
@@ -546172,8 +546162,8 @@
                 "lng": 114.20845
             },
             "name": {
-                "en": "FO YIN ROAD",
-                "zh": "科研路"
+                "en": "FO YIN ROAD (PA216)",
+                "zh": "科研路 (PA216)"
             }
         },
         "B471F4B9E9CB6DB7": {
@@ -546352,8 +546342,8 @@
                 "lng": 114.201558
             },
             "name": {
-                "en": "PROVIDENCE BAY",
-                "zh": "天賦海灣"
+                "en": "PROVIDENCE BAY (PA205)",
+                "zh": "天賦海灣 (PA205)"
             }
         },
         "B4EBE05A59376062": {
@@ -546442,8 +546432,8 @@
                 "lng": 114.259778
             },
             "name": {
-                "en": "TSEUNG KWAN O STATION",
-                "zh": "將軍澳站"
+                "en": "TSEUNG KWAN O STATION (TK121)",
+                "zh": "將軍澳站 (TK121)"
             }
         },
         "B55B2A016DD04490": {
@@ -546612,8 +546602,8 @@
                 "lng": 114.257389
             },
             "name": {
-                "en": "PARK CENTRAL",
-                "zh": "將軍澳中心"
+                "en": "PARK CENTRAL (TK562)",
+                "zh": "將軍澳中心 (TK562)"
             }
         },
         "B618AF0918FC2598": {
@@ -546652,8 +546642,8 @@
                 "lng": 114.20845
             },
             "name": {
-                "en": "FO YIN ROAD",
-                "zh": "科研路"
+                "en": "FO YIN ROAD (PA215)",
+                "zh": "科研路 (PA215)"
             }
         },
         "B64E0F355A9F4223": {
@@ -546662,8 +546652,8 @@
                 "lng": 114.256904
             },
             "name": {
-                "en": "PO KIM HOUSE",
-                "zh": "寶儉樓"
+                "en": "PO KIM HOUSE (TK140)",
+                "zh": "寶儉樓 (TK140)"
             }
         },
         "B64EEA7F564C7853": {
@@ -546922,8 +546912,8 @@
                 "lng": 114.273376
             },
             "name": {
-                "en": "LE PRESTIGE LOHAS PARK",
-                "zh": "日出康城領都"
+                "en": "LE PRESTIGE LOHAS PARK (TK531)",
+                "zh": "日出康城領都 (TK531)"
             }
         },
         "B763C84D964B44BA": {
@@ -547102,8 +547092,8 @@
                 "lng": 114.185537
             },
             "name": {
-                "en": "SHEK YING HOUSE CHUN SHEK ESTATE",
-                "zh": "秦石邨石瑩樓"
+                "en": "SHEK YING HOUSE CHUN SHEK ESTATE (TA580)",
+                "zh": "秦石邨石瑩樓 (TA580)"
             }
         },
         "B8287EA10FCA0837": {
@@ -547252,8 +547242,8 @@
                 "lng": 114.255803
             },
             "name": {
-                "en": "YING MING COURT",
-                "zh": "英明苑"
+                "en": "YING MING COURT (TK442)",
+                "zh": "英明苑 (TK442)"
             }
         },
         "B8B6E6DFE61EFC51": {
@@ -547342,8 +547332,8 @@
                 "lng": 114.180516
             },
             "name": {
-                "en": "WORLD WIDE GARDENS",
-                "zh": "世界花園"
+                "en": "WORLD WIDE GARDENS (TA101)",
+                "zh": "世界花園 (TA101)"
             }
         },
         "B8F350418F7013A7": {
@@ -547532,8 +547522,8 @@
                 "lng": 114.25983
             },
             "name": {
-                "en": "YAN MING COURT",
-                "zh": "欣明苑"
+                "en": "YAN MING COURT (TK437)",
+                "zh": "欣明苑 (TK437)"
             }
         },
         "B97CC3668C3AD911": {
@@ -547642,8 +547632,8 @@
                 "lng": 114.259012
             },
             "name": {
-                "en": "YAN MING COURT",
-                "zh": "欣明苑"
+                "en": "YAN MING COURT (TK441)",
+                "zh": "欣明苑 (TK441)"
             }
         },
         "B9DFF2C142DCE309": {
@@ -547882,8 +547872,8 @@
                 "lng": 114.172557
             },
             "name": {
-                "en": "HIN TIN VILLAGE",
-                "zh": "顯田村"
+                "en": "HIN TIN VILLAGE (TA118)",
+                "zh": "顯田村 (TA118)"
             }
         },
         "BAA5C48341F400C8": {
@@ -548182,8 +548172,8 @@
                 "lng": 114.17105
             },
             "name": {
-                "en": "HIN KENG BUS TERMINUS",
-                "zh": "顯徑巴士總站"
+                "en": "HIN KENG BUS TERMINUS (TA933)",
+                "zh": "顯徑巴士總站 (TA933)"
             }
         },
         "BC280265AF2BEB66": {
@@ -548282,8 +548272,8 @@
                 "lng": 114.250283
             },
             "name": {
-                "en": "TSUI LAM ESTATE",
-                "zh": "翠林邨"
+                "en": "TSUI LAM ESTATE (TK202)",
+                "zh": "翠林邨 (TK202)"
             }
         },
         "BC68B9C32B4267AB": {
@@ -548632,8 +548622,8 @@
                 "lng": 114.174948
             },
             "name": {
-                "en": "FESTIVAL CITY",
-                "zh": "名城"
+                "en": "FESTIVAL CITY (TA122)",
+                "zh": "名城 (TA122)"
             }
         },
         "BE4DB8D578A94BEF": {
@@ -548682,8 +548672,8 @@
                 "lng": 114.176855
             },
             "name": {
-                "en": "HOLFORD GARDEN",
-                "zh": "海福花園"
+                "en": "HOLFORD GARDEN (TA142)",
+                "zh": "海福花園 (TA142)"
             }
         },
         "BE5E07865E13374E": {
@@ -548702,8 +548692,8 @@
                 "lng": 114.213945
             },
             "name": {
-                "en": "MA LIU SHUI PUBLIC PIER",
-                "zh": "馬料水公眾碼頭"
+                "en": "MA LIU SHUI PUBLIC PIER (PA238)",
+                "zh": "馬料水公眾碼頭 (PA238)"
             }
         },
         "BE81792B3E788D41": {
@@ -548742,8 +548732,8 @@
                 "lng": 114.211432
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1)",
-                "zh": "科學園(第一期)"
+                "en": "SCIENCE PARK (PHASE 1) (PA120)",
+                "zh": "科學園(第一期) (PA120)"
             }
         },
         "BEA270261C1E0D73": {
@@ -548792,8 +548782,8 @@
                 "lng": 114.27464
             },
             "name": {
-                "en": "FIRE AND AMBULANCE SERVICES ACADEMY",
-                "zh": "消防及救護學院"
+                "en": "FIRE AND AMBULANCE SERVICES ACADEMY (TK543)",
+                "zh": "消防及救護學院 (TK543)"
             }
         },
         "BEEBDDB542A7E709": {
@@ -548882,8 +548872,8 @@
                 "lng": 114.186723
             },
             "name": {
-                "en": "CHUN SHEK ESTATE",
-                "zh": "秦石邨"
+                "en": "CHUN SHEK ESTATE (TA531)",
+                "zh": "秦石邨 (TA531)"
             }
         },
         "BF3D6019C5CA6D35": {
@@ -549072,8 +549062,8 @@
                 "lng": 114.154484
             },
             "name": {
-                "en": "VILLA CARLTON",
-                "zh": "爾登華庭"
+                "en": "VILLA CARLTON (TA306)",
+                "zh": "爾登華庭 (TA306)"
             }
         },
         "BFEC36AAF24DCFCC": {
@@ -549412,8 +549402,8 @@
                 "lng": 114.159944
             },
             "name": {
-                "en": "TAI PO ROAD LOOKOUT",
-                "zh": "大埔道眺望處"
+                "en": "TAI PO ROAD LOOKOUT (TA310)",
+                "zh": "大埔道眺望處 (TA310)"
             }
         },
         "C13E41666B5A1394": {
@@ -549992,8 +549982,8 @@
                 "lng": 114.175313
             },
             "name": {
-                "en": "HIN YIU ESTATE",
-                "zh": "顯耀邨"
+                "en": "HIN YIU ESTATE (TA113)",
+                "zh": "顯耀邨 (TA113)"
             }
         },
         "C32B9494869D5BBF": {
@@ -550882,8 +550872,8 @@
                 "lng": 114.259363
             },
             "name": {
-                "en": "TKO JOCKEY CLUB CLINIC",
-                "zh": "將軍澳賽馬會診所"
+                "en": "TKO JOCKEY CLUB CLINIC (TK205)",
+                "zh": "將軍澳賽馬會診所 (TK205)"
             }
         },
         "C74927024F67EAD5": {
@@ -550892,8 +550882,8 @@
                 "lng": 114.256149
             },
             "name": {
-                "en": "YING MING COURT",
-                "zh": "英明苑"
+                "en": "YING MING COURT (TK444)",
+                "zh": "英明苑 (TK444)"
             }
         },
         "C749CD95D1D4CDE5": {
@@ -551012,8 +551002,8 @@
                 "lng": 114.181269
             },
             "name": {
-                "en": "WORLD WIDE GARDENS",
-                "zh": "世界花園"
+                "en": "WORLD WIDE GARDENS (TA606)",
+                "zh": "世界花園 (TA606)"
             }
         },
         "C7C774CD6AE937B1": {
@@ -551232,8 +551222,8 @@
                 "lng": 114.173874
             },
             "name": {
-                "en": "MEI CHUNG COURT",
-                "zh": "美松苑"
+                "en": "MEI CHUNG COURT (TA165)",
+                "zh": "美松苑 (TA165)"
             }
         },
         "C8C450D3F688645A": {
@@ -551262,8 +551252,8 @@
                 "lng": 114.25725
             },
             "name": {
-                "en": "PO LAM BUS TERMINUS",
-                "zh": "寶林總站"
+                "en": "PO LAM BUS TERMINUS (TK929)",
+                "zh": "寶林總站 (TK929)"
             }
         },
         "C8ED5EC0CD6C1A6F": {
@@ -551412,8 +551402,8 @@
                 "lng": 114.184164
             },
             "name": {
-                "en": "CHE KUNG TEMPLE",
-                "zh": "車公廟"
+                "en": "CHE KUNG TEMPLE (TA127)",
+                "zh": "車公廟 (TA127)"
             }
         },
         "C93D9BCDD63A360F": {
@@ -551542,8 +551532,8 @@
                 "lng": 114.260313
             },
             "name": {
-                "en": "TSEUNG KWAN O SWIMMING POOL",
-                "zh": "將軍澳游泳池"
+                "en": "TSEUNG KWAN O SWIMMING POOL (TK150)",
+                "zh": "將軍澳游泳池 (TK150)"
             }
         },
         "C9E264A3F9D4CEB3": {
@@ -551562,8 +551552,8 @@
                 "lng": 114.270832
             },
             "name": {
-                "en": "BOON KIN VILLAGE",
-                "zh": "半見村"
+                "en": "BOON KIN VILLAGE (TK276)",
+                "zh": "半見村 (TK276)"
             }
         },
         "C9EA7B56F1197D16": {
@@ -551572,8 +551562,8 @@
                 "lng": 114.260136
             },
             "name": {
-                "en": "TSEUNG KWAN O STATION",
-                "zh": "將軍澳站"
+                "en": "TSEUNG KWAN O STATION (TK561)",
+                "zh": "將軍澳站 (TK561)"
             }
         },
         "C9EE59A0517F9BCB": {
@@ -551662,8 +551652,8 @@
                 "lng": 114.172634
             },
             "name": {
-                "en": "HIN TIN PLAYGROUND",
-                "zh": "顯田遊樂場"
+                "en": "HIN TIN PLAYGROUND (TA121)",
+                "zh": "顯田遊樂場 (TA121)"
             }
         },
         "CA60760D2303E6D0": {
@@ -551832,8 +551822,8 @@
                 "lng": 114.186451
             },
             "name": {
-                "en": "CHUN SHEK ESTATE",
-                "zh": "秦石邨"
+                "en": "CHUN SHEK ESTATE (TA534)",
+                "zh": "秦石邨 (TA534)"
             }
         },
         "CAEEAD91F339D3DA": {
@@ -552152,8 +552142,8 @@
                 "lng": 114.27469
             },
             "name": {
-                "en": "FIRE AND AMBULANCE SERVICES ACADEMY",
-                "zh": "消防及救護學院"
+                "en": "FIRE AND AMBULANCE SERVICES ACADEMY (TK541)",
+                "zh": "消防及救護學院 (TK541)"
             }
         },
         "CC2886532E162A85": {
@@ -552622,8 +552612,8 @@
                 "lng": 114.175431
             },
             "name": {
-                "en": "HA KENG HAU VILLAGE",
-                "zh": "下徑口村"
+                "en": "HA KENG HAU VILLAGE (TA115)",
+                "zh": "下徑口村 (TA115)"
             }
         },
         "CE2E93A0D850F21F": {
@@ -553132,8 +553122,8 @@
                 "lng": 114.178845
             },
             "name": {
-                "en": "MEI LAM ESTATE",
-                "zh": "美林邨"
+                "en": "MEI LAM ESTATE (TA731)",
+                "zh": "美林邨 (TA731)"
             }
         },
         "D03560F5A7014BB3": {
@@ -553262,8 +553252,8 @@
                 "lng": 114.260334
             },
             "name": {
-                "en": "KWONG MING COURT",
-                "zh": "廣明苑"
+                "en": "KWONG MING COURT (TK127)",
+                "zh": "廣明苑 (TK127)"
             }
         },
         "D0B77FEEE42DB65A": {
@@ -553462,8 +553452,8 @@
                 "lng": 114.258958
             },
             "name": {
-                "en": "TONG MING STREET PARK",
-                "zh": "唐明街公園"
+                "en": "TONG MING STREET PARK (TK576)",
+                "zh": "唐明街公園 (TK576)"
             }
         },
         "D15281453EE5E0B4": {
@@ -553932,8 +553922,8 @@
                 "lng": 114.202526
             },
             "name": {
-                "en": "POK YIN ROAD",
-                "zh": "博研路"
+                "en": "POK YIN ROAD (PA161)",
+                "zh": "博研路 (PA161)"
             }
         },
         "D32019CB6290C2EF": {
@@ -553942,8 +553932,8 @@
                 "lng": 114.268642
             },
             "name": {
-                "en": "YUK MING COURT",
-                "zh": "煜明苑"
+                "en": "YUK MING COURT (TK270)",
+                "zh": "煜明苑 (TK270)"
             }
         },
         "D329FD6BF0C3DE7D": {
@@ -554492,8 +554482,8 @@
                 "lng": 114.254011
             },
             "name": {
-                "en": "HONG SING GARDEN BUS TERMINUS",
-                "zh": "康盛花園巴士總站"
+                "en": "HONG SING GARDEN BUS TERMINUS (TK902)",
+                "zh": "康盛花園巴士總站 (TK902)"
             }
         },
         "D4D5DDEE7B735D83": {
@@ -554752,8 +554742,8 @@
                 "lng": 114.264392
             },
             "name": {
-                "en": "HAU TAK ESTATE",
-                "zh": "厚德邨"
+                "en": "HAU TAK ESTATE (TK427)",
+                "zh": "厚德邨 (TK427)"
             }
         },
         "D5FB5BA7E9E89E5A": {
@@ -555092,8 +555082,8 @@
                 "lng": 114.263931
             },
             "name": {
-                "en": "PUI SHING ROAD, NAN FUNG PLAZA",
-                "zh": "培成路 南豐廣場"
+                "en": "PUI SHING ROAD, NAN FUNG PLAZA (TK253)",
+                "zh": "培成路 南豐廣場 (TK253)"
             }
         },
         "D7369E9D4404292E": {
@@ -555512,8 +555502,8 @@
                 "lng": 114.252245
             },
             "name": {
-                "en": "PO YAN HOUSE",
-                "zh": "寶仁樓"
+                "en": "PO YAN HOUSE (TK447)",
+                "zh": "寶仁樓 (TK447)"
             }
         },
         "D8D895494ECD7DDC": {
@@ -555522,8 +555512,8 @@
                 "lng": 114.178537
             },
             "name": {
-                "en": "MEI TAO HOUSE MEI LAM ESTATE",
-                "zh": "美林邨美桃樓"
+                "en": "MEI TAO HOUSE MEI LAM ESTATE (TA317)",
+                "zh": "美林邨美桃樓 (TA317)"
             }
         },
         "D8DBA3F5A1146887": {
@@ -555752,8 +555742,8 @@
                 "lng": 114.269229
             },
             "name": {
-                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北)(將軍澳醫院)"
+                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL) (TK952)",
+                "zh": "坑口(北)(將軍澳醫院) (TK952)"
             }
         },
         "D9AB3B959A46E411": {
@@ -556082,8 +556072,8 @@
                 "lng": 114.211432
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1)",
-                "zh": "科學園(第一期)"
+                "en": "SCIENCE PARK (PHASE 1) (PA122)",
+                "zh": "科學園(第一期) (PA122)"
             }
         },
         "DAE04FEC0D09BED6": {
@@ -556592,8 +556582,8 @@
                 "lng": 114.173973
             },
             "name": {
-                "en": "HIN HING HOUSE HIN KENG ESTATE",
-                "zh": "顯徑邨顯慶樓"
+                "en": "HIN HING HOUSE HIN KENG ESTATE (TA561)",
+                "zh": "顯徑邨顯慶樓 (TA561)"
             }
         },
         "DCC8F8655EB76754": {
@@ -556632,8 +556622,8 @@
                 "lng": 114.257519
             },
             "name": {
-                "en": "PO LAM BUS TERMINUS",
-                "zh": "寶林總站"
+                "en": "PO LAM BUS TERMINUS (TK934)",
+                "zh": "寶林總站 (TK934)"
             }
         },
         "DCFF4041D0C0ACF8": {
@@ -556712,8 +556702,8 @@
                 "lng": 114.180631
             },
             "name": {
-                "en": "SUN CHUI BUS TERMINUS",
-                "zh": "新翠巴士總站"
+                "en": "SUN CHUI BUS TERMINUS (TA920)",
+                "zh": "新翠巴士總站 (TA920)"
             }
         },
         "DD6BC62A7723292F": {
@@ -557082,8 +557072,8 @@
                 "lng": 114.259016
             },
             "name": {
-                "en": "TONG MING STREET PARK",
-                "zh": "唐明街公園"
+                "en": "TONG MING STREET PARK (TK106)",
+                "zh": "唐明街公園 (TK106)"
             }
         },
         "DF5DA8A8487E05C7": {
@@ -557102,8 +557092,8 @@
                 "lng": 114.262058
             },
             "name": {
-                "en": "KING YUNG HOUSE",
-                "zh": "景榕樓"
+                "en": "KING YUNG HOUSE (TK151)",
+                "zh": "景榕樓 (TK151)"
             }
         },
         "DF8F6AA868615D47": {
@@ -557212,8 +557202,8 @@
                 "lng": 114.182514
             },
             "name": {
-                "en": "SAN TIN VILLAGE",
-                "zh": "新田村"
+                "en": "SAN TIN VILLAGE (TA525)",
+                "zh": "新田村 (TA525)"
             }
         },
         "DFE346B2C7332BC0": {
@@ -557482,8 +557472,8 @@
                 "lng": 114.211432
             },
             "name": {
-                "en": "SCIENCE PARK (PHASE 1)",
-                "zh": "科學園(第一期)"
+                "en": "SCIENCE PARK (PHASE 1) (PA121)",
+                "zh": "科學園(第一期) (PA121)"
             }
         },
         "E114ADD0B146D4CA": {
@@ -557532,8 +557522,8 @@
                 "lng": 114.249183
             },
             "name": {
-                "en": "TSUI LAM BUS TERMINUS",
-                "zh": "翠林總站"
+                "en": "TSUI LAM BUS TERMINUS (TK910)",
+                "zh": "翠林總站 (TK910)"
             }
         },
         "E16D49ECA536ECC6": {
@@ -557672,8 +557662,8 @@
                 "lng": 114.170565
             },
             "name": {
-                "en": "MEI TIN BUS TERMINUS",
-                "zh": "美田巴士總站"
+                "en": "MEI TIN BUS TERMINUS (TA972)",
+                "zh": "美田巴士總站 (TA972)"
             }
         },
         "E1F7BDC43A19F5AC": {
@@ -557702,8 +557692,8 @@
                 "lng": 114.178154
             },
             "name": {
-                "en": "LUNG HANG ESTATE",
-                "zh": "隆亨邨"
+                "en": "LUNG HANG ESTATE (TA110)",
+                "zh": "隆亨邨 (TA110)"
             }
         },
         "E202C2F74E3A033B": {
@@ -557842,8 +557832,8 @@
                 "lng": 114.178387
             },
             "name": {
-                "en": "MEI TAO HOUSE MEI LAM ESTATE",
-                "zh": "美林邨美桃樓"
+                "en": "MEI TAO HOUSE MEI LAM ESTATE (TA315)",
+                "zh": "美林邨美桃樓 (TA315)"
             }
         },
         "E275C17540BCEF37": {
@@ -558212,8 +558202,8 @@
                 "lng": 114.272205
             },
             "name": {
-                "en": "WAN O ROAD",
-                "zh": "環澳路"
+                "en": "WAN O ROAD (TK330)",
+                "zh": "環澳路 (TK330)"
             }
         },
         "E3E26EC8322AC889": {
@@ -558272,8 +558262,8 @@
                 "lng": 114.201986
             },
             "name": {
-                "en": "PAK SHEK KOK",
-                "zh": "白石角"
+                "en": "PAK SHEK KOK (PA140)",
+                "zh": "白石角 (PA140)"
             }
         },
         "E433215F5B80E93C": {
@@ -558312,8 +558302,8 @@
                 "lng": 114.18614
             },
             "name": {
-                "en": "SUN TIN WAI BUS TERMINUS",
-                "zh": "新田圍巴士總站"
+                "en": "SUN TIN WAI BUS TERMINUS (TA912)",
+                "zh": "新田圍巴士總站 (TA912)"
             }
         },
         "E4415E645A9914EF": {
@@ -558352,8 +558342,8 @@
                 "lng": 114.257579
             },
             "name": {
-                "en": "PO LAM BUS TERMINUS",
-                "zh": "寶林總站"
+                "en": "PO LAM BUS TERMINUS (TK932)",
+                "zh": "寶林總站 (TK932)"
             }
         },
         "E45CFAB2E6E4C8FE": {
@@ -558532,8 +558522,8 @@
                 "lng": 114.268098
             },
             "name": {
-                "en": "LOHAS PARK STATION",
-                "zh": "康城站"
+                "en": "LOHAS PARK STATION (TK920)",
+                "zh": "康城站 (TK920)"
             }
         },
         "E51BB6A7525BA679": {
@@ -558632,8 +558622,8 @@
                 "lng": 114.257493
             },
             "name": {
-                "en": "PO LAM BUS TERMINUS",
-                "zh": "寶林總站"
+                "en": "PO LAM BUS TERMINUS (TK927)",
+                "zh": "寶林總站 (TK927)"
             }
         },
         "E5763322877BB340": {
@@ -558862,8 +558852,8 @@
                 "lng": 114.176354
             },
             "name": {
-                "en": "MEI FUNG HOUSE MEI LAM ESTATE",
-                "zh": "美林邨美楓樓"
+                "en": "MEI FUNG HOUSE MEI LAM ESTATE (TA301)",
+                "zh": "美林邨美楓樓 (TA301)"
             }
         },
         "E6915B4BA88D2DB5": {
@@ -559172,8 +559162,8 @@
                 "lng": 114.18253
             },
             "name": {
-                "en": "SAN TIN VILLAGE",
-                "zh": "新田村"
+                "en": "SAN TIN VILLAGE (TA170)",
+                "zh": "新田村 (TA170)"
             }
         },
         "E796B592A3D045F0": {
@@ -559252,8 +559242,8 @@
                 "lng": 114.173721
             },
             "name": {
-                "en": "MAY SHING COURT",
-                "zh": "美城苑"
+                "en": "MAY SHING COURT (TA331)",
+                "zh": "美城苑 (TA331)"
             }
         },
         "E7E5E3C1F761966F": {
@@ -559322,8 +559312,8 @@
                 "lng": 114.27219
             },
             "name": {
-                "en": "WAN O ROAD",
-                "zh": "環澳路"
+                "en": "WAN O ROAD (TK520)",
+                "zh": "環澳路 (TK520)"
             }
         },
         "E81DF9AB738F076E": {
@@ -559382,8 +559372,8 @@
                 "lng": 114.252315
             },
             "name": {
-                "en": "PO YAN HOUSE",
-                "zh": "寶仁樓"
+                "en": "PO YAN HOUSE (TK446)",
+                "zh": "寶仁樓 (TK446)"
             }
         },
         "E86E0FC9A40CBA3A": {
@@ -559402,8 +559392,8 @@
                 "lng": 114.170577
             },
             "name": {
-                "en": "SHA TIN HEIGHTS",
-                "zh": "沙田花園"
+                "en": "SHA TIN HEIGHTS (TA735)",
+                "zh": "沙田花園 (TA735)"
             }
         },
         "E89B2315750AB2FD": {
@@ -559502,8 +559492,8 @@
                 "lng": 114.208027
             },
             "name": {
-                "en": "FO YIN ROAD",
-                "zh": "科研路"
+                "en": "FO YIN ROAD (PA124)",
+                "zh": "科研路 (PA124)"
             }
         },
         "E900EC472C60D5D8": {
@@ -559572,8 +559562,8 @@
                 "lng": 114.272726
             },
             "name": {
-                "en": "THE CAPITOL LOHAS PARK",
-                "zh": "日出康城首都"
+                "en": "THE CAPITOL LOHAS PARK (TK534)",
+                "zh": "日出康城首都 (TK534)"
             }
         },
         "E92E2723C1DBA061": {
@@ -560382,8 +560372,8 @@
                 "lng": 114.253326
             },
             "name": {
-                "en": "CHOI FU HOUSE",
-                "zh": "彩富閣"
+                "en": "CHOI FU HOUSE (TK585)",
+                "zh": "彩富閣 (TK585)"
             }
         },
         "ECA27B00E599556A": {
@@ -560452,8 +560442,8 @@
                 "lng": 114.264207
             },
             "name": {
-                "en": "HAU TAK ESTATE",
-                "zh": "厚德邨"
+                "en": "HAU TAK ESTATE (TK428)",
+                "zh": "厚德邨 (TK428)"
             }
         },
         "ECD8A10AED25716B": {
@@ -560512,8 +560502,8 @@
                 "lng": 114.273805
             },
             "name": {
-                "en": "CHUN CHOI STREET",
-                "zh": "駿才街"
+                "en": "CHUN CHOI STREET (TK505)",
+                "zh": "駿才街 (TK505)"
             }
         },
         "ECFB77BC2B593335": {
@@ -561372,8 +561362,8 @@
                 "lng": 114.174948
             },
             "name": {
-                "en": "FESTIVAL CITY",
-                "zh": "名城"
+                "en": "FESTIVAL CITY (TA123)",
+                "zh": "名城 (TA123)"
             }
         },
         "F00B9766890B9FD5": {
@@ -561512,8 +561502,8 @@
                 "lng": 114.261095
             },
             "name": {
-                "en": "TSEUNG KWAN O STATION",
-                "zh": "將軍澳站"
+                "en": "TSEUNG KWAN O STATION (TK570)",
+                "zh": "將軍澳站 (TK570)"
             }
         },
         "F0A8A596641FFC5A": {
@@ -561642,8 +561632,8 @@
                 "lng": 114.185542
             },
             "name": {
-                "en": "SHEK YING HOUSE CHUN SHEK ESTATE",
-                "zh": "秦石邨石瑩樓"
+                "en": "SHEK YING HOUSE CHUN SHEK ESTATE (TA593)",
+                "zh": "秦石邨石瑩樓 (TA593)"
             }
         },
         "F140654A12BA066A": {
@@ -562012,8 +562002,8 @@
                 "lng": 114.257182
             },
             "name": {
-                "en": "PARK CENTRAL",
-                "zh": "將軍澳中心"
+                "en": "PARK CENTRAL (TK120)",
+                "zh": "將軍澳中心 (TK120)"
             }
         },
         "F29174C943F627B2": {
@@ -562112,8 +562102,8 @@
                 "lng": 114.175121
             },
             "name": {
-                "en": "MEI LAM BUS TERMINUS",
-                "zh": "美林巴士總站"
+                "en": "MEI LAM BUS TERMINUS (TA962)",
+                "zh": "美林巴士總站 (TA962)"
             }
         },
         "F2E57A05C35D0931": {
@@ -562192,8 +562182,8 @@
                 "lng": 114.274675
             },
             "name": {
-                "en": "FIRE AND AMBULANCE SERVICES ACADEMY",
-                "zh": "消防及救護學院"
+                "en": "FIRE AND AMBULANCE SERVICES ACADEMY (TK542)",
+                "zh": "消防及救護學院 (TK542)"
             }
         },
         "F3243F2A0BC4DEAD": {
@@ -562202,8 +562192,8 @@
                 "lng": 114.201558
             },
             "name": {
-                "en": "PROVIDENCE BAY",
-                "zh": "天賦海灣"
+                "en": "PROVIDENCE BAY (PA202)",
+                "zh": "天賦海灣 (PA202)"
             }
         },
         "F3281CF8A2A2AD4A": {
@@ -562402,8 +562392,8 @@
                 "lng": 114.178602
             },
             "name": {
-                "en": "LUNG HANG ESTATE",
-                "zh": "隆亨邨"
+                "en": "LUNG HANG ESTATE (TA574)",
+                "zh": "隆亨邨 (TA574)"
             }
         },
         "F3D86A2A72FF3582": {
@@ -562762,8 +562752,8 @@
                 "lng": 114.261217
             },
             "name": {
-                "en": "CHUNG MING COURT",
-                "zh": "頌明苑"
+                "en": "CHUNG MING COURT (TK282)",
+                "zh": "頌明苑 (TK282)"
             }
         },
         "F4FC91D18962C4D0": {
@@ -562962,8 +562952,8 @@
                 "lng": 114.269182
             },
             "name": {
-                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北)(將軍澳醫院)"
+                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL) (TK953)",
+                "zh": "坑口(北)(將軍澳醫院) (TK953)"
             }
         },
         "F5BB84FC3C97BC6A": {
@@ -563342,8 +563332,8 @@
                 "lng": 114.180516
             },
             "name": {
-                "en": "WORLD WIDE GARDENS",
-                "zh": "世界花園"
+                "en": "WORLD WIDE GARDENS (TA102)",
+                "zh": "世界花園 (TA102)"
             }
         },
         "F6E414A440CD7C70": {
@@ -563742,8 +563732,8 @@
                 "lng": 114.213925
             },
             "name": {
-                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY",
-                "zh": "香港生物科技研究院"
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (PA105)",
+                "zh": "香港生物科技研究院 (PA105)"
             }
         },
         "F80DF64ABE690251": {
@@ -563932,8 +563922,8 @@
                 "lng": 114.176456
             },
             "name": {
-                "en": "TAI WAI ROAD",
-                "zh": "大圍道"
+                "en": "TAI WAI ROAD (TA748)",
+                "zh": "大圍道 (TA748)"
             }
         },
         "F88D7720B4F389B0": {
@@ -564142,8 +564132,8 @@
                 "lng": 114.201986
             },
             "name": {
-                "en": "PAK SHEK KOK",
-                "zh": "白石角"
+                "en": "PAK SHEK KOK (PA141)",
+                "zh": "白石角 (PA141)"
             }
         },
         "F8FE29B1FAF8BA77": {
@@ -564292,8 +564282,8 @@
                 "lng": 114.269133
             },
             "name": {
-                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL)",
-                "zh": "坑口(北)(將軍澳醫院)"
+                "en": "HANG HAU (NORTH)(TSEUNG KWAN O HOSPITAL) (TK957)",
+                "zh": "坑口(北)(將軍澳醫院) (TK957)"
             }
         },
         "F99B2D48663A322E": {
@@ -564752,8 +564742,8 @@
                 "lng": 114.17196
             },
             "name": {
-                "en": "HIN KENG SHOPPING CENTRE",
-                "zh": "顯徑商場"
+                "en": "HIN KENG SHOPPING CENTRE (TA550)",
+                "zh": "顯徑商場 (TA550)"
             }
         },
         "FB948853081A003E": {
@@ -564932,8 +564922,8 @@
                 "lng": 114.258615
             },
             "name": {
-                "en": "YAN KING ROAD, METRO CITY",
-                "zh": "欣景路 新都城"
+                "en": "YAN KING ROAD, METRO CITY (TK145)",
+                "zh": "欣景路 新都城 (TK145)"
             }
         },
         "FC46B100B69573B7": {
@@ -564962,8 +564952,8 @@
                 "lng": 114.268098
             },
             "name": {
-                "en": "LOHAS PARK STATION",
-                "zh": "康城站"
+                "en": "LOHAS PARK STATION (TK921)",
+                "zh": "康城站 (TK921)"
             }
         },
         "FC63E0A36323E494": {
@@ -565012,8 +565002,8 @@
                 "lng": 114.186633
             },
             "name": {
-                "en": "CHUN SHEK ESTATE",
-                "zh": "秦石邨"
+                "en": "CHUN SHEK ESTATE (TA532)",
+                "zh": "秦石邨 (TA532)"
             }
         },
         "FCAA34C69CFEF26C": {
@@ -565072,8 +565062,8 @@
                 "lng": 114.259727
             },
             "name": {
-                "en": "YAN MING COURT",
-                "zh": "欣明苑"
+                "en": "YAN MING COURT (TK439)",
+                "zh": "欣明苑 (TK439)"
             }
         },
         "FCE4B9D70351B091": {
@@ -565822,8 +565812,8 @@
                 "lng": 114.175069
             },
             "name": {
-                "en": "HIN PUI HOUSE HIN KENG ESTATE",
-                "zh": "顯徑邨顯沛樓"
+                "en": "HIN PUI HOUSE HIN KENG ESTATE (TA564)",
+                "zh": "顯徑邨顯沛樓 (TA564)"
             }
         },
         "FFB21D12A61560FE": {
@@ -565892,8 +565882,8 @@
                 "lng": 114.259467
             },
             "name": {
-                "en": "HO MING COURT",
-                "zh": "浩明苑"
+                "en": "HO MING COURT (TK460)",
+                "zh": "浩明苑 (TK460)"
             }
         },
         "FFFB0F940CA7BEA7": {
