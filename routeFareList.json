@@ -98440,6 +98440,7 @@
                 "4.6",
                 "4.6",
                 "4.6",
+                "4.6",
                 "4.6"
             ],
             "faresHoliday": null,
@@ -98489,7 +98490,7 @@
                 "zh": "大學站"
             },
             "route": "272A",
-            "seq": 17,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -98507,13 +98508,14 @@
                     "3A7AC3A5F9530786",
                     "39E7051B17D302DA",
                     "1C6EAAF5F48167F9",
+                    "DA9490C24D6E6026",
                     "64101F297D3C1C55",
                     "5B39CC28607910E4",
                     "EC5018363D5C45EB"
                 ]
             }
         },
-        "272A+2+UNIVERSITY STATION (ST905)+UNIVERSITY STATION (ST900)": {
+        "272A+3+PAK SHEK KOK+UNIVERSITY STATION": {
             "bound": {
                 "kmb": "O"
             },
@@ -98521,8 +98523,64 @@
                 "kmb"
             ],
             "dest": {
-                "en": "UNIVERSITY STATION (ST900)",
-                "zh": "大學站 (ST900)"
+                "en": "UNIVERSITY STATION",
+                "zh": "大學站"
+            },
+            "fares": [
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1",
+                "5.1"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "511": {
+                    "0520": null,
+                    "0545": null
+                }
+            },
+            "gtfsId": "1000388",
+            "jt": "15",
+            "nlbId": null,
+            "orig": {
+                "en": "PAK SHEK KOK",
+                "zh": "白石角"
+            },
+            "route": "272A",
+            "seq": 11,
+            "serviceType": "3",
+            "stops": {
+                "kmb": [
+                    "F8F0E91589F099CD",
+                    "5747450359C7907C",
+                    "D31420E8C08168FC",
+                    "3F24CFF9046300D9",
+                    "3A7AC3A5F9530786",
+                    "39E7051B17D302DA",
+                    "1C6EAAF5F48167F9",
+                    "DA9490C24D6E6026",
+                    "64101F297D3C1C55",
+                    "5B39CC28607910E4",
+                    "EC5018363D5C45EB"
+                ]
+            }
+        },
+        "272A+4+UNIVERSITY STATION+PAK SHEK KOK (CIRCULAR)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "PAK SHEK KOK (CIRCULAR)",
+                "zh": "白石角(循環線)"
             },
             "fares": [
                 "5.1",
@@ -98537,6 +98595,7 @@
                 "5.1",
                 "5.1",
                 "5.1",
+                "4.6",
                 "4.6",
                 "4.6",
                 "4.6",
@@ -98599,20 +98658,20 @@
             "jt": "14",
             "nlbId": null,
             "orig": {
-                "en": "UNIVERSITY STATION (ST905)",
-                "zh": "大學站 (ST905)"
+                "en": "UNIVERSITY STATION",
+                "zh": "大學站"
             },
             "route": "272A",
-            "seq": 17,
-            "serviceType": "2",
+            "seq": 18,
+            "serviceType": "4",
             "stops": {
                 "kmb": [
                     "9F542D4B6CF41651",
                     "739A5DDE0CF1970C",
                     "9E95343C77BB85E2",
                     "F808AF482CCA028E",
-                    "BE940A2F1B154D6E",
-                    "E8F5E085BAEFE100",
+                    "730AEBA1D2D8B20E",
+                    "A9459D38A4A41F36",
                     "3313B37BF82AFF18",
                     "F8F0E91589F099CD",
                     "5747450359C7907C",
@@ -98621,60 +98680,7 @@
                     "3A7AC3A5F9530786",
                     "39E7051B17D302DA",
                     "1C6EAAF5F48167F9",
-                    "64101F297D3C1C55",
-                    "5B39CC28607910E4",
-                    "EC5018363D5C45EB"
-                ]
-            }
-        },
-        "272A+3+PAK SHEK KOK+UNIVERSITY STATION": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "UNIVERSITY STATION",
-                "zh": "大學站"
-            },
-            "fares": [
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1",
-                "5.1"
-            ],
-            "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0520": null,
-                    "0545": null
-                }
-            },
-            "gtfsId": "1000388",
-            "jt": "15",
-            "nlbId": null,
-            "orig": {
-                "en": "PAK SHEK KOK",
-                "zh": "白石角"
-            },
-            "route": "272A",
-            "seq": 10,
-            "serviceType": "3",
-            "stops": {
-                "kmb": [
-                    "F8F0E91589F099CD",
-                    "5747450359C7907C",
-                    "D31420E8C08168FC",
-                    "3F24CFF9046300D9",
-                    "3A7AC3A5F9530786",
-                    "39E7051B17D302DA",
-                    "1C6EAAF5F48167F9",
+                    "DA9490C24D6E6026",
                     "64101F297D3C1C55",
                     "5B39CC28607910E4",
                     "EC5018363D5C45EB"
@@ -98862,18 +98868,90 @@
                 "en": "HONG KONG SCIENCE PARK (CIRCULAR)",
                 "zh": "香港科學園(循環線)"
             },
-            "fares": null,
+            "fares": [
+                "4.6",
+                "4.6",
+                "4.6",
+                "4.6",
+                "4.6",
+                "4.6",
+                "4.6",
+                "4.6",
+                "4.6",
+                "4.6"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0630": [
+                        "0730",
+                        "900"
+                    ],
+                    "0730": [
+                        "0800",
+                        "600"
+                    ],
+                    "0800": [
+                        "0828",
+                        "420"
+                    ],
+                    "0828": [
+                        "0848",
+                        "240"
+                    ],
+                    "0848": [
+                        "0908",
+                        "300"
+                    ],
+                    "0908": [
+                        "0950",
+                        "420"
+                    ],
+                    "1655": [
+                        "1725",
+                        "600"
+                    ],
+                    "1725": [
+                        "1828",
+                        "420"
+                    ],
+                    "1828": [
+                        "1852",
+                        "480"
+                    ]
+                },
+                "288": {
+                    "0630": [
+                        "0730",
+                        "900"
+                    ],
+                    "0730": [
+                        "0930",
+                        "720"
+                    ],
+                    "0930": [
+                        "0950",
+                        "1200"
+                    ],
+                    "1700": [
+                        "1730",
+                        "900"
+                    ],
+                    "1730": [
+                        "1850",
+                        "1200"
+                    ]
+                }
+            },
+            "gtfsId": "1124",
+            "jt": "7",
             "nlbId": null,
             "orig": {
                 "en": "UNIVERSITY STATION",
                 "zh": "大學站"
             },
             "route": "272K",
-            "seq": 9,
+            "seq": 11,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -98881,8 +98959,10 @@
                     "739A5DDE0CF1970C",
                     "9E95343C77BB85E2",
                     "F808AF482CCA028E",
+                    "730AEBA1D2D8B20E",
                     "A9459D38A4A41F36",
                     "1C6EAAF5F48167F9",
+                    "DA9490C24D6E6026",
                     "64101F297D3C1C55",
                     "5B39CC28607910E4",
                     "9F542D4B6CF41651"
@@ -529393,6 +529473,16 @@
                 "zh": "鴉蘭街N74 維景酒店 (MK183)"
             }
         },
+        "730AEBA1D2D8B20E": {
+            "location": {
+                "lat": 22.424662,
+                "lng": 114.212396
+            },
+            "name": {
+                "en": "HONG KONG SCIENCE PARK (PA112)",
+                "zh": "香港科學園 (PA112)"
+            }
+        },
         "7310528ACFCE20DF": {
             "location": {
                 "lat": 22.330076,
@@ -547249,8 +547339,8 @@
                 "lng": 114.180516
             },
             "name": {
-                "en": "WORLD WIDE GARDENS (TA101)",
-                "zh": "世界花園 (TA101)"
+                "en": "WORLD WIDE GARDENS (TA102)",
+                "zh": "世界花園 (TA102)"
             }
         },
         "B8F350418F7013A7": {
@@ -555923,6 +556013,16 @@
                 "zh": "城市花園"
             }
         },
+        "DA9490C24D6E6026": {
+            "location": {
+                "lat": 22.422664,
+                "lng": 114.214179
+            },
+            "name": {
+                "en": "HONG KONG INSTITUTE OF BIOTECHNOLOGY (PA230)",
+                "zh": "香港生物科技研究院 (PA230)"
+            }
+        },
         "DA9843B8F12ED700": {
             "location": {
                 "lat": 22.466682,
@@ -563249,8 +563349,8 @@
                 "lng": 114.180516
             },
             "name": {
-                "en": "WORLD WIDE GARDENS (TA102)",
-                "zh": "世界花園 (TA102)"
+                "en": "WORLD WIDE GARDENS (TA101)",
+                "zh": "世界花園 (TA101)"
             }
         },
         "F6E414A440CD7C70": {
