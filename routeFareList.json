@@ -369112,7 +369112,7 @@
                 ]
             }
         },
-        "E36P+1+SKYCITY+SHEUNG TSUEN": {
+        "E36P+1+SKYCITY+Sheung Tsuen": {
             "bound": {
                 "kmb": "I"
             },
@@ -369120,7 +369120,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "SHEUNG TSUEN",
+                "en": "Sheung Tsuen",
                 "zh": "上村"
             },
             "fares": [
@@ -431525,8 +431525,8 @@
         },
         "001833": {
             "location": {
-                "lat": 22.313054432091,
-                "lng": 113.93705021053
+                "lat": 22.312719322091,
+                "lng": 113.93716755053
             },
             "name": {
                 "en": "Car Park One, Cheong Tat Road",
@@ -431535,8 +431535,8 @@
         },
         "001834": {
             "location": {
-                "lat": 22.316924932091,
-                "lng": 113.93566252053
+                "lat": 22.316527602091,
+                "lng": 113.93581499053
             },
             "name": {
                 "en": "Terminal 1 (North), Cheong Tat Road",
@@ -446095,8 +446095,8 @@
         },
         "003545": {
             "location": {
-                "lat": 22.328810692091,
-                "lng": 114.14589266053
+                "lat": 22.329108672091,
+                "lng": 114.14543664053
             },
             "name": {
                 "en": "Sun Ferry Shipyard, Hing Wah Street West",
