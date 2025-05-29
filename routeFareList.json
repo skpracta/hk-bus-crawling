@@ -10698,41 +10698,6 @@
                 ]
             }
         },
-        "104R+1+CENTRAL (FERRY PIERS)+MONG KOK": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "MONG KOK",
-                "zh": "旺角"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "CENTRAL (FERRY PIERS)",
-                "zh": "中環渡輪碼頭"
-            },
-            "route": "104R",
-            "seq": 6,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "153D32217234A0F0",
-                    "893BBB901005C3E6",
-                    "BBE77B90CE43AEFA",
-                    "246B98B8B9F002F0",
-                    "3B7368AAB82CC612",
-                    "D7C46496C9C7B7BA"
-                ]
-            }
-        },
         "105+1+Hong Sing Garden+To Kwa Wan": {
             "bound": {
                 "gmb": "I"
@@ -128069,7 +128034,7 @@
                 "zh": "小西灣 (藍灣半島)"
             },
             "route": "314",
-            "seq": 25,
+            "seq": 26,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -128095,6 +128060,7 @@
                     "002292",
                     "002285",
                     "002284",
+                    "002265",
                     "002303",
                     "002304",
                     "002305"
@@ -128123,10 +128089,11 @@
                 "zh": "赤柱 (海灘／市場)"
             },
             "route": "314",
-            "seq": 28,
+            "seq": 29,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "002265",
                     "002303",
                     "002304",
                     "002305",
@@ -254029,6 +253996,42 @@
                     "391FD1F8D3A9167F",
                     "5A264033612771AA",
                     "20B7C6B56788E484"
+                ]
+            }
+        },
+        "73S+1+Stanley Market+Ocean Park": {
+            "bound": {
+                "ctb": "O"
+            },
+            "co": [
+                "ctb"
+            ],
+            "dest": {
+                "en": "Ocean Park",
+                "zh": "海洋公園"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Stanley Market",
+                "zh": "赤柱市場"
+            },
+            "route": "73S",
+            "seq": 7,
+            "serviceType": 1,
+            "stops": {
+                "ctb": [
+                    "002277",
+                    "002378",
+                    "002375",
+                    "002241",
+                    "002197",
+                    "002352",
+                    "002225"
                 ]
             }
         },
@@ -411255,13 +411258,13 @@
             "stops": {
                 "kmb": [
                     "97959A28795E3EFF",
-                    "2D3BD1583B26087F",
+                    "41D38FB36417339B",
                     "9252A494500A05C9",
                     "0C8085DE147882C0",
                     "E85A10E61A00CC09",
                     "0C8085DE147882C0",
                     "9252A494500A05C9",
-                    "2D3BD1583B26087F",
+                    "41D38FB36417339B",
                     "97959A28795E3EFF"
                 ]
             }
@@ -417620,7 +417623,7 @@
             "serviceType": "1",
             "stops": {
                 "kmb": [
-                    "06834C0C275F4DDC",
+                    "A1C35E976ACF46FD",
                     "1E71CBFE8560B0EF",
                     "29ED2073D6C52B5A",
                     "F90ED764C7A95649",
@@ -423851,8 +423854,8 @@
         },
         "001107": {
             "location": {
-                "lat": 22.287395152091,
-                "lng": 114.15457705053
+                "lat": 22.287445772091,
+                "lng": 114.15481928053
             },
             "name": {
                 "en": "Central Government Pier, Man Kwong Street",
@@ -424461,8 +424464,8 @@
         },
         "001170": {
             "location": {
-                "lat": 22.287492242091,
-                "lng": 114.15733493053
+                "lat": 22.287371322091,
+                "lng": 114.15761689053
             },
             "name": {
                 "en": "Central Ferry - Discovery Bay Ferry, Man Kwong Street",
@@ -434679,6 +434682,16 @@
                 "zh": "海怡半島海韻閣, 海怡路"
             }
         },
+        "002265": {
+            "location": {
+                "lat": 22.220708302091,
+                "lng": 114.21366406053
+            },
+            "name": {
+                "en": "Stanley Main Beach, Stanley Beach Road",
+                "zh": "赤柱正灘, 赤柱灘道"
+            }
+        },
         "002266": {
             "location": {
                 "lat": 22.224755292091,
@@ -434871,8 +434884,8 @@
         },
         "002285": {
             "location": {
-                "lat": 22.227604522091,
-                "lng": 114.21744399053
+                "lat": 22.227573492091,
+                "lng": 114.21743192053
             },
             "name": {
                 "en": "The American Club, Tai Tam Road",
@@ -434921,8 +434934,8 @@
         },
         "002290": {
             "location": {
-                "lat": 22.239590912091,
-                "lng": 114.22141999053
+                "lat": 22.239578832091,
+                "lng": 114.22141702053
             },
             "name": {
                 "en": "Tai Tam Country Park, Tai Tam Road",
@@ -434941,8 +434954,8 @@
         },
         "002292": {
             "location": {
-                "lat": 22.235417572091,
-                "lng": 114.22298762053
+                "lat": 22.235392072091,
+                "lng": 114.22299117053
             },
             "name": {
                 "en": "Turtle Cove, Tai Tam Road",
@@ -434951,8 +434964,8 @@
         },
         "002293": {
             "location": {
-                "lat": 22.246545802091,
-                "lng": 114.22117045053
+                "lat": 22.246572512091,
+                "lng": 114.22116928053
             },
             "name": {
                 "en": "Tai Tam Reservoir (North), Tai Tam Road",
@@ -439845,8 +439858,8 @@
                 "lng": 114.16187722053
             },
             "name": {
-                "en": "Tai Tung Sun Chuen, Tai Kok Tsui Road",
-                "zh": "大同新村, 大角咀道"
+                "en": "Cosmopolitan Estates, Tai Kok Tsui Road",
+                "zh": "大同新邨, 大角咀道"
             }
         },
         "002866": {
@@ -448281,8 +448294,8 @@
         },
         "003874": {
             "location": {
-                "lat": 22.323107362091,
-                "lng": 114.19375013053
+                "lat": 22.323022812091,
+                "lng": 114.19300334053
             },
             "name": {
                 "en": "Kai Tak Sports Park, Sung Wong Toi Road",
@@ -448815,8 +448828,8 @@
                 "lng": 113.979138
             },
             "name": {
-                "en": "PRIME VIEW GARDEN (TM245)",
-                "zh": "景峰花園 (TM245)"
+                "en": "PRIME VIEW GARDEN (TM246)",
+                "zh": "景峰花園 (TM246)"
             }
         },
         "028E0B68D3166C00": {
@@ -451875,8 +451888,8 @@
                 "lng": 113.978215
             },
             "name": {
-                "en": "SIU HONG STATION (SOUTH) (TM912)",
-                "zh": "兆康站(南) (TM912)"
+                "en": "SIU HONG STATION (SOUTH) (TM911)",
+                "zh": "兆康站(南) (TM911)"
             }
         },
         "0F38AE1F1CAFF245": {
@@ -452245,8 +452258,8 @@
                 "lng": 113.979524
             },
             "name": {
-                "en": "SIU LUN GOVERNMENT COMPLEX (TM237)",
-                "zh": "兆麟政府大樓 (TM237)"
+                "en": "SIU LUN GOVERNMENT COMPLEX (TM236)",
+                "zh": "兆麟政府大樓 (TM236)"
             }
         },
         "102": {
@@ -509129,16 +509142,6 @@
                 "zh": "汀九 (TW353)"
             }
         },
-        "2D3BD1583B26087F": {
-            "location": {
-                "lat": 22.321698,
-                "lng": 114.212921
-            },
-            "name": {
-                "en": "KOWLOON BAY (TELFORD GARDEN)",
-                "zh": "九龍灣 (德福花園)"
-            }
-        },
         "2D3C0F18F9131DA2": {
             "location": {
                 "lat": 22.308306,
@@ -513065,8 +513068,8 @@
                 "lng": 114.036445
             },
             "name": {
-                "en": "YOHO MALL I (YL406)",
-                "zh": "形點 I (YL406)"
+                "en": "YOHO MALL I (YL405)",
+                "zh": "形點 I (YL405)"
             }
         },
         "39E29757C3E30AF3": {
@@ -513565,8 +513568,8 @@
                 "lng": 114.003672
             },
             "name": {
-                "en": "SO KWUN WAT (TM366)",
-                "zh": "掃管笏 (TM366)"
+                "en": "SO KWUN WAT (TM369)",
+                "zh": "掃管笏 (TM369)"
             }
         },
         "3C450B715D06675A": {
@@ -514445,8 +514448,8 @@
                 "lng": 113.979524
             },
             "name": {
-                "en": "TUEN MUN SIU LUN GOVERNMENT COMPLEX (TM236)",
-                "zh": "屯門兆麟政府綜合大樓 (TM236)"
+                "en": "TUEN MUN SIU LUN GOVERNMENT COMPLEX (TM237)",
+                "zh": "屯門兆麟政府綜合大樓 (TM237)"
             }
         },
         "3F13933D0157CFCF": {
@@ -515219,6 +515222,16 @@
                 "zh": "坑尾村 (YL611)"
             }
         },
+        "41D38FB36417339B": {
+            "location": {
+                "lat": 22.320187,
+                "lng": 114.207762
+            },
+            "name": {
+                "en": "MegaBox",
+                "zh": "MegaBox"
+            }
+        },
         "41D5331F81DB331C": {
             "location": {
                 "lat": 22.376415,
@@ -515655,8 +515668,8 @@
                 "lng": 114.003079
             },
             "name": {
-                "en": "SO KWUN WAT (TM402)",
-                "zh": "掃管笏 (TM402)"
+                "en": "SO KWUN WAT (TM365)",
+                "zh": "掃管笏 (TM365)"
             }
         },
         "43": {
@@ -518765,8 +518778,8 @@
                 "lng": 113.986898
             },
             "name": {
-                "en": "CAFETERIA BEACH (TM224)",
-                "zh": "咖啡灣 (TM224)"
+                "en": "CAFETERIA BEACH (TM223)",
+                "zh": "咖啡灣 (TM223)"
             }
         },
         "4EB3971409B80E61": {
@@ -519555,8 +519568,8 @@
                 "lng": 113.978215
             },
             "name": {
-                "en": "SIU HONG STATION (SOUTH) (TM911)",
-                "zh": "兆康站(南) (TM911)"
+                "en": "SIU HONG STATION (SOUTH) (TM910)",
+                "zh": "兆康站(南) (TM910)"
             }
         },
         "50E78EB09845863E": {
@@ -522145,8 +522158,8 @@
                 "lng": 113.980162
             },
             "name": {
-                "en": "BRILLIANT GARDEN (TM250)",
-                "zh": "彩暉花園 (TM250)"
+                "en": "BRILLIANT GARDEN (TM249)",
+                "zh": "彩暉花園 (TM249)"
             }
         },
         "5A7A7F6E0CE4FC28": {
@@ -523605,8 +523618,8 @@
                 "lng": 114.000373
             },
             "name": {
-                "en": "UPTOWN (YL268)",
-                "zh": "尚城 (YL268)"
+                "en": "UPTOWN (YL269)",
+                "zh": "尚城 (YL269)"
             }
         },
         "5FD70A34C55CE590": {
@@ -530305,8 +530318,8 @@
                 "lng": 113.980329
             },
             "name": {
-                "en": "BRILLIANT GARDEN (TM249)",
-                "zh": "彩暉花園 (TM249)"
+                "en": "BRILLIANT GARDEN (TM250)",
+                "zh": "彩暉花園 (TM250)"
             }
         },
         "78B537644BD4FE00": {
@@ -530565,8 +530578,8 @@
                 "lng": 114.003626
             },
             "name": {
-                "en": "SO KWUN WAT (TM365)",
-                "zh": "掃管笏 (TM365)"
+                "en": "SO KWUN WAT (TM366)",
+                "zh": "掃管笏 (TM366)"
             }
         },
         "79D68EE7C6CBAB9D": {
@@ -534245,8 +534258,8 @@
                 "lng": 114.003499
             },
             "name": {
-                "en": "SO KWUN WAT (TM400)",
-                "zh": "掃管笏 (TM400)"
+                "en": "SO KWUN WAT (TM367)",
+                "zh": "掃管笏 (TM367)"
             }
         },
         "889F84EBA6D9571A": {
@@ -534485,8 +534498,8 @@
                 "lng": 113.986898
             },
             "name": {
-                "en": "CAFETERIA BEACH (TM223)",
-                "zh": "咖啡灣 (TM223)"
+                "en": "CAFETERIA BEACH (TM224)",
+                "zh": "咖啡灣 (TM224)"
             }
         },
         "897A9E7D8CD62D44": {
@@ -539455,8 +539468,8 @@
                 "lng": 114.164561
             },
             "name": {
-                "en": "PEI HO STREET (SS303)",
-                "zh": "北河街 (SS303)"
+                "en": "PEI HO STREET (SS302)",
+                "zh": "北河街 (SS302)"
             }
         },
         "9DD0D04123E70E56": {
@@ -540575,8 +540588,8 @@
                 "lng": 114.000373
             },
             "name": {
-                "en": "UPTOWN (YL269)",
-                "zh": "尚城 (YL269)"
+                "en": "UPTOWN (YL268)",
+                "zh": "尚城 (YL268)"
             }
         },
         "A19AA44836C6FA32": {
@@ -542945,8 +542958,8 @@
                 "lng": 113.978399
             },
             "name": {
-                "en": "SIU HONG STATION (SOUTH) (TM910)",
-                "zh": "兆康站(南) (TM910)"
+                "en": "SIU HONG STATION (SOUTH) (TM912)",
+                "zh": "兆康站(南) (TM912)"
             }
         },
         "A9C847312AE9E37A": {
@@ -557465,8 +557478,8 @@
                 "lng": 114.003459
             },
             "name": {
-                "en": "SO KWUN WAT (TM401)",
-                "zh": "掃管笏 (TM401)"
+                "en": "SO KWUN WAT (TM400)",
+                "zh": "掃管笏 (TM400)"
             }
         },
         "E34948ABDF8285ED": {
@@ -560285,8 +560298,8 @@
                 "lng": 113.979138
             },
             "name": {
-                "en": "PRIME VIEW GARDEN (TM246)",
-                "zh": "景峰花園 (TM246)"
+                "en": "PRIME VIEW GARDEN (TM245)",
+                "zh": "景峰花園 (TM245)"
             }
         },
         "EE212E6FD5124813": {
@@ -562015,8 +562028,8 @@
                 "lng": 114.002279
             },
             "name": {
-                "en": "SO KWUN WAT ROAD (TM403)",
-                "zh": "掃管笏路 (TM403)"
+                "en": "SO KWUN WAT ROAD (TM404)",
+                "zh": "掃管笏路 (TM404)"
             }
         },
         "F49FA120DE5E6582": {
@@ -562495,8 +562508,8 @@
                 "lng": 114.162341
             },
             "name": {
-                "en": "GARDEN HILL, MEI HO HOUSE (SS305)",
-                "zh": "上李屋花園, 美荷樓 (SS305)"
+                "en": "GARDEN HILL, MEI HO HOUSE (SS304)",
+                "zh": "上李屋花園, 美荷樓 (SS304)"
             }
         },
         "F61DB78CF72DB387": {
@@ -565035,8 +565048,8 @@
                 "lng": 114.003672
             },
             "name": {
-                "en": "SO KWUN WAT (TM367)",
-                "zh": "掃管笏 (TM367)"
+                "en": "SO KWUN WAT (TM368)",
+                "zh": "掃管笏 (TM368)"
             }
         },
         "FF1DC8F5F423EA42": {
