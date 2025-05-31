@@ -45169,7 +45169,7 @@
                     "70CD99F4D487740A",
                     "D39533060940818A",
                     "14894C859FDFE8C3",
-                    "CDF0D5A4E1023C8E",
+                    "A1C35E976ACF46FD",
                     "9268B442F0C2807E",
                     "ED5554C57CF0061C",
                     "4D9419874306D82F",
@@ -106019,6 +106019,7 @@
                 "4.3",
                 "4.3",
                 "4.3",
+                "4.3",
                 "4.3"
             ],
             "faresHoliday": null,
@@ -106558,13 +106559,14 @@
                 "zh": "粉嶺(聯和墟)"
             },
             "route": "278K",
-            "seq": 8,
+            "seq": 9,
             "serviceType": "1",
             "stops": {
                 "kmb": [
                     "1AB800949FF1203B",
                     "B28798C421AB2D6B",
                     "EDFAC4F35C0E51C7",
+                    "25721F85DC026ACA",
                     "D4A97E2A758EDC64",
                     "000CFEE2F92DC17B",
                     "BA995ECF3EFCA99E",
@@ -117395,7 +117397,7 @@
                     "5527FF8CC85CF139",
                     "D13C7436B13B4A4B",
                     "E0BAA3364D0CE860",
-                    "CDF0D5A4E1023C8E",
+                    "A1C35E976ACF46FD",
                     "2F1F9CF16B9E65AF",
                     "ED5554C57CF0061C",
                     "4D9419874306D82F",
@@ -203112,7 +203114,7 @@
                 "zh": "啟德郵輪碼頭"
             },
             "route": "5R",
-            "seq": 14,
+            "seq": 13,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -203127,7 +203129,6 @@
                     "83BB162ED5F1355F",
                     "D39533060940818A",
                     "14894C859FDFE8C3",
-                    "36A5F6842C55126E",
                     "1094B993AA8409D0",
                     "5F1C669F444A0556"
                 ]
@@ -203145,7 +203146,6 @@
                 "zh": "啟德郵輪碼頭"
             },
             "fares": [
-                "8.1",
                 "8.1",
                 "8.1",
                 "8.1",
@@ -203169,7 +203169,7 @@
                 "zh": "牛頭角站"
             },
             "route": "5R",
-            "seq": 8,
+            "seq": 7,
             "serviceType": "3",
             "stops": {
                 "kmb": [
@@ -203178,7 +203178,6 @@
                     "83BB162ED5F1355F",
                     "D39533060940818A",
                     "14894C859FDFE8C3",
-                    "36A5F6842C55126E",
                     "1094B993AA8409D0",
                     "5F1C669F444A0556"
                 ]
@@ -253681,42 +253680,6 @@
                 ]
             }
         },
-        "73S+1+Stanley Market+Ocean Park": {
-            "bound": {
-                "ctb": "O"
-            },
-            "co": [
-                "ctb"
-            ],
-            "dest": {
-                "en": "Ocean Park",
-                "zh": "海洋公園"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "Stanley Market",
-                "zh": "赤柱市場"
-            },
-            "route": "73S",
-            "seq": 7,
-            "serviceType": 1,
-            "stops": {
-                "ctb": [
-                    "002277",
-                    "002378",
-                    "002375",
-                    "002241",
-                    "002197",
-                    "002352",
-                    "002225"
-                ]
-            }
-        },
         "73X+1+TAI PO (FU SHIN)+TSUEN WAN (NINA TOWER)": {
             "bound": {
                 "kmb": "I"
@@ -267009,7 +266972,7 @@
                     "F19EA5A24A38C94C",
                     "FC63E0A36323E494",
                     "EFEE1D1E1BF3140C",
-                    "EF78DD9F765C6565",
+                    "25721F85DC026ACA",
                     "07EEE519D04FFE28",
                     "000CFEE2F92DC17B",
                     "BA995ECF3EFCA99E",
@@ -271945,7 +271908,7 @@
                     "D3E18D04B69DF388",
                     "515ECE2791A22276",
                     "6B885F5529A285BB",
-                    "EF78DD9F765C6565",
+                    "25721F85DC026ACA",
                     "07EEE519D04FFE28",
                     "53BB93AAB2D45F3B",
                     "12DC09C113E1C873",
@@ -317486,6 +317449,7 @@
                     "DEBD2B9A856C0B1F",
                     "F8A31970F2A8E25C",
                     "F1DE119543E382D9",
+                    "D355B700FF30B3D7",
                     "44EA73AE2E27AC12",
                     "B4F2BAAED2470D0A",
                     "75C0DF6C7724CEEA",
@@ -317504,8 +317468,7 @@
                     "F82CDE4D15A43CA3",
                     "DEDD6247441C8C05",
                     "3B54D43994CAC165",
-                    "D9655458715EBBF8",
-                    "EE3B40DBD54D6708"
+                    "D9655458715EBBF8"
                 ]
             }
         },
@@ -317716,6 +317679,7 @@
                     "DEBD2B9A856C0B1F",
                     "F8A31970F2A8E25C",
                     "F1DE119543E382D9",
+                    "D355B700FF30B3D7",
                     "44EA73AE2E27AC12",
                     "B4F2BAAED2470D0A",
                     "75C0DF6C7724CEEA",
@@ -317725,8 +317689,7 @@
                     "86D7BB9BA055D8A6",
                     "C24776F20FE877FF",
                     "257A6E19DD7F156C",
-                    "28A57C043C111604",
-                    "30000427BD163F84"
+                    "28A57C043C111604"
                 ]
             }
         },
@@ -415082,7 +415045,7 @@
                     "F8D908466E28E9C2",
                     "70CD99F4D487740A",
                     "D39533060940818A",
-                    "A1C35E976ACF46FD",
+                    "CDF0D5A4E1023C8E",
                     "1E71CBFE8560B0EF",
                     "9274EF6791CA3ED8",
                     "CA9E9870D7B2FF36",
@@ -417256,7 +417219,7 @@
                 ]
             }
         },
-        "X6C+1+KOWLOON BAY+MEI FOO": {
+        "X6C+1+HK CHILDREN'S HOSPITAL+MEI FOO": {
             "bound": {
                 "kmb": "I"
             },
@@ -417297,14 +417260,15 @@
             "jt": "47",
             "nlbId": null,
             "orig": {
-                "en": "KOWLOON BAY",
-                "zh": "九龍灣"
+                "en": "HK CHILDREN'S HOSPITAL",
+                "zh": "香港兒童醫院"
             },
             "route": "X6C",
-            "seq": 18,
+            "seq": 19,
             "serviceType": "1",
             "stops": {
                 "kmb": [
+                    "0513406BAC1F8881",
                     "A1C35E976ACF46FD",
                     "1E71CBFE8560B0EF",
                     "29ED2073D6C52B5A",
@@ -417326,7 +417290,7 @@
                 ]
             }
         },
-        "X6C+1+MEI FOO+KOWLOON BAY": {
+        "X6C+1+MEI FOO+HK CHILDREN'S HOSPITAL": {
             "bound": {
                 "kmb": "O"
             },
@@ -417334,8 +417298,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "KOWLOON BAY",
-                "zh": "九龍灣"
+                "en": "HK CHILDREN'S HOSPITAL",
+                "zh": "香港兒童醫院"
             },
             "fares": [
                 "7.8",
@@ -417370,7 +417334,7 @@
                 "zh": "美孚"
             },
             "route": "X6C",
-            "seq": 17,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -417387,10 +417351,11 @@
                     "D48E82AC2961C581",
                     "B0668BFF6178BA0B",
                     "AA97FFC49AE957A5",
-                    "BE27F066CF40DF7D",
-                    "07521BB848913F74",
-                    "A1C35E976ACF46FD",
-                    "06834C0C275F4DDC"
+                    "416B7606A9A5FEEB",
+                    "327E4BC13954EA86",
+                    "81C6D8E74259157E",
+                    "36A5F6842C55126E",
+                    "0513406BAC1F8881"
                 ]
             }
         },
@@ -417531,7 +417496,7 @@
                     "2D3C0F18F9131DA2",
                     "70CD99F4D487740A",
                     "D39533060940818A",
-                    "A1C35E976ACF46FD",
+                    "CDF0D5A4E1023C8E",
                     "1E71CBFE8560B0EF",
                     "C57C924EEB5463E5",
                     "0209A3C455B1DBE9",
@@ -449152,6 +449117,16 @@
             "name": {
                 "en": "NING PO NO.2 COLLEGE (KT170)",
                 "zh": "寧波第二中學 (KT170)"
+            }
+        },
+        "0513406BAC1F8881": {
+            "location": {
+                "lat": 22.315795,
+                "lng": 114.20988
+            },
+            "name": {
+                "en": "HONG KONG CHILDREN'S HOSPITAL (KA111)",
+                "zh": "香港兒童醫院 (KA111)"
             }
         },
         "051C24F9614CEDC2": {
@@ -506534,6 +506509,16 @@
                 "zh": "散石灣村"
             }
         },
+        "25721F85DC026ACA": {
+            "location": {
+                "lat": 22.492466,
+                "lng": 114.140389
+            },
+            "name": {
+                "en": "FANLING STATION BBI - CHEUNG WAH ESTATE (A1)",
+                "zh": "粉嶺站轉車站 - 祥華邨(A1)"
+            }
+        },
         "257A6E19DD7F156C": {
             "location": {
                 "lat": 22.373954,
@@ -509350,8 +509335,8 @@
                 "lng": 113.967056
             },
             "name": {
-                "en": "PO TIN BBI - PO TIN (T1) (TM192)",
-                "zh": "寶田轉車站 - 寶田 (T1) (TM192)"
+                "en": "PO TIN BBI - PO TIN (T1) (TM191)",
+                "zh": "寶田轉車站 - 寶田 (T1) (TM191)"
             }
         },
         "2F7B146C55B013F8": {
@@ -510380,8 +510365,8 @@
                 "lng": 113.970408
             },
             "name": {
-                "en": "TUEN MUN SWIMMING POOL (TM424)",
-                "zh": "屯門泳池 (TM424)"
+                "en": "TUEN MUN SWIMMING POOL (TM423)",
+                "zh": "屯門泳池 (TM423)"
             }
         },
         "321": {
@@ -515530,8 +515515,8 @@
                 "lng": 113.972345
             },
             "name": {
-                "en": "YAU OI (SOUTH) BUS TERMINUS (TM981)",
-                "zh": "友愛(南)總站 (TM981)"
+                "en": "YAU OI (SOUTH) BUS TERMINUS (TM982)",
+                "zh": "友愛(南)總站 (TM982)"
             }
         },
         "43C8B0C86DE8805D": {
@@ -520840,8 +520825,8 @@
                 "lng": 114.131294
             },
             "name": {
-                "en": "KWAI HING STATION (KW929)",
-                "zh": "葵興站 (KW929)"
+                "en": "KWAI HING STATION (KW928)",
+                "zh": "葵興站 (KW928)"
             }
         },
         "56982DE125174FCD": {
@@ -523426,8 +523411,8 @@
         },
         "600158E293C9354E": {
             "location": {
-                "lat": 22.315729,
-                "lng": 114.209763
+                "lat": 22.315856,
+                "lng": 114.209803
             },
             "name": {
                 "en": "HONG KONG CHILDREN'S HOSPITAL (KA110)",
@@ -529190,8 +529175,8 @@
                 "lng": 114.131446
             },
             "name": {
-                "en": "KWAI HING STATION BUS TERMINUS (KW928)",
-                "zh": "葵興站總站 (KW928)"
+                "en": "KWAI HING STATION BUS TERMINUS (KW929)",
+                "zh": "葵興站總站 (KW929)"
             }
         },
         "75BC2D1936D0EACD": {
@@ -530940,8 +530925,8 @@
                 "lng": 113.966462
             },
             "name": {
-                "en": "WU TSUI HOUSE WU KING ESTATE (TM451)",
-                "zh": "湖景邨湖翠樓 (TM451)"
+                "en": "WU TSUI HOUSE WU KING ESTATE (TM452)",
+                "zh": "湖景邨湖翠樓 (TM452)"
             }
         },
         "7D025E77F4B35266": {
@@ -536290,8 +536275,8 @@
                 "lng": 113.972576
             },
             "name": {
-                "en": "TAI HING SPORTS CENTRE (TM475)",
-                "zh": "大興體育館 (TM475)"
+                "en": "TAI HING SPORTS CENTRE (TM476)",
+                "zh": "大興體育館 (TM476)"
             }
         },
         "92AA28BBE48D6B2E": {
@@ -540380,8 +540365,8 @@
                 "lng": 113.965241
             },
             "name": {
-                "en": "LUNG MUN STATION (TM677)",
-                "zh": "龍門站 (TM677)"
+                "en": "LUNG MUN STATION (TM676)",
+                "zh": "龍門站 (TM676)"
             }
         },
         "A1D5C0FDCC39AFF8": {
@@ -542050,8 +542035,8 @@
                 "lng": 113.972576
             },
             "name": {
-                "en": "TAI HING SPORTS CENTRE (TM476)",
-                "zh": "大興體育館 (TM476)"
+                "en": "TAI HING SPORTS CENTRE (TM475)",
+                "zh": "大興體育館 (TM475)"
             }
         },
         "A80D9E7FA0C070E6": {
@@ -544760,8 +544745,8 @@
                 "lng": 113.967028
             },
             "name": {
-                "en": "PO TIN BBI - PO TIN (T1) (TM191)",
-                "zh": "寶田轉車站 - 寶田 (T1) (TM191)"
+                "en": "PO TIN BBI - PO TIN (T1) (TM192)",
+                "zh": "寶田轉車站 - 寶田 (T1) (TM192)"
             }
         },
         "B26B63709D8A7DFA": {
@@ -549860,8 +549845,8 @@
                 "lng": 113.965184
             },
             "name": {
-                "en": "LUNG MUN STATION (TM676)",
-                "zh": "龍門站 (TM676)"
+                "en": "LUNG MUN STATION (TM677)",
+                "zh": "龍門站 (TM677)"
             }
         },
         "C6DEF1AF70EC3375": {
@@ -552200,8 +552185,8 @@
                 "lng": 113.970317
             },
             "name": {
-                "en": "TUEN MUN SWIMMING POOL (TM423)",
-                "zh": "屯門泳池 (TM423)"
+                "en": "TUEN MUN SWIMMING POOL (TM424)",
+                "zh": "屯門泳池 (TM424)"
             }
         },
         "D024B008AB77435B": {
@@ -561280,8 +561265,8 @@
                 "lng": 113.972553
             },
             "name": {
-                "en": "YAU OI (SOUTH) BUS TERMINUS (TM982)",
-                "zh": "友愛(南)總站 (TM982)"
+                "en": "YAU OI (SOUTH) BUS TERMINUS (TM981)",
+                "zh": "友愛(南)總站 (TM981)"
             }
         },
         "F31B9B0CD79FCC8F": {
