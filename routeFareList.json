@@ -105355,6 +105355,300 @@
                 ]
             }
         },
+        "277X+1+FANLING (LUEN WO HUI)+LAM TIN STATION": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LAM TIN STATION",
+                "zh": "藍田站"
+            },
+            "fares": [
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "16.9",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4",
+                "7.4"
+            ],
+            "faresHoliday": null,
+            "freq": {
+                "287": {
+                    "0500": [
+                        "0600",
+                        "1200"
+                    ],
+                    "0600": [
+                        "0630",
+                        "900"
+                    ],
+                    "0810": [
+                        "0900",
+                        "600"
+                    ],
+                    "0900": [
+                        "1400",
+                        "720"
+                    ],
+                    "1400": [
+                        "1600",
+                        "900"
+                    ],
+                    "1600": [
+                        "1607",
+                        "420"
+                    ],
+                    "1607": [
+                        "1615",
+                        "480"
+                    ],
+                    "1615": [
+                        "1622",
+                        "420"
+                    ],
+                    "1622": [
+                        "1630",
+                        "480"
+                    ],
+                    "1630": [
+                        "1637",
+                        "420"
+                    ],
+                    "1637": [
+                        "1645",
+                        "480"
+                    ],
+                    "1645": [
+                        "1652",
+                        "420"
+                    ],
+                    "1652": [
+                        "1700",
+                        "480"
+                    ],
+                    "1700": [
+                        "1707",
+                        "420"
+                    ],
+                    "1707": [
+                        "1715",
+                        "480"
+                    ],
+                    "1715": [
+                        "1722",
+                        "420"
+                    ],
+                    "1722": [
+                        "1730",
+                        "480"
+                    ],
+                    "1730": [
+                        "1737",
+                        "420"
+                    ],
+                    "1737": [
+                        "1745",
+                        "480"
+                    ],
+                    "1745": [
+                        "1752",
+                        "420"
+                    ],
+                    "1752": [
+                        "1800",
+                        "480"
+                    ],
+                    "1800": [
+                        "1900",
+                        "720"
+                    ],
+                    "1900": [
+                        "2100",
+                        "900"
+                    ],
+                    "2100": [
+                        "2200",
+                        "1200"
+                    ],
+                    "2200": [
+                        "2430",
+                        "1500"
+                    ]
+                },
+                "288": {
+                    "0500": [
+                        "0600",
+                        "1200"
+                    ],
+                    "0600": [
+                        "0630",
+                        "900"
+                    ],
+                    "0630": [
+                        "0637",
+                        "420"
+                    ],
+                    "0637": [
+                        "0645",
+                        "480"
+                    ],
+                    "0645": [
+                        "0652",
+                        "420"
+                    ],
+                    "0652": [
+                        "0700",
+                        "480"
+                    ],
+                    "0700": [
+                        "0707",
+                        "420"
+                    ],
+                    "0707": [
+                        "0715",
+                        "480"
+                    ],
+                    "0715": [
+                        "0722",
+                        "420"
+                    ],
+                    "0722": [
+                        "0730",
+                        "480"
+                    ],
+                    "0730": [
+                        "0737",
+                        "420"
+                    ],
+                    "0737": [
+                        "0745",
+                        "480"
+                    ],
+                    "0745": [
+                        "0752",
+                        "420"
+                    ],
+                    "0752": [
+                        "0800",
+                        "480"
+                    ],
+                    "0800": [
+                        "1600",
+                        "720"
+                    ],
+                    "1600": [
+                        "1800",
+                        "600"
+                    ],
+                    "1800": [
+                        "1900",
+                        "720"
+                    ],
+                    "1900": [
+                        "2100",
+                        "900"
+                    ],
+                    "2100": [
+                        "2200",
+                        "1200"
+                    ],
+                    "2200": [
+                        "2430",
+                        "1500"
+                    ]
+                },
+                "448": {
+                    "0500": [
+                        "0700",
+                        "1200"
+                    ],
+                    "0700": [
+                        "0730",
+                        "900"
+                    ],
+                    "0730": [
+                        "1130",
+                        "720"
+                    ],
+                    "1130": [
+                        "1700",
+                        "600"
+                    ],
+                    "1700": [
+                        "2000",
+                        "720"
+                    ],
+                    "2000": [
+                        "2100",
+                        "900"
+                    ],
+                    "2100": [
+                        "2200",
+                        "720"
+                    ],
+                    "2200": [
+                        "2340",
+                        "1200"
+                    ],
+                    "2340": [
+                        "2430",
+                        "1500"
+                    ]
+                }
+            },
+            "gtfsId": "1142",
+            "jt": "69",
+            "nlbId": null,
+            "orig": {
+                "en": "FANLING (LUEN WO HUI)",
+                "zh": "粉嶺(聯和墟)"
+            },
+            "route": "277X",
+            "seq": 21,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "7EFB60ED247B4316",
+                    "1380D71251D0CBF9",
+                    "EDFAC4F35C0E51C7",
+                    "944EC71DD1731BE0",
+                    "EF78DD9F765C6565",
+                    "BFAE1E951D3B63EC",
+                    "C67060F448591E4F",
+                    "F7D40D08CB05EA87",
+                    "2129B2A72F881300",
+                    "4CA5DEBCC576E371",
+                    "D2C1454B663392C9",
+                    "30D564180B68ECA8",
+                    "279C78D8C04A83BB",
+                    "BA03816A38B9DA7F",
+                    "D0F8772D043C207E",
+                    "BE36EF30B86ADD1D",
+                    "598F766175BE3EF3",
+                    "5FE12AC5660F89D6",
+                    "144E9479168069DD",
+                    "A88EE1930BE82C54",
+                    "5D7809204099960C"
+                ]
+            }
+        },
         "277X+1+LAM TIN STATION+FANLING (LUEN WO HUI)": {
             "bound": {
                 "kmb": "I"
@@ -105384,6 +105678,7 @@
                 "5.4",
                 "5.4",
                 "5.4",
+                "4.3",
                 "4.3",
                 "4.3",
                 "4.3"
@@ -105573,7 +105868,7 @@
                 "zh": "藍田站"
             },
             "route": "277X",
-            "seq": 21,
+            "seq": 22,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -105597,11 +105892,12 @@
                     "2AC85D87661D5AF6",
                     "000CFEE2F92DC17B",
                     "BA995ECF3EFCA99E",
-                    "879A98CD29D9433F"
+                    "879A98CD29D9433F",
+                    "7EFB60ED247B4316"
                 ]
             }
         },
-        "277X+1+UNION PLAZA (ND561)+LAM TIN STATION (LT902)": {
+        "277X+2+FANLING (LUEN WO HUI)+LAM TIN STATION": {
             "bound": {
                 "kmb": "O"
             },
@@ -105609,8 +105905,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "LAM TIN STATION (LT902)",
-                "zh": "藍田站 (LT902)"
+                "en": "LAM TIN STATION",
+                "zh": "藍田站"
             },
             "fares": [
                 "16.9",
@@ -105644,61 +105940,15 @@
             "jt": "58",
             "nlbId": null,
             "orig": {
-                "en": "UNION PLAZA (ND561)",
-                "zh": "海聯廣場 (ND561)"
-            },
-            "route": "277X",
-            "seq": 18,
-            "serviceType": "1",
-            "stops": {
-                "kmb": [
-                    "1380D71251D0CBF9",
-                    "EDFAC4F35C0E51C7",
-                    "944EC71DD1731BE0",
-                    "EF78DD9F765C6565",
-                    "BFAE1E951D3B63EC",
-                    "C67060F448591E4F",
-                    "4CA5DEBCC576E371",
-                    "D2C1454B663392C9",
-                    "30D564180B68ECA8",
-                    "279C78D8C04A83BB",
-                    "BA03816A38B9DA7F",
-                    "D0F8772D043C207E",
-                    "BE36EF30B86ADD1D",
-                    "598F766175BE3EF3",
-                    "5FE12AC5660F89D6",
-                    "144E9479168069DD",
-                    "A88EE1930BE82C54",
-                    "5D7809204099960C"
-                ]
-            }
-        },
-        "277X+2+FANLING (LUEN WO HUI)+LAM TIN STATION": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "LAM TIN STATION",
-                "zh": "藍田站"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
                 "en": "FANLING (LUEN WO HUI)",
                 "zh": "粉嶺(聯和墟)"
             },
             "route": "277X",
-            "seq": 17,
+            "seq": 18,
             "serviceType": "2",
             "stops": {
                 "kmb": [
+                    "7EFB60ED247B4316",
                     "1380D71251D0CBF9",
                     "EDFAC4F35C0E51C7",
                     "944EC71DD1731BE0",
@@ -105802,18 +106052,83 @@
                 "en": "TSUEN WAN (NINA TOWER)",
                 "zh": "荃灣(如心廣場)"
             },
-            "fares": null,
+            "fares": [
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "14.7",
+                "0",
+                "0",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7",
+                "6.7"
+            ],
             "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
+            "freq": {
+                "287": {
+                    "0530": [
+                        "0630",
+                        "1800"
+                    ],
+                    "0630": [
+                        "0730",
+                        "1200"
+                    ],
+                    "0730": [
+                        "1300",
+                        "1800"
+                    ],
+                    "1300": [
+                        "1700",
+                        "3600"
+                    ],
+                    "1700": [
+                        "1830",
+                        "1800"
+                    ]
+                },
+                "288": {
+                    "0530": [
+                        "0630",
+                        "1800"
+                    ],
+                    "0630": [
+                        "0830",
+                        "1200"
+                    ],
+                    "0830": [
+                        "1830",
+                        "1800"
+                    ]
+                },
+                "448": {
+                    "0800": [
+                        "1830",
+                        "1800"
+                    ]
+                }
+            },
+            "gtfsId": "8480",
+            "jt": "68",
             "nlbId": null,
             "orig": {
                 "en": "QUEEN'S HILL",
                 "zh": "皇后山"
             },
             "route": "278A",
-            "seq": 21,
+            "seq": 22,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -105821,6 +106136,7 @@
                     "743B5D03681D9220",
                     "A088D19226D59E98",
                     "6573811D015A0818",
+                    "D585080E071B999E",
                     "1380D71251D0CBF9",
                     "EDFAC4F35C0E51C7",
                     "EF78DD9F765C6565",
@@ -354895,7 +355211,7 @@
                 "zh": "機場(地面運輸中心)"
             },
             "route": "A46",
-            "seq": 17,
+            "seq": 18,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -354915,7 +355231,8 @@
                     "95974C5D780AB509",
                     "7E6C7136D5C27AD1",
                     "54EE9702C289DDAC",
-                    "464CFC70CF3895AD"
+                    "464CFC70CF3895AD",
+                    "666187E9CF307E3D"
                 ]
             }
         },
@@ -369583,6 +369900,49 @@
                     "B85641FDDED22352",
                     "8C8037479F88F500",
                     "EF0567DCF0D20204",
+                    "210978D525EEDF4F",
+                    "C4BDAA5047CADCBA",
+                    "A859FDC2ED9ECEA1",
+                    "AF9FE138E3D5D5F0",
+                    "1D44677AEFBA8773",
+                    "18580F35B0A312CF",
+                    "4F3D6BA55D5FFFE1",
+                    "7211E63DE150A10E",
+                    "F2DFF3A02940D925",
+                    "F00B9766890B9FD5",
+                    "A14D4AF63BFAB364",
+                    "266DC8A29740F280",
+                    "3CBEDBBD1EE6AC99",
+                    "A08B5AB2B8253F5C"
+                ]
+            }
+        },
+        "E37C+2+Tuen Mun (Hung Kiu)+AIRCRAFT MAINTENANCE AREA": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "AIRCRAFT MAINTENANCE AREA",
+                "zh": "飛機維修區"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "Tuen Mun (Hung Kiu)",
+                "zh": "屯門(紅橋)"
+            },
+            "route": "E37C",
+            "seq": 14,
+            "serviceType": "2",
+            "stops": {
+                "kmb": [
                     "210978D525EEDF4F",
                     "C4BDAA5047CADCBA",
                     "A859FDC2ED9ECEA1",
@@ -411079,6 +411439,200 @@
                     "A02CB1283981A937",
                     "B26B63709D8A7DFA",
                     "E4415E645A9914EF"
+                ]
+            }
+        },
+        "PBM1+1+LOHAS PARK STATION+MEGABOX": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MEGABOX",
+                "zh": "MEGABOX"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "LOHAS PARK STATION",
+                "zh": "康城站"
+            },
+            "route": "PBM1",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "DE8AB4B54CD3D4F2",
+                    "06CC6423AA236B72",
+                    "41D38FB36417339B"
+                ]
+            }
+        },
+        "PBM1+1+MEGABOX+LOHAS PARK STATION": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "LOHAS PARK STATION",
+                "zh": "康城站"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "MEGABOX",
+                "zh": "MEGABOX"
+            },
+            "route": "PBM1",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "41D38FB36417339B",
+                    "06CC6423AA236B72",
+                    "DE8AB4B54CD3D4F2"
+                ]
+            }
+        },
+        "PBM2+1+MEGABOX+MONG KOK": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MONG KOK",
+                "zh": "旺角"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "MEGABOX",
+                "zh": "MEGABOX"
+            },
+            "route": "PBM2",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "41D38FB36417339B",
+                    "045FB4EAE4FE52D6",
+                    "D807FB5CE82945A2"
+                ]
+            }
+        },
+        "PBM2+1+MONG KOK+MEGABOX": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MEGABOX",
+                "zh": "MEGABOX"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "MONG KOK",
+                "zh": "旺角"
+            },
+            "route": "PBM2",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "D807FB5CE82945A2",
+                    "045FB4EAE4FE52D6",
+                    "41D38FB36417339B"
+                ]
+            }
+        },
+        "PBM3+1+MA ON SHAN+MEGABOX": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MEGABOX",
+                "zh": "MEGABOX"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "MA ON SHAN",
+                "zh": "馬鞍山"
+            },
+            "route": "PBM3",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "3C6231BF9A77F8B4",
+                    "8C90768E30E981C6",
+                    "4C61A1E387593CAF",
+                    "41D38FB36417339B"
+                ]
+            }
+        },
+        "PBM3+1+MEGABOX+MA ON SHAN": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "MA ON SHAN",
+                "zh": "馬鞍山"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "MEGABOX",
+                "zh": "MEGABOX"
+            },
+            "route": "PBM3",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "41D38FB36417339B",
+                    "4C61A1E387593CAF",
+                    "8C90768E30E981C6",
+                    "3C6231BF9A77F8B4"
                 ]
             }
         },
@@ -511931,8 +512485,8 @@
         },
         "36A5F6842C55126E": {
             "location": {
-                "lat": 22.315786,
-                "lng": 114.209517
+                "lat": 22.315686,
+                "lng": 114.209626
             },
             "name": {
                 "en": "HONG KONG CHILDREN'S HOSPITAL (ALIGHTING STOP)",
@@ -513267,6 +513821,16 @@
             "name": {
                 "en": "KAM YING COURT (MA333)",
                 "zh": "錦英苑 (MA333)"
+            }
+        },
+        "3C6231BF9A77F8B4": {
+            "location": {
+                "lat": 22.425017,
+                "lng": 114.231436
+            },
+            "name": {
+                "en": "BAYSHORE TOWERS",
+                "zh": "海栢花園"
             }
         },
         "3C624F6CB2D5BBEA": {
@@ -517887,6 +518451,16 @@
             "name": {
                 "en": "LU KWONG FAI MEMORIAL SCHOOL (KW260)",
                 "zh": "盧光輝紀念學校 (KW260)"
+            }
+        },
+        "4C61A1E387593CAF": {
+            "location": {
+                "lat": 22.341466,
+                "lng": 114.20274
+            },
+            "name": {
+                "en": "DIAMOND HILL (FUNG TAK ROAD)",
+                "zh": "鑽石山(鳳德道)"
             }
         },
         "4C78B66918ACB647": {
@@ -531267,6 +531841,16 @@
             "name": {
                 "en": "LOK WAH SOUTH ESTATE (KT306)",
                 "zh": "樂華南邨 (KT306)"
+            }
+        },
+        "7EFB60ED247B4316": {
+            "location": {
+                "lat": 22.500346,
+                "lng": 114.143625
+            },
+            "name": {
+                "en": "LUEN WO HUI BUS TERMINUS (ND968)",
+                "zh": "聯和墟總站 (ND968)"
             }
         },
         "7EFC43457A826032": {
@@ -553749,6 +554333,16 @@
                 "zh": "如心廣場巴士總站 (TW958)"
             }
         },
+        "D585080E071B999E": {
+            "location": {
+                "lat": 22.500346,
+                "lng": 114.143625
+            },
+            "name": {
+                "en": "LUEN WO HUI BUS TERMINUS (ND964)",
+                "zh": "聯和墟總站 (ND964)"
+            }
+        },
         "D5918A3A6192208D": {
             "location": {
                 "lat": 22.510056,
@@ -555957,6 +556551,16 @@
             "name": {
                 "en": "HEUNG TO MIDDLE SCHOOL (SS560)",
                 "zh": "香島中學 (SS560)"
+            }
+        },
+        "DE8AB4B54CD3D4F2": {
+            "location": {
+                "lat": 22.296803,
+                "lng": 114.269336
+            },
+            "name": {
+                "en": "LOHAS PARK STATION",
+                "zh": "康城站"
             }
         },
         "DE925628D8747F6D": {
