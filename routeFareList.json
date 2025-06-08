@@ -51360,7 +51360,7 @@
                 ]
             }
         },
-        "19+1+ANDERSON+DIAMOND HILL (CIRCULAR)": {
+        "19+1+ANDERSON+DIAMOND HILL (CHOI HUNG ROAD)": {
             "bound": {
                 "kmb": "O"
             },
@@ -51368,43 +51368,21 @@
                 "kmb"
             ],
             "dest": {
-                "en": "DIAMOND HILL (CIRCULAR)",
-                "zh": "鑽石山(循環線)"
+                "en": "DIAMOND HILL (CHOI HUNG ROAD)",
+                "zh": "鑽石山(彩虹道)"
             },
-            "fares": [
-                "5.2",
-                "5.2",
-                "5.2",
-                "5.2",
-                "5.1",
-                "3.3",
-                "3.3",
-                "5.2",
-                "5.1",
-                "5.1",
-                "5.1",
-                "3.3",
-                "3.3",
-                "3.3"
-            ],
+            "fares": null,
             "faresHoliday": null,
-            "freq": {
-                "511": {
-                    "0530": [
-                        "2430",
-                        "1800"
-                    ]
-                }
-            },
-            "gtfsId": "1000601",
-            "jt": "24",
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
             "nlbId": null,
             "orig": {
                 "en": "ANDERSON",
                 "zh": "安達臣"
             },
             "route": "19",
-            "seq": 15,
+            "seq": 8,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -51415,6 +51393,36 @@
                     "3BA9C90738A8600D",
                     "29B66F2353388E18",
                     "AB194503D9CC9465",
+                    "17EC583ACAB167BE"
+                ]
+            }
+        },
+        "19+1+DIAMOND HILL (CHOI HUNG ROAD)+ANDERSON": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "ANDERSON",
+                "zh": "安達臣"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "DIAMOND HILL (CHOI HUNG ROAD)",
+                "zh": "鑽石山(彩虹道)"
+            },
+            "route": "19",
+            "seq": 8,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
                     "17EC583ACAB167BE",
                     "2EFDB1EADF5955E6",
                     "E7116B44D9E9393A",
@@ -221970,8 +221978,8 @@
             "faresHoliday": null,
             "freq": {
                 "127": {
-                    "0640": [
-                        "2340",
+                    "0650": [
+                        "2350",
                         "1200"
                     ]
                 }
@@ -222615,8 +222623,8 @@
             "faresHoliday": null,
             "freq": {
                 "127": {
-                    "0630": [
-                        "2330",
+                    "0640": [
+                        "2340",
                         "1200"
                     ]
                 }
@@ -410906,11 +410914,17 @@
                 "zh": "機場／昂坪360 - 東涌纜車站"
             },
             "route": "NP1",
-            "seq": 1,
+            "seq": 7,
             "serviceType": 1,
             "stops": {
                 "ctb": [
-                    "003395"
+                    "003395",
+                    "003893",
+                    "003894",
+                    "002914",
+                    "003892",
+                    "003895",
+                    "003896"
                 ]
             }
         },
@@ -410936,10 +410950,15 @@
                 "zh": "昂坪360 - 東涌纜車站"
             },
             "route": "NP2",
-            "seq": 1,
+            "seq": 6,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "003893",
+                    "002914",
+                    "003892",
+                    "003895",
+                    "003896",
                     "003395"
                 ]
             }
@@ -410966,10 +410985,11 @@
                 "zh": "昂坪360 - 東涌纜車站"
             },
             "route": "NP3",
-            "seq": 1,
+            "seq": 2,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "003893",
                     "001850"
                 ]
             }
@@ -410996,10 +411016,11 @@
                 "zh": "昂坪360 - 東涌纜車站"
             },
             "route": "NP4",
-            "seq": 1,
+            "seq": 2,
             "serviceType": 1,
             "stops": {
                 "ctb": [
+                    "003893",
                     "003395"
                 ]
             }
@@ -411026,10 +411047,15 @@
                 "zh": "昂坪360 - 東涌纜車站"
             },
             "route": "NP5",
-            "seq": 0,
+            "seq": 4,
             "serviceType": 1,
             "stops": {
-                "ctb": []
+                "ctb": [
+                    "003893",
+                    "003892",
+                    "003895",
+                    "003896"
+                ]
             }
         },
         "P960+1+EXHIBITION CENTRE STATION+SIU HONG STATION (NORTH)": {
@@ -440627,6 +440653,16 @@
                 "zh": "調景嶺站, 景嶺路"
             }
         },
+        "002914": {
+            "location": {
+                "lat": 22.316143222091,
+                "lng": 114.04403327053
+            },
+            "name": {
+                "en": "Disneyland",
+                "zh": "迪士尼樂園"
+            }
+        },
         "002915": {
             "location": {
                 "lat": 22.308765432091,
@@ -448835,6 +448871,56 @@
             "name": {
                 "en": "Kai Tak Bridge Road",
                 "zh": "啟德橋道"
+            }
+        },
+        "003892": {
+            "location": {
+                "lat": 22.308269052091,
+                "lng": 114.04395008053
+            },
+            "name": {
+                "en": "Hong Kong Disneyland Hotel",
+                "zh": "香港迪士尼樂園酒店"
+            }
+        },
+        "003893": {
+            "location": {
+                "lat": 22.289952932091,
+                "lng": 113.93864405053
+            },
+            "name": {
+                "en": "Ngong Ping 360 Tung Chung Station",
+                "zh": "昂坪纜車東涌站"
+            }
+        },
+        "003894": {
+            "location": {
+                "lat": 22.295555072091,
+                "lng": 113.94638132053
+            },
+            "name": {
+                "en": "Four Points by Sheraton",
+                "zh": "世茂喜來登及福朋喜來登酒店"
+            }
+        },
+        "003895": {
+            "location": {
+                "lat": 22.308058202091,
+                "lng": 114.03901696053
+            },
+            "name": {
+                "en": "Disney Explorers Lodge",
+                "zh": "迪士尼探索家度假酒店"
+            }
+        },
+        "003896": {
+            "location": {
+                "lat": 22.309261192091,
+                "lng": 114.03737984053
+            },
+            "name": {
+                "en": "Disney‘s Hollywood Hotel",
+                "zh": "迪士尼好萊塢酒店"
             }
         },
         "003D1263A14908F6": {
