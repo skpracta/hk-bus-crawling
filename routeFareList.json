@@ -44080,7 +44080,6 @@
                 "10.4",
                 "10.4",
                 "10.4",
-                "10.4",
                 "10.4"
             ],
             "faresHoliday": null,
@@ -44162,7 +44161,7 @@
                 "zh": "布袋澳"
             },
             "route": "16",
-            "seq": 25,
+            "seq": 24,
             "serviceType": 1,
             "stops": {
                 "gmb": [
@@ -44189,7 +44188,6 @@
                     "20001163",
                     "20001164",
                     "20014673",
-                    "20001166",
                     "20001149"
                 ]
             }
@@ -51360,7 +51358,7 @@
                 ]
             }
         },
-        "19+1+ANDERSON+DIAMOND HILL (CHOI HUNG ROAD)": {
+        "19+1+ANDERSON+DIAMOND HILL (KAI CHEUNG COURT)": {
             "bound": {
                 "kmb": "O"
             },
@@ -51368,8 +51366,8 @@
                 "kmb"
             ],
             "dest": {
-                "en": "DIAMOND HILL (CHOI HUNG ROAD)",
-                "zh": "鑽石山(彩虹道)"
+                "en": "DIAMOND HILL (KAI CHEUNG COURT)",
+                "zh": "鑽石山(啟翔苑)"
             },
             "fares": null,
             "faresHoliday": null,
@@ -51397,7 +51395,7 @@
                 ]
             }
         },
-        "19+1+DIAMOND HILL (CHOI HUNG ROAD)+ANDERSON": {
+        "19+1+DIAMOND HILL (KAI CHEUNG COURT)+ANDERSON": {
             "bound": {
                 "kmb": "I"
             },
@@ -51415,8 +51413,8 @@
             "jt": null,
             "nlbId": null,
             "orig": {
-                "en": "DIAMOND HILL (CHOI HUNG ROAD)",
-                "zh": "鑽石山(彩虹道)"
+                "en": "DIAMOND HILL (KAI CHEUNG COURT)",
+                "zh": "鑽石山(啟翔苑)"
             },
             "route": "19",
             "seq": 8,
@@ -161771,51 +161769,6 @@
                     "20001319",
                     "20011812",
                     "20001344"
-                ]
-            }
-        },
-        "43+2+TSING YI MARKET+TSUEN WAN WEST": {
-            "bound": {
-                "kmb": "O"
-            },
-            "co": [
-                "kmb"
-            ],
-            "dest": {
-                "en": "TSUEN WAN WEST",
-                "zh": "荃灣西站"
-            },
-            "fares": null,
-            "faresHoliday": null,
-            "freq": null,
-            "gtfsId": null,
-            "jt": null,
-            "nlbId": null,
-            "orig": {
-                "en": "TSING YI MARKET",
-                "zh": "青衣街市"
-            },
-            "route": "43",
-            "seq": 16,
-            "serviceType": "2",
-            "stops": {
-                "kmb": [
-                    "143D7489C808BD46",
-                    "DE99B27530D1A3C4",
-                    "A25160BA84EE09F7",
-                    "DC28E30AF099D339",
-                    "EE0ACB2B516C305E",
-                    "45A499CD3132E90A",
-                    "B035018DFD9028C3",
-                    "F7005C63821245C3",
-                    "02E2C6CDE2A867C1",
-                    "1761C3A8C035C581",
-                    "61C243D8DF535149",
-                    "FD3E79D1B5A2237F",
-                    "FFB21D12A61560FE",
-                    "3A99869DB9D31D45",
-                    "1C179AC6FE83C808",
-                    "E8B842CC3AB62056"
                 ]
             }
         },
@@ -449519,8 +449472,8 @@
                 "lng": 114.109806
             },
             "name": {
-                "en": "CLAGUE GARDEN ESTATE (TW327)",
-                "zh": "祈德尊新邨 (TW327)"
+                "en": "CLAGUE GARDEN ESTATE (TW326)",
+                "zh": "祈德尊新邨 (TW326)"
             }
         },
         "03411E63565CD911": {
@@ -501245,12 +501198,12 @@
         },
         "20017917": {
             "location": {
-                "lat": 22.31580534595704,
-                "lng": 114.20945512440734
+                "lat": 22.315902245155073,
+                "lng": 114.20904994010927
             },
             "name": {
-                "en": "Shing Cheong Road, Near Training & Research Tower (Tower B), Hong Kong Children's Hospital",
-                "zh": "承昌道, 近香港兒童醫院教學及科研大樓（B座）"
+                "en": "Shing Cheong Road, near Clinical Tower (Tower B)",
+                "zh": "承昌道, 近香港兒童醫院臨床服務大樓"
             }
         },
         "20017950": {
@@ -511489,8 +511442,8 @@
                 "lng": 114.172626
             },
             "name": {
-                "en": "SUN HING GARDEN (TP382)",
-                "zh": "新興花園 (TP382)"
+                "en": "SUN HING GARDEN (TP381)",
+                "zh": "新興花園 (TP381)"
             }
         },
         "326199D24220A42B": {
@@ -544319,8 +544272,8 @@
                 "lng": 114.172626
             },
             "name": {
-                "en": "SUN HING GARDEN (TP381)",
-                "zh": "新興花園 (TP381)"
+                "en": "SUN HING GARDEN (TP382)",
+                "zh": "新興花園 (TP382)"
             }
         },
         "ACE23D880D07ABB1": {
