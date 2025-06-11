@@ -295633,7 +295633,7 @@
             "stops": {
                 "gmb": [
                     "20012109",
-                    "20012120",
+                    "20021400",
                     "20012110",
                     "20012121",
                     "20012112",
@@ -295644,7 +295644,7 @@
                     "20000802",
                     "20002394",
                     "20012117",
-                    "20009238",
+                    "20021400",
                     "20012118",
                     "20012119"
                 ]
@@ -314897,6 +314897,59 @@
                     "4D55F6240E2AAFB8",
                     "3BA9C90738A8600D",
                     "5D77A5CBE41F2984"
+                ]
+            }
+        },
+        "91R+1+CLEAR WATER BAY+TSEUNG KWAN O (CHOI MING)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TSEUNG KWAN O (CHOI MING)",
+                "zh": "將軍澳(彩明)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "CLEAR WATER BAY",
+                "zh": "清水灣"
+            },
+            "route": "91R",
+            "seq": 24,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "440AEE375A242B6D",
+                    "55950D2113A80E72",
+                    "31C7E8E4A4626178",
+                    "F7EE3594526686DB",
+                    "80D6E715DA51CA02",
+                    "225FBE9D52AD0ED2",
+                    "2A62A6244F598604",
+                    "0CF0429A4BEE8F4C",
+                    "F937BECF8C53EEF3",
+                    "EA5AF653CB5975F8",
+                    "7BFE214AF3036D86",
+                    "5B4EE863B18FED7D",
+                    "8353D95EF9733231",
+                    "511D1F0A4F2B25C0",
+                    "C9E33E7E7EDAA459",
+                    "5016E25156D72ADA",
+                    "10590D40479607E8",
+                    "54FCA9F5D8F3587E",
+                    "711927A9FAEF1158",
+                    "F09FF6C6349030C6",
+                    "D13C7436B13B4A4B",
+                    "C37E7CF06680272D",
+                    "26F23B1B4A5AB703",
+                    "938667F4F953DFCA"
                 ]
             }
         },
@@ -410867,7 +410920,7 @@
                 "zh": "機場／昂坪360 - 東涌纜車站"
             },
             "route": "NP1",
-            "seq": 7,
+            "seq": 8,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -410877,7 +410930,8 @@
                     "002914",
                     "003892",
                     "003895",
-                    "003896"
+                    "003896",
+                    "003893"
                 ]
             }
         },
@@ -410903,7 +410957,7 @@
                 "zh": "昂坪360 - 東涌纜車站"
             },
             "route": "NP2",
-            "seq": 6,
+            "seq": 7,
             "serviceType": 1,
             "stops": {
                 "ctb": [
@@ -410912,7 +410966,8 @@
                     "003892",
                     "003895",
                     "003896",
-                    "003395"
+                    "003395",
+                    "003893"
                 ]
             }
         },
@@ -410938,12 +410993,13 @@
                 "zh": "昂坪360 - 東涌纜車站"
             },
             "route": "NP3",
-            "seq": 2,
+            "seq": 3,
             "serviceType": 1,
             "stops": {
                 "ctb": [
                     "003893",
-                    "001850"
+                    "001850",
+                    "003893"
                 ]
             }
         },
@@ -410969,12 +411025,13 @@
                 "zh": "昂坪360 - 東涌纜車站"
             },
             "route": "NP4",
-            "seq": 2,
+            "seq": 3,
             "serviceType": 1,
             "stops": {
                 "ctb": [
                     "003893",
-                    "003395"
+                    "003395",
+                    "003893"
                 ]
             }
         },
@@ -412564,6 +412621,39 @@
                     "65C8216FB0BC4FBC",
                     "444BEB5BB189B3A0",
                     "FE235D7DCABCA944"
+                ]
+            }
+        },
+        "R78+1+FANLING STATION+SAN WAI BARRACKS(CIRCULAR)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SAN WAI BARRACKS(CIRCULAR)",
+                "zh": "新圍軍營(循環線)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "FANLING STATION",
+                "zh": "粉嶺站"
+            },
+            "route": "R78",
+            "seq": 4,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "9DBFBF7A3CE5DF0A",
+                    "18FB32A8BE19CB57",
+                    "EF78DD9F765C6565",
+                    "9DBFBF7A3CE5DF0A"
                 ]
             }
         },
@@ -476436,16 +476526,6 @@
                 "zh": "富山公共交通總站"
             }
         },
-        "20009238": {
-            "location": {
-                "lat": 22.33198773684473,
-                "lng": 114.19799789786342
-            },
-            "name": {
-                "en": "CONCORDE ROAD, near Trade And Industry Tower",
-                "zh": "協調道, 近工業貿易大樓"
-            }
-        },
         "20009272": {
             "location": {
                 "lat": 22.382038636634494,
@@ -480284,16 +480364,6 @@
             "name": {
                 "en": "SHING KAI ROAD, near Po Leung Kuk Stanley Ho Sau Nan Primary School",
                 "zh": "承啟道, 近保良局何壽南小學"
-            }
-        },
-        "20012120": {
-            "location": {
-                "lat": 22.332018933898535,
-                "lng": 114.19803355624238
-            },
-            "name": {
-                "en": "CONCORDE ROAD, near Trade And Industry Tower",
-                "zh": "協調道, 近工業貿易大樓"
             }
         },
         "20012121": {
@@ -506372,8 +506442,8 @@
                 "lng": 114.273728
             },
             "name": {
-                "en": "MEGA PLUS DATA CENTRE (TK303)",
-                "zh": "MEGA Plus 數據中心 (TK303)"
+                "en": "LA SPLENDEUR LOHAS PARK (TK303)",
+                "zh": "日出康城領凱 (TK303)"
             }
         },
         "230B03C34F2022D4": {
@@ -521392,8 +521462,8 @@
                 "lng": 114.002881
             },
             "name": {
-                "en": "TIN YIU BUS TERMINUS (TN920)",
-                "zh": "天耀總站 (TN920)"
+                "en": "TIN YIU BUS TERMINUS (TN922)",
+                "zh": "天耀總站 (TN922)"
             }
         },
         "55550BED65A18A13": {
@@ -539946,6 +540016,16 @@
                 "zh": "喇沙利道 (KC738)"
             }
         },
+        "9DBFBF7A3CE5DF0A": {
+            "location": {
+                "lat": 22.492376,
+                "lng": 114.13883
+            },
+            "name": {
+                "en": "FANLING STATION BBI-FANLING STATION (ND497)",
+                "zh": "粉嶺站轉車站-粉嶺站 (ND497)"
+            }
+        },
         "9DC117C78DBDB1A7": {
             "location": {
                 "lat": 22.366437,
@@ -550036,6 +550116,16 @@
                 "zh": "跑馬地馬場"
             }
         },
+        "C37E7CF06680272D": {
+            "location": {
+                "lat": 22.304726,
+                "lng": 114.253849
+            },
+            "name": {
+                "en": "CHUI LING ROAD",
+                "zh": "翠嶺路"
+            }
+        },
         "C39037A588387F32": {
             "location": {
                 "lat": 22.305437,
@@ -554232,8 +554322,8 @@
                 "lng": 114.003006
             },
             "name": {
-                "en": "TIN YIU BUS TERMINUS (TN922)",
-                "zh": "天耀總站 (TN922)"
+                "en": "TIN YIU BUS TERMINUS (TN920)",
+                "zh": "天耀總站 (TN920)"
             }
         },
         "D446D1EA79502BF2": {
