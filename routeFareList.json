@@ -243896,7 +243896,7 @@
                 ]
             }
         },
-        "702S+1+So Uk Estate+Cheung Sha Wan (Sham Shing Road) ／ Fu Cheong Estate": {
+        "702S+1+So Uk Estate+Banyan Garden ／ Fu Cheong Estate": {
             "bound": {
                 "ctb": "O"
             },
@@ -243904,8 +243904,8 @@
                 "ctb"
             ],
             "dest": {
-                "en": "Cheung Sha Wan (Sham Shing Road) ／ Fu Cheong Estate",
-                "zh": "長沙灣 (深盛路)／富昌邨"
+                "en": "Banyan Garden ／ Fu Cheong Estate",
+                "zh": "泓景臺／富昌邨"
             },
             "fares": null,
             "faresHoliday": null,
@@ -351493,7 +351493,7 @@
                 ]
             }
         },
-        "A34+1+SIU HONG ROAD (TM527)+AIRPORT (GTC) BUS TERMINUS": {
+        "A34+1+SIU HONG ROAD (TM527)+AIRPORT (GTC) BUS TERMINUS (CL900)": {
             "bound": {
                 "kmb": "O"
             },
@@ -351501,7 +351501,7 @@
                 "kmb"
             ],
             "dest": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL900)",
                 "zh": "機場(地面運輸中心)巴士總站"
             },
             "fares": [
@@ -450202,8 +450202,8 @@
                 "lng": 113.938753
             },
             "name": {
-                "en": "NORTH LANTAU HOSPITAL",
-                "zh": "北大嶼山醫院"
+                "en": "NORTH LANTAU HOSPITAL (TC180)",
+                "zh": "北大嶼山醫院 (TC180)"
             }
         },
         "060241561E537FB5": {
@@ -450452,7 +450452,7 @@
                 "lng": 113.937293
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL903)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -450772,8 +450772,8 @@
                 "lng": 114.04167
             },
             "name": {
-                "en": "LANTAU LINK BBI (N2)",
-                "zh": "青嶼幹線轉車站 (N2)"
+                "en": "LANTAU LINK BBI (N2) (TW705)",
+                "zh": "青嶼幹線轉車站 (N2) (TW705)"
             }
         },
         "087B8E4687A0872B": {
@@ -450842,7 +450842,7 @@
                 "lng": 113.935828
             },
             "name": {
-                "en": "Terminal 1 (North), Cheong Tat Road",
+                "en": "Terminal 1 (North), Cheong Tat Road (CL304)",
                 "zh": "暢達路(一號客運大樓)(北)"
             }
         },
@@ -450972,7 +450972,7 @@
                 "lng": 113.950434
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (W6)",
+                "en": "HZMB HONG KONG PORT (W6) (CL931)",
                 "zh": "港珠澳大橋香港口岸 (W6)"
             }
         },
@@ -451062,7 +451062,7 @@
                 "lng": 113.950528
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (W1)",
+                "en": "HZMB HONG KONG PORT (W1) (CL936)",
                 "zh": "港珠澳大橋香港口岸 (W1)"
             }
         },
@@ -452172,8 +452172,8 @@
                 "lng": 113.942028
             },
             "name": {
-                "en": "FU TUNG PLAZA",
-                "zh": "富東廣場"
+                "en": "FU TUNG PLAZA (TC418)",
+                "zh": "富東廣場 (TC418)"
             }
         },
         "0E2175C0750054FE": {
@@ -452322,8 +452322,8 @@
                 "lng": 114.04167
             },
             "name": {
-                "en": "LANTAU LINK BBI (N3)",
-                "zh": "青嶼幹線轉車站 (N3)"
+                "en": "LANTAU LINK BBI (N3) (TW704)",
+                "zh": "青嶼幹線轉車站 (N3) (TW704)"
             }
         },
         "0E9E4997C2B89CA9": {
@@ -452512,8 +452512,8 @@
                 "lng": 113.940934
             },
             "name": {
-                "en": "SKYCITY Bus Terminus",
-                "zh": "航天城巴士總站"
+                "en": "SKYCITY Bus Terminus (CL959)",
+                "zh": "航天城巴士總站 (CL959)"
             }
         },
         "0F4D809AED62F6E9": {
@@ -453312,8 +453312,8 @@
                 "lng": 113.928405
             },
             "name": {
-                "en": "CHEK LAP KOK SOUTH ROAD",
-                "zh": "赤鱲角南路"
+                "en": "CHEK LAP KOK SOUTH ROAD (CL380)",
+                "zh": "赤鱲角南路 (CL380)"
             }
         },
         "116": {
@@ -454372,7 +454372,7 @@
                 "lng": 113.950402
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (E5)",
+                "en": "HZMB HONG KONG PORT (E5) (CL944)",
                 "zh": "港珠澳大橋香港口岸 (E5)"
             }
         },
@@ -456152,8 +456152,8 @@
                 "lng": 113.933332
             },
             "name": {
-                "en": "CATHAY PACIFIC CITY",
-                "zh": "國泰城"
+                "en": "CATHAY PACIFIC CITY (CL220)",
+                "zh": "國泰城 (CL220)"
             }
         },
         "18CBF1D5C8C9C449": {
@@ -456322,7 +456322,7 @@
                 "lng": 113.950434
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (W5)",
+                "en": "HZMB HONG KONG PORT (W5) (CL932)",
                 "zh": "港珠澳大橋香港口岸 (W5)"
             }
         },
@@ -456642,8 +456642,8 @@
                 "lng": 113.936974
             },
             "name": {
-                "en": "KUI YAT HOUSE, YAT TUNG ESTATE",
-                "zh": "逸東邨居逸樓"
+                "en": "KUI YAT HOUSE, YAT TUNG ESTATE (TC451)",
+                "zh": "逸東邨居逸樓 (TC451)"
             }
         },
         "1A83561C79EB6EA8": {
@@ -457172,8 +457172,8 @@
                 "lng": 113.937235
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
-                "zh": "機場(地面運輸中心)總站"
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL905)",
+                "zh": "機場(地面運輸中心)總站 (CL905)"
             }
         },
         "1C8D366A8E0235D2": {
@@ -457192,8 +457192,8 @@
                 "lng": 113.94791
             },
             "name": {
-                "en": "YU NGA COURT, YING HEI ROAD",
-                "zh": "迎禧路裕雅苑"
+                "en": "YU NGA COURT, YING HEI ROAD (TC150)",
+                "zh": "迎禧路裕雅苑 (TC150)"
             }
         },
         "1C9A67AF93C79806": {
@@ -492348,8 +492348,8 @@
         },
         "20015377": {
             "location": {
-                "lat": 22.29658380721763,
-                "lng": 114.27413776516916
+                "lat": 22.296470891345027,
+                "lng": 114.2742517590523
             },
             "name": {
                 "en": "Shek Kok Road, near The Beaumount II",
@@ -505642,7 +505642,7 @@
                 "lng": 113.935826
             },
             "name": {
-                "en": "Terminal 1 (North), Cheong Tat Road",
+                "en": "Terminal 1 (North), Cheong Tat Road (CL306)",
                 "zh": "暢達路(一號客運大樓)(北)"
             }
         },
@@ -505832,7 +505832,7 @@
                 "lng": 113.937526
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL900)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -506142,8 +506142,8 @@
                 "lng": 113.939583
             },
             "name": {
-                "en": "TUNG CHUNG CRESCENT",
-                "zh": "東堤灣畔"
+                "en": "TUNG CHUNG CRESCENT (TC400)",
+                "zh": "東堤灣畔 (TC400)"
             }
         },
         "2255A14989E8F149": {
@@ -506322,8 +506322,8 @@
                 "lng": 113.947991
             },
             "name": {
-                "en": "YI TUNG ROAD",
-                "zh": "怡東路"
+                "en": "YI TUNG ROAD (TC161)",
+                "zh": "怡東路 (TC161)"
             }
         },
         "22B76E4C5793EFB9": {
@@ -506652,7 +506652,7 @@
                 "lng": 113.93797
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL921)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -506712,8 +506712,8 @@
                 "lng": 113.937235
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
-                "zh": "機場(地面運輸中心)總站"
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL925)",
+                "zh": "機場(地面運輸中心)總站 (CL925)"
             }
         },
         "23F5EB70746CFF94": {
@@ -506762,8 +506762,8 @@
                 "lng": 113.943618
             },
             "name": {
-                "en": "SEAVIEW CRESCENT",
-                "zh": "海堤灣畔"
+                "en": "SEAVIEW CRESCENT (TC200)",
+                "zh": "海堤灣畔 (TC200)"
             }
         },
         "241": {
@@ -507832,8 +507832,8 @@
                 "lng": 113.917109
             },
             "name": {
-                "en": "DHL's Central Asia Hub",
-                "zh": "DHL 中亞區樞紐中心"
+                "en": "DHL's Central Asia Hub (CL290)",
+                "zh": "DHL 中亞區樞紐中心 (CL290)"
             }
         },
         "269": {
@@ -508202,8 +508202,8 @@
                 "lng": 113.939308
             },
             "name": {
-                "en": "TUNG CHUNG CRESCENT",
-                "zh": "東堤灣畔"
+                "en": "TUNG CHUNG CRESCENT (TC196)",
+                "zh": "東堤灣畔 (TC196)"
             }
         },
         "278": {
@@ -508622,8 +508622,8 @@
                 "lng": 114.04167
             },
             "name": {
-                "en": "LANTAU LINK BBI (N5)",
-                "zh": "青嶼幹線轉車站 (N5)"
+                "en": "LANTAU LINK BBI (N5) (TW702)",
+                "zh": "青嶼幹線轉車站 (N5) (TW702)"
             }
         },
         "291": {
@@ -509152,8 +509152,8 @@
                 "lng": 113.952088
             },
             "name": {
-                "en": "THE VISIONARY",
-                "zh": "昇薈"
+                "en": "THE VISIONARY (TC220)",
+                "zh": "昇薈 (TC220)"
             }
         },
         "2AB0EEF90EDC0378": {
@@ -510422,8 +510422,8 @@
                 "lng": 113.938599
             },
             "name": {
-                "en": "TUNG CHUNG CABLE CAR TERMINAL",
-                "zh": "東涌纜車站"
+                "en": "TUNG CHUNG CABLE CAR TERMINAL (TC412)",
+                "zh": "東涌纜車站 (TC412)"
             }
         },
         "2FE12E7B84CB20D4": {
@@ -510962,8 +510962,8 @@
                 "lng": 113.93305
             },
             "name": {
-                "en": "CATHAY PACIFIC CITY",
-                "zh": "國泰城"
+                "en": "CATHAY PACIFIC CITY (CL341)",
+                "zh": "國泰城 (CL341)"
             }
         },
         "3144CE950CE29C80": {
@@ -511472,7 +511472,7 @@
                 "lng": 113.950488
             },
             "name": {
-                "en": "HZMB Hong Kong Port (W4)",
+                "en": "HZMB Hong Kong Port (W4) (CL933)",
                 "zh": "港珠澳大橋香港口岸 (W4)"
             }
         },
@@ -512282,8 +512282,8 @@
                 "lng": 113.940065
             },
             "name": {
-                "en": "TUNG CHUNG STATION BUS TERMINUS",
-                "zh": "東涌站巴士總站"
+                "en": "TUNG CHUNG STATION BUS TERMINUS (TC971)",
+                "zh": "東涌站巴士總站 (TC971)"
             }
         },
         "34ABE4E9A4459BEE": {
@@ -512422,7 +512422,7 @@
                 "lng": 113.950402
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (E2)",
+                "en": "HZMB HONG KONG PORT (E2) (CL941)",
                 "zh": "港珠澳大橋香港口岸 (E2)"
             }
         },
@@ -512602,8 +512602,8 @@
                 "lng": 113.940065
             },
             "name": {
-                "en": "TUNG CHUNG STATION BUS TERMINUS",
-                "zh": "東涌站巴士總站"
+                "en": "TUNG CHUNG STATION BUS TERMINUS (TC973)",
+                "zh": "東涌站巴士總站 (TC973)"
             }
         },
         "35AEEA90C71121F0": {
@@ -512762,8 +512762,8 @@
                 "lng": 113.951688
             },
             "name": {
-                "en": "CARIBBEAN COAST PHASE 1",
-                "zh": "映灣園第一期"
+                "en": "CARIBBEAN COAST PHASE 1 (TC212)",
+                "zh": "映灣園第一期 (TC212)"
             }
         },
         "366341F6311738C5": {
@@ -513302,7 +513302,7 @@
                 "lng": 113.950402
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (E4)",
+                "en": "HZMB HONG KONG PORT (E4) (CL943)",
                 "zh": "港珠澳大橋香港口岸 (E4)"
             }
         },
@@ -513882,8 +513882,8 @@
                 "lng": 113.938679
             },
             "name": {
-                "en": "TUNG CHUNG CABLE CAR TERMINAL",
-                "zh": "東涌纜車站"
+                "en": "TUNG CHUNG CABLE CAR TERMINAL (TC414)",
+                "zh": "東涌纜車站 (TC414)"
             }
         },
         "3AE4D452A5105EFD": {
@@ -514332,8 +514332,8 @@
                 "lng": 113.91058
             },
             "name": {
-                "en": "Government Flying Service",
-                "zh": "政府飛行服務隊"
+                "en": "Government Flying Service (CL291)",
+                "zh": "政府飛行服務隊 (CL291)"
             }
         },
         "3CCF4F6EA48CF505": {
@@ -515512,8 +515512,8 @@
                 "lng": 113.92841
             },
             "name": {
-                "en": "CHEK LAP KOK SOUTH ROAD",
-                "zh": "赤鱲角南路"
+                "en": "CHEK LAP KOK SOUTH ROAD (CL205)",
+                "zh": "赤鱲角南路 (CL205)"
             }
         },
         "40ADE0A2BB16271A": {
@@ -515652,8 +515652,8 @@
                 "lng": 114.04219
             },
             "name": {
-                "en": "LANTAU LINK BBI (A1)",
-                "zh": "青嶼幹線轉車站 (A1)"
+                "en": "LANTAU LINK BBI (A1) (TW606)",
+                "zh": "青嶼幹線轉車站 (A1) (TW606)"
             }
         },
         "4139F73177AF267D": {
@@ -516562,8 +516562,8 @@
                 "lng": 114.042265
             },
             "name": {
-                "en": "LANTAU LINK BBI (A7)",
-                "zh": "青嶼幹線轉車站 (A7)"
+                "en": "LANTAU LINK BBI (A7) (TW600)",
+                "zh": "青嶼幹線轉車站 (A7) (TW600)"
             }
         },
         "4459E386C8525C34": {
@@ -518122,8 +518122,8 @@
                 "lng": 113.9112
             },
             "name": {
-                "en": "Government Flying Service",
-                "zh": "政府飛行服務隊"
+                "en": "Government Flying Service (CL330)",
+                "zh": "政府飛行服務隊 (CL330)"
             }
         },
         "49DA16A8D82DEE21": {
@@ -518462,8 +518462,8 @@
                 "lng": 113.917628
             },
             "name": {
-                "en": "DHL's Central Asia Hub",
-                "zh": "DHL 中亞區樞紐中心"
+                "en": "DHL's Central Asia Hub (CL331)",
+                "zh": "DHL 中亞區樞紐中心 (CL331)"
             }
         },
         "4AFCFC726ADBD5F7": {
@@ -520792,8 +520792,8 @@
                 "lng": 113.929972
             },
             "name": {
-                "en": "HACTL",
-                "zh": "香港空運貨站"
+                "en": "HACTL (CL211)",
+                "zh": "香港空運貨站 (CL211)"
             }
         },
         "52EEDDA90227F4C9": {
@@ -521562,8 +521562,8 @@
                 "lng": 114.04167
             },
             "name": {
-                "en": "LANTAU LINK BBI (N1)",
-                "zh": "青嶼幹線轉車站 (N1)"
+                "en": "LANTAU LINK BBI (N1) (TW706)",
+                "zh": "青嶼幹線轉車站 (N1) (TW706)"
             }
         },
         "55950D2113A80E72": {
@@ -521722,8 +521722,8 @@
                 "lng": 113.933183
             },
             "name": {
-                "en": "MUN TUNG ESTATE",
-                "zh": "滿東邨"
+                "en": "MUN TUNG ESTATE (TC425)",
+                "zh": "滿東邨 (TC425)"
             }
         },
         "5693912DEE916C4D": {
@@ -522072,7 +522072,7 @@
                 "lng": 113.950434
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (W7)",
+                "en": "HZMB HONG KONG PORT (W7) (CL930)",
                 "zh": "港珠澳大橋香港口岸 (W7)"
             }
         },
@@ -522102,8 +522102,8 @@
                 "lng": 113.932363
             },
             "name": {
-                "en": "Aviation Fuel Tank Farm",
-                "zh": "飛機燃料庫"
+                "en": "Aviation Fuel Tank Farm (CL223)",
+                "zh": "飛機燃料庫 (CL223)"
             }
         },
         "57DFE7792042405B": {
@@ -522142,8 +522142,8 @@
                 "lng": 113.940934
             },
             "name": {
-                "en": "SKYCITY Bus Terminus",
-                "zh": "航天城巴士總站"
+                "en": "SKYCITY Bus Terminus (CL958)",
+                "zh": "航天城巴士總站 (CL958)"
             }
         },
         "57ED9CF67F4D6AC4": {
@@ -522512,8 +522512,8 @@
                 "lng": 114.037718
             },
             "name": {
-                "en": "INSPIRATION LAKE RECREATION CENTRE",
-                "zh": "迪欣湖活動中心"
+                "en": "INSPIRATION LAKE RECREATION CENTRE (TW630)",
+                "zh": "迪欣湖活動中心 (TW630)"
             }
         },
         "5974E3D924697E4C": {
@@ -523022,8 +523022,8 @@
                 "lng": 113.938659
             },
             "name": {
-                "en": "CAD Headquarters",
-                "zh": "民航處總部"
+                "en": "CAD Headquarters (CL232)",
+                "zh": "民航處總部 (CL232)"
             }
         },
         "5B8AC1AF282DF44A": {
@@ -523062,8 +523062,8 @@
                 "lng": 113.931336
             },
             "name": {
-                "en": "AIRPORT POLICE STATION",
-                "zh": "機場警署"
+                "en": "AIRPORT POLICE STATION (CL350)",
+                "zh": "機場警署 (CL350)"
             }
         },
         "5BDACC01F1655F27": {
@@ -523812,7 +523812,7 @@
                 "lng": 113.937786
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL924)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -524252,8 +524252,8 @@
                 "lng": 113.932902
             },
             "name": {
-                "en": "CATHAY PACIFIC CITY",
-                "zh": "國泰城"
+                "en": "CATHAY PACIFIC CITY (CL342)",
+                "zh": "國泰城 (CL342)"
             }
         },
         "5FEC91F62EE33DA1": {
@@ -525142,8 +525142,8 @@
                 "lng": 114.03758
             },
             "name": {
-                "en": "INSPIRATION LAKE RECREATION CENTRE",
-                "zh": "迪欣湖活動中心"
+                "en": "INSPIRATION LAKE RECREATION CENTRE (TW631)",
+                "zh": "迪欣湖活動中心 (TW631)"
             }
         },
         "63244A72D111510F": {
@@ -527172,8 +527172,8 @@
                 "lng": 114.041754
             },
             "name": {
-                "en": "LANTAU LINK BBI (N4)",
-                "zh": "青嶼幹線轉車站 (N4)"
+                "en": "LANTAU LINK BBI (N4) (TW703)",
+                "zh": "青嶼幹線轉車站 (N4) (TW703)"
             }
         },
         "6A24FDC5EF64C20A": {
@@ -527702,8 +527702,8 @@
                 "lng": 114.045724
             },
             "name": {
-                "en": "DISNEYLAND BUS TERMINUS",
-                "zh": "迪士尼樂園巴士總站"
+                "en": "DISNEYLAND BUS TERMINUS (TW886)",
+                "zh": "迪士尼樂園巴士總站 (TW886)"
             }
         },
         "6C5D425EDEE7498A": {
@@ -529232,8 +529232,8 @@
                 "lng": 113.931068
             },
             "name": {
-                "en": "AIR MAIL CENTRE",
-                "zh": "空郵中心"
+                "en": "AIR MAIL CENTRE (CL215)",
+                "zh": "空郵中心 (CL215)"
             }
         },
         "72155034783E2E96": {
@@ -529322,8 +529322,8 @@
                 "lng": 113.933282
             },
             "name": {
-                "en": "FUK YAT HOUSE, YAT TUNG ESTATE",
-                "zh": "逸東邨福逸樓"
+                "en": "FUK YAT HOUSE, YAT TUNG ESTATE (TC185)",
+                "zh": "逸東邨福逸樓 (TC185)"
             }
         },
         "72936E1AD7A19462": {
@@ -530072,7 +530072,7 @@
                 "lng": 113.937669
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL910)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -530702,8 +530702,8 @@
                 "lng": 113.93208
             },
             "name": {
-                "en": "Aviation Fuel Tank Farm",
-                "zh": "飛機燃料庫"
+                "en": "Aviation Fuel Tank Farm (CL230)",
+                "zh": "飛機燃料庫 (CL230)"
             }
         },
         "77D8D65A6BD868B3": {
@@ -531142,8 +531142,8 @@
                 "lng": 113.940934
             },
             "name": {
-                "en": "SKYCITY Bus Terminus",
-                "zh": "航天城巴士總站"
+                "en": "SKYCITY Bus Terminus (CL952)",
+                "zh": "航天城巴士總站 (CL952)"
             }
         },
         "79D10A715EAC0EFF": {
@@ -531572,7 +531572,7 @@
                 "lng": 113.935784
             },
             "name": {
-                "en": "Terminal 1 (North), Cheong Tat Road",
+                "en": "Terminal 1 (North), Cheong Tat Road (CL305)",
                 "zh": "暢達路(一號客運大樓)(北)"
             }
         },
@@ -531772,7 +531772,7 @@
                 "lng": 113.937786
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL923)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -531972,8 +531972,8 @@
                 "lng": 113.950095
             },
             "name": {
-                "en": "CARIBBEAN COAST PHASE 2",
-                "zh": "映灣園第二期"
+                "en": "CARIBBEAN COAST PHASE 2 (TC211)",
+                "zh": "映灣園第二期 (TC211)"
             }
         },
         "7DF81D14A8CE574E": {
@@ -532162,8 +532162,8 @@
                 "lng": 113.933554
             },
             "name": {
-                "en": "CHEK LAP KOK FIRE STATION",
-                "zh": "赤鱲角消防局"
+                "en": "CHEK LAP KOK FIRE STATION (CL360)",
+                "zh": "赤鱲角消防局 (CL360)"
             }
         },
         "7EF64469471FE344": {
@@ -532392,8 +532392,8 @@
                 "lng": 113.952582
             },
             "name": {
-                "en": "YING TUNG ESTATE BUS TERMINUS",
-                "zh": "迎東邨總站"
+                "en": "YING TUNG ESTATE BUS TERMINUS (TC992)",
+                "zh": "迎東邨總站 (TC992)"
             }
         },
         "7F8CEE1F02103A4A": {
@@ -533552,8 +533552,8 @@
                 "lng": 114.042097
             },
             "name": {
-                "en": "LANTAU LINK BBI (A4)",
-                "zh": "青嶼幹線轉車站 (A4)"
+                "en": "LANTAU LINK BBI (A4) (TW603)",
+                "zh": "青嶼幹線轉車站 (A4) (TW603)"
             }
         },
         "83A02749D0CB2EE8": {
@@ -534202,8 +534202,8 @@
                 "lng": 113.932902
             },
             "name": {
-                "en": "CATHAY PACIFIC CITY",
-                "zh": "國泰城"
+                "en": "CATHAY PACIFIC CITY (CL340)",
+                "zh": "國泰城 (CL340)"
             }
         },
         "86218AD69549D7B2": {
@@ -534212,7 +534212,7 @@
                 "lng": 113.937235
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL904)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -534392,8 +534392,8 @@
                 "lng": 113.923374
             },
             "name": {
-                "en": "CHUN WAN ROAD NORTH",
-                "zh": "駿運北路"
+                "en": "CHUN WAN ROAD NORTH (CL210)",
+                "zh": "駿運北路 (CL210)"
             }
         },
         "86FD7EFBB651F5CE": {
@@ -534402,8 +534402,8 @@
                 "lng": 113.940065
             },
             "name": {
-                "en": "TUNG CHUNG STATION BUS TERMINUS",
-                "zh": "東涌站巴士總站"
+                "en": "TUNG CHUNG STATION BUS TERMINUS (TC972)",
+                "zh": "東涌站巴士總站 (TC972)"
             }
         },
         "87030C9E5FB7A82C": {
@@ -534742,7 +534742,7 @@
                 "lng": 113.950488
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (W3)",
+                "en": "HZMB HONG KONG PORT (W3) (CL934)",
                 "zh": "港珠澳大橋香港口岸 (W3)"
             }
         },
@@ -534902,8 +534902,8 @@
                 "lng": 113.936954
             },
             "name": {
-                "en": "YUNG YAT HOUSE, YAT TUNG ESTATE",
-                "zh": "逸東邨雍逸樓"
+                "en": "YUNG YAT HOUSE, YAT TUNG ESTATE (TC187)",
+                "zh": "逸東邨雍逸樓 (TC187)"
             }
         },
         "88DF3B36087267EB": {
@@ -535162,8 +535162,8 @@
                 "lng": 113.938822
             },
             "name": {
-                "en": "TUNG CHUNG CABLE CAR TERMINAL",
-                "zh": "東涌纜車站"
+                "en": "TUNG CHUNG CABLE CAR TERMINAL (TC410)",
+                "zh": "東涌纜車站 (TC410)"
             }
         },
         "89B3AC12AE89FA58": {
@@ -535202,8 +535202,8 @@
                 "lng": 113.899179
             },
             "name": {
-                "en": "AIRCRAFT MAINTENANCE AREA",
-                "zh": "飛機維修區"
+                "en": "AIRCRAFT MAINTENANCE AREA (CL985)",
+                "zh": "飛機維修區 (CL985)"
             }
         },
         "89EC8B1953766C7E": {
@@ -535712,8 +535712,8 @@
                 "lng": 114.041587
             },
             "name": {
-                "en": "LANTAU LINK BBI (N7)",
-                "zh": "青嶼幹線轉車站 (N7)"
+                "en": "LANTAU LINK BBI (N7) (TW700)",
+                "zh": "青嶼幹線轉車站 (N7) (TW700)"
             }
         },
         "8C87D5196ECC1057": {
@@ -536512,8 +536512,8 @@
                 "lng": 113.933183
             },
             "name": {
-                "en": "MUN TUNG ESTATE",
-                "zh": "滿東邨"
+                "en": "MUN TUNG ESTATE (TC426)",
+                "zh": "滿東邨 (TC426)"
             }
         },
         "9056734C713A7A14": {
@@ -536992,8 +536992,8 @@
                 "lng": 113.952582
             },
             "name": {
-                "en": "YING TUNG ESTATE",
-                "zh": "迎東邨"
+                "en": "YING TUNG ESTATE (TC991)",
+                "zh": "迎東邨 (TC991)"
             }
         },
         "91E946260F8BCBE8": {
@@ -537462,7 +537462,7 @@
                 "lng": 113.937337
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL901)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -538372,7 +538372,7 @@
                 "lng": 113.950528
             },
             "name": {
-                "en": "HZMB Hong Kong Port (W2)",
+                "en": "HZMB Hong Kong Port (W2) (CL935)",
                 "zh": "港珠澳大橋香港口岸 (W2)"
             }
         },
@@ -539672,8 +539672,8 @@
                 "lng": 113.940447
             },
             "name": {
-                "en": "ASIAWORLD EXPO",
-                "zh": "機場博覽館"
+                "en": "ASIAWORLD EXPO (CL320)",
+                "zh": "機場博覽館 (CL320)"
             }
         },
         "9CA76C3AEAB52DC2": {
@@ -540052,8 +540052,8 @@
                 "lng": 113.934091
             },
             "name": {
-                "en": "REGAL AIRPORT HOTEL",
-                "zh": "富豪機場酒店"
+                "en": "REGAL AIRPORT HOTEL (CL310)",
+                "zh": "富豪機場酒店 (CL310)"
             }
         },
         "9DCF59C5F17F780A": {
@@ -540542,7 +540542,7 @@
                 "lng": 113.950402
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (E3)",
+                "en": "HZMB HONG KONG PORT (E3) (CL942)",
                 "zh": "港珠澳大橋香港口岸 (E3)"
             }
         },
@@ -540722,8 +540722,8 @@
                 "lng": 113.941656
             },
             "name": {
-                "en": "YU TUNG COURT",
-                "zh": "裕東苑"
+                "en": "YU TUNG COURT (TC403)",
+                "zh": "裕東苑 (TC403)"
             }
         },
         "A0424645102B1D9C": {
@@ -540852,8 +540852,8 @@
                 "lng": 113.898775
             },
             "name": {
-                "en": "AIRCRAFT MAINTENANCE AREA",
-                "zh": "飛機維修區"
+                "en": "AIRCRAFT MAINTENANCE AREA (CL986)",
+                "zh": "飛機維修區 (CL986)"
             }
         },
         "A0934516C3FE8D29": {
@@ -541112,8 +541112,8 @@
                 "lng": 113.920795
             },
             "name": {
-                "en": "ASIA AIRFREIGHT TERMINAL",
-                "zh": "亞洲空運中心"
+                "en": "ASIA AIRFREIGHT TERMINAL (CL240)",
+                "zh": "亞洲空運中心 (CL240)"
             }
         },
         "A1541789F09C89BA": {
@@ -542002,8 +542002,8 @@
                 "lng": 113.941995
             },
             "name": {
-                "en": "FU TUNG PLAZA",
-                "zh": "富東廣場"
+                "en": "FU TUNG PLAZA (TC417)",
+                "zh": "富東廣場 (TC417)"
             }
         },
         "A4C9136D18013389": {
@@ -542722,7 +542722,7 @@
                 "lng": 113.950402
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (E7)",
+                "en": "HZMB HONG KONG PORT (E7) (CL946)",
                 "zh": "港珠澳大橋香港口岸 (E7)"
             }
         },
@@ -543522,8 +543522,8 @@
                 "lng": 113.936563
             },
             "name": {
-                "en": "CHEONG LIN ROAD",
-                "zh": "暢連路"
+                "en": "CHEONG LIN ROAD (CL300)",
+                "zh": "暢連路 (CL300)"
             }
         },
         "A99EAA9BF58E4AAE": {
@@ -543832,8 +543832,8 @@
                 "lng": 113.933356
             },
             "name": {
-                "en": "CATHAY PACIFIC CITY",
-                "zh": "國泰城"
+                "en": "CATHAY PACIFIC CITY (CL221)",
+                "zh": "國泰城 (CL221)"
             }
         },
         "AAC74D0FACCF8639": {
@@ -544032,8 +544032,8 @@
                 "lng": 113.950328
             },
             "name": {
-                "en": "CENTURY LINK",
-                "zh": "東環"
+                "en": "CENTURY LINK (TC151)",
+                "zh": "東環 (TC151)"
             }
         },
         "AB741CA56ABEA9F2": {
@@ -544162,8 +544162,8 @@
                 "lng": 113.941061
             },
             "name": {
-                "en": "TUNG CHUNG FIRE STATION",
-                "zh": "東涌消防局"
+                "en": "TUNG CHUNG FIRE STATION (TC195)",
+                "zh": "東涌消防局 (TC195)"
             }
         },
         "AC1A0FA3D0743FCC": {
@@ -544402,8 +544402,8 @@
                 "lng": 113.938581
             },
             "name": {
-                "en": "TUNG CHUNG CABLE CAR TERMINAL",
-                "zh": "東涌纜車站"
+                "en": "TUNG CHUNG CABLE CAR TERMINAL (TC411)",
+                "zh": "東涌纜車站 (TC411)"
             }
         },
         "AD09CB78CEDADB0B": {
@@ -545012,7 +545012,7 @@
                 "lng": 113.937235
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL907)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -545242,7 +545242,7 @@
                 "lng": 113.950402
             },
             "name": {
-                "en": "HZMB HONG KONG PORT (E6)",
+                "en": "HZMB HONG KONG PORT (E6) (CL945)",
                 "zh": "港珠澳大橋香港口岸 (E6)"
             }
         },
@@ -545512,8 +545512,8 @@
                 "lng": 113.943293
             },
             "name": {
-                "en": "SEAVIEW CRESCENT",
-                "zh": "海堤灣畔"
+                "en": "SEAVIEW CRESCENT (TC170)",
+                "zh": "海堤灣畔 (TC170)"
             }
         },
         "B17A07239E3E576E": {
@@ -546492,8 +546492,8 @@
                 "lng": 113.898775
             },
             "name": {
-                "en": "AIRCRAFT MAINTENANCE AREA",
-                "zh": "飛機維修區"
+                "en": "AIRCRAFT MAINTENANCE AREA (CL987)",
+                "zh": "飛機維修區 (CL987)"
             }
         },
         "B58772294234CF74": {
@@ -547292,7 +547292,7 @@
                 "lng": 113.937757
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL902)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -548052,8 +548052,8 @@
                 "lng": 114.0415
             },
             "name": {
-                "en": "LANTAU LINK BBI (N6)",
-                "zh": "青嶼幹線轉車站 (N6)"
+                "en": "LANTAU LINK BBI (N6) (TW701)",
+                "zh": "青嶼幹線轉車站 (N6) (TW701)"
             }
         },
         "BB8D798D19066A35": {
@@ -548882,8 +548882,8 @@
                 "lng": 113.936813
             },
             "name": {
-                "en": "KUI YAT HOUSE, YAT TUNG ESTATE",
-                "zh": "逸東邨居逸樓"
+                "en": "KUI YAT HOUSE, YAT TUNG ESTATE (TC450)",
+                "zh": "逸東邨居逸樓 (TC450)"
             }
         },
         "BF24F3D6A39D8D99": {
@@ -549212,7 +549212,7 @@
                 "lng": 113.936454
             },
             "name": {
-                "en": "Terminal 1 (South), Cheong Tat Road",
+                "en": "Terminal 1 (South), Cheong Tat Road (CL303)",
                 "zh": "暢達路(一號客運大樓)(南)"
             }
         },
@@ -549542,8 +549542,8 @@
                 "lng": 113.94179
             },
             "name": {
-                "en": "CITYGATE",
-                "zh": "東薈城"
+                "en": "CITYGATE (TC416)",
+                "zh": "東薈城 (TC416)"
             }
         },
         "C1A67D37CF256C9E": {
@@ -550262,8 +550262,8 @@
                 "lng": 113.933282
             },
             "name": {
-                "en": "FUK YAT HOUSE, YAT TUNG ESTATE",
-                "zh": "逸東邨福逸樓"
+                "en": "FUK YAT HOUSE, YAT TUNG ESTATE (TC186)",
+                "zh": "逸東邨福逸樓 (TC186)"
             }
         },
         "C479E1DC6030850D": {
@@ -550882,8 +550882,8 @@
                 "lng": 114.04219
             },
             "name": {
-                "en": "LANTAU LINK BBI (A3)",
-                "zh": "青嶼幹線轉車站 (A3)"
+                "en": "LANTAU LINK BBI (A3) (TW604)",
+                "zh": "青嶼幹線轉車站 (A3) (TW604)"
             }
         },
         "C7392BC1280A591E": {
@@ -551912,8 +551912,8 @@
                 "lng": 113.937116
             },
             "name": {
-                "en": "Car Park 1, Cheong Tat Road",
-                "zh": "暢達路(一號停車場)"
+                "en": "Car Park 1, Cheong Tat Road (CL302)",
+                "zh": "暢達路(一號停車場) (CL302)"
             }
         },
         "CB295B56D3762A1F": {
@@ -552202,8 +552202,8 @@
                 "lng": 113.951998
             },
             "name": {
-                "en": "THE VISIONARY",
-                "zh": "昇薈"
+                "en": "THE VISIONARY (TC155)",
+                "zh": "昇薈 (TC155)"
             }
         },
         "CC6B75E6D60B4C57": {
@@ -552292,8 +552292,8 @@
                 "lng": 113.941692
             },
             "name": {
-                "en": "CITYGATE",
-                "zh": "東薈城"
+                "en": "CITYGATE (TC415)",
+                "zh": "東薈城 (TC415)"
             }
         },
         "CCAC1239A80FFE6B": {
@@ -552322,8 +552322,8 @@
                 "lng": 113.936954
             },
             "name": {
-                "en": "YUNG YAT HOUSE, YAT TUNG ESTATE",
-                "zh": "逸東邨雍逸樓"
+                "en": "YUNG YAT HOUSE, YAT TUNG ESTATE (TC188)",
+                "zh": "逸東邨雍逸樓 (TC188)"
             }
         },
         "CCBBE2779B1765C4": {
@@ -552482,8 +552482,8 @@
                 "lng": 114.04219
             },
             "name": {
-                "en": "LANTAU LINK BBI (A2)",
-                "zh": "青嶼幹線轉車站 (A2)"
+                "en": "LANTAU LINK BBI (A2) (TW605)",
+                "zh": "青嶼幹線轉車站 (A2) (TW605)"
             }
         },
         "CD7C28BDF71C00D7": {
@@ -553012,7 +553012,7 @@
                 "lng": 113.937235
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL906)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -553172,8 +553172,8 @@
                 "lng": 113.938641
             },
             "name": {
-                "en": "TUNG CHUNG CABLE CAR TERMINAL",
-                "zh": "東涌纜車站"
+                "en": "TUNG CHUNG CABLE CAR TERMINAL (TC413)",
+                "zh": "東涌纜車站 (TC413)"
             }
         },
         "D055CA5BAD9EEF5E": {
@@ -553442,8 +553442,8 @@
                 "lng": 113.941583
             },
             "name": {
-                "en": "YU TUNG COURT",
-                "zh": "裕東苑"
+                "en": "YU TUNG COURT (TC402)",
+                "zh": "裕東苑 (TC402)"
             }
         },
         "D127A33746CCDB16": {
@@ -553502,8 +553502,8 @@
                 "lng": 113.948495
             },
             "name": {
-                "en": "NGA SHING HOUSE, YU NGA COURT",
-                "zh": "裕雅苑雅盛閣"
+                "en": "NGA SHING HOUSE, YU NGA COURT (TC240)",
+                "zh": "裕雅苑雅盛閣 (TC240)"
             }
         },
         "D156C558FF163BE3": {
@@ -554062,7 +554062,7 @@
                 "lng": 113.937786
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL922)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -554172,8 +554172,8 @@
                 "lng": 113.93977
             },
             "name": {
-                "en": "CAD HEADQUARTER",
-                "zh": "民航處總部"
+                "en": "CAD HEADQUARTER (CL231)",
+                "zh": "民航處總部 (CL231)"
             }
         },
         "D3C41BB36EC805E0": {
@@ -554362,8 +554362,8 @@
                 "lng": 113.937116
             },
             "name": {
-                "en": "Car Park 1, Cheong Tat Road",
-                "zh": "暢達路(一號停車場)"
+                "en": "Car Park 1, Cheong Tat Road (CL301)",
+                "zh": "暢達路(一號停車場) (CL301)"
             }
         },
         "D45717E1168534C5": {
@@ -554842,8 +554842,8 @@
                 "lng": 113.946747
             },
             "name": {
-                "en": "YU NGA SHOPPING CENTRE",
-                "zh": "裕雅商場"
+                "en": "YU NGA SHOPPING CENTRE (TC241)",
+                "zh": "裕雅商場 (TC241)"
             }
         },
         "D63D9356CBA8B0CD": {
@@ -555222,8 +555222,8 @@
                 "lng": 113.950594
             },
             "name": {
-                "en": "CARIBBEAN COAST PHASE 2",
-                "zh": "映灣園第二期"
+                "en": "CARIBBEAN COAST PHASE 2 (TC160)",
+                "zh": "映灣園第二期 (TC160)"
             }
         },
         "D7C46496C9C7B7BA": {
@@ -556372,8 +556372,8 @@
                 "lng": 113.944883
             },
             "name": {
-                "en": "E WUN SECONDARY SCHOOL",
-                "zh": "怡文中學"
+                "en": "E WUN SECONDARY SCHOOL (TC162)",
+                "zh": "怡文中學 (TC162)"
             }
         },
         "DBAAC5A97DAFD138": {
@@ -556402,8 +556402,8 @@
                 "lng": 114.04219
             },
             "name": {
-                "en": "LANTAU LINK BBI (A5)",
-                "zh": "青嶼幹線轉車站 (A5)"
+                "en": "LANTAU LINK BBI (A5) (TW602)",
+                "zh": "青嶼幹線轉車站 (A5) (TW602)"
             }
         },
         "DBB8E01BBE8C66ED": {
@@ -556412,8 +556412,8 @@
                 "lng": 113.945854
             },
             "name": {
-                "en": "COASTAL SKYLINE",
-                "zh": "藍天海岸"
+                "en": "COASTAL SKYLINE (TC210)",
+                "zh": "藍天海岸 (TC210)"
             }
         },
         "DBD6820299653B4E": {
@@ -556542,8 +556542,8 @@
                 "lng": 113.94036
             },
             "name": {
-                "en": "TUNG CHUNG DEVELOPMENT PIER",
-                "zh": "東涌發展碼頭"
+                "en": "TUNG CHUNG DEVELOPMENT PIER (TC175)",
+                "zh": "東涌發展碼頭 (TC175)"
             }
         },
         "DC5AC2E3C1153288": {
@@ -557462,8 +557462,8 @@
                 "lng": 114.045742
             },
             "name": {
-                "en": "DISNEYLAND BUS TERMINUS",
-                "zh": "迪士尼樂園巴士總站"
+                "en": "DISNEYLAND BUS TERMINUS (TW881)",
+                "zh": "迪士尼樂園巴士總站 (TW881)"
             }
         },
         "E0BAA3364D0CE860": {
@@ -557742,8 +557742,8 @@
                 "lng": 114.042342
             },
             "name": {
-                "en": "LANTAU LINK BBI (A6)",
-                "zh": "青嶼幹線轉車站 (A6)"
+                "en": "LANTAU LINK BBI (A6) (TW601)",
+                "zh": "青嶼幹線轉車站 (A6) (TW601)"
             }
         },
         "E1FF74B455D86144": {
@@ -557972,8 +557972,8 @@
                 "lng": 113.940038
             },
             "name": {
-                "en": "TUNG CHUNG STATION BUS TERMINUS",
-                "zh": "東涌站巴士總站"
+                "en": "TUNG CHUNG STATION BUS TERMINUS (TC970)",
+                "zh": "東涌站巴士總站 (TC970)"
             }
         },
         "E2C1A8269F4200F5": {
@@ -557992,8 +557992,8 @@
                 "lng": 113.93497
             },
             "name": {
-                "en": "Cathay Dining",
-                "zh": "國泰餐飲"
+                "en": "Cathay Dining (CL365)",
+                "zh": "國泰餐飲 (CL365)"
             }
         },
         "E2E25068F99CF92B": {
@@ -558162,8 +558162,8 @@
                 "lng": 114.060729
             },
             "name": {
-                "en": "MA WAN (PAK YAN ROAD)",
-                "zh": "馬灣(珀欣路)"
+                "en": "MA WAN (PAK YAN ROAD) (TW620)",
+                "zh": "馬灣(珀欣路) (TW620)"
             }
         },
         "E37FF663075361FE": {
@@ -558272,8 +558272,8 @@
                 "lng": 114.045724
             },
             "name": {
-                "en": "DISNEYLAND BUS TERMINUS",
-                "zh": "迪士尼樂園巴士總站"
+                "en": "DISNEYLAND BUS TERMINUS (TW885)",
+                "zh": "迪士尼樂園巴士總站 (TW885)"
             }
         },
         "E3E5521CAFDD5DCE": {
@@ -558342,8 +558342,8 @@
                 "lng": 113.940527
             },
             "name": {
-                "en": "TUNG CHUNG DEVELOPMENT PIER",
-                "zh": "東涌發展碼頭"
+                "en": "TUNG CHUNG DEVELOPMENT PIER (TC176)",
+                "zh": "東涌發展碼頭 (TC176)"
             }
         },
         "E435F72ACB8438ED": {
@@ -558462,8 +558462,8 @@
                 "lng": 113.943407
             },
             "name": {
-                "en": "Sky City Interchange",
-                "zh": "航天城交匯處"
+                "en": "Sky City Interchange (CL326)",
+                "zh": "航天城交匯處 (CL326)"
             }
         },
         "E499DA804188827F": {
@@ -558702,8 +558702,8 @@
                 "lng": 113.936021
             },
             "name": {
-                "en": "YAT TUNG ESTATE BUS TERMINUS",
-                "zh": "逸東邨巴士總站"
+                "en": "YAT TUNG ESTATE BUS TERMINUS (TC981)",
+                "zh": "逸東邨巴士總站 (TC981)"
             }
         },
         "E58C9560384FAF7F": {
@@ -561432,8 +561432,8 @@
                 "lng": 113.925103
             },
             "name": {
-                "en": "AIRPORT FREIGHT FORWARDING CTR.",
-                "zh": "機場空運中心"
+                "en": "AIRPORT FREIGHT FORWARDING CTR. (CL371)",
+                "zh": "機場空運中心 (CL371)"
             }
         },
         "F0182B0359FB4924": {
@@ -562072,7 +562072,7 @@
                 "lng": 113.93797
             },
             "name": {
-                "en": "AIRPORT (GTC) BUS TERMINUS",
+                "en": "AIRPORT (GTC) BUS TERMINUS (CL920)",
                 "zh": "機場(地面運輸中心)巴士總站"
             }
         },
@@ -562142,8 +562142,8 @@
                 "lng": 113.92823
             },
             "name": {
-                "en": "CHUN WAN ROAD SOUTH",
-                "zh": "駿運南路"
+                "en": "CHUN WAN ROAD SOUTH (CL370)",
+                "zh": "駿運南路 (CL370)"
             }
         },
         "F2E0E1AC84064D9C": {
@@ -562202,8 +562202,8 @@
                 "lng": 113.941966
             },
             "name": {
-                "en": "FU TUNG PLAZA",
-                "zh": "富東廣場"
+                "en": "FU TUNG PLAZA (TC419)",
+                "zh": "富東廣場 (TC419)"
             }
         },
         "F307FDA96A1DF9A2": {
@@ -562272,8 +562272,8 @@
                 "lng": 113.940934
             },
             "name": {
-                "en": "SKYCITY Bus Terminus",
-                "zh": "航天城巴士總站"
+                "en": "SKYCITY Bus Terminus (CL950)",
+                "zh": "航天城巴士總站 (CL950)"
             }
         },
         "F3333DDE2FFE3AB4": {
@@ -564482,8 +564482,8 @@
                 "lng": 113.936002
             },
             "name": {
-                "en": "YAT TUNG ESTATE BUS TERMINUS",
-                "zh": "逸東邨巴士總站"
+                "en": "YAT TUNG ESTATE BUS TERMINUS (TC980)",
+                "zh": "逸東邨巴士總站 (TC980)"
             }
         },
         "FA343B97309B84B4": {
@@ -564622,8 +564622,8 @@
                 "lng": 113.938983
             },
             "name": {
-                "en": "MEI YAT HOUSE, YAT TUNG ESTATE",
-                "zh": "逸東邨美逸樓"
+                "en": "MEI YAT HOUSE, YAT TUNG ESTATE (TC440)",
+                "zh": "逸東邨美逸樓 (TC440)"
             }
         },
         "FACA192DB8589295": {
@@ -565442,8 +565442,8 @@
                 "lng": 114.04618
             },
             "name": {
-                "en": "DISNEYLAND BUS TERMINUS",
-                "zh": "迪士尼樂園巴士總站"
+                "en": "DISNEYLAND BUS TERMINUS (TW880)",
+                "zh": "迪士尼樂園巴士總站 (TW880)"
             }
         },
         "FE2815CBCD21C57C": {
@@ -565532,8 +565532,8 @@
                 "lng": 113.950525
             },
             "name": {
-                "en": "YING HEI ROAD",
-                "zh": "迎禧路"
+                "en": "YING HEI ROAD (TC230)",
+                "zh": "迎禧路 (TC230)"
             }
         },
         "FE801C732EC6EA42": {
@@ -565782,8 +565782,8 @@
                 "lng": 113.941517
             },
             "name": {
-                "en": "YU TUNG COURT",
-                "zh": "裕東苑"
+                "en": "YU TUNG COURT (TC401)",
+                "zh": "裕東苑 (TC401)"
             }
         },
         "FF50570BA54BCA0B": {
