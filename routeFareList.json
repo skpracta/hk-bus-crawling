@@ -78278,6 +78278,40 @@
                 ]
             }
         },
+        "254R+1+YOHO MALL+SHEK KONG BARRACKS (CIRCULAR)": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "SHEK KONG BARRACKS (CIRCULAR)",
+                "zh": "石崗軍營 (循環線)"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "YOHO MALL",
+                "zh": "形點"
+            },
+            "route": "254R",
+            "seq": 5,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "65B07713A0DDFF22",
+                    "B930AD84BC1A8655",
+                    "2D10E16919B5A96E",
+                    "6A4B371546D489BF",
+                    "65B07713A0DDFF22"
+                ]
+            }
+        },
         "258A+1+HUNG SHUI KIU (HUNG FUK ESTATE)+LAM TIN STATION": {
             "bound": {
                 "kmb": "O"
@@ -168358,6 +168392,70 @@
                 ]
             }
         },
+        "46R+1+NGONG SHUEN CHAU BARRACKS+TAI WAI STATION": {
+            "bound": {
+                "kmb": "I"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "TAI WAI STATION",
+                "zh": "大圍站"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "NGONG SHUEN CHAU BARRACKS",
+                "zh": "昂船洲軍營"
+            },
+            "route": "46R",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "9E76DA1634822CDB",
+                    "BF72FF473A660C0E",
+                    "14C3BF43DC0878D1"
+                ]
+            }
+        },
+        "46R+1+TAI WAI STATION+NGONG SHUEN CHAU BARRACKS": {
+            "bound": {
+                "kmb": "O"
+            },
+            "co": [
+                "kmb"
+            ],
+            "dest": {
+                "en": "NGONG SHUEN CHAU BARRACKS",
+                "zh": "昂船洲軍營"
+            },
+            "fares": null,
+            "faresHoliday": null,
+            "freq": null,
+            "gtfsId": null,
+            "jt": null,
+            "nlbId": null,
+            "orig": {
+                "en": "TAI WAI STATION",
+                "zh": "大圍站"
+            },
+            "route": "46R",
+            "seq": 3,
+            "serviceType": "1",
+            "stops": {
+                "kmb": [
+                    "14C3BF43DC0878D1",
+                    "673B33867260EBB7",
+                    "9E76DA1634822CDB"
+                ]
+            }
+        },
         "46S+1+HIN KENG+TSUEN WAN (NINA TOWER)": {
             "bound": {
                 "kmb": "O"
@@ -182733,7 +182831,25 @@
             ],
             "faresHoliday": null,
             "freq": {
-                "127": {
+                "31": {
+                    "0730": [
+                        "1000",
+                        "900"
+                    ],
+                    "1000": [
+                        "1600",
+                        "1800"
+                    ],
+                    "1600": [
+                        "1900",
+                        "900"
+                    ],
+                    "1900": [
+                        "2200",
+                        "1800"
+                    ]
+                },
+                "96": {
                     "0730": [
                         "2200",
                         "1800"
@@ -182775,7 +182891,25 @@
             ],
             "faresHoliday": null,
             "freq": {
-                "127": {
+                "31": {
+                    "0700": [
+                        "1000",
+                        "900"
+                    ],
+                    "1000": [
+                        "1600",
+                        "1800"
+                    ],
+                    "1600": [
+                        "1900",
+                        "900"
+                    ],
+                    "1900": [
+                        "2130",
+                        "1800"
+                    ]
+                },
+                "96": {
                     "0700": [
                         "2130",
                         "1800"
