@@ -189508,10 +189508,6 @@
                         "0710",
                         "60"
                     ],
-                    "1600": [
-                        "1600",
-                        "60"
-                    ],
                     "1700": [
                         "1700",
                         "60"
@@ -423430,8 +423426,8 @@
                 "lng": 114.171412
             },
             "name": {
-                "en": "PUBLIC SQUARE STREET YAU MA TEI (S36) (YT535)",
-                "zh": "油麻地眾坊街 (S36) (YT535)"
+                "en": "PUBLIC SQUARE STREET YAU MA TEI (S36) (YT545)",
+                "zh": "油麻地眾坊街 (S36) (YT545)"
             }
         },
         "000CFEE2F92DC17B": {
@@ -453120,8 +453116,8 @@
                 "lng": 114.170513
             },
             "name": {
-                "en": "PITT STREET YAU MA TEI (S27) (YT526)",
-                "zh": "油麻地碧街 (S27) (YT526)"
+                "en": "PITT STREET YAU MA TEI (S27) (YT536)",
+                "zh": "油麻地碧街 (S27) (YT536)"
             }
         },
         "1078119989C67B82": {
@@ -453540,7 +453536,7 @@
                 "lng": 114.172442
             },
             "name": {
-                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (S53) (YT552)",
+                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (S53) (YT562)",
                 "zh": "尖沙咀轉車站 - 中間道 (S53)"
             }
         },
@@ -457700,8 +457696,8 @@
                 "lng": 114.172114
             },
             "name": {
-                "en": "CAMERON ROAD (S51), KOWLOON MOSQUE (YT550)",
-                "zh": "金馬倫道 (S51) 清真寺 (YT550)"
+                "en": "CAMERON ROAD (S51), KOWLOON MOSQUE (YT560)",
+                "zh": "金馬倫道 (S51) 清真寺 (YT560)"
             }
         },
         "1DEFCF90AB170FD7": {
@@ -458220,8 +458216,8 @@
                 "lng": 114.108818
             },
             "name": {
-                "en": "TSUEN WAN CENTRE (TW445)",
-                "zh": "荃灣中心 (TW445)"
+                "en": "TSUEN WAN CENTRE (TW446)",
+                "zh": "荃灣中心 (TW446)"
             }
         },
         "1FBF3DA8236B5F45": {
@@ -507620,8 +507616,8 @@
                 "lng": 114.171408
             },
             "name": {
-                "en": "GASCOIGNE ROAD (S38) (YT537)",
-                "zh": "加士居道 (S38) (YT537)"
+                "en": "GASCOIGNE ROAD (S38) (YT547)",
+                "zh": "加士居道 (S38) (YT547)"
             }
         },
         "25BC743BF6EB726E": {
@@ -512130,8 +512126,8 @@
                 "lng": 114.170935
             },
             "name": {
-                "en": "MAN MING LANE YAU MA TEI (S32) (YT531)",
-                "zh": "油麻地文明里 (S32) (YT531)"
+                "en": "MAN MING LANE YAU MA TEI (S32) (YT541)",
+                "zh": "油麻地文明里 (S32) (YT541)"
             }
         },
         "338": {
@@ -512980,8 +512976,8 @@
                 "lng": 114.170657
             },
             "name": {
-                "en": "PITT STREET YAU MA TEI (S30) (YT529)",
-                "zh": "油麻地碧街 (S30) (YT529)"
+                "en": "PITT STREET YAU MA TEI (S30) (YT539)",
+                "zh": "油麻地碧街 (S30) (YT539)"
             }
         },
         "36B8BEAE9346F718": {
@@ -516910,7 +516906,7 @@
                 "lng": 114.172439
             },
             "name": {
-                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (S52) (YT551)",
+                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (S52) (YT561)",
                 "zh": "尖沙咀轉車站 - 中間道 (S52)"
             }
         },
@@ -517260,7 +517256,7 @@
                 "lng": 114.172484
             },
             "name": {
-                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (S55) (YT554)",
+                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (S55) (YT564)",
                 "zh": "尖沙咀轉車站 - 中間道 (S55)"
             }
         },
@@ -520180,8 +520176,8 @@
                 "lng": 114.171625
             },
             "name": {
-                "en": "CHEONG LOK STREET YAU MA TEI (S42) (YT541)",
-                "zh": "油麻地長樂街 (S42) (YT541)"
+                "en": "CHEONG LOK STREET YAU MA TEI (S42) (YT551)",
+                "zh": "油麻地長樂街 (S42) (YT551)"
             }
         },
         "50A5C817D1469A62": {
@@ -520760,8 +520756,8 @@
                 "lng": 114.171641
             },
             "name": {
-                "en": "CHEONG LOK STREET YAU MA TEI (S43) (YT542)",
-                "zh": "油麻地長樂街 (S43) (YT542)"
+                "en": "CHEONG LOK STREET YAU MA TEI (S43) (YT552)",
+                "zh": "油麻地長樂街 (S43) (YT552)"
             }
         },
         "5242343C03385FCC": {
@@ -522370,8 +522366,8 @@
                 "lng": 114.107064
             },
             "name": {
-                "en": "TSUEN WAN CENTRE (TW446)",
-                "zh": "荃灣中心 (TW446)"
+                "en": "TSUEN WAN CENTRE (TW445)",
+                "zh": "荃灣中心 (TW445)"
             }
         },
         "583E102838FA4D0A": {
@@ -524100,8 +524096,8 @@
                 "lng": 114.171044
             },
             "name": {
-                "en": "WING SING LANE YAU MA TEI (S33) (YT532)",
-                "zh": "油麻地永星里 (S33) (YT532)"
+                "en": "WING SING LANE YAU MA TEI (S33) (YT542)",
+                "zh": "油麻地永星里 (S33) (YT542)"
             }
         },
         "5EEFE2E2583B576B": {
@@ -524520,7 +524516,7 @@
                 "lng": 114.138959
             },
             "name": {
-                "en": "FANLING STATION BBI - FANLING STATION(D1) (ND134)",
+                "en": "FANLING STATION BBI - FANLING STATION (D1) (ND134)",
                 "zh": "粉嶺站轉車站 - 粉嶺站(D1)"
             }
         },
@@ -530760,8 +530756,8 @@
                 "lng": 114.171577
             },
             "name": {
-                "en": "SAIGON STREET YAU MA TEI (S41) (YT540)",
-                "zh": "油麻地西貢街 (S41) (YT540)"
+                "en": "SAIGON STREET YAU MA TEI (S41) (YT550)",
+                "zh": "油麻地西貢街 (S41) (YT550)"
             }
         },
         "77C4E5A2A47DD342": {
@@ -532720,8 +532716,8 @@
                 "lng": 114.171554
             },
             "name": {
-                "en": "SAIGON STREET YAU MA TEI (S40) (YT539)",
-                "zh": "油麻地西貢街 (S40) (YT539)"
+                "en": "SAIGON STREET YAU MA TEI (S40) (YT549)",
+                "zh": "油麻地西貢街 (S40) (YT549)"
             }
         },
         "807FF45E7E451237": {
@@ -534590,8 +534586,8 @@
                 "lng": 114.170674
             },
             "name": {
-                "en": "PITT STREET YAU MA TEI (S29) (YT528)",
-                "zh": "油麻地碧街 (S29) (YT528)"
+                "en": "PITT STREET YAU MA TEI (S29) (YT538)",
+                "zh": "油麻地碧街 (S29) (YT538)"
             }
         },
         "8753A8442C2FFF53": {
@@ -537480,8 +537476,8 @@
                 "lng": 114.160603
             },
             "name": {
-                "en": "SHAN LAI COURT (ND520)",
-                "zh": "山麗苑 (ND520)"
+                "en": "SHAN LAI COURT (ND522)",
+                "zh": "山麗苑 (ND522)"
             }
         },
         "938667F4F953DFCA": {
@@ -538320,8 +538316,8 @@
                 "lng": 114.171112
             },
             "name": {
-                "en": "WING SING LANE YAU MA TEI (S35) (YT534)",
-                "zh": "油麻地永星里 (S35) (YT534)"
+                "en": "WING SING LANE YAU MA TEI (S35) (YT544)",
+                "zh": "油麻地永星里 (S35) (YT544)"
             }
         },
         "964AA1DCAAD06512": {
@@ -538690,8 +538686,8 @@
                 "lng": 114.170662
             },
             "name": {
-                "en": "PITT STREET YAU MA TEI (S28) (YT527)",
-                "zh": "油麻地碧街 (S28) (YT527)"
+                "en": "PITT STREET YAU MA TEI (S28) (YT537)",
+                "zh": "油麻地碧街 (S28) (YT537)"
             }
         },
         "97D1981DE7ECBCE7": {
@@ -540210,8 +540206,8 @@
                 "lng": 114.17141
             },
             "name": {
-                "en": "GASCOIGNE ROAD (S39) (YT538)",
-                "zh": "加士居道 (S39) (YT538)"
+                "en": "GASCOIGNE ROAD (S39) (YT548)",
+                "zh": "加士居道 (S39) (YT548)"
             }
         },
         "9DE043DB23CEDAA8": {
@@ -541790,8 +541786,8 @@
                 "lng": 114.171799
             },
             "name": {
-                "en": "TAK SHING STREET TSIM SHA TSUI (S47) (YT546)",
-                "zh": "尖沙咀德成街 (S47) (YT546)"
+                "en": "TAK SHING STREET TSIM SHA TSUI (S47) (YT556)",
+                "zh": "尖沙咀德成街 (S47) (YT556)"
             }
         },
         "A384FBA637A1EBC5": {
@@ -542650,8 +542646,8 @@
                 "lng": 114.171826
             },
             "name": {
-                "en": "TAK SHING STREET TSIM SHA TSUI (S46) (YT545)",
-                "zh": "尖沙咀德成街 (S46) (YT545)"
+                "en": "TAK SHING STREET TSIM SHA TSUI (S46) (YT555)",
+                "zh": "尖沙咀德成街 (S46) (YT555)"
             }
         },
         "A6C169DA579FC45B": {
@@ -549200,8 +549196,8 @@
                 "lng": 114.160603
             },
             "name": {
-                "en": "SHAN LAI COURT (ND522)",
-                "zh": "山麗苑 (ND522)"
+                "en": "SHAN LAI COURT (ND520)",
+                "zh": "山麗苑 (ND520)"
             }
         },
         "BFF2560B1C1687B2": {
@@ -552200,8 +552196,8 @@
                 "lng": 114.171398
             },
             "name": {
-                "en": "PUBLIC SQUARE STREET YAU MA TEI (S37) (YT536)",
-                "zh": "油麻地眾坊街 (S37) (YT536)"
+                "en": "PUBLIC SQUARE STREET YAU MA TEI (S37) (YT546)",
+                "zh": "油麻地眾坊街 (S37) (YT546)"
             }
         },
         "CC0D6DFEC686704E": {
@@ -552590,8 +552586,8 @@
                 "lng": 114.171799
             },
             "name": {
-                "en": "TAK SHING STREET TSIM SHA TSUI (S44) (YT543)",
-                "zh": "尖沙咀德成街 (S44) (YT543)"
+                "en": "TAK SHING STREET TSIM SHA TSUI (S44) (YT553)",
+                "zh": "尖沙咀德成街 (S44) (YT553)"
             }
         },
         "CD9E21CA712C9F96": {
@@ -553810,7 +553806,7 @@
                 "lng": 114.172446
             },
             "name": {
-                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (S54) (YT553)",
+                "en": "TSIM SHA TSUI BBI - MIDDLE ROAD (S54) (YT563)",
                 "zh": "尖沙咀轉車站 - 中間道 (S54)"
             }
         },
@@ -554540,8 +554536,8 @@
                 "lng": 114.170893
             },
             "name": {
-                "en": "MAN MING LANE YAU MA TEI (S31) (YT530)",
-                "zh": "油麻地文明里 (S31) (YT530)"
+                "en": "MAN MING LANE YAU MA TEI (S31) (YT540)",
+                "zh": "油麻地文明里 (S31) (YT540)"
             }
         },
         "D49A27F89957E305": {
@@ -555090,7 +555086,7 @@
                 "lng": 114.172087
             },
             "name": {
-                "en": "KIMBERLEY ROAD (S49), MIRA PLACE (YT548)",
+                "en": "KIMBERLEY ROAD (S49), MIRA PLACE (YT558)",
                 "zh": "金巴利道 S49 美麗華廣場"
             }
         },
@@ -557620,8 +557616,8 @@
                 "lng": 114.171799
             },
             "name": {
-                "en": "TAK SHING STREET TSIM SHA TSUI (S45) (YT544)",
-                "zh": "尖沙咀德成街 (S45) (YT544)"
+                "en": "TAK SHING STREET TSIM SHA TSUI (S45) (YT554)",
+                "zh": "尖沙咀德成街 (S45) (YT554)"
             }
         },
         "E1128E909284D1D7": {
@@ -560070,7 +560066,7 @@
                 "lng": 114.172057
             },
             "name": {
-                "en": "KIMBERLEY ROAD (S50), MIRA PLACE (YT549)",
+                "en": "KIMBERLEY ROAD (S50), MIRA PLACE (YT559)",
                 "zh": "金巴利道 S50 美麗華廣場"
             }
         },
@@ -560930,8 +560926,8 @@
                 "lng": 114.171092
             },
             "name": {
-                "en": "WING SING LANE YAU MA TEI (S34) (YT533)",
-                "zh": "油麻地永星里 (S34) (YT533)"
+                "en": "WING SING LANE YAU MA TEI (S34) (YT543)",
+                "zh": "油麻地永星里 (S34) (YT543)"
             }
         },
         "EDF4C2EAFDBD4693": {
@@ -565620,8 +565616,8 @@
                 "lng": 114.172017
             },
             "name": {
-                "en": "ST. ANDREW'S CHURCH (S48) (YT547)",
-                "zh": "聖安德烈堂 (S48) (YT547)"
+                "en": "ST. ANDREW'S CHURCH (S48) (YT557)",
+                "zh": "聖安德烈堂 (S48) (YT557)"
             }
         },
         "FE6D5955F777E39C": {
@@ -572386,8 +572382,8 @@
         },
         "LR020": {
             "location": {
-                "lat": 22.381045732516558,
-                "lng": 113.96425740075702
+                "lat": 22.381805000609095,
+                "lng": 113.963423108469
             },
             "name": {
                 "en": "Light Rail Depot",
