@@ -45046,7 +45046,7 @@
                     "D39533060940818A",
                     "14894C859FDFE8C3",
                     "A1C35E976ACF46FD",
-                    "9268B442F0C2807E",
+                    "2F1F9CF16B9E65AF",
                     "ED5554C57CF0061C",
                     "4D9419874306D82F",
                     "D625B0997C3DBCFE",
@@ -112541,7 +112541,7 @@
                 "kmb": [
                     "81E82A4D2A0D9BD3",
                     "38CCA601583A5C55",
-                    "9456587A2D10A6CA",
+                    "5E75DC46C55ED246",
                     "6953AEF8B3921959",
                     "149ADEC589550041",
                     "48BA70BC6F7488CF",
@@ -170700,7 +170700,7 @@
                     "1C23A54B97165DAB",
                     "9179E2F718D0F436",
                     "19521C0A1CA93C52",
-                    "5E75DC46C55ED246",
+                    "9456587A2D10A6CA",
                     "A7AFBCA40D458E0D",
                     "45001DA558E03CF0",
                     "B818259F753A3BE2",
@@ -187453,6 +187453,8 @@
                 "9.5",
                 "9.5",
                 "9.5",
+                "9.5",
+                "9.5",
                 "9.5"
             ],
             "faresHoliday": null,
@@ -187490,19 +187492,21 @@
                 "zh": "中環(碼頭)"
             },
             "route": "54",
-            "seq": 23,
+            "seq": 25,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20000284",
                     "20003083",
                     "20003475",
+                    "20013195",
                     "20000289",
                     "20021451",
                     "20003508",
                     "20002799",
                     "20003509",
                     "20003510",
+                    "20021756",
                     "20019072",
                     "20002719",
                     "20003511",
@@ -187830,6 +187834,8 @@
                 "9.5",
                 "9.5",
                 "9.5",
+                "9.5",
+                "9.5",
                 "9.5"
             ],
             "faresHoliday": null,
@@ -187853,19 +187859,21 @@
                 "zh": "中環(碼頭)"
             },
             "route": "54",
-            "seq": 10,
+            "seq": 12,
             "serviceType": 2,
             "stops": {
                 "gmb": [
                     "20000284",
                     "20003083",
                     "20003475",
+                    "20013195",
                     "20000289",
                     "20021451",
                     "20003508",
                     "20002799",
                     "20003509",
                     "20003510",
+                    "20021756",
                     "20019072"
                 ]
             }
@@ -187882,6 +187890,8 @@
                 "zh": "瑪麗醫院(循環線)"
             },
             "fares": [
+                "9.5",
+                "9.5",
                 "9.5",
                 "9.5",
                 "9.5",
@@ -187925,19 +187935,21 @@
                 "zh": "中環(碼頭)"
             },
             "route": "54",
-            "seq": 22,
+            "seq": 24,
             "serviceType": 2,
             "stops": {
                 "gmb": [
                     "20000284",
                     "20003083",
                     "20003475",
+                    "20013195",
                     "20000289",
                     "20021451",
                     "20003508",
                     "20002799",
                     "20003509",
                     "20003510",
+                    "20021756",
                     "20019072",
                     "20002719",
                     "20003511",
@@ -188318,6 +188330,7 @@
                 "zh": "瑪麗醫院"
             },
             "fares": [
+                "7.1",
                 "7.1"
             ],
             "faresHoliday": null,
@@ -188371,11 +188384,12 @@
                 "zh": "堅尼地城站"
             },
             "route": "54M",
-            "seq": 2,
+            "seq": 3,
             "serviceType": 2,
             "stops": {
                 "gmb": [
                     "20009733",
+                    "20021756",
                     "20019072"
                 ]
             }
@@ -188804,6 +188818,10 @@
                 "9.1",
                 "9.1",
                 "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
+                "9.1",
                 "9.1"
             ],
             "faresHoliday": null,
@@ -188875,11 +188893,13 @@
                 "zh": "瑪麗醫院"
             },
             "route": "55",
-            "seq": 18,
+            "seq": 22,
             "serviceType": 1,
             "stops": {
                 "gmb": [
                     "20019072",
+                    "20021756",
+                    "20021760",
                     "20012373",
                     "20003517",
                     "20003518",
@@ -188887,7 +188907,9 @@
                     "20000294",
                     "20003514",
                     "20003083",
+                    "20021761",
                     "20003519",
+                    "20021762",
                     "20000297",
                     "20000298",
                     "20000299",
@@ -256045,7 +256067,7 @@
             "stops": {
                 "kmb": [
                     "8A12C30EE2545583",
-                    "2F1F9CF16B9E65AF",
+                    "1E71CBFE8560B0EF",
                     "F1ED37F1BA6D054F",
                     "FC343F5E57B07FBE",
                     "E89B2315750AB2FD",
@@ -279542,7 +279564,7 @@
                     "18F3C20116BFE83D",
                     "9961C7ED914E87DD",
                     "2E6DB54618C13048",
-                    "5E75DC46C55ED246",
+                    "9456587A2D10A6CA",
                     "5C043109616B6292",
                     "45001DA558E03CF0",
                     "B818259F753A3BE2",
@@ -300238,7 +300260,7 @@
             "stops": {
                 "kmb": [
                     "C1A67D37CF256C9E",
-                    "9456587A2D10A6CA",
+                    "5E75DC46C55ED246",
                     "EDAB79ED9FA32D91",
                     "45001DA558E03CF0",
                     "4F25915A4BF459F9",
@@ -418216,7 +418238,7 @@
                 "kmb": [
                     "0513406BAC1F8881",
                     "A1C35E976ACF46FD",
-                    "1E71CBFE8560B0EF",
+                    "2F1F9CF16B9E65AF",
                     "29ED2073D6C52B5A",
                     "F90ED764C7A95649",
                     "EAF0EAB6E30425BA",
@@ -458363,7 +458385,7 @@
             },
             "name": {
                 "en": "Pokfulam Road near Pokfield Road",
-                "zh": "薄扶林道近蒲飛路"
+                "zh": "薄扶林道, 近蒲飛路"
             }
         },
         "20000011": {
@@ -459612,8 +459634,8 @@
                 "lng": 114.12865072488786
             },
             "name": {
-                "en": "No.68 Belcher's Street ",
-                "zh": "卑路乍街68號"
+                "en": "Belcher's Street, near Imperial Kennedy",
+                "zh": "卑路乍街, 近Imperial Kennedy"
             }
         },
         "20000294": {
@@ -459622,7 +459644,7 @@
                 "lng": 114.15098463944372
             },
             "name": {
-                "en": "Connaught Road Central outside Shun Tak Centre",
+                "en": "Connaught Road Central, outside Shun Tak Centre",
                 "zh": "干諾道中, 信德中心外"
             }
         },
@@ -459652,8 +459674,8 @@
                 "lng": 114.14730719738337
             },
             "name": {
-                "en": "Queen's Road West No.62",
-                "zh": "皇后大道西62號外"
+                "en": "Queen's Road West, opposite Hollywood Centre",
+                "zh": "皇后大道西, 荷李活中心對面"
             }
         },
         "20000298": {
@@ -468802,8 +468824,8 @@
                 "lng": 114.14622979275862
             },
             "name": {
-                "en": "Des Voeux Road West No.51",
-                "zh": "德輔道西51號外"
+                "en": "Des Voeux Road West, house no. 33",
+                "zh": "德輔道西33號"
             }
         },
         "20003094": {
@@ -470102,7 +470124,7 @@
                 "lng": 114.13449811279409
             },
             "name": {
-                "en": "Des Voeux Road West opposite Kwan Yick Building Phase 1",
+                "en": "Des Voeux Road West, opposite Kwan Yick Building Phase 1",
                 "zh": "德輔道西, 均益大廈一期對面"
             }
         },
@@ -470152,7 +470174,7 @@
                 "lng": 114.13608021225713
             },
             "name": {
-                "en": "Queen's Road West, Shek Tong Tsui Complex",
+                "en": "Queen's Road West, outside Shek Tong Tsui Municipal Services Building",
                 "zh": "皇后大道西, 石塘咀市政大廈外"
             }
         },
@@ -470302,7 +470324,7 @@
                 "lng": 114.1223352518887
             },
             "name": {
-                "en": "Mt. Davis Road outside St Clare's Girls' College",
+                "en": "Mount Davis Road outside St Clare's Girls' College",
                 "zh": "摩星嶺道, 聖加勒女書院外"
             }
         },
@@ -470312,7 +470334,7 @@
                 "lng": 114.12845690499452
             },
             "name": {
-                "en": "Mt. Davis Road outside Greenery Garden",
+                "en": "Mount Davis Road outside Greenery Garden",
                 "zh": "摩星嶺道, 怡林閣外"
             }
         },
@@ -470322,8 +470344,8 @@
                 "lng": 114.12245705595018
             },
             "name": {
-                "en": "Mt. Davis Road opposite St Clare's Girls' College",
-                "zh": "摩星嶺道聖加勒女書院對面"
+                "en": "Mount Davis Road opposite St Clare's Girls' College",
+                "zh": "摩星嶺道, 聖嘉勒女書院對面"
             }
         },
         "20003513": {
@@ -470343,7 +470365,7 @@
             },
             "name": {
                 "en": "Pier Road opposite to Harbour Building",
-                "zh": "統一碼頭道 , 海港政府大樓對面"
+                "zh": "統一碼頭道, 海港政府大樓對面"
             }
         },
         "20003515": {
@@ -470382,8 +470404,8 @@
                 "lng": 114.1542068989742
             },
             "name": {
-                "en": "Queen's Road Central No.138",
-                "zh": "皇后大道中138號外"
+                "en": "Queen's Road Central, near Peel Street",
+                "zh": "皇后大道中, 近卑利街"
             }
         },
         "20003522": {
@@ -471563,7 +471585,7 @@
             },
             "name": {
                 "en": "Pokfulam Road near Mount Davis Road",
-                "zh": "薄扶林道近摩星嶺道"
+                "zh": "薄扶林道, 近摩星嶺道"
             }
         },
         "20004547": {
@@ -472902,8 +472924,8 @@
                 "lng": 114.1227004461426
             },
             "name": {
-                "en": "Victoria Road outside Kennedy Town Terminus",
-                "zh": "域多利道堅尼地城總站外"
+                "en": "Victoria Road, outside Kennedy Town Terminus",
+                "zh": "域多利道, 堅尼地城總站外"
             }
         },
         "20006977": {
@@ -505212,8 +505234,8 @@
                 "lng": 114.12703871726991
             },
             "name": {
-                "en": "Belcher's Street, near Luen Wai Apartments",
-                "zh": "卑路乍街, 近聯威新樓"
+                "en": "Belcher's Street, near Luen Yau Apartments",
+                "zh": "卑路乍街, 近聯友新樓"
             }
         },
         "20021452": {
@@ -505604,6 +505626,46 @@
             "name": {
                 "en": "Nam Ning Street, outside Hoi Ying Court",
                 "zh": "南寧街, 海瑩閣外"
+            }
+        },
+        "20021756": {
+            "location": {
+                "lat": 22.2740025404032,
+                "lng": 114.12981212139131
+            },
+            "name": {
+                "en": "Pok Fu Lam Road, outside Hong Kong Chinese Christian Churches Union Pok Fu Lam Road Cemetery ",
+                "zh": "薄扶林道, 香港華人基督教聯會薄扶林道墳場外"
+            }
+        },
+        "20021760": {
+            "location": {
+                "lat": 22.284223320487097,
+                "lng": 114.13355782628061
+            },
+            "name": {
+                "en": "Pok Fu Lam Road, outside Lady Ho Tung Hall ",
+                "zh": "薄扶林道, 何東夫人紀念堂外"
+            }
+        },
+        "20021761": {
+            "location": {
+                "lat": 22.283887024529076,
+                "lng": 114.1557477414608
+            },
+            "name": {
+                "en": "Queen Victoria Street, opposite Central Market",
+                "zh": "域多利皇后街, 中環街市對面"
+            }
+        },
+        "20021762": {
+            "location": {
+                "lat": 22.285982966590403,
+                "lng": 114.14907038211824
+            },
+            "name": {
+                "en": "Queen's Road West, opposite Sheung Wan Civic Centre",
+                "zh": "皇后大道西, 上環文娛中心對面"
             }
         },
         "201": {
