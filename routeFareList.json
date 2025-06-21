@@ -207897,7 +207897,6 @@
                 "6.1",
                 "6.1",
                 "6.1",
-                "6.1",
                 "6.1"
             ],
             "faresHoliday": null,
@@ -207915,7 +207914,7 @@
                 "zh": "中環(渡輪碼頭)"
             },
             "route": "603P",
-            "seq": 24,
+            "seq": 23,
             "serviceType": "1",
             "stops": {
                 "kmb": [
@@ -207927,8 +207926,7 @@
                     "3FCC00D1D01ACD28",
                     "AD1B202B678A3B56",
                     "C88DEC0AF0D1102B",
-                    "B241331CC87A36D4",
-                    "B4F3F0D547580CE2",
+                    "F701EA01F9ABEC96",
                     "D678B3364437D16B",
                     "9C839C3824F47A6A",
                     "CB4BB0008A87E4FC",
@@ -289558,6 +289556,8 @@
                 "7.1",
                 "7.1",
                 "7.1",
+                "7.1",
+                "7.1",
                 "7.1"
             ],
             "faresHoliday": null,
@@ -289615,14 +289615,15 @@
                 "zh": "郵輪碼頭"
             },
             "route": "86",
-            "seq": 12,
+            "seq": 14,
             "serviceType": 1,
             "stops": {
                 "gmb": [
-                    "20012994",
+                    "20013000",
                     "20017521",
                     "20017522",
                     "20017523",
+                    "20021712",
                     "20012995",
                     "20012996",
                     "20001115",
@@ -289630,6 +289631,7 @@
                     "20020031",
                     "20012998",
                     "20012999",
+                    "20021713",
                     "20013000"
                 ]
             }
@@ -482967,24 +482969,14 @@
                 "zh": "愛勤街, 東曉閣對面"
             }
         },
-        "20012994": {
-            "location": {
-                "lat": 22.305592530728955,
-                "lng": 114.21414479613307
-            },
-            "name": {
-                "en": "Cruise Terminal",
-                "zh": "郵輪碼頭"
-            }
-        },
         "20012995": {
             "location": {
                 "lat": 22.316290757176763,
                 "lng": 114.20925982296467
             },
             "name": {
-                "en": "SHING CHEONG ROAD, near Hong Kong Children's Hospital",
-                "zh": "承昌道,近香港兒童醫院"
+                "en": "Shing Cheong Raod, opposite to Hong Kong Children's Hospital",
+                "zh": "承昌道, 香港兒童醫院對面"
             }
         },
         "20012996": {
@@ -482993,7 +482985,7 @@
                 "lng": 114.211522936821
             },
             "name": {
-                "en": "Cheung Yip Street, Kai Tak Fire Station",
+                "en": "Cheung Yip Street, near Kai Tak Fire Station",
                 "zh": "祥業街, 近啟德消防局"
             }
         },
@@ -483003,8 +482995,8 @@
                 "lng": 114.20896880328657
             },
             "name": {
-                "en": "Wang Chiu Road, Wing Fat Industrial Building",
-                "zh": "宏照道, 榮發工業大廈"
+                "en": "Wang Chiu Road, near Wing Fat Industrial Building",
+                "zh": "宏照道, 近榮發工業大廈"
             }
         },
         "20012998": {
@@ -483013,8 +483005,8 @@
                 "lng": 114.21132646501064
             },
             "name": {
-                "en": "Cheung Yip Street, Harbourside HQ",
-                "zh": "祥業街, 啟匯"
+                "en": "Cheung Yip Street, near Harbourside HQ",
+                "zh": "祥業街, 近啟匯"
             }
         },
         "20012999": {
@@ -483033,8 +483025,8 @@
                 "lng": 114.21418368816377
             },
             "name": {
-                "en": "Cruise Terminal",
-                "zh": "郵輪碼頭"
+                "en": "Kai Tak Cruise Terminal",
+                "zh": "啟德郵輪碼頭"
             }
         },
         "20013003": {
@@ -500243,8 +500235,8 @@
                 "lng": 114.21066841740009
             },
             "name": {
-                "en": "Shing Fung Road,near Kai Tak Cruise Terminal",
-                "zh": "承豐道,近郵輪碼頭"
+                "en": "Shing Fung Road, near Kai Tak Cruise Terminal",
+                "zh": "承豐道, 近啟德郵輪碼頭"
             }
         },
         "20017522": {
@@ -500253,8 +500245,8 @@
                 "lng": 114.20761392025324
             },
             "name": {
-                "en": "Shing Fung Road, opposite to One Victoria",
-                "zh": "承豐道,維港一號對面"
+                "en": "Shing Fung Raod, near Cullinan Harbour",
+                "zh": "承豐道, 近天璽．海"
             }
         },
         "20017523": {
@@ -500263,8 +500255,8 @@
                 "lng": 114.20573277907108
             },
             "name": {
-                "en": "Shing Fung Road, near Kai Tak Bridge",
-                "zh": "承豐道,近啟德橋"
+                "en": "Shing Fung Raod, near Kai Tak Bridge Road",
+                "zh": "承豐道, 近啟德橋道"
             }
         },
         "20017554": {
@@ -502254,7 +502246,7 @@
             },
             "name": {
                 "en": "Wang Chiu Road, near Enterprise Square III",
-                "zh": "宏照道, 近企業廣場三期"
+                "zh": "宏照道, 近企業廣場第三期"
             }
         },
         "20020062": {
@@ -504625,6 +504617,26 @@
             "name": {
                 "en": "Nam Ning Street, outside Hoi Ying Court",
                 "zh": "南寧街, 海瑩閣外"
+            }
+        },
+        "20021712": {
+            "location": {
+                "lat": 22.315088368749848,
+                "lng": 114.20581787824632
+            },
+            "name": {
+                "en": "Kai Tak Bridge Road, near Shing Fung Raod",
+                "zh": "啟德橋道, 近承豐道"
+            }
+        },
+        "20021713": {
+            "location": {
+                "lat": 22.31200651326348,
+                "lng": 114.20774504542354
+            },
+            "name": {
+                "en": "Shing Fung Road, near Miami Quay I",
+                "zh": "承豐道, 近Miami Quay I"
             }
         },
         "20021756": {
@@ -534003,8 +534015,8 @@
                 "lng": 114.048568
             },
             "name": {
-                "en": "AU TAU (YL632)",
-                "zh": "凹頭 (YL632)"
+                "en": "AU TAU (YL631)",
+                "zh": "凹頭 (YL631)"
             }
         },
         "88D65C5F0985F8D9": {
@@ -562143,8 +562155,8 @@
                 "lng": 114.048568
             },
             "name": {
-                "en": "AU TAU (YL631)",
-                "zh": "凹頭 (YL631)"
+                "en": "AU TAU (YL632)",
+                "zh": "凹頭 (YL632)"
             }
         },
         "F60097D67F33DC0C": {
