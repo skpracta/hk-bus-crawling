@@ -130456,7 +130456,7 @@
             "serviceType": 3,
             "stops": {
                 "gmb": [
-                    "20014355",
+                    "20013750",
                     "20013765",
                     "20013766",
                     "20013767",
@@ -456885,8 +456885,8 @@
                 "lng": 114.136124
             },
             "name": {
-                "en": "CHI FUK CIRCUIT FANLING (ND413)",
-                "zh": "粉嶺置福圍 (ND413)"
+                "en": "CHI FUK CIRCUIT FANLING (ND412)",
+                "zh": "粉嶺置福圍 (ND412)"
             }
         },
         "1E7D74AE0C8EDADC": {
@@ -484651,8 +484651,8 @@
         },
         "20013750": {
             "location": {
-                "lat": 22.278838765123634,
-                "lng": 114.22945886850358
+                "lat": 22.27862531454501,
+                "lng": 114.22932207584383
             },
             "name": {
                 "en": "MONG LUNG STREET, near Perfect Mount Gardens Block D",
@@ -487437,16 +487437,6 @@
             "name": {
                 "en": "Lok Wah Minibus Terminus",
                 "zh": "樂華小巴總站"
-            }
-        },
-        "20014355": {
-            "location": {
-                "lat": 22.278931404338444,
-                "lng": 114.22957008332
-            },
-            "name": {
-                "en": "MONG LUNG STREET, near Perfect Mount Gardens Block D",
-                "zh": "望隆街,近峻峰花園Ｄ座"
             }
         },
         "20014356": {
@@ -496661,8 +496651,8 @@
         },
         "20016723": {
             "location": {
-                "lat": 22.36619027260513,
-                "lng": 114.1407677808794
+                "lat": 22.365051079962,
+                "lng": 114.13906037807466
             },
             "name": {
                 "en": "Shek Li Street outside Shek Wai House, Shek Lei (II) Estate",
@@ -496695,8 +496685,8 @@
                 "lng": 114.14177244932415
             },
             "name": {
-                "en": "Shek Pai Street outside Shing Yam House, On Yam Estate",
-                "zh": "石排街安蔭邨盛蔭樓外"
+                "en": "On Chuk Street at the lay-by outside Chak Yam House, On Yam Estate",
+                "zh": "安足街安蔭邨澤蔭樓外停車處"
             }
         },
         "20016729": {
@@ -542385,8 +542375,8 @@
                 "lng": 114.136205
             },
             "name": {
-                "en": "CHI FUK CIRCUIT FANLING (ND412)",
-                "zh": "粉嶺置福圍 (ND412)"
+                "en": "CHI FUK CIRCUIT FANLING (ND411)",
+                "zh": "粉嶺置福圍 (ND411)"
             }
         },
         "A8F45422814FF3EB": {
@@ -559245,8 +559235,8 @@
                 "lng": 114.136124
             },
             "name": {
-                "en": "CHI FUK CIRCUIT FANLING (ND411)",
-                "zh": "粉嶺置福圍 (ND411)"
+                "en": "CHI FUK CIRCUIT FANLING (ND413)",
+                "zh": "粉嶺置福圍 (ND413)"
             }
         },
         "EBB057754E3423CE": {
