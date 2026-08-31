@@ -1,28 +1,68 @@
 name: Data Fetching
 on: 
   push:
+      # branches-ignore:
+      #   - alpha
   schedule:
-    - cron: "5 19 * * *"
+    - cron: "10 9,21 * * *" # 05:10 and 17:10 (HKT) daily
   workflow_dispatch:
 
 jobs:
   Fetch-Route-Data:
     runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: write
 
+    env:
+      ALPHA_BRANCH_NAME: alpha
     steps:
       - name: Check out repository code
-        uses: actions/checkout@v2
-      - name: Setup Python environment
-        uses: actions/setup-python@v2
+        uses: actions/checkout@v6
         with:
-            python-version: '3.8'
+          fetch-depth: 0
+
+      - name: Check if alpha branch status
+        id: alpha-check
+        shell: bash
+        run: |
+          set -o xtrace
+          if git rev-parse --verify --no-revs "origin/${ALPHA_BRANCH_NAME}" && ! git diff --exit-code --merge-base origin/master "origin/${ALPHA_BRANCH_NAME}" --
+          then
+            echo "alpha_newer=yes" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set github page upload path by alpha branch status
+        id: target-path
+        shell: bash
+        run: |
+          set -o xtrace
+          should_deploy_to_alpha=${{ steps.alpha-check.outputs.alpha_newer == 'yes' && github.ref_name == env.ALPHA_BRANCH_NAME }}
+          if [ "${should_deploy_to_alpha}" == "true" ]
+          then
+            echo "target-path=alpha/" >> "$GITHUB_OUTPUT"
+          else
+            echo "target-path=/" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Setup Python environment
+        uses: actions/setup-python@v6
+        with:
+            python-version: '3.12'
             architecture: 'x64'
+            cache: 'pip'
+            cache-dependency-path: crawling/requirements.txt
       - name: Install dependencies
+        shell: bash
         run: |
           python -m pip install --upgrade pip
           pip install -r ./crawling/requirements.txt
       - name: Crawling resources
+        shell: bash
+        env:
+          REQUEST_LIMIT: "6"
         run: |
+          set -o xtrace
           python ./crawling/parseHoliday.py
           python ./crawling/ctb.py
           python ./crawling/kmb.py
@@ -32,20 +72,97 @@ jobs:
           python ./crawling/mtr.py
           python ./crawling/parseJourneyTime.py
           python ./crawling/parseGtfs.py
+          python ./crawling/parseGtfsEn.py
           python ./crawling/gmb.py
+          python ./crawling/sunferry.py
+          python ./crawling/fortuneferry.py
+          python ./crawling/hkkf.py
           python ./crawling/matchGtfs.py
           python ./crawling/cleansing.py
           python ./crawling/mergeRoutes.py
+          python ./crawling/mergeStopList.py
+          python ./crawling/routeCompare.py
+          python ./crawling/mtrExits.py
+
       - name: Update MD5
-        run: md5sum routeFareList.min.json | cut -f1 -d ' ' | tr -d $'\n' > routeFareList.md5
-      - name: Update resources
-        uses: test-room-7/action-update-file@v1
+        shell: bash
+        run: |
+          md5sum routeFareList.min.json | cut -f1 -d ' ' | tr -d $'\n' > routeFareList.md5
+          md5sum routeFareList.alpha.min.json | cut -f1 -d ' ' | tr -d $'\n' > routeFareList.alpha.md5
+
+      - name: Archive crawling outputs
+        uses: actions/upload-artifact@v7
+        if: always()
         with:
-            file-path: |
-              routeFareList.json
-              routeFareList.min.json
-              routeFareList.md5
-              CNAME
-            commit-msg: Update resources
-            github-token: ${{ secrets.GITHUB_TOKEN }}
+          name: Crawled Files
+          retention-days: 14
+          path: |
+            holiday.json
+            routeFareList*
+            routeList*
+            stopCandidates*
+            stopList*
+            stopMap*
+            routeTime.json
+            gtfs
+            gtfs.json
+            routeGtfs*
+            gtfs.zip
+            ROUTE_BUS.xml
+            route-ts/
+            exits.mtr.json
+            0versions.json
+      - name: Update MD5
+        run: |
+          md5sum routeFareList.min.json | cut -f1 -d ' ' | tr -d $'\n' > routeFareList.md5
+          md5sum routeFareList.alpha.min.json | cut -f1 -d ' ' | tr -d $'\n' > routeFareList.alpha.md5
+      - name: create deployment folder
+        shell: bash
+        run: mkdir -p build
+      - name: cp files into deployment folder
+        shell: bash
+        run: |
+          cp \
+          routeFareList.json \
+          routeFareList.min.json \
+          routeFareList.alpha.json \
+          routeFareList.alpha.min.json \
+          routeFareList.md5 \
+          routeFareList.alpha.md5  \
+          CNAME \
+          exits.mtr.json \
+          0versions.json \
+          build/
+      - name: cp route-ts into deployment folder
+        shell: bash
+        run: cp -r route-ts build
+
+      - name: Copy master build to alpha when no update or not exist
+        if: github.ref_name == 'master' && steps.alpha-check.outputs.alpha_newer != 'yes'
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+            target-folder: alpha/
+            folder: build
+            commit-message: "Update resources from ${{ github.run_number }}:${{ github.run_attempt }}"
             branch: gh-pages
+            clean: false
+            clean-exclude: |
+              alpha/*
+      
+      - name: Update resources
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+            target-folder: ${{ steps.target-path.outputs.target-path }}
+            folder: build
+            commit-message: "Update resources from ${{ github.run_number }}:${{ github.run_attempt }}"
+            branch: gh-pages
+            clean: false
+            clean-exclude: |
+              alpha/*
+
+      - name: Trigger alpha build on schedule
+        if: ( github.event_name == 'schedule' || github.event_name=='workflow_dispatch') && steps.alpha-check.outputs.alpha_newer == 'yes'
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: ${{ github.workflow }}
+          ref: ${{ env.ALPHA_BRANCH_NAME }}

@@ -17,22 +17,22 @@ def takeFirst(elem):
 
 async def parseGtfs():
   a_client = httpx.AsyncClient(timeout=httpx.Timeout(30.0, pool=None))
-  if not path.isfile('gtfs.zip'):
-    r = await emitRequest('https://static.data.gov.hk/td/pt-headway-tc/gtfs.zip', a_client)
-    open('gtfs.zip', 'wb').write(r.content)
+  if not path.isfile('gtfs-en.zip'):
+    r = await emitRequest('https://static.data.gov.hk/td/pt-headway-en/gtfs.zip', a_client)
+    open('gtfs-en.zip', 'wb').write(r.content)
 
-  with zipfile.ZipFile("gtfs.zip", "r") as zip_ref:
-    zip_ref.extractall("gtfs")
+  with zipfile.ZipFile("gtfs-en.zip", "r") as zip_ref:
+    zip_ref.extractall("gtfs-en")
     version = min([f.date_time for f in zip_ref.infolist()])
     version = datetime.datetime(*version, tzinfo=ZoneInfo("Asia/Hong_Kong"))
-    store_version('GTFS', version.isoformat())
+    store_version('GTFS-EN', version.isoformat())
 
   routeList = {}
   stopList = {}
   serviceDayMap = {}
   routeJourneyTime = json.load(open('routeTime.json', 'r', encoding='UTF-8'))
 
-  with open('gtfs/routes.txt', 'r', encoding='UTF-8') as csvfile:
+  with open('gtfs-en/routes.txt', 'r', encoding='UTF-8') as csvfile:
     reader = csv.reader(csvfile)
     headers = next(reader, None)
     for [
@@ -44,23 +44,23 @@ async def parseGtfs():
             route_url] in reader:
       routeList[route_id] = {
           'co': agency_id.replace('LWB', 'KMB').lower().split('+'),
-          'route': route_short_name,
+          'route': route_short_name if route_short_name != "" else route_id,
           'stops': {},
           'fares': {},
           'freq': {},
           'orig': {
-              'zh': route_long_name.split(' - ')[0],
-              'en': '',
+              'zh': '',
+              'en': route_long_name.split(' - ')[0]
           },
           'dest': {
-              'zh': route_long_name.split(' - ')[1].replace(' (CIRCULAR)', ''),
-              'en': '',
+              'zh': '',
+              'en': route_long_name.split(' - ')[1].replace(' (CIRCULAR)', '')
           },
           'jt': routeJourneyTime[route_id]["journeyTime"] if route_id in routeJourneyTime else None
       }
 
   # parse timetable
-  with open('gtfs/trips.txt', 'r', encoding='UTF-8') as csvfile:
+  with open('gtfs-en/trips.txt', 'r', encoding='UTF-8') as csvfile:
     reader = csv.reader(csvfile)
     headers = next(reader, None)
     for [route_id, service_id, trip_id] in reader:
@@ -72,7 +72,7 @@ async def parseGtfs():
       if start_time not in routeList[route_id]['freq'][bound][calendar]:
         routeList[route_id]['freq'][bound][calendar][start_time] = None
 
-  with open('gtfs/frequencies.txt', 'r', encoding='UTF-8') as csvfile:
+  with open('gtfs-en/frequencies.txt', 'r', encoding='UTF-8') as csvfile:
     reader = csv.reader(csvfile)
     headers = next(reader, None)
     for [trip_id, _start_time, end_time, headway_secs] in reader:
@@ -81,7 +81,7 @@ async def parseGtfs():
           end_time[0:5].replace(':', ''), headway_secs)
 
   # parse stop seq
-  with open('gtfs/stop_times.txt', 'r', encoding='UTF-8') as csvfile:
+  with open('gtfs-en/stop_times.txt', 'r', encoding='UTF-8') as csvfile:
     reader = csv.reader(csvfile)
     headers = next(reader, None)
     for [
@@ -99,7 +99,7 @@ async def parseGtfs():
       routeList[route_id]['stops'][bound][stop_sequence] = stop_id
 
   # parse fares
-  with open('gtfs/fare_attributes.txt', 'r', encoding='UTF-8') as csvfile:
+  with open('gtfs-en/fare_attributes.txt', 'r', encoding='UTF-8') as csvfile:
     reader = csv.reader(csvfile)
     headers = next(reader, None)
     for [
@@ -141,7 +141,7 @@ async def parseGtfs():
           ret[x[i].lower().replace('lwb', 'kmb')] = y[i if i < len(y) else 0]
     return ret
 
-  with open('gtfs/stops.txt', 'r', encoding='UTF-8') as csvfile:
+  with open('gtfs-en/stops.txt', 'r', encoding='UTF-8') as csvfile:
     reader = csv.reader(csvfile)
     headers = next(reader, None)
     for [
@@ -159,14 +159,14 @@ async def parseGtfs():
           'lng': float(stop_lon)
       }
 
-  with open('gtfs/calendar.txt', 'r', encoding='UTF-8') as csvfile:
+  with open('gtfs-en/calendar.txt', 'r', encoding='UTF-8') as csvfile:
     reader = csv.reader(csvfile)
     headers = next(reader, None)
     for line in reader:
       [service_id, mon, tue, wed, thur, fri, sat, sun, start_date, end_date] = line
       serviceDayMap[service_id] = [sun, mon, tue, wed, thur, fri, sat]
 
-  with open('gtfs.json', 'w', encoding='UTF-8') as f:
+  with open('gtfs-en.json', 'w', encoding='UTF-8') as f:
     f.write(json.dumps({
         'routeList': routeList,
         'stopList': stopList,
